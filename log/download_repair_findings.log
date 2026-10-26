@@ -4,3 +4,23 @@
 1793033116511 REPAIR_BEGIN; scan is read-only until the original guarded queues accept eligible work
 1793033116601 INVENTORY nodes=744 mp4=13 mkv=271 subtitles=14 partials=0 cap=2500; inventory_only_no_file_mutations
 1793033116961 RECENT_LOG_SIGNATURES db_commit_incomplete=0 dns_failures=0 mkv_requeues=0 manifest_wait=0 db_promote_fail=0 download_errors=0 lines_read=1212 source_tail_limit=1MiB_per_log
+1793037711391 REPAIR_BEGIN; scan is read-only until the original guarded queues accept eligible work
+1793037711563 INVENTORY nodes=744 mp4=13 mkv=271 subtitles=14 partials=0 cap=2500; inventory_only_no_file_mutations
+1793037715707 RECENT_LOG_SIGNATURES db_commit_incomplete=0 dns_failures=0 mkv_requeues=0 manifest_wait=0 db_promote_fail=0 download_errors=0 lines_read=2688 source_tail_limit=1MiB_per_log
+1793037744647 MP4_DISK_FALLBACK_RECONCILE_TRIGGERED token=28r474njqo88wiezby5y path=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E243 [cnm-28r474njqo88wiezby5y].mp4
+1793037744650 DISK_MKV_SCAN mp4=1 queued=0 existing_mkv=0 fallback_attempted=1 max_depth=4; disk evidence must match the saved subtitle plan
+1793038685329 REPAIR_BEGIN; scan is read-only until the original guarded queues accept eligible work
+1793038685494 INVENTORY nodes=744 mp4=13 mkv=271 subtitles=14 partials=0 cap=2500; inventory_only_no_file_mutations
+1793038691807 RECENT_LOG_SIGNATURES db_commit_incomplete=0 dns_failures=0 mkv_requeues=0 manifest_wait=0 db_promote_fail=0 download_errors=0 lines_read=3900 source_tail_limit=1MiB_per_log
+1793038719779 MP4_DISK_FALLBACK_RECONCILE_TRIGGERED token=28r474njqo88wiezby5y path=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E243 [cnm-28r474njqo88wiezby5y].mp4
+1793038719783 DISK_MKV_SCAN mp4=1 queued=0 existing_mkv=0 fallback_attempted=1 max_depth=4; disk evidence must match the saved subtitle plan
+1793039170052 REPAIR_BEGIN; scan is read-only until the original guarded queues accept eligible work
+1793039170120 INVENTORY nodes=744 mp4=13 mkv=271 subtitles=14 partials=0 cap=2500; inventory_only_no_file_mutations
+1793039171569 RECENT_LOG_SIGNATURES db_commit_incomplete=0 dns_failures=0 mkv_requeues=0 manifest_wait=0 db_promote_fail=0 download_errors=0 lines_read=5102 source_tail_limit=1MiB_per_log
+1793039172857 REPAIR_BEGIN; scan is read-only until the original guarded queues accept eligible work
+1793039172919 INVENTORY nodes=744 mp4=13 mkv=271 subtitles=14 partials=0 cap=2500; inventory_only_no_file_mutations
+1793039174435 RECENT_LOG_SIGNATURES db_commit_incomplete=0 dns_failures=0 mkv_requeues=0 manifest_wait=0 db_promote_fail=0 download_errors=0 lines_read=5104 source_tail_limit=1MiB_per_log
+1793039180814 MP4_DISK_FALLBACK_RECONCILE_TRIGGERED token=28r474njqo88wiezby5y path=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E243 [cnm-28r474njqo88wiezby5y].mp4
+1793039180815 DISK_MKV_SCAN mp4=1 queued=0 existing_mkv=0 fallback_attempted=1 max_depth=4; disk evidence must match the saved subtitle plan
+1793039183956 MP4_DISK_FALLBACK_RECONCILE_TRIGGERED token=28r474njqo88wiezby5y path=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E243 [cnm-28r474njqo88wiezby5y].mp4
+1793039183958 DISK_MKV_SCAN mp4=1 queued=0 existing_mkv=0 fallback_attempted=1 max_depth=4; disk evidence must match the saved subtitle plan
