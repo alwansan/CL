@@ -1,0 +1,12 @@
+1793022895472 REPAIR_START source=profile_button
+1793022897809 QUEUE_SCAN_DISPATCHED; existing persisted requests rechecked using Queue110 ownership and synchronization guards
+1793022897820 SUBTITLE_DEPENDENCY_SCAN_DISPATCHED; existing dependency recovery checked eligible MP4/subtitle pairs
+1793022897834 MKV_RECONCILIATION_DISPATCHED; manifest-ready registered items passed to the existing guarded exporter
+1793022897835 RECOVERY_WAKE_REQUESTED; Restart108 recovery scanner nudged; repair button did not delete any source media or subtitles
+1793022897836 REPAIR_END; asynchronous recovery/conversion may continue in the original pipeline; consult unresolved log for failures
+1793022968464 REPAIR_START source=profile_button
+1793022970857 QUEUE_SCAN_DISPATCHED; existing persisted requests rechecked using Queue110 ownership and synchronization guards
+1793022970870 SUBTITLE_DEPENDENCY_SCAN_DISPATCHED; existing dependency recovery checked eligible MP4/subtitle pairs
+1793022970896 MKV_RECONCILIATION_DISPATCHED; manifest-ready registered items passed to the existing guarded exporter
+1793022970897 RECOVERY_WAKE_REQUESTED; Restart108 recovery scanner nudged; repair button did not delete any source media or subtitles
+1793022970899 REPAIR_END; asynchronous recovery/conversion may continue in the original pipeline; consult unresolved log for failures
