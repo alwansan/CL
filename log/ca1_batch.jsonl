@@ -1,0 +1,14 @@
+{"utc_ms":1792986905016,"elapsed_ms":492628528,"pid":6885,"thread":"main","session":"app","stage":"log_init","detail":"build=CA1.6 external=\/storage\/emulated\/0\/Cinemana\/work\/log\/ca1_batch.jsonl fallback=\/data\/user\/0\/com.cinemana.pro\/files\/log\/ca1_batch.jsonl"}
+{"utc_ms":1792986905016,"elapsed_ms":492628529,"pid":6885,"thread":"main","session":"enhancements","stage":"entry_install","detail":"root=androidx.coordinatorlayout.widget.CoordinatorLayout"}
+{"utc_ms":1792986905017,"elapsed_ms":492628530,"pid":6885,"thread":"main","session":"enhancements","stage":"entry_visibility","detail":"attempt=0 found=true kind= id= episodes=-1 visible=false shown=false parents=MaterialTextView:8\/ConstraintLayout:0\/NestedScrollView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/FragmentContainerView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/"}
+{"utc_ms":1792986906123,"elapsed_ms":492629635,"pid":6885,"thread":"CA1-work-names","session":"enhancements","stage":"work_name_resolved","detail":"root=3147839 title=حبي البحر الاسود"}
+{"utc_ms":1792986906145,"elapsed_ms":492629658,"pid":6885,"thread":"main","session":"enhancements","stage":"sort_changed","detail":"mode=0 descending=false"}
+{"utc_ms":1792986908975,"elapsed_ms":492632488,"pid":6885,"thread":"main","session":"enhancements","stage":"subtitle_size_apply","detail":"sp=20.0 px=47.25"}
+{"utc_ms":1792986914885,"elapsed_ms":492638397,"pid":6885,"thread":"main","session":"enhancements","stage":"profile_cleanup","detail":"help share discover removed"}
+{"utc_ms":1792986925818,"elapsed_ms":492649331,"pid":6885,"thread":"main","session":"enhancements","stage":"sort_install","detail":"anchor=false"}
+{"utc_ms":1792986926727,"elapsed_ms":492650240,"pid":6885,"thread":"main","session":"enhancements","stage":"profile_cleanup","detail":"help share discover removed"}
+{"utc_ms":1792986937523,"elapsed_ms":492661036,"pid":6885,"thread":"main","session":"enhancements","stage":"entry_install","detail":"root=androidx.coordinatorlayout.widget.CoordinatorLayout"}
+{"utc_ms":1792986937524,"elapsed_ms":492661037,"pid":6885,"thread":"main","session":"enhancements","stage":"entry_visibility","detail":"attempt=0 found=true kind= id= episodes=-1 visible=false shown=false parents=MaterialTextView:8\/ConstraintLayout:0\/NestedScrollView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/FragmentContainerView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/"}
+{"utc_ms":1792986938593,"elapsed_ms":492662106,"pid":6885,"thread":"CA1-work-names","session":"enhancements","stage":"work_name_resolved","detail":"root=803602 title=Cyberpunk: Edgerunners"}
+{"utc_ms":1792986938599,"elapsed_ms":492662111,"pid":6885,"thread":"main","session":"enhancements","stage":"sort_changed","detail":"mode=0 descending=false"}
+{"utc_ms":1792986944811,"elapsed_ms":492668324,"pid":6885,"thread":"main","session":"enhancements","stage":"subtitle_size_apply","detail":"sp=20.0 px=47.25"}
