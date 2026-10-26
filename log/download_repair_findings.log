@@ -4,3 +4,12 @@
 1793022968468 REPAIR_BEGIN; scan is read-only until the original guarded queues accept eligible work
 1793022968555 INVENTORY nodes=761 mp4=13 mkv=283 subtitles=14 partials=0 cap=2500; inventory_only_no_file_mutations
 1793022970847 RECENT_LOG_SIGNATURES db_commit_incomplete=0 dns_failures=0 mkv_requeues=0 manifest_wait=0 db_promote_fail=0 download_errors=0 lines_read=12108 source_tail_limit=1MiB_per_log
+1793023452458 REPAIR_BEGIN; scan is read-only until the original guarded queues accept eligible work
+1793023452660 INVENTORY nodes=925 mp4=13 mkv=283 subtitles=14 partials=0 cap=2500; inventory_only_no_file_mutations
+1793023454911 RECENT_LOG_SIGNATURES db_commit_incomplete=0 dns_failures=0 mkv_requeues=6 manifest_wait=170 db_promote_fail=0 download_errors=0 lines_read=10058 source_tail_limit=1MiB_per_log
+1793024667633 REPAIR_BEGIN; scan is read-only until the original guarded queues accept eligible work
+1793024667784 INVENTORY nodes=925 mp4=13 mkv=283 subtitles=14 partials=0 cap=2500; inventory_only_no_file_mutations
+1793024670096 RECENT_LOG_SIGNATURES db_commit_incomplete=0 dns_failures=0 mkv_requeues=6 manifest_wait=170 db_promote_fail=0 download_errors=0 lines_read=10323 source_tail_limit=1MiB_per_log
+1793025011337 REPAIR_BEGIN; scan is read-only until the original guarded queues accept eligible work
+1793025011395 INVENTORY nodes=925 mp4=13 mkv=283 subtitles=14 partials=0 cap=2500; inventory_only_no_file_mutations
+1793025013396 RECENT_LOG_SIGNATURES db_commit_incomplete=0 dns_failures=0 mkv_requeues=6 manifest_wait=163 db_promote_fail=0 download_errors=0 lines_read=10349 source_tail_limit=1MiB_per_log

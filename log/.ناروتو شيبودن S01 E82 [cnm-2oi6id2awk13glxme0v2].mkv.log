@@ -1,0 +1,13 @@
+1792771723702 SUBTITLE_POLICY=manifest-ready expected=2 completed=2 files=2 token=2oi6id2awk13glxme0v2
+1792771724286 ffmpeg=native:/data/app/~~9GmB-3Sy7y4SFlcPkNQjYg==/com.cinemana.pro-q033lNSMr1YeEWyWcbJ-hQ==/lib/arm64/libffmpeg.so
+1792771724324 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1792771724325 exec=[/data/app/~~9GmB-3Sy7y4SFlcPkNQjYg==/com.cinemana.pro-q033lNSMr1YeEWyWcbJ-hQ==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E82 [cnm-2oi6id2awk13glxme0v2].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو شيبودن S01 E82 [cnm-2oi6id2awk13glxme0v2].srt] [-i] [/storage/emulated/0/Cinemana/work/special subtitle for ناروتو شيبودن S01 E82 [cnm-2oi6id2awk13glxme0v2].ass] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-map] [2:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو شيبودن S01 E82] [-metadata:s:s:0] [language=ar] [-metadata:s:s:1] [title=special subtitle for ناروتو شيبودن S01 E82] [-metadata:s:s:1] [language=sp] [-metadata] [title=ناروتو شيبودن S01 E82] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E82 [cnm-2oi6id2awk13glxme0v2].mkv.cnm115-a279141d-fd30-4ee2-89ba-e3810e785f94.part]
+1792771725153 exit=0 output=
+1792771725157 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E82 [cnm-2oi6id2awk13glxme0v2].mkv size=63239561
+1792771726497 DB_PROMOTE=true
+1792771726661 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E82.mkv work=ناروتو شيبودن season=01 episode=82 noSub=false
+1792771727120 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E82.mkv
+1792771727197 delete video=ناروتو شيبودن S01 E82 [cnm-2oi6id2awk13glxme0v2].mp4 result=true
+1792771727203 delete subtitle=arabic subtitle for ناروتو شيبودن S01 E82 [cnm-2oi6id2awk13glxme0v2].srt result=true
+1792771727210 delete subtitle=special subtitle for ناروتو شيبودن S01 E82 [cnm-2oi6id2awk13glxme0v2].ass result=true
+1792771727211 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E82.mkv

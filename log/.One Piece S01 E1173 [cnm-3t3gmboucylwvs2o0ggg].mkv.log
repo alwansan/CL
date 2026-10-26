@@ -1,0 +1,13 @@
+1792840358567 SUBTITLE_POLICY=manifest-ready expected=2 completed=2 files=2 token=3t3gmboucylwvs2o0ggg
+1792840358618 ffmpeg=native:/data/app/~~fXbur18BRdVWbreVJE2pZA==/com.cinemana.pro-rpYIRYTnx1IQIQY2c40zcQ==/lib/arm64/libffmpeg.so
+1792840358622 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1792840358623 exec=[/data/app/~~fXbur18BRdVWbreVJE2pZA==/com.cinemana.pro-rpYIRYTnx1IQIQY2c40zcQ==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/One Piece S01 E1173 [cnm-3t3gmboucylwvs2o0ggg].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for One Piece S01 E1173 [cnm-3t3gmboucylwvs2o0ggg].srt] [-i] [/storage/emulated/0/Cinemana/work/special subtitle for One Piece S01 E1173 [cnm-3t3gmboucylwvs2o0ggg].ass] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-map] [2:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for One Piece S01 E1173] [-metadata:s:s:0] [language=ar] [-metadata:s:s:1] [title=special subtitle for One Piece S01 E1173] [-metadata:s:s:1] [language=sp] [-metadata] [title=One Piece S01 E1173] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/One Piece S01 E1173 [cnm-3t3gmboucylwvs2o0ggg].mkv.cnm115-1e9faf9e-bb45-4c7f-9fdf-34112013dae7.part]
+1792840361113 exit=0 output=
+1792840361115 SUCCESS=/storage/emulated/0/Cinemana/work/One Piece S01 E1173 [cnm-3t3gmboucylwvs2o0ggg].mkv size=453579243
+1792840361609 DB_PROMOTE=true
+1792840361624 SORTED_MKV=/storage/emulated/0/Cinemana/One Piece/Season 1 One Piece/One Piece S01 E1173.mkv work=One Piece season=1 episode=1173 noSub=false
+1792840361659 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/One Piece/Season 1 One Piece/One Piece S01 E1173.mkv
+1792840361740 delete video=One Piece S01 E1173 [cnm-3t3gmboucylwvs2o0ggg].mp4 result=true
+1792840361744 delete subtitle=arabic subtitle for One Piece S01 E1173 [cnm-3t3gmboucylwvs2o0ggg].srt result=true
+1792840361746 delete subtitle=special subtitle for One Piece S01 E1173 [cnm-3t3gmboucylwvs2o0ggg].ass result=true
+1792840361746 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/One Piece/Season 1 One Piece/One Piece S01 E1173.mkv

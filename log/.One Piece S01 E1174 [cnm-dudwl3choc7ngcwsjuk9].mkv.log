@@ -1,0 +1,13 @@
+1792840608086 SUBTITLE_POLICY=manifest-ready expected=2 completed=2 files=2 token=dudwl3choc7ngcwsjuk9
+1792840608127 ffmpeg=native:/data/app/~~fXbur18BRdVWbreVJE2pZA==/com.cinemana.pro-rpYIRYTnx1IQIQY2c40zcQ==/lib/arm64/libffmpeg.so
+1792840608129 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1792840608130 exec=[/data/app/~~fXbur18BRdVWbreVJE2pZA==/com.cinemana.pro-rpYIRYTnx1IQIQY2c40zcQ==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/One Piece S01 E1174 [cnm-dudwl3choc7ngcwsjuk9].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for One Piece S01 E1174 [cnm-dudwl3choc7ngcwsjuk9].srt] [-i] [/storage/emulated/0/Cinemana/work/special subtitle for One Piece S01 E1174 [cnm-dudwl3choc7ngcwsjuk9].ass] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-map] [2:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for One Piece S01 E1174] [-metadata:s:s:0] [language=ar] [-metadata:s:s:1] [title=special subtitle for One Piece S01 E1174] [-metadata:s:s:1] [language=sp] [-metadata] [title=One Piece S01 E1174] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/One Piece S01 E1174 [cnm-dudwl3choc7ngcwsjuk9].mkv.cnm115-90a06eaf-c8b4-49d7-8959-c5651a8f2c15.part]
+1792840610144 exit=0 output=
+1792840610146 SUCCESS=/storage/emulated/0/Cinemana/work/One Piece S01 E1174 [cnm-dudwl3choc7ngcwsjuk9].mkv size=465990397
+1792840610663 DB_PROMOTE=true
+1792840610680 SORTED_MKV=/storage/emulated/0/Cinemana/One Piece/Season 1 One Piece/One Piece S01 E1174.mkv work=One Piece season=1 episode=1174 noSub=false
+1792840610714 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/One Piece/Season 1 One Piece/One Piece S01 E1174.mkv
+1792840610829 delete video=One Piece S01 E1174 [cnm-dudwl3choc7ngcwsjuk9].mp4 result=true
+1792840610831 delete subtitle=arabic subtitle for One Piece S01 E1174 [cnm-dudwl3choc7ngcwsjuk9].srt result=true
+1792840610833 delete subtitle=special subtitle for One Piece S01 E1174 [cnm-dudwl3choc7ngcwsjuk9].ass result=true
+1792840610834 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/One Piece/Season 1 One Piece/One Piece S01 E1174.mkv

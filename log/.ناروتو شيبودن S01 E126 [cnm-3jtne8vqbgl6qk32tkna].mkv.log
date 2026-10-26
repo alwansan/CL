@@ -1,0 +1,13 @@
+1792772010763 SUBTITLE_POLICY=manifest-ready expected=2 completed=2 files=2 token=3jtne8vqbgl6qk32tkna
+1792772011307 ffmpeg=native:/data/app/~~9GmB-3Sy7y4SFlcPkNQjYg==/com.cinemana.pro-q033lNSMr1YeEWyWcbJ-hQ==/lib/arm64/libffmpeg.so
+1792772011355 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1792772011355 exec=[/data/app/~~9GmB-3Sy7y4SFlcPkNQjYg==/com.cinemana.pro-q033lNSMr1YeEWyWcbJ-hQ==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E126 [cnm-3jtne8vqbgl6qk32tkna].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو شيبودن S01 E126 [cnm-3jtne8vqbgl6qk32tkna].srt] [-i] [/storage/emulated/0/Cinemana/work/special subtitle for ناروتو شيبودن S01 E126 [cnm-3jtne8vqbgl6qk32tkna].ass] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-map] [2:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو شيبودن S01 E126] [-metadata:s:s:0] [language=ar] [-metadata:s:s:1] [title=special subtitle for ناروتو شيبودن S01 E126] [-metadata:s:s:1] [language=sp] [-metadata] [title=ناروتو شيبودن S01 E126] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E126 [cnm-3jtne8vqbgl6qk32tkna].mkv.cnm115-6c86be88-521a-4e73-bc13-2da4973761b1.part]
+1792772013356 exit=0 output=
+1792772013360 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E126 [cnm-3jtne8vqbgl6qk32tkna].mkv size=277795539
+1792772014626 DB_PROMOTE=true
+1792772014748 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E126.mkv work=ناروتو شيبودن season=01 episode=126 noSub=false
+1792772015129 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E126.mkv
+1792772015228 delete video=ناروتو شيبودن S01 E126 [cnm-3jtne8vqbgl6qk32tkna].mp4 result=true
+1792772015238 delete subtitle=arabic subtitle for ناروتو شيبودن S01 E126 [cnm-3jtne8vqbgl6qk32tkna].srt result=true
+1792772015250 delete subtitle=special subtitle for ناروتو شيبودن S01 E126 [cnm-3jtne8vqbgl6qk32tkna].ass result=true
+1792772015251 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E126.mkv

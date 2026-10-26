@@ -1,0 +1,13 @@
+1792780670435 SUBTITLE_POLICY=manifest-ready expected=2 completed=2 files=2 token=32r4v87lrsqyjz6qb8zq
+1792780671902 ffmpeg=native:/data/app/~~9GmB-3Sy7y4SFlcPkNQjYg==/com.cinemana.pro-q033lNSMr1YeEWyWcbJ-hQ==/lib/arm64/libffmpeg.so
+1792780671947 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1792780671953 exec=[/data/app/~~9GmB-3Sy7y4SFlcPkNQjYg==/com.cinemana.pro-q033lNSMr1YeEWyWcbJ-hQ==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E11 [cnm-32r4v87lrsqyjz6qb8zq].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو شيبودن S01 E11 [cnm-32r4v87lrsqyjz6qb8zq].srt] [-i] [/storage/emulated/0/Cinemana/work/special subtitle for ناروتو شيبودن S01 E11 [cnm-32r4v87lrsqyjz6qb8zq].ass] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-map] [2:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو شيبودن S01 E11] [-metadata:s:s:0] [language=ar] [-metadata:s:s:1] [title=special subtitle for ناروتو شيبودن S01 E11] [-metadata:s:s:1] [language=sp] [-metadata] [title=ناروتو شيبودن S01 E11] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E11 [cnm-32r4v87lrsqyjz6qb8zq].mkv.cnm115-8e3ac82d-1d27-4ab1-860f-493ced0ed76b.part]
+1792780682630 exit=0 output=
+1792780682641 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E11 [cnm-32r4v87lrsqyjz6qb8zq].mkv size=91115217
+1792780684028 DB_PROMOTE=true
+1792780684120 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E11.mkv work=ناروتو شيبودن season=01 episode=11 noSub=false
+1792780684535 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E11.mkv
+1792780684658 delete video=ناروتو شيبودن S01 E11 [cnm-32r4v87lrsqyjz6qb8zq].mp4 result=true
+1792780684664 delete subtitle=arabic subtitle for ناروتو شيبودن S01 E11 [cnm-32r4v87lrsqyjz6qb8zq].srt result=true
+1792780684675 delete subtitle=special subtitle for ناروتو شيبودن S01 E11 [cnm-32r4v87lrsqyjz6qb8zq].ass result=true
+1792780684678 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E11.mkv

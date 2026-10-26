@@ -1,0 +1,12 @@
+1792772246805 SUBTITLE_POLICY=manifest-ready expected=1 completed=1 files=1 token=65vcqp1mszad4sy8o7el
+1792772247237 ffmpeg=native:/data/app/~~9GmB-3Sy7y4SFlcPkNQjYg==/com.cinemana.pro-q033lNSMr1YeEWyWcbJ-hQ==/lib/arm64/libffmpeg.so
+1792772247281 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1792772247282 exec=[/data/app/~~9GmB-3Sy7y4SFlcPkNQjYg==/com.cinemana.pro-q033lNSMr1YeEWyWcbJ-hQ==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E159 [cnm-65vcqp1mszad4sy8o7el].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو شيبودن S01 E159 [cnm-65vcqp1mszad4sy8o7el].srt] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو شيبودن S01 E159] [-metadata:s:s:0] [language=ar] [-metadata] [title=ناروتو شيبودن S01 E159] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E159 [cnm-65vcqp1mszad4sy8o7el].mkv.cnm115-eef5168e-a990-425b-b722-7672935b4188.part]
+1792772250205 exit=0 output=
+1792772250211 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E159 [cnm-65vcqp1mszad4sy8o7el].mkv size=454188493
+1792772251098 DB_PROMOTE=true
+1792772251177 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E159.mkv work=ناروتو شيبودن season=01 episode=159 noSub=false
+1792772251484 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E159.mkv
+1792772251604 delete video=ناروتو شيبودن S01 E159 [cnm-65vcqp1mszad4sy8o7el].mp4 result=true
+1792772251612 delete subtitle=arabic subtitle for ناروتو شيبودن S01 E159 [cnm-65vcqp1mszad4sy8o7el].srt result=true
+1792772251614 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E159.mkv

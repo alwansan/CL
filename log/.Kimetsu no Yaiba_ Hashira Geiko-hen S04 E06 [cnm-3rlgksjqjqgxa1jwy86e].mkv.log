@@ -1,0 +1,13 @@
+1793025272846 SUBTITLE_POLICY=manifest-ready expected=2 completed=2 files=2 token=3rlgksjqjqgxa1jwy86e
+1793025272927 ffmpeg=native:/data/app/~~2qGM105g-RyoYBRuxveLhQ==/com.cinemana.pro-zKHKoZ9El4TIkERmbHu8rQ==/lib/arm64/libffmpeg.so
+1793025272932 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1793025272933 exec=[/data/app/~~2qGM105g-RyoYBRuxveLhQ==/com.cinemana.pro-zKHKoZ9El4TIkERmbHu8rQ==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/Kimetsu no Yaiba_ Hashira Geiko-hen S04 E06 [cnm-3rlgksjqjqgxa1jwy86e].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for Kimetsu no Yaiba_ Hashira Geiko-hen S04 E06 [cnm-3rlgksjqjqgxa1jwy86e].srt] [-i] [/storage/emulated/0/Cinemana/work/special subtitle for Kimetsu no Yaiba_ Hashira Geiko-hen S04 E06 [cnm-3rlgksjqjqgxa1jwy86e].ass] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-map] [2:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for Kimetsu no Yaiba_ Hashira Geiko-hen S04 E06] [-metadata:s:s:0] [language=ar] [-metadata:s:s:1] [title=special subtitle for Kimetsu no Yaiba_ Hashira Geiko-hen S04 E06] [-metadata:s:s:1] [language=sp] [-metadata] [title=Kimetsu no Yaiba_ Hashira Geiko-hen S04 E06] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/Kimetsu no Yaiba_ Hashira Geiko-hen S04 E06 [cnm-3rlgksjqjqgxa1jwy86e].mkv.cnm115-e9104d5c-bc74-4c9e-9dab-28d25e66eeb8.part]
+1793025295541 exit=0 output=
+1793025295545 SUCCESS=/storage/emulated/0/Cinemana/work/Kimetsu no Yaiba_ Hashira Geiko-hen S04 E06 [cnm-3rlgksjqjqgxa1jwy86e].mkv size=63557272
+1793025296492 DB_PROMOTE=true
+1793025296565 SORTED_MKV=/storage/emulated/0/Cinemana/Demon Slayer_ Kimetsu no Yaiba Slayer,/Season 4 Demon Slayer_ Kimetsu no Yaiba Slayer,/Kimetsu no Yaiba_ Hashira Geiko-hen S04 E06.mkv work=Demon Slayer_ Kimetsu no Yaiba Slayer, season=4 episode=6 noSub=false
+1793025296751 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/Demon Slayer_ Kimetsu no Yaiba Slayer,/Season 4 Demon Slayer_ Kimetsu no Yaiba Slayer,/Kimetsu no Yaiba_ Hashira Geiko-hen S04 E06.mkv
+1793025296812 delete video=Kimetsu no Yaiba_ Hashira Geiko-hen S04 E06 [cnm-3rlgksjqjqgxa1jwy86e].mp4 result=true
+1793025296817 delete subtitle=arabic subtitle for Kimetsu no Yaiba_ Hashira Geiko-hen S04 E06 [cnm-3rlgksjqjqgxa1jwy86e].srt result=true
+1793025296827 delete subtitle=special subtitle for Kimetsu no Yaiba_ Hashira Geiko-hen S04 E06 [cnm-3rlgksjqjqgxa1jwy86e].ass result=true
+1793025296827 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/Demon Slayer_ Kimetsu no Yaiba Slayer,/Season 4 Demon Slayer_ Kimetsu no Yaiba Slayer,/Kimetsu no Yaiba_ Hashira Geiko-hen S04 E06.mkv
