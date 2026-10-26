@@ -11222,3 +11222,4 @@
 {"utc_ms":1793025313302,"elapsed_ms":531036815,"pid":7944,"thread":"main","session":"enhancements","stage":"sort_install","detail":"anchor=false"}
 {"utc_ms":1793025322625,"elapsed_ms":531046138,"pid":7944,"thread":"cnm-mkv-queue-2","session":"enhancements","stage":"episode_ready_notification105","detail":"1147163:2101603825"}
 {"utc_ms":1793025331326,"elapsed_ms":531054839,"pid":7944,"thread":"cnm-mkv-queue-1","session":"enhancements","stage":"episode_ready_notification105","detail":"1147160:1387590782"}
+{"utc_ms":1793025502344,"elapsed_ms":531225857,"pid":7944,"thread":"main","session":"enhancements","stage":"profile_cleanup","detail":"help share discover removed"}
