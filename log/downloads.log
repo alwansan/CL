@@ -3340,3 +3340,12 @@
 1793137243875 RECOVERY119 SCAN_BEGIN pass=7
 1793137243903 RECOVERY119 QUEUE_SCAN requests=0 connected=true
 1793137244038 RECOVERY119 SCAN_END pass=7
+1793137364046 RECOVERY119 SCAN_BEGIN pass=8
+1793137364080 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793137364228 RECOVERY119 SCAN_END pass=8
+1793137434859 STATE=task_ready taskId=1540743458 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E01.mkv tag=null url=https://cdn.shabakaty.cc/vascin18-mp4/69357FDE-85DF-3650-9926-297A0A74E7C8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480995&Signature=T6Mwy%2B9jHrhzlOJjOxIFi1LouTk%3D
+1793137435290 STATE=task_ready taskId=-2051257933 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E10.mkv tag=null url=https://cdn.shabakaty.cc/vascin18-mp4/144922DE-A558-C564-0E45-790BD6286177_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793653496&Signature=OLUr24qIX0UOFdCFG9A4kAWwnSQ%3D
+1793137458893 PORTABLE123 SAVED items=30
+1793137484234 RECOVERY119 SCAN_BEGIN pass=9
+1793137484256 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793137484379 RECOVERY119 SCAN_END pass=9

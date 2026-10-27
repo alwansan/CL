@@ -18,3 +18,6 @@
 1793137156157	video_position_reset102	renderer_target_us=0 source_preserved=true
 1793137156197	video_first_output101	frame_us=43000 elapsed_ms=41
 1793137157664	preview_result	second=1368 frame=true network=false
+1793137456448	mkv_video_cues102	video_track=1 cue_points=680 video_points=376
+1793137456828	video_position_reset102	renderer_target_us=0 source_preserved=true
+1793137456857	video_first_output101	frame_us=43000 elapsed_ms=29
