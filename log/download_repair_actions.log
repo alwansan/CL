@@ -79,3 +79,15 @@
 1793077095552 SUBTITLE_DEPENDENCY_SCAN_DISPATCHED; existing dependency recovery checked eligible MP4/subtitle pairs
 1793077137671 QUEUE_SCAN_DISPATCHED; existing persisted requests rechecked using Queue110 ownership and synchronization guards
 1793077137713 SUBTITLE_DEPENDENCY_SCAN_DISPATCHED; existing dependency recovery checked eligible MP4/subtitle pairs
+1793077157733 RECOVERY_WAKE_REQUESTED; Restart108 recovery scanner nudged; repair button did not delete any source media or subtitles
+1793077286261 REPAIR_END; asynchronous recovery/conversion may continue in the original pipeline; consult unresolved log for failures
+1793078088600 QUEUE_SCAN_DISPATCHED; existing persisted requests rechecked using Queue110 ownership and synchronization guards
+1793078088612 SUBTITLE_DEPENDENCY_SCAN_DISPATCHED; existing dependency recovery checked eligible MP4/subtitle pairs
+1793078092793 QUEUE_SCAN_DISPATCHED; existing persisted requests rechecked using Queue110 ownership and synchronization guards
+1793078092794 SUBTITLE_DEPENDENCY_SCAN_DISPATCHED; existing dependency recovery checked eligible MP4/subtitle pairs
+1793078095623 RECOVERY_WAKE_REQUESTED; Restart108 recovery scanner nudged; repair button did not delete any source media or subtitles
+1793078101633 RECOVERY_WAKE_REQUESTED; Restart108 recovery scanner nudged; repair button did not delete any source media or subtitles
+1793078107756 REPAIR_END; asynchronous recovery/conversion may continue in the original pipeline; consult unresolved log for failures
+1793078172550 QUEUE_SCAN_DISPATCHED; existing persisted requests rechecked using Queue110 ownership and synchronization guards
+1793078172595 SUBTITLE_DEPENDENCY_SCAN_DISPATCHED; existing dependency recovery checked eligible MP4/subtitle pairs
+1793078193204 RECOVERY_WAKE_REQUESTED; Restart108 recovery scanner nudged; repair button did not delete any source media or subtitles

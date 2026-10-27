@@ -70,3 +70,16 @@
 1793077125636 REPAIR_BEGIN; scan is read-only until the original guarded queues accept eligible work
 1793077125773 INVENTORY nodes=745 mp4=13 mkv=271 subtitles=14 partials=0 cap=2500; inventory_only_no_file_mutations
 1793077137604 RECENT_LOG_SIGNATURES db_commit_incomplete=0 dns_failures=0 mkv_requeues=0 manifest_wait=0 db_promote_fail=0 download_errors=0 lines_read=6094 source_tail_limit=1MiB_per_log
+1793077157696 DISK_MKV_SCAN mp4=1 queued=0 existing_mkv=0 fallback_attempted=1 max_depth=4; disk evidence must match the saved subtitle plan
+1793078086266 REPAIR_BEGIN; scan is read-only until the original guarded queues accept eligible work
+1793078086369 INVENTORY nodes=745 mp4=13 mkv=271 subtitles=14 partials=0 cap=2500; inventory_only_no_file_mutations
+1793078088581 RECENT_LOG_SIGNATURES db_commit_incomplete=0 dns_failures=0 mkv_requeues=0 manifest_wait=0 db_promote_fail=0 download_errors=0 lines_read=6505 source_tail_limit=1MiB_per_log
+1793078090832 REPAIR_BEGIN; scan is read-only until the original guarded queues accept eligible work
+1793078090965 INVENTORY nodes=745 mp4=13 mkv=271 subtitles=14 partials=0 cap=2500; inventory_only_no_file_mutations
+1793078092792 RECENT_LOG_SIGNATURES db_commit_incomplete=0 dns_failures=0 mkv_requeues=0 manifest_wait=0 db_promote_fail=0 download_errors=0 lines_read=6509 source_tail_limit=1MiB_per_log
+1793078095605 DISK_MKV_SCAN mp4=1 queued=0 existing_mkv=0 fallback_attempted=1 max_depth=4; disk evidence must match the saved subtitle plan
+1793078101564 DISK_MKV_SCAN mp4=1 queued=0 existing_mkv=0 fallback_attempted=1 max_depth=4; disk evidence must match the saved subtitle plan
+1793078160414 REPAIR_BEGIN; scan is read-only until the original guarded queues accept eligible work
+1793078160562 INVENTORY nodes=745 mp4=13 mkv=271 subtitles=14 partials=0 cap=2500; inventory_only_no_file_mutations
+1793078172466 RECENT_LOG_SIGNATURES db_commit_incomplete=0 dns_failures=0 mkv_requeues=0 manifest_wait=0 db_promote_fail=0 download_errors=0 lines_read=6888 source_tail_limit=1MiB_per_log
+1793078193149 DISK_MKV_SCAN mp4=1 queued=0 existing_mkv=0 fallback_attempted=1 max_depth=4; disk evidence must match the saved subtitle plan
