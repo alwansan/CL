@@ -83,3 +83,11 @@
 1793078160562 INVENTORY nodes=745 mp4=13 mkv=271 subtitles=14 partials=0 cap=2500; inventory_only_no_file_mutations
 1793078172466 RECENT_LOG_SIGNATURES db_commit_incomplete=0 dns_failures=0 mkv_requeues=0 manifest_wait=0 db_promote_fail=0 download_errors=0 lines_read=6888 source_tail_limit=1MiB_per_log
 1793078193149 DISK_MKV_SCAN mp4=1 queued=0 existing_mkv=0 fallback_attempted=1 max_depth=4; disk evidence must match the saved subtitle plan
+1793079043788 REPAIR_BEGIN; scan is read-only until the original guarded queues accept eligible work
+1793079043837 INVENTORY nodes=745 mp4=13 mkv=271 subtitles=14 partials=0 cap=2500; inventory_only_no_file_mutations
+1793079046803 RECENT_LOG_SIGNATURES db_commit_incomplete=0 dns_failures=0 mkv_requeues=0 manifest_wait=0 db_promote_fail=0 download_errors=0 lines_read=6747 source_tail_limit=1MiB_per_log
+1793079053816 REPAIR_BEGIN; scan is read-only until the original guarded queues accept eligible work
+1793079053929 INVENTORY nodes=745 mp4=13 mkv=271 subtitles=14 partials=0 cap=2500; inventory_only_no_file_mutations
+1793079053987 DISK_MKV_SCAN mp4=1 queued=0 existing_mkv=0 fallback_attempted=1 max_depth=4; disk evidence must match the saved subtitle plan
+1793079056970 RECENT_LOG_SIGNATURES db_commit_incomplete=0 dns_failures=0 mkv_requeues=0 manifest_wait=0 db_promote_fail=0 download_errors=0 lines_read=6762 source_tail_limit=1MiB_per_log
+1793079067872 DISK_MKV_SCAN mp4=1 queued=0 existing_mkv=0 fallback_attempted=1 max_depth=4; disk evidence must match the saved subtitle plan
