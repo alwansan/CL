@@ -24,3 +24,19 @@
 1793039180815 DISK_MKV_SCAN mp4=1 queued=0 existing_mkv=0 fallback_attempted=1 max_depth=4; disk evidence must match the saved subtitle plan
 1793039183956 MP4_DISK_FALLBACK_RECONCILE_TRIGGERED token=28r474njqo88wiezby5y path=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E243 [cnm-28r474njqo88wiezby5y].mp4
 1793039183958 DISK_MKV_SCAN mp4=1 queued=0 existing_mkv=0 fallback_attempted=1 max_depth=4; disk evidence must match the saved subtitle plan
+1793050615855 REPAIR_BEGIN; scan is read-only until the original guarded queues accept eligible work
+1793050615895 INVENTORY nodes=744 mp4=13 mkv=271 subtitles=14 partials=0 cap=2500; inventory_only_no_file_mutations
+1793050617797 RECENT_LOG_SIGNATURES db_commit_incomplete=0 dns_failures=0 mkv_requeues=0 manifest_wait=0 db_promote_fail=0 download_errors=0 lines_read=6834 source_tail_limit=1MiB_per_log
+1793050617882 DISK_MKV_SCAN mp4=1 queued=0 existing_mkv=0 fallback_attempted=1 max_depth=4; disk evidence must match the saved subtitle plan
+1793050633510 REPAIR_BEGIN; scan is read-only until the original guarded queues accept eligible work
+1793050633594 INVENTORY nodes=745 mp4=13 mkv=271 subtitles=14 partials=0 cap=2500; inventory_only_no_file_mutations
+1793050635396 RECENT_LOG_SIGNATURES db_commit_incomplete=0 dns_failures=0 mkv_requeues=0 manifest_wait=0 db_promote_fail=0 download_errors=0 lines_read=6841 source_tail_limit=1MiB_per_log
+1793050635464 DISK_MKV_SCAN mp4=1 queued=0 existing_mkv=0 fallback_attempted=1 max_depth=4; disk evidence must match the saved subtitle plan
+1793070077057 REPAIR_BEGIN; scan is read-only until the original guarded queues accept eligible work
+1793070077146 INVENTORY nodes=745 mp4=13 mkv=271 subtitles=14 partials=0 cap=2500; inventory_only_no_file_mutations
+1793070079257 RECENT_LOG_SIGNATURES db_commit_incomplete=0 dns_failures=0 mkv_requeues=0 manifest_wait=0 db_promote_fail=0 download_errors=0 lines_read=7588 source_tail_limit=1MiB_per_log
+1793070084012 DISK_MKV_SCAN mp4=1 queued=0 existing_mkv=0 fallback_attempted=1 max_depth=4; disk evidence must match the saved subtitle plan
+1793070100505 REPAIR_BEGIN; scan is read-only until the original guarded queues accept eligible work
+1793070100581 INVENTORY nodes=746 mp4=13 mkv=271 subtitles=14 partials=0 cap=2500; inventory_only_no_file_mutations
+1793070102599 RECENT_LOG_SIGNATURES db_commit_incomplete=0 dns_failures=0 mkv_requeues=0 manifest_wait=0 db_promote_fail=0 download_errors=0 lines_read=7597 source_tail_limit=1MiB_per_log
+1793070110965 DISK_MKV_SCAN mp4=1 queued=0 existing_mkv=0 fallback_attempted=1 max_depth=4; disk evidence must match the saved subtitle plan
