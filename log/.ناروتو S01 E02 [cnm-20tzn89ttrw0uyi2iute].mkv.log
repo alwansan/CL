@@ -1,12 +1,13 @@
-1793129893782 SUBTITLE_POLICY=manifest-ready expected=1 completed=1 files=1 token=20tzn89ttrw0uyi2iute
-1793129894095 ffmpeg=native:/data/app/~~1rtyApoXmLZMzz2LDdZT6w==/com.cinemana.pro-Hf7b8EGWLOBmoaRCpx88Cg==/lib/arm64/libffmpeg.so
-1793129894121 subtitle_track_types=derived_from_real_input_languages (PATCH127)
-1793129894121 exec=[/data/app/~~1rtyApoXmLZMzz2LDdZT6w==/com.cinemana.pro-Hf7b8EGWLOBmoaRCpx88Cg==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E02 [cnm-20tzn89ttrw0uyi2iute].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E02 [cnm-20tzn89ttrw0uyi2iute].srt] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو S01 E02] [-metadata:s:s:0] [language=ar] [-metadata] [title=ناروتو S01 E02] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو S01 E02 [cnm-20tzn89ttrw0uyi2iute].mkv.cnm115-0a67e0e5-bf09-42f0-84c7-84b5f57dfbe3.part]
-1793129897188 exit=0 output=
-1793129897195 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو S01 E02 [cnm-20tzn89ttrw0uyi2iute].mkv size=35523213
-1793129897430 DB_PROMOTE=true
-1793129897470 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E02.mkv work=ناروتو season=01 episode=02 noSub=false
-1793129897554 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E02.mkv
-1793129897680 delete video=ناروتو S01 E02 [cnm-20tzn89ttrw0uyi2iute].mp4 result=true
-1793129897683 delete subtitle=arabic subtitle for ناروتو S01 E02 [cnm-20tzn89ttrw0uyi2iute].srt result=true
-1793129897687 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E02.mkv
+1793132963809 SUBTITLE_POLICY=manifest-ready expected=1 completed=2 files=1 token=20tzn89ttrw0uyi2iute
+1793132963858 ffmpeg=native:/data/app/~~5T8D2DIi5OmAz4DBod5Gwg==/com.cinemana.pro-B6aD9sLajm3mPi8wW9B8sQ==/lib/arm64/libffmpeg.so
+1793132963867 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1793132963868 exec=[/data/app/~~5T8D2DIi5OmAz4DBod5Gwg==/com.cinemana.pro-B6aD9sLajm3mPi8wW9B8sQ==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E02 [cnm-20tzn89ttrw0uyi2iute].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E02 [cnm-20tzn89ttrw0uyi2iute].srt] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو S01 E02] [-metadata:s:s:0] [language=ar] [-metadata] [title=ناروتو S01 E02] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو S01 E02 [cnm-20tzn89ttrw0uyi2iute].mkv.cnm115-0730e703-74ba-4655-b648-cc76c99e20f2.part]
+1793132964683 SUBTITLE_POLICY=manifest-ready expected=1 completed=1 files=1 token=20tzn89ttrw0uyi2iute
+1793132965957 exit=0 output=
+1793132965961 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو S01 E02 [cnm-20tzn89ttrw0uyi2iute].mkv size=35523213
+1793132966112 DB_PROMOTE=true
+1793132966178 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E02.mkv work=ناروتو season=01 episode=02 noSub=false
+1793132966261 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E02.mkv
+1793132966351 delete video=ناروتو S01 E02 [cnm-20tzn89ttrw0uyi2iute].mp4 result=true
+1793132966354 delete subtitle=arabic subtitle for ناروتو S01 E02 [cnm-20tzn89ttrw0uyi2iute].srt result=true
+1793132966357 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E02.mkv
