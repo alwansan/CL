@@ -40,3 +40,15 @@
 1793070100581 INVENTORY nodes=746 mp4=13 mkv=271 subtitles=14 partials=0 cap=2500; inventory_only_no_file_mutations
 1793070102599 RECENT_LOG_SIGNATURES db_commit_incomplete=0 dns_failures=0 mkv_requeues=0 manifest_wait=0 db_promote_fail=0 download_errors=0 lines_read=7597 source_tail_limit=1MiB_per_log
 1793070110965 DISK_MKV_SCAN mp4=1 queued=0 existing_mkv=0 fallback_attempted=1 max_depth=4; disk evidence must match the saved subtitle plan
+1793070300129 REPAIR_BEGIN; scan is read-only until the original guarded queues accept eligible work
+1793070300283 INVENTORY nodes=746 mp4=13 mkv=271 subtitles=14 partials=0 cap=2500; inventory_only_no_file_mutations
+1793070311709 RECENT_LOG_SIGNATURES db_commit_incomplete=0 dns_failures=0 mkv_requeues=0 manifest_wait=0 db_promote_fail=0 download_errors=0 lines_read=8034 source_tail_limit=1MiB_per_log
+1793070328843 DISK_MKV_SCAN mp4=1 queued=0 existing_mkv=0 fallback_attempted=1 max_depth=4; disk evidence must match the saved subtitle plan
+1793071091011 REPAIR_BEGIN; scan is read-only until the original guarded queues accept eligible work
+1793071091067 INVENTORY nodes=745 mp4=13 mkv=271 subtitles=14 partials=0 cap=2500; inventory_only_no_file_mutations
+1793071093478 RECENT_LOG_SIGNATURES db_commit_incomplete=0 dns_failures=0 mkv_requeues=0 manifest_wait=0 db_promote_fail=0 download_errors=0 lines_read=7971 source_tail_limit=1MiB_per_log
+1793071100263 DISK_MKV_SCAN mp4=1 queued=0 existing_mkv=0 fallback_attempted=1 max_depth=4; disk evidence must match the saved subtitle plan
+1793071131663 REPAIR_BEGIN; scan is read-only until the original guarded queues accept eligible work
+1793071131743 INVENTORY nodes=745 mp4=13 mkv=271 subtitles=14 partials=0 cap=2500; inventory_only_no_file_mutations
+1793071134461 RECENT_LOG_SIGNATURES db_commit_incomplete=0 dns_failures=0 mkv_requeues=0 manifest_wait=0 db_promote_fail=0 download_errors=0 lines_read=7997 source_tail_limit=1MiB_per_log
+1793071143087 DISK_MKV_SCAN mp4=1 queued=0 existing_mkv=0 fallback_attempted=1 max_depth=4; disk evidence must match the saved subtitle plan
