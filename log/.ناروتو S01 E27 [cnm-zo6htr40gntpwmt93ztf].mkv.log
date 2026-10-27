@@ -1,14 +1,13 @@
-1793133211291 SUBTITLE_POLICY=manifest-ready expected=2 completed=2 files=2 token=zo6htr40gntpwmt93ztf
-1793133211358 ffmpeg=native:/data/app/~~5T8D2DIi5OmAz4DBod5Gwg==/com.cinemana.pro-B6aD9sLajm3mPi8wW9B8sQ==/lib/arm64/libffmpeg.so
-1793133211369 subtitle_track_types=derived_from_real_input_languages (PATCH127)
-1793133211372 exec=[/data/app/~~5T8D2DIi5OmAz4DBod5Gwg==/com.cinemana.pro-B6aD9sLajm3mPi8wW9B8sQ==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E27 [cnm-zo6htr40gntpwmt93ztf].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E27 [cnm-zo6htr40gntpwmt93ztf].srt] [-i] [/storage/emulated/0/Cinemana/work/special subtitle for ناروتو S01 E27 [cnm-zo6htr40gntpwmt93ztf].ass] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-map] [2:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو S01 E27] [-metadata:s:s:0] [language=ar] [-metadata:s:s:1] [title=special subtitle for ناروتو S01 E27] [-metadata:s:s:1] [language=sp] [-metadata] [title=ناروتو S01 E27] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو S01 E27 [cnm-zo6htr40gntpwmt93ztf].mkv.cnm115-3c721268-0be5-4c3d-a605-93334830a9e2.part]
-1793133212999 SUBTITLE_POLICY=manifest-ready expected=2 completed=2 files=2 token=zo6htr40gntpwmt93ztf
-1793133213432 exit=0 output=
-1793133213435 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو S01 E27 [cnm-zo6htr40gntpwmt93ztf].mkv size=38920078
-1793133213643 DB_PROMOTE=true
-1793133213694 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E27.mkv work=ناروتو season=01 episode=27 noSub=false
-1793133213787 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E27.mkv
-1793133213954 delete video=ناروتو S01 E27 [cnm-zo6htr40gntpwmt93ztf].mp4 result=true
-1793133213958 delete subtitle=arabic subtitle for ناروتو S01 E27 [cnm-zo6htr40gntpwmt93ztf].srt result=true
-1793133213962 delete subtitle=special subtitle for ناروتو S01 E27 [cnm-zo6htr40gntpwmt93ztf].ass result=true
-1793133213966 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E27.mkv
+1793136907500 SUBTITLE_POLICY=manifest-ready expected=2 completed=2 files=2 token=zo6htr40gntpwmt93ztf
+1793136907686 ffmpeg=native:/data/app/~~tHJGtyfjtRdp3MvrpVVYBg==/com.cinemana.pro-MOgh3dNIzexfNyDWAqSeAw==/lib/arm64/libffmpeg.so
+1793136907753 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1793136907759 exec=[/data/app/~~tHJGtyfjtRdp3MvrpVVYBg==/com.cinemana.pro-MOgh3dNIzexfNyDWAqSeAw==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E27 [cnm-zo6htr40gntpwmt93ztf].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E27 [cnm-zo6htr40gntpwmt93ztf].srt] [-i] [/storage/emulated/0/Cinemana/work/special subtitle for ناروتو S01 E27 [cnm-zo6htr40gntpwmt93ztf].ass] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-map] [2:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو S01 E27] [-metadata:s:s:0] [language=ar] [-metadata:s:s:1] [title=special subtitle for ناروتو S01 E27] [-metadata:s:s:1] [language=sp] [-metadata] [title=ناروتو S01 E27] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو S01 E27 [cnm-zo6htr40gntpwmt93ztf].mkv.cnm115-38414f83-700e-4195-b3c5-bd8f8f512c3f.part]
+1793136913078 exit=0 output=
+1793136913083 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو S01 E27 [cnm-zo6htr40gntpwmt93ztf].mkv size=38920078
+1793136913385 DB_PROMOTE=true
+1793136913456 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E27.mkv work=ناروتو season=01 episode=27 noSub=false
+1793136913541 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E27.mkv
+1793136913723 delete video=ناروتو S01 E27 [cnm-zo6htr40gntpwmt93ztf].mp4 result=true
+1793136913729 delete subtitle=arabic subtitle for ناروتو S01 E27 [cnm-zo6htr40gntpwmt93ztf].srt result=true
+1793136913733 delete subtitle=special subtitle for ناروتو S01 E27 [cnm-zo6htr40gntpwmt93ztf].ass result=true
+1793136913738 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E27.mkv
