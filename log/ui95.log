@@ -1,20 +1,81 @@
-1793177657086	AUTH	google_signin_begin package=com.cinemana.pro
-1793177663706	AUTH	google_activity_result_received
-1793177663706	AUTH	google_signin_error status=10
-1793177663706	AUTH	google_login_failed
-1793177671276	AUTH	google_signin_begin package=com.cinemana.pro
-1793177676117	AUTH	google_activity_result_received
-1793177676117	AUTH	google_signin_error status=10
-1793177676117	AUTH	google_login_failed
-1793177941122	AUTH	password_login_begin
-1793177941134	AUTH	call=170345843 stage=request_begin host=account.shabakaty.com endpoint=/core/connect/token http=0
-1793177941580	AUTH	call=170345843 stage=http_response host=account.shabakaty.com endpoint=/core/connect/token http=200
-1793177941585	AUTH	shabakaty_token_response_received
-1793177941592	AUTH	call=74492570 stage=request_begin host=account.shabakaty.com endpoint=/core/connect/userinfo http=0
-1793177941697	AUTH	call=74492570 stage=http_response host=account.shabakaty.com endpoint=/core/connect/userinfo http=200
-1793177964859	AUTH	password_login_begin
-1793177964862	AUTH	call=118699859 stage=request_begin host=account.shabakaty.com endpoint=/core/connect/token http=0
-1793177965248	AUTH	call=118699859 stage=http_response host=account.shabakaty.com endpoint=/core/connect/token http=200
-1793177965251	AUTH	shabakaty_token_response_received
-1793177965252	AUTH	call=41280949 stage=request_begin host=account.shabakaty.com endpoint=/core/connect/userinfo http=0
-1793177965356	AUTH	call=41280949 stage=http_response host=account.shabakaty.com endpoint=/core/connect/userinfo http=200
+1793190721053	LOCAL_ACCOUNT	legacy_snapshot_complete
+1793190752602	LOCAL_ACCOUNT	api_local operation=q
+1793190755023	LOCAL_ACCOUNT	api_local operation=p
+1793190759891	LOCAL_ACCOUNT	api_local operation=e
+1793190761272	LOCAL_ACCOUNT	api_local operation=e
+1793190762334	LOCAL_ACCOUNT	api_local operation=e
+1793190806399	LOCAL_ACCOUNT	profile_saved count=1
+1793190829924	LOCAL_ACCOUNT	profile_saved count=1
+1793191093582	LOCAL_ACCOUNT	legacy_snapshot_complete
+1793191117380	LOCAL_ACCOUNT	api_local operation=a
+1793191130961	LOCAL_ACCOUNT	api_local operation=a
+1793191155627	LOCAL_ACCOUNT	api_local operation=a
+1793191162100	LOCAL_ACCOUNT	api_local operation=t
+1793191162104	LOCAL_ACCOUNT	list_saved count=1
+1793191164871	LOCAL_ACCOUNT	api_local operation=t
+1793191164878	LOCAL_ACCOUNT	list_saved count=1
+1793191166615	LOCAL_ACCOUNT	api_local operation=d
+1793191166620	LOCAL_ACCOUNT	list_removed count=1
+1793191171231	LOCAL_ACCOUNT	api_local operation=p
+1793191172661	LOCAL_ACCOUNT	api_local operation=q
+1793191175272	LOCAL_ACCOUNT	api_local operation=e
+1793191176379	LOCAL_ACCOUNT	api_local operation=e
+1793191177259	LOCAL_ACCOUNT	api_local operation=e
+1793191179313	LOCAL_ACCOUNT	api_local operation=e
+1793191181275	LOCAL_ACCOUNT	api_local operation=a
+1793191189939	LOCAL_ACCOUNT	api_local operation=e
+1793191243054	LOCAL_ACCOUNT	api_local operation=a
+1793191248356	LOCAL_ACCOUNT	api_local operation=t
+1793191248365	LOCAL_ACCOUNT	list_saved count=1
+1793191249712	LOCAL_ACCOUNT	api_local operation=d
+1793191249716	LOCAL_ACCOUNT	list_removed count=1
+1793191253536	LOCAL_ACCOUNT	api_local operation=t
+1793191253540	LOCAL_ACCOUNT	list_saved count=1
+1793191254773	LOCAL_ACCOUNT	api_local operation=d
+1793191254779	LOCAL_ACCOUNT	list_removed count=1
+1793191257807	LOCAL_ACCOUNT	api_local operation=a
+1793191258948	LOCAL_ACCOUNT	api_local operation=t
+1793191258955	LOCAL_ACCOUNT	list_saved count=1
+1793191263472	LOCAL_ACCOUNT	api_local operation=e
+1793191264870	LOCAL_ACCOUNT	api_local operation=e
+1793191265924	LOCAL_ACCOUNT	api_local operation=e
+1793191270990	LOCAL_ACCOUNT	api_local operation=a
+1793191278672	LOCAL_ACCOUNT	api_local operation=e
+1793191279997	LOCAL_ACCOUNT	api_local operation=e
+1793191283826	LOCAL_ACCOUNT	api_local operation=e
+1793191306324	preview_remote_reader	TimeoutException
+1793191306628	preview_remote_failed	exit=8 reason=protocol
+1793191309292	video_position_reset102	renderer_target_us=4613026000 source_preserved=true
+1793191309935	video_first_output101	frame_us=4613066791 elapsed_ms=642
+1793191314327	preview_remote_reader	TimeoutException
+1793191314420	preview_remote_failed	exit=8 reason=protocol
+1793191315586	LOCAL_ACCOUNT	api_local operation=a
+1793191322712	LOCAL_ACCOUNT	api_local operation=t
+1793191322717	LOCAL_ACCOUNT	list_saved count=1
+1793191324253	video_position_reset102	renderer_target_us=5111731999 source_preserved=true
+1793191324966	video_first_output101	frame_us=5111689916 elapsed_ms=718
+1793191326005	preview_result	second=4718 frame=true network=true
+1793191330392	LOCAL_ACCOUNT	api_local operation=e
+1793191342895	LOCAL_ACCOUNT	api_local operation=a
+1793191350415	LOCAL_ACCOUNT	api_local operation=a
+1793191358961	LOCAL_ACCOUNT	api_local operation=a
+1793191369321	LOCAL_ACCOUNT	api_local operation=a
+1793191386837	LOCAL_ACCOUNT	api_local operation=a
+1793191428121	LOCAL_ACCOUNT	api_local operation=t
+1793191428127	LOCAL_ACCOUNT	list_saved count=1
+1793191429338	LOCAL_ACCOUNT	api_local operation=t
+1793191429343	LOCAL_ACCOUNT	list_saved count=1
+1793191435912	LOCAL_ACCOUNT	api_local operation=a
+1793191463898	LOCAL_ACCOUNT	profile_saved count=1
+1793191466665	LOCAL_ACCOUNT	profile_saved count=1
+1793191476630	LOCAL_ACCOUNT	profile_saved count=1
+1793191506641	LOCAL_ACCOUNT	api_local operation=p
+1793191508387	LOCAL_ACCOUNT	api_local operation=q
+1793191512485	LOCAL_ACCOUNT	api_local operation=e
+1793191513611	LOCAL_ACCOUNT	api_local operation=e
+1793191519841	LOCAL_ACCOUNT	api_local operation=q
+1793191521199	LOCAL_ACCOUNT	api_local operation=p
+1793191524332	LOCAL_ACCOUNT	api_local operation=e
+1793191525836	LOCAL_ACCOUNT	api_local operation=a
+1793191527974	LOCAL_ACCOUNT	api_local operation=e
+1793191529041	LOCAL_ACCOUNT	api_local operation=e
