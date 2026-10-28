@@ -1,17 +1,8 @@
-1793138924743	mkv_video_cues102	video_track=1 cue_points=653 video_points=357
-1793138926967	mkv_video_cues102	video_track=1 cue_points=586 video_points=352
-1793138927210	video_position_reset102	renderer_target_us=0 source_preserved=true
-1793138927251	video_first_output101	frame_us=43000 elapsed_ms=41
-1793138931547	mkv_video_cues102	video_track=1 cue_points=680 video_points=376
-1793138931623	video_position_reset102	renderer_target_us=0 source_preserved=true
-1793138931906	video_first_output101	frame_us=43000 elapsed_ms=284
-1793138935679	mkv_video_cues102	video_track=1 cue_points=666 video_points=389
-1793138935746	video_position_reset102	renderer_target_us=0 source_preserved=true
-1793138935787	video_first_output101	frame_us=43000 elapsed_ms=40
-1793138938719	mkv_video_cues102	video_track=1 cue_points=566 video_points=333
-1793138942705	video_position_reset102	renderer_target_us=1041630000 source_preserved=true
-1793138943284	video_first_output101	frame_us=1041650000 elapsed_ms=579
-1793139001867	delete_completed	id=5662
-1793139033256	delete_completed	id=5694
-1793139045137	delete_completed	id=5697
-1793139293571	delete_completed	id=5693
+1793177657086	AUTH	google_signin_begin package=com.cinemana.pro
+1793177663706	AUTH	google_activity_result_received
+1793177663706	AUTH	google_signin_error status=10
+1793177663706	AUTH	google_login_failed
+1793177671276	AUTH	google_signin_begin package=com.cinemana.pro
+1793177676117	AUTH	google_activity_result_received
+1793177676117	AUTH	google_signin_error status=10
+1793177676117	AUTH	google_login_failed

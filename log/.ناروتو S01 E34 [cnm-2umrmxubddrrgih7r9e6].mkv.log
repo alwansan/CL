@@ -1,5 +1,0 @@
-1793139029227 SUBTITLE_POLICY=manifest-ready expected=1 completed=2 files=1 token=2umrmxubddrrgih7r9e6
-1793139029334 ffmpeg=native:/data/app/~~oj5JKEndbXiwaHPMMxrJaA==/com.cinemana.pro-mzOyYnyqEN85DJqqKB8yNA==/lib/arm64/libffmpeg.so
-1793139029350 subtitle_track_types=derived_from_real_input_languages (PATCH127)
-1793139029351 exec=[/data/app/~~oj5JKEndbXiwaHPMMxrJaA==/com.cinemana.pro-mzOyYnyqEN85DJqqKB8yNA==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E34 [cnm-2umrmxubddrrgih7r9e6].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E34 [cnm-2umrmxubddrrgih7r9e6].srt] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو S01 E34] [-metadata:s:s:0] [language=ar] [-metadata] [title=ناروتو S01 E34] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو S01 E34 [cnm-2umrmxubddrrgih7r9e6].mkv.cnm115-4629fafb-e0d0-4cee-976d-47e0ef5f1b93.part]
-1793139031978 SUBTITLE_POLICY=manifest-ready expected=1 completed=1 files=1 token=2umrmxubddrrgih7r9e6
