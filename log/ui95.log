@@ -6,3 +6,15 @@
 1793177676117	AUTH	google_activity_result_received
 1793177676117	AUTH	google_signin_error status=10
 1793177676117	AUTH	google_login_failed
+1793177941122	AUTH	password_login_begin
+1793177941134	AUTH	call=170345843 stage=request_begin host=account.shabakaty.com endpoint=/core/connect/token http=0
+1793177941580	AUTH	call=170345843 stage=http_response host=account.shabakaty.com endpoint=/core/connect/token http=200
+1793177941585	AUTH	shabakaty_token_response_received
+1793177941592	AUTH	call=74492570 stage=request_begin host=account.shabakaty.com endpoint=/core/connect/userinfo http=0
+1793177941697	AUTH	call=74492570 stage=http_response host=account.shabakaty.com endpoint=/core/connect/userinfo http=200
+1793177964859	AUTH	password_login_begin
+1793177964862	AUTH	call=118699859 stage=request_begin host=account.shabakaty.com endpoint=/core/connect/token http=0
+1793177965248	AUTH	call=118699859 stage=http_response host=account.shabakaty.com endpoint=/core/connect/token http=200
+1793177965251	AUTH	shabakaty_token_response_received
+1793177965252	AUTH	call=41280949 stage=request_begin host=account.shabakaty.com endpoint=/core/connect/userinfo http=0
+1793177965356	AUTH	call=41280949 stage=http_response host=account.shabakaty.com endpoint=/core/connect/userinfo http=200
