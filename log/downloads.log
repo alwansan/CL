@@ -9368,3 +9368,1766 @@
 1793206719109 RECOVERY119 SCAN_BEGIN pass=2
 1793206719205 RECOVERY119 QUEUE_SCAN requests=1 connected=true
 1793206719386 RECOVERY119 SCAN_END pass=2
+1793206724389 RECOVERY119 SCAN_BEGIN pass=3
+1793206724426 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206724486 RECOVERY119 SCAN_END pass=3
+1793206724788 RECOVERY119 SCAN_BEGIN pass=0
+1793206724838 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206724873 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206724876 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206724886 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206724890 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206724892 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206724892 RECOVERY119 SCAN_END pass=0
+1793206724897 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206724899 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206724915 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206724932 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206725898 RECOVERY119 SCAN_BEGIN pass=1
+1793206725916 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206725918 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206725950 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206725966 RECOVERY119 SCAN_END pass=1
+1793206726241 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 16:58:47 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206726221], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206726117]}
+1793206726252 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206726258 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206726509 RECOVERY119 SCAN_BEGIN pass=0
+1793206726604 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206726610 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206726777 RECOVERY119 SCAN_END pass=0
+1793206727783 RECOVERY119 SCAN_BEGIN pass=1
+1793206727865 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206728006 RECOVERY119 SCAN_END pass=1
+1793206730012 RECOVERY119 SCAN_BEGIN pass=2
+1793206730096 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206730261 RECOVERY119 SCAN_END pass=2
+1793206735269 RECOVERY119 SCAN_BEGIN pass=3
+1793206735321 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206735364 RECOVERY119 SCAN_END pass=3
+1793206735673 RECOVERY119 SCAN_BEGIN pass=0
+1793206735709 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206735737 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206735740 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206735755 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206735756 RECOVERY119 SCAN_END pass=0
+1793206735757 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206735760 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206735766 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206735768 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206735784 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206735801 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206736015 RECOVERY119 SCAN_BEGIN pass=0
+1793206736040 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=6
+1793206736042 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206736073 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206736090 RECOVERY119 SCAN_END pass=0
+1793206737096 RECOVERY119 SCAN_BEGIN pass=1
+1793206737120 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206737123 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206737179 RECOVERY119 SCAN_END pass=1
+1793206737220 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 16:58:58 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206737200], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206737097]}
+1793206737231 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206737235 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206737486 RECOVERY119 SCAN_BEGIN pass=0
+1793206737585 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206737591 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206737755 RECOVERY119 SCAN_END pass=0
+1793206738761 RECOVERY119 SCAN_BEGIN pass=1
+1793206738865 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206739031 RECOVERY119 SCAN_END pass=1
+1793206741037 RECOVERY119 SCAN_BEGIN pass=2
+1793206741120 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206741259 RECOVERY119 SCAN_END pass=2
+1793206746265 RECOVERY119 SCAN_BEGIN pass=3
+1793206746357 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206746531 RECOVERY119 SCAN_END pass=3
+1793206746892 RECOVERY119 SCAN_BEGIN pass=0
+1793206746933 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206746970 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206746976 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206746993 RECOVERY119 SCAN_END pass=0
+1793206746995 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206746997 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206746999 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206747006 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206747008 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206747026 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206747043 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206747248 RECOVERY119 SCAN_BEGIN pass=0
+1793206747260 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=6
+1793206747262 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206747292 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206747309 RECOVERY119 SCAN_END pass=0
+1793206748312 RECOVERY119 SCAN_BEGIN pass=1
+1793206748326 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206748328 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206748385 RECOVERY119 SCAN_END pass=1
+1793206748651 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 16:59:09 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206748632], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206748516]}
+1793206748662 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206748665 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206748917 RECOVERY119 SCAN_BEGIN pass=0
+1793206749014 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206749029 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206749243 RECOVERY119 SCAN_END pass=0
+1793206750249 RECOVERY119 SCAN_BEGIN pass=1
+1793206750474 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206750817 RECOVERY119 SCAN_END pass=1
+1793206750822 RECOVERY119 PERF116_RECOVERY_MS=574
+1793206752828 RECOVERY119 SCAN_BEGIN pass=2
+1793206752875 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206752924 RECOVERY119 SCAN_END pass=2
+1793206757927 RECOVERY119 SCAN_BEGIN pass=3
+1793206757978 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206758022 RECOVERY119 SCAN_END pass=3
+1793206758330 RECOVERY119 SCAN_BEGIN pass=0
+1793206758369 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206758397 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206758400 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206758414 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206758416 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206758416 RECOVERY119 SCAN_END pass=0
+1793206758419 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206758425 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206758427 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206758442 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206758456 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206758672 RECOVERY119 SCAN_BEGIN pass=0
+1793206758688 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=6
+1793206758690 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206758722 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206758752 RECOVERY119 SCAN_END pass=0
+1793206759756 RECOVERY119 SCAN_BEGIN pass=1
+1793206759773 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206759775 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206759829 RECOVERY119 SCAN_END pass=1
+1793206759876 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 16:59:20 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206759855], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206759762]}
+1793206759893 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206759896 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206760148 RECOVERY119 SCAN_BEGIN pass=0
+1793206760266 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206760282 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206760492 RECOVERY119 SCAN_END pass=0
+1793206761498 RECOVERY119 SCAN_BEGIN pass=1
+1793206761589 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206761810 RECOVERY119 SCAN_END pass=1
+1793206763815 RECOVERY119 SCAN_BEGIN pass=2
+1793206763904 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206763997 RECOVERY119 SCAN_END pass=2
+1793206769000 RECOVERY119 SCAN_BEGIN pass=3
+1793206769041 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206769086 RECOVERY119 SCAN_END pass=3
+1793206769381 RECOVERY119 SCAN_BEGIN pass=0
+1793206769430 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206769459 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206769461 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206769474 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206769476 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206769476 RECOVERY119 SCAN_END pass=0
+1793206769478 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206769484 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206769486 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206769502 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206769516 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206769731 RECOVERY119 SCAN_BEGIN pass=0
+1793206769742 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206769743 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206769768 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206769783 RECOVERY119 SCAN_END pass=0
+1793206770786 RECOVERY119 SCAN_BEGIN pass=1
+1793206770798 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206770833 RECOVERY119 SCAN_END pass=1
+1793206770905 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 16:59:31 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206770890], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206770803]}
+1793206770915 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206770918 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206771170 RECOVERY119 SCAN_BEGIN pass=0
+1793206771290 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206771299 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206771546 RECOVERY119 SCAN_END pass=0
+1793206772552 RECOVERY119 SCAN_BEGIN pass=1
+1793206772639 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206772804 RECOVERY119 SCAN_END pass=1
+1793206774810 RECOVERY119 SCAN_BEGIN pass=2
+1793206774918 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206775004 RECOVERY119 SCAN_END pass=2
+1793206780008 RECOVERY119 SCAN_BEGIN pass=3
+1793206780062 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206780111 RECOVERY119 SCAN_END pass=3
+1793206780425 RECOVERY119 SCAN_BEGIN pass=0
+1793206780466 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206780495 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206780501 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206780513 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206780515 RECOVERY119 SCAN_END pass=0
+1793206780516 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206780518 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206780524 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206780527 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206780541 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206780555 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206780771 RECOVERY119 SCAN_BEGIN pass=0
+1793206780785 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206780787 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206780821 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206780840 RECOVERY119 SCAN_END pass=0
+1793206781844 RECOVERY119 SCAN_BEGIN pass=1
+1793206781867 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206781926 RECOVERY119 SCAN_END pass=1
+1793206781986 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7786], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 16:59:42 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206781966], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206781872]}
+1793206781996 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206782000 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206782252 RECOVERY119 SCAN_BEGIN pass=0
+1793206782352 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206782357 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206782534 RECOVERY119 SCAN_END pass=0
+1793206783541 RECOVERY119 SCAN_BEGIN pass=1
+1793206783658 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206783821 RECOVERY119 SCAN_END pass=1
+1793206785829 RECOVERY119 SCAN_BEGIN pass=2
+1793206785916 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206786055 RECOVERY119 SCAN_END pass=2
+1793206791058 RECOVERY119 SCAN_BEGIN pass=3
+1793206791097 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206791153 RECOVERY119 SCAN_END pass=3
+1793206791451 RECOVERY119 SCAN_BEGIN pass=0
+1793206791491 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206791528 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206791533 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206791543 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206791546 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206791548 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206791548 RECOVERY119 SCAN_END pass=0
+1793206791552 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206791554 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206791572 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206791586 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206792554 RECOVERY119 SCAN_BEGIN pass=1
+1793206792583 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206792587 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206792629 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206792648 RECOVERY119 SCAN_END pass=1
+1793206793018 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7785], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 16:59:53 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206792997], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206792882]}
+1793206793032 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206793037 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206793289 RECOVERY119 SCAN_BEGIN pass=0
+1793206793390 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206793397 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206793570 RECOVERY119 SCAN_END pass=0
+1793206794577 RECOVERY119 SCAN_BEGIN pass=1
+1793206794700 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206794855 RECOVERY119 SCAN_END pass=1
+1793206796860 RECOVERY119 SCAN_BEGIN pass=2
+1793206796959 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206797140 RECOVERY119 SCAN_END pass=2
+1793206802144 RECOVERY119 SCAN_BEGIN pass=3
+1793206802199 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206802242 RECOVERY119 SCAN_END pass=3
+1793206802549 RECOVERY119 SCAN_BEGIN pass=0
+1793206802593 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206802632 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206802634 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206802649 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206802653 RECOVERY119 SCAN_END pass=0
+1793206802654 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206802658 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206802665 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206802669 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206802688 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206802701 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206802911 RECOVERY119 SCAN_BEGIN pass=0
+1793206802930 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=6
+1793206802933 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206802976 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206802996 RECOVERY119 SCAN_END pass=0
+1793206803999 RECOVERY119 SCAN_BEGIN pass=1
+1793206804011 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206804013 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206804064 RECOVERY119 SCAN_END pass=1
+1793206804154 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7785], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:00:04 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206804132], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206804035]}
+1793206804167 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206804170 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206804423 RECOVERY119 SCAN_BEGIN pass=0
+1793206804525 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206804530 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206804690 RECOVERY119 SCAN_END pass=0
+1793206805696 RECOVERY119 SCAN_BEGIN pass=1
+1793206805796 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206805940 RECOVERY119 SCAN_END pass=1
+1793206807945 RECOVERY119 SCAN_BEGIN pass=2
+1793206808034 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206808225 RECOVERY119 SCAN_END pass=2
+1793206813231 RECOVERY119 SCAN_BEGIN pass=3
+1793206813286 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206813332 RECOVERY119 SCAN_END pass=3
+1793206813675 RECOVERY119 SCAN_BEGIN pass=0
+1793206813876 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206813913 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206813923 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206813942 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206813954 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206813954 RECOVERY119 SCAN_END pass=0
+1793206813957 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206813964 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206813969 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206813989 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206814003 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206814213 RECOVERY119 SCAN_BEGIN pass=0
+1793206814228 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=6
+1793206814231 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206814269 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206814289 RECOVERY119 SCAN_END pass=0
+1793206815294 RECOVERY119 SCAN_BEGIN pass=1
+1793206815313 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206815316 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206815370 RECOVERY119 SCAN_END pass=1
+1793206815617 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:00:16 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206815596], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206815487]}
+1793206815629 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206815633 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206815884 RECOVERY119 SCAN_BEGIN pass=0
+1793206815978 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206815984 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206816159 RECOVERY119 SCAN_END pass=0
+1793206817167 RECOVERY119 SCAN_BEGIN pass=1
+1793206817269 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206817411 RECOVERY119 SCAN_END pass=1
+1793206819415 RECOVERY119 SCAN_BEGIN pass=2
+1793206819510 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206819686 RECOVERY119 SCAN_END pass=2
+1793206824692 RECOVERY119 SCAN_BEGIN pass=3
+1793206824740 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206824784 RECOVERY119 SCAN_END pass=3
+1793206825080 RECOVERY119 SCAN_BEGIN pass=0
+1793206825121 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206825156 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206825161 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206825177 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206825177 RECOVERY119 SCAN_END pass=0
+1793206825180 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206825183 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206825189 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206825192 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206825206 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206825221 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206825436 RECOVERY119 SCAN_BEGIN pass=0
+1793206825449 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206825451 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206825479 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206825499 RECOVERY119 SCAN_END pass=0
+1793206826502 RECOVERY119 SCAN_BEGIN pass=1
+1793206826524 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206826579 RECOVERY119 SCAN_END pass=1
+1793206826580 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:00:27 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206826554], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206826474]}
+1793206826597 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206826600 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206826852 RECOVERY119 SCAN_BEGIN pass=0
+1793206826990 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206827001 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206827245 RECOVERY119 SCAN_END pass=0
+1793206828254 RECOVERY119 SCAN_BEGIN pass=1
+1793206828423 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206828672 RECOVERY119 SCAN_END pass=1
+1793206830683 RECOVERY119 SCAN_BEGIN pass=2
+1793206830744 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206830809 RECOVERY119 SCAN_END pass=2
+1793206835813 RECOVERY119 SCAN_BEGIN pass=3
+1793206835857 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206835903 RECOVERY119 SCAN_END pass=3
+1793206836210 RECOVERY119 SCAN_BEGIN pass=0
+1793206836251 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206836280 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206836284 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206836305 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206836307 RECOVERY119 SCAN_END pass=0
+1793206836310 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206836314 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206836322 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206836325 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206836345 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206836360 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206836569 RECOVERY119 SCAN_BEGIN pass=0
+1793206836584 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206836586 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206836620 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206836638 RECOVERY119 SCAN_END pass=0
+1793206837642 RECOVERY119 SCAN_BEGIN pass=1
+1793206837658 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206837717 RECOVERY119 SCAN_END pass=1
+1793206837766 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:00:38 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206837747], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206837644]}
+1793206837778 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206837782 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206838033 RECOVERY119 SCAN_BEGIN pass=0
+1793206838140 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206838149 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206838384 RECOVERY119 SCAN_END pass=0
+1793206839395 RECOVERY119 SCAN_BEGIN pass=1
+1793206839492 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206839684 RECOVERY119 SCAN_END pass=1
+1793206841690 RECOVERY119 SCAN_BEGIN pass=2
+1793206841779 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206841910 RECOVERY119 SCAN_END pass=2
+1793206846914 RECOVERY119 SCAN_BEGIN pass=3
+1793206846953 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206846999 RECOVERY119 SCAN_END pass=3
+1793206847306 RECOVERY119 SCAN_BEGIN pass=0
+1793206847354 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206847390 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206847392 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206847409 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206847413 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206847417 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206847418 RECOVERY119 SCAN_END pass=0
+1793206847426 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206847430 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206847446 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206847461 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206848424 RECOVERY119 SCAN_BEGIN pass=1
+1793206848447 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206848451 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206848492 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206848521 RECOVERY119 SCAN_END pass=1
+1793206848876 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:00:49 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206848859], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206848745]}
+1793206848896 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206848906 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206849156 RECOVERY119 SCAN_BEGIN pass=0
+1793206849258 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206849264 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206849481 RECOVERY119 SCAN_END pass=0
+1793206850488 RECOVERY119 SCAN_BEGIN pass=1
+1793206850579 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206850795 RECOVERY119 SCAN_END pass=1
+1793206852801 RECOVERY119 SCAN_BEGIN pass=2
+1793206852895 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206853009 RECOVERY119 SCAN_END pass=2
+1793206858012 RECOVERY119 SCAN_BEGIN pass=3
+1793206858051 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206858129 RECOVERY119 SCAN_END pass=3
+1793206858425 RECOVERY119 SCAN_BEGIN pass=0
+1793206858486 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206858524 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206858530 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206858553 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206858556 RECOVERY119 SCAN_END pass=0
+1793206858559 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206858563 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206858568 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206858571 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206858590 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206858604 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206858816 RECOVERY119 SCAN_BEGIN pass=0
+1793206858832 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206858836 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206858863 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206858883 RECOVERY119 SCAN_END pass=0
+1793206859886 RECOVERY119 SCAN_BEGIN pass=1
+1793206859902 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206859959 RECOVERY119 SCAN_END pass=1
+1793206860066 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7785], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:01:00 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206860044], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206859936]}
+1793206860081 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206860091 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206860341 RECOVERY119 SCAN_BEGIN pass=0
+1793206860443 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206860449 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206860651 RECOVERY119 SCAN_END pass=0
+1793206861658 RECOVERY119 SCAN_BEGIN pass=1
+1793206861760 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206861931 RECOVERY119 SCAN_END pass=1
+1793206863937 RECOVERY119 SCAN_BEGIN pass=2
+1793206864053 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206864195 RECOVERY119 SCAN_END pass=2
+1793206869199 RECOVERY119 SCAN_BEGIN pass=3
+1793206869234 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206869276 RECOVERY119 SCAN_END pass=3
+1793206869585 RECOVERY119 SCAN_BEGIN pass=0
+1793206869621 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206869651 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206869657 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206869671 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206869672 RECOVERY119 SCAN_END pass=0
+1793206869674 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206869676 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206869683 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206869685 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206869704 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206869717 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206869929 RECOVERY119 SCAN_BEGIN pass=0
+1793206869943 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206869947 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206869979 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206869999 RECOVERY119 SCAN_END pass=0
+1793206871001 RECOVERY119 SCAN_BEGIN pass=1
+1793206871021 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206871097 RECOVERY119 SCAN_END pass=1
+1793206871218 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:01:12 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206871196], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206871091]}
+1793206871233 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206871238 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206871489 RECOVERY119 SCAN_BEGIN pass=0
+1793206871599 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206871606 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206871789 RECOVERY119 SCAN_END pass=0
+1793206872795 RECOVERY119 SCAN_BEGIN pass=1
+1793206872907 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206873178 RECOVERY119 SCAN_END pass=1
+1793206875189 RECOVERY119 SCAN_BEGIN pass=2
+1793206875303 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206875359 RECOVERY119 SCAN_END pass=2
+1793206880364 RECOVERY119 SCAN_BEGIN pass=3
+1793206880484 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206880607 RECOVERY119 SCAN_END pass=3
+1793206880905 RECOVERY119 SCAN_BEGIN pass=0
+1793206880954 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206880988 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206880990 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206881003 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206881006 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206881007 RECOVERY119 SCAN_END pass=0
+1793206881009 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206881015 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206881018 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206881032 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206881045 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206881265 RECOVERY119 SCAN_BEGIN pass=0
+1793206881280 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=6
+1793206881283 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206881319 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206881343 RECOVERY119 SCAN_END pass=0
+1793206882348 RECOVERY119 SCAN_BEGIN pass=1
+1793206882366 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206882368 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206882427 RECOVERY119 SCAN_END pass=1
+1793206882623 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:01:23 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206882602], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206882505]}
+1793206882632 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206882635 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206882885 RECOVERY119 SCAN_BEGIN pass=0
+1793206882940 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206882946 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206883005 RECOVERY119 SCAN_END pass=0
+1793206884008 RECOVERY119 SCAN_BEGIN pass=1
+1793206884045 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206884096 RECOVERY119 SCAN_END pass=1
+1793206886098 RECOVERY119 SCAN_BEGIN pass=2
+1793206886138 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206886183 RECOVERY119 SCAN_END pass=2
+1793206891191 RECOVERY119 SCAN_BEGIN pass=3
+1793206891235 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206891293 RECOVERY119 SCAN_END pass=3
+1793206891592 RECOVERY119 SCAN_BEGIN pass=0
+1793206891627 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206891665 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206891666 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206891677 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206891679 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206891682 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206891687 RECOVERY119 SCAN_END pass=0
+1793206891687 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206891690 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206892040 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206892054 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206892693 RECOVERY119 SCAN_BEGIN pass=1
+1793206892718 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206892721 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206892759 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206892780 RECOVERY119 SCAN_END pass=1
+1793206893228 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:01:34 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206893209], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206893111]}
+1793206893241 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206893244 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206893495 RECOVERY119 SCAN_BEGIN pass=0
+1793206893548 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206893551 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206893610 RECOVERY119 SCAN_END pass=0
+1793206894613 RECOVERY119 SCAN_BEGIN pass=1
+1793206894651 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206894724 RECOVERY119 SCAN_END pass=1
+1793206896728 RECOVERY119 SCAN_BEGIN pass=2
+1793206896757 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206896792 RECOVERY119 SCAN_END pass=2
+1793206901794 RECOVERY119 SCAN_BEGIN pass=3
+1793206901839 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206901878 RECOVERY119 SCAN_END pass=3
+1793206902162 RECOVERY119 SCAN_BEGIN pass=0
+1793206902201 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206902225 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206902227 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206902237 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206902239 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206902241 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206902242 RECOVERY119 SCAN_END pass=0
+1793206902246 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206902248 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206902262 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206902275 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206903246 RECOVERY119 SCAN_BEGIN pass=1
+1793206903259 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206903261 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206903283 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206903297 RECOVERY119 SCAN_END pass=1
+1793206903716 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:01:44 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206903688], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206903591]}
+1793206903729 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206903732 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206903983 RECOVERY119 SCAN_BEGIN pass=0
+1793206904026 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206904029 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206904065 RECOVERY119 SCAN_END pass=0
+1793206905068 RECOVERY119 SCAN_BEGIN pass=1
+1793206905096 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206905131 RECOVERY119 SCAN_END pass=1
+1793206907134 RECOVERY119 SCAN_BEGIN pass=2
+1793206907173 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206907235 RECOVERY119 SCAN_END pass=2
+1793206912239 RECOVERY119 SCAN_BEGIN pass=3
+1793206912279 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206912322 RECOVERY119 SCAN_END pass=3
+1793206912604 RECOVERY119 SCAN_BEGIN pass=0
+1793206912642 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206912665 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206912666 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206912676 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206912678 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206912680 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206912683 RECOVERY119 SCAN_END pass=0
+1793206912687 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206912691 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206912704 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206912721 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206913686 RECOVERY119 SCAN_BEGIN pass=1
+1793206913699 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206913702 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206913732 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206913751 RECOVERY119 SCAN_END pass=1
+1793206914158 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7785], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:01:54 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206914128], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206914025]}
+1793206914183 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206914189 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206914440 RECOVERY119 SCAN_BEGIN pass=0
+1793206914487 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206914490 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206914547 RECOVERY119 SCAN_END pass=0
+1793206915551 RECOVERY119 SCAN_BEGIN pass=1
+1793206915603 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206915658 RECOVERY119 SCAN_END pass=1
+1793206917666 RECOVERY119 SCAN_BEGIN pass=2
+1793206917715 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206917770 RECOVERY119 SCAN_END pass=2
+1793206922774 RECOVERY119 SCAN_BEGIN pass=3
+1793206922817 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206922867 RECOVERY119 SCAN_END pass=3
+1793206923164 RECOVERY119 SCAN_BEGIN pass=0
+1793206923229 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206923265 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206923273 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206923286 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206923288 RECOVERY119 SCAN_END pass=0
+1793206923288 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206923291 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206923296 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206923298 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206923315 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206923332 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206923546 RECOVERY119 SCAN_BEGIN pass=0
+1793206923565 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=6
+1793206923568 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206923603 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206923623 RECOVERY119 SCAN_END pass=0
+1793206924628 RECOVERY119 SCAN_BEGIN pass=1
+1793206924648 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206924650 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206924708 RECOVERY119 SCAN_END pass=1
+1793206924963 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:02:05 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206924936], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206924816]}
+1793206924983 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206924987 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206925238 RECOVERY119 SCAN_BEGIN pass=0
+1793206925284 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206925287 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206925349 RECOVERY119 SCAN_END pass=0
+1793206926359 RECOVERY119 SCAN_BEGIN pass=1
+1793206926402 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206926466 RECOVERY119 SCAN_END pass=1
+1793206928472 RECOVERY119 SCAN_BEGIN pass=2
+1793206928524 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206928580 RECOVERY119 SCAN_END pass=2
+1793206933586 RECOVERY119 SCAN_BEGIN pass=3
+1793206933647 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206933696 RECOVERY119 SCAN_END pass=3
+1793206934006 RECOVERY119 SCAN_BEGIN pass=0
+1793206934044 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206934077 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206934079 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206934092 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206934094 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206934097 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206934098 RECOVERY119 SCAN_END pass=0
+1793206934103 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206934106 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206934121 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206934135 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206935108 RECOVERY119 SCAN_BEGIN pass=1
+1793206935131 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206935133 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206935173 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206935194 RECOVERY119 SCAN_END pass=1
+1793206935648 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:02:16 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206935621], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206935512]}
+1793206935658 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206935662 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206935913 RECOVERY119 SCAN_BEGIN pass=0
+1793206935959 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206935962 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206936031 RECOVERY119 SCAN_END pass=0
+1793206937038 RECOVERY119 SCAN_BEGIN pass=1
+1793206937099 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206937147 RECOVERY119 SCAN_END pass=1
+1793206939155 RECOVERY119 SCAN_BEGIN pass=2
+1793206939212 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206939262 RECOVERY119 SCAN_END pass=2
+1793206943293 PORTABLE123 SAVED items=34
+1793206944269 RECOVERY119 SCAN_BEGIN pass=3
+1793206944326 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206944374 RECOVERY119 SCAN_END pass=3
+1793206944679 RECOVERY119 SCAN_BEGIN pass=0
+1793206944723 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206944760 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206944762 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206944774 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206944777 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206944781 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206944785 RECOVERY119 SCAN_END pass=0
+1793206944789 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206944792 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206944814 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206944830 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206945790 RECOVERY119 SCAN_BEGIN pass=1
+1793206945807 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206945811 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206945848 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206945867 RECOVERY119 SCAN_END pass=1
+1793206946370 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:02:27 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206946349], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206946252]}
+1793206946386 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206946391 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206946639 RECOVERY119 SCAN_BEGIN pass=0
+1793206946680 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206946683 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206946746 RECOVERY119 SCAN_END pass=0
+1793206947755 RECOVERY119 SCAN_BEGIN pass=1
+1793206947828 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206947876 RECOVERY119 SCAN_END pass=1
+1793206948449 PORTABLE123 SAVED items=34
+1793206949879 RECOVERY119 SCAN_BEGIN pass=2
+1793206949925 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206949988 RECOVERY119 SCAN_END pass=2
+1793206954992 RECOVERY119 SCAN_BEGIN pass=3
+1793206955044 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206955124 RECOVERY119 SCAN_END pass=3
+1793206955471 RECOVERY119 SCAN_BEGIN pass=0
+1793206955524 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206955557 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206955562 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206955574 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206955574 RECOVERY119 SCAN_END pass=0
+1793206955577 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206955580 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206955587 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206955591 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206955609 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206955624 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206955834 RECOVERY119 SCAN_BEGIN pass=0
+1793206955853 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206955856 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206955890 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206955909 RECOVERY119 SCAN_END pass=0
+1793206956913 RECOVERY119 SCAN_BEGIN pass=1
+1793206956931 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206956988 RECOVERY119 SCAN_END pass=1
+1793206957236 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:02:38 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206957210], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206957112]}
+1793206957257 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206957261 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206957513 RECOVERY119 SCAN_BEGIN pass=0
+1793206957640 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206957643 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206957808 RECOVERY119 SCAN_END pass=0
+1793206958818 RECOVERY119 SCAN_BEGIN pass=1
+1793206958954 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206959101 RECOVERY119 SCAN_END pass=1
+1793206961109 RECOVERY119 SCAN_BEGIN pass=2
+1793206961208 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206961321 RECOVERY119 SCAN_END pass=2
+1793206966326 RECOVERY119 SCAN_BEGIN pass=3
+1793206966366 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206966421 RECOVERY119 SCAN_END pass=3
+1793206966719 RECOVERY119 SCAN_BEGIN pass=0
+1793206966767 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206966806 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206966811 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206966824 RECOVERY119 SCAN_END pass=0
+1793206966830 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206966832 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206966835 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206966840 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206966843 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206966860 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206966878 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206967084 RECOVERY119 SCAN_BEGIN pass=0
+1793206967098 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206967101 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206967135 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206967152 RECOVERY119 SCAN_END pass=0
+1793206968156 RECOVERY119 SCAN_BEGIN pass=1
+1793206968172 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206968221 RECOVERY119 SCAN_END pass=1
+1793206968278 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:02:49 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206968253], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206968137]}
+1793206968297 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206968303 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206968555 RECOVERY119 SCAN_BEGIN pass=0
+1793206968665 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206968671 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206968850 RECOVERY119 SCAN_END pass=0
+1793206969855 RECOVERY119 SCAN_BEGIN pass=1
+1793206969942 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206970199 RECOVERY119 SCAN_END pass=1
+1793206972211 RECOVERY119 SCAN_BEGIN pass=2
+1793206972333 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206972412 RECOVERY119 SCAN_END pass=2
+1793206977416 RECOVERY119 SCAN_BEGIN pass=3
+1793206977455 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206977502 RECOVERY119 SCAN_END pass=3
+1793206977809 RECOVERY119 SCAN_BEGIN pass=0
+1793206977853 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206977881 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206977887 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206977904 RECOVERY119 SCAN_END pass=0
+1793206977907 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206977910 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206977912 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206977919 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206977921 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206977940 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206977958 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206978162 RECOVERY119 SCAN_BEGIN pass=0
+1793206978177 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206978181 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206978218 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206978239 RECOVERY119 SCAN_END pass=0
+1793206979242 RECOVERY119 SCAN_BEGIN pass=1
+1793206979260 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206979318 RECOVERY119 SCAN_END pass=1
+1793206979324 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:03:00 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206979300], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206979201]}
+1793206979336 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206979341 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206979593 RECOVERY119 SCAN_BEGIN pass=0
+1793206979706 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206979712 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206979896 RECOVERY119 SCAN_END pass=0
+1793206980902 RECOVERY119 SCAN_BEGIN pass=1
+1793206981003 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206981187 RECOVERY119 SCAN_END pass=1
+1793206983195 RECOVERY119 SCAN_BEGIN pass=2
+1793206983312 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206983441 RECOVERY119 SCAN_END pass=2
+1793206988445 RECOVERY119 SCAN_BEGIN pass=3
+1793206988491 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206988551 RECOVERY119 SCAN_END pass=3
+1793206988856 RECOVERY119 SCAN_BEGIN pass=0
+1793206988907 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206988940 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206988945 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206988961 RECOVERY119 SCAN_END pass=0
+1793206988970 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793206988974 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206988977 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793206988985 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793206988989 NATIVE_QUEUE_START_RETURN=-1527611273
+1793206989004 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206989024 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793206989224 RECOVERY119 SCAN_BEGIN pass=0
+1793206989246 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793206989248 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206989284 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793206989304 RECOVERY119 SCAN_END pass=0
+1793206990307 RECOVERY119 SCAN_BEGIN pass=1
+1793206990329 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206990367 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:03:11 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793206990346], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793206990244]}
+1793206990384 RECOVERY119 SCAN_END pass=1
+1793206990386 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793206990390 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793206990642 RECOVERY119 SCAN_BEGIN pass=0
+1793206990747 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793206990753 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206990947 RECOVERY119 SCAN_END pass=0
+1793206991955 RECOVERY119 SCAN_BEGIN pass=1
+1793206992065 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206992238 RECOVERY119 SCAN_END pass=1
+1793206994249 RECOVERY119 SCAN_BEGIN pass=2
+1793206994359 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206994495 RECOVERY119 SCAN_END pass=2
+1793206999498 RECOVERY119 SCAN_BEGIN pass=3
+1793206999541 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206999591 RECOVERY119 SCAN_END pass=3
+1793206999910 RECOVERY119 SCAN_BEGIN pass=0
+1793206999955 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793206999984 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793206999990 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207000006 RECOVERY119 SCAN_END pass=0
+1793207000011 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793207000014 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207000017 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793207000024 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207000027 NATIVE_QUEUE_START_RETURN=-1527611273
+1793207000045 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207000061 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207000265 RECOVERY119 SCAN_BEGIN pass=0
+1793207000281 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793207000283 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207000317 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793207000347 RECOVERY119 SCAN_END pass=0
+1793207001351 RECOVERY119 SCAN_BEGIN pass=1
+1793207001370 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207001432 RECOVERY119 SCAN_END pass=1
+1793207001660 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:03:22 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793207001635], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793207001519]}
+1793207001679 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793207001686 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793207001935 RECOVERY119 SCAN_BEGIN pass=0
+1793207002053 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793207002059 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207002234 RECOVERY119 SCAN_END pass=0
+1793207003242 RECOVERY119 SCAN_BEGIN pass=1
+1793207003362 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207003557 RECOVERY119 SCAN_END pass=1
+1793207005564 RECOVERY119 SCAN_BEGIN pass=2
+1793207005677 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207005778 RECOVERY119 SCAN_END pass=2
+1793207010782 RECOVERY119 SCAN_BEGIN pass=3
+1793207010825 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207010884 RECOVERY119 SCAN_END pass=3
+1793207011189 RECOVERY119 SCAN_BEGIN pass=0
+1793207011239 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207011285 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793207011291 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207011308 RECOVERY119 SCAN_END pass=0
+1793207011309 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793207011313 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207011316 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793207011322 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207011325 NATIVE_QUEUE_START_RETURN=-1527611273
+1793207011344 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207011362 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207011564 RECOVERY119 SCAN_BEGIN pass=0
+1793207011582 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=6
+1793207011584 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207011624 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793207011643 RECOVERY119 SCAN_END pass=0
+1793207012648 RECOVERY119 SCAN_BEGIN pass=1
+1793207012670 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793207012673 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207012737 RECOVERY119 SCAN_END pass=1
+1793207012875 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:03:33 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793207012850], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793207012725]}
+1793207012892 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793207012900 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793207013151 RECOVERY119 SCAN_BEGIN pass=0
+1793207013261 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793207013269 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207013470 RECOVERY119 SCAN_END pass=0
+1793207014476 RECOVERY119 SCAN_BEGIN pass=1
+1793207014589 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207014759 RECOVERY119 SCAN_END pass=1
+1793207016765 RECOVERY119 SCAN_BEGIN pass=2
+1793207016879 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207016997 RECOVERY119 SCAN_END pass=2
+1793207022000 RECOVERY119 SCAN_BEGIN pass=3
+1793207022046 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207022102 RECOVERY119 SCAN_END pass=3
+1793207022408 RECOVERY119 SCAN_BEGIN pass=0
+1793207022451 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207022481 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793207022487 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207022500 RECOVERY119 SCAN_END pass=0
+1793207022506 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793207022509 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207022512 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793207022519 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207022522 NATIVE_QUEUE_START_RETURN=-1527611273
+1793207022539 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207022557 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207022760 RECOVERY119 SCAN_BEGIN pass=0
+1793207022773 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=6
+1793207022775 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207022814 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793207022831 RECOVERY119 SCAN_END pass=0
+1793207023835 RECOVERY119 SCAN_BEGIN pass=1
+1793207023852 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793207023856 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207023922 RECOVERY119 SCAN_END pass=1
+1793207024017 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7785], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:03:44 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793207023992], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793207023903]}
+1793207024034 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793207024041 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793207024292 RECOVERY119 SCAN_BEGIN pass=0
+1793207024398 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793207024404 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207024578 RECOVERY119 SCAN_END pass=0
+1793207025584 RECOVERY119 SCAN_BEGIN pass=1
+1793207025719 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207025898 RECOVERY119 SCAN_END pass=1
+1793207027907 RECOVERY119 SCAN_BEGIN pass=2
+1793207028020 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207028148 RECOVERY119 SCAN_END pass=2
+1793207033151 RECOVERY119 SCAN_BEGIN pass=3
+1793207033208 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207033268 RECOVERY119 SCAN_END pass=3
+1793207033564 RECOVERY119 SCAN_BEGIN pass=0
+1793207033612 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207033647 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793207033652 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207033666 RECOVERY119 SCAN_END pass=0
+1793207033669 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793207033672 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207033674 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793207033681 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207033684 NATIVE_QUEUE_START_RETURN=-1527611273
+1793207033705 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207033720 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207033923 RECOVERY119 SCAN_BEGIN pass=0
+1793207033935 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793207033938 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207033971 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793207033990 RECOVERY119 SCAN_END pass=0
+1793207034993 RECOVERY119 SCAN_BEGIN pass=1
+1793207035032 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207035116 RECOVERY119 SCAN_END pass=1
+1793207035222 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:03:56 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793207035201], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793207035093]}
+1793207035237 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793207035240 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793207035494 RECOVERY119 SCAN_BEGIN pass=0
+1793207035690 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793207035714 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207036228 RECOVERY119 SCAN_END pass=0
+1793207036239 RECOVERY119 PERF116_RECOVERY_MS=748
+1793207037252 RECOVERY119 SCAN_BEGIN pass=1
+1793207037399 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207037577 RECOVERY119 SCAN_END pass=1
+1793207039584 RECOVERY119 SCAN_BEGIN pass=2
+1793207039636 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207039685 RECOVERY119 SCAN_END pass=2
+1793207044688 RECOVERY119 SCAN_BEGIN pass=3
+1793207044731 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207044781 RECOVERY119 SCAN_END pass=3
+1793207045088 RECOVERY119 SCAN_BEGIN pass=0
+1793207045123 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207045150 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793207045155 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207045170 RECOVERY119 SCAN_END pass=0
+1793207045172 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793207045175 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207045180 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793207045189 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207045191 NATIVE_QUEUE_START_RETURN=-1527611273
+1793207045211 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207045224 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207045425 RECOVERY119 SCAN_BEGIN pass=0
+1793207045440 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=6
+1793207045441 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207045484 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793207045508 RECOVERY119 SCAN_END pass=0
+1793207046512 RECOVERY119 SCAN_BEGIN pass=1
+1793207046526 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793207046528 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207046575 RECOVERY119 SCAN_END pass=1
+1793207046733 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:04:07 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793207046713], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793207046621]}
+1793207046750 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793207046757 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793207047008 RECOVERY119 SCAN_BEGIN pass=0
+1793207047114 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793207047120 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207047303 RECOVERY119 SCAN_END pass=0
+1793207048310 RECOVERY119 SCAN_BEGIN pass=1
+1793207048434 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207048620 RECOVERY119 SCAN_END pass=1
+1793207050632 RECOVERY119 SCAN_BEGIN pass=2
+1793207050731 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207050837 RECOVERY119 SCAN_END pass=2
+1793207055840 RECOVERY119 SCAN_BEGIN pass=3
+1793207055881 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207055939 RECOVERY119 SCAN_END pass=3
+1793207056244 RECOVERY119 SCAN_BEGIN pass=0
+1793207056288 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207056333 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793207056339 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207056356 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793207056356 RECOVERY119 SCAN_END pass=0
+1793207056359 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207056362 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793207056369 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207056372 NATIVE_QUEUE_START_RETURN=-1527611273
+1793207056389 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207056403 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207056615 RECOVERY119 SCAN_BEGIN pass=0
+1793207056630 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=6
+1793207056632 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207056668 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793207056685 RECOVERY119 SCAN_END pass=0
+1793207057690 RECOVERY119 SCAN_BEGIN pass=1
+1793207057706 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793207057709 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207057760 RECOVERY119 SCAN_END pass=1
+1793207057806 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:04:18 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793207057778], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793207057683]}
+1793207057828 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793207057839 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793207058089 RECOVERY119 SCAN_BEGIN pass=0
+1793207058193 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793207058199 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207058399 RECOVERY119 SCAN_END pass=0
+1793207059406 RECOVERY119 SCAN_BEGIN pass=1
+1793207059524 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207059715 RECOVERY119 SCAN_END pass=1
+1793207061724 RECOVERY119 SCAN_BEGIN pass=2
+1793207061837 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207061934 RECOVERY119 SCAN_END pass=2
+1793207066940 RECOVERY119 SCAN_BEGIN pass=3
+1793207066986 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207067041 RECOVERY119 SCAN_END pass=3
+1793207067335 RECOVERY119 SCAN_BEGIN pass=0
+1793207067385 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207067415 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793207067419 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207067434 RECOVERY119 SCAN_END pass=0
+1793207067439 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793207067441 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207067443 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793207067446 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207067447 NATIVE_QUEUE_START_RETURN=-1527611273
+1793207067461 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207067477 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207067692 RECOVERY119 SCAN_BEGIN pass=0
+1793207067708 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793207067709 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207067741 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793207067759 RECOVERY119 SCAN_END pass=0
+1793207068756 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:04:29 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793207068739], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793207068644]}
+1793207068761 RECOVERY119 SCAN_BEGIN pass=1
+1793207068769 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793207068773 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793207068875 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793207068881 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207069088 RECOVERY119 SCAN_END pass=0
+1793207070093 RECOVERY119 SCAN_BEGIN pass=1
+1793207070187 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207070386 RECOVERY119 SCAN_END pass=1
+1793207072390 RECOVERY119 SCAN_BEGIN pass=2
+1793207072438 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207072500 RECOVERY119 SCAN_END pass=2
+1793207077503 RECOVERY119 SCAN_BEGIN pass=3
+1793207077535 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207077570 RECOVERY119 SCAN_END pass=3
+1793207077866 RECOVERY119 SCAN_BEGIN pass=0
+1793207077908 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207077934 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_RESUME_SUBMITTED state=PROGRESS
+1793207077935 STATE=task_ready taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207077947 RECOVERY119 QUEUE task=-1527611273 phase=ADMISSION_DURABLE
+1793207077949 STATE=start_requested taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207077950 RECOVERY119 SCAN_END pass=0
+1793207077951 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_SUBMIT
+1793207077956 NATIVE_QUEUE_SUBMIT taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207077958 NATIVE_QUEUE_START_RETURN=-1527611273
+1793207077986 STATE=DOWNLOAD_PENDING taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207078007 STATE=DOWNLOAD_STARTED taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D
+1793207078209 RECOVERY119 SCAN_BEGIN pass=0
+1793207078233 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_OWNED status=5
+1793207078253 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207078311 RECOVERY119 item=5949 task=-1527611273 phase=NATIVE_ACTIVE state=STARTED
+1793207078344 RECOVERY119 SCAN_END pass=0
+1793207078896 PORTABLE123 SAVED items=34
+1793207079348 RECOVERY119 SCAN_BEGIN pass=1
+1793207079355 STATE=DOWNLOAD_ERROR taskId=-1527611273 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136771&Signature=tirP9d1AL81ai2xJGbgvTSfWgvE%3D error=com.liulishuo.filedownloader.exception.FileDownloadHttpException: response code error: 403, 
+ request headers: {Range=[bytes=0-0], User-Agent=[FileDownloader/1.7.7]} 
+ response headers: {null=[HTTP/1.1 403 Forbidden], access-control-allow-origin=[*], age=[7784], content-length=[190], content-type=[application/xml], date=[Wed, 28 Oct 2026 17:04:40 GMT], server=[ATS/8.1.0], X-Android-Received-Millis=[1793207079333], X-Android-Response-Source=[NETWORK 403], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1793207079233]}
+1793207079364 RECOVERY119 QUEUE task=-1527611273 phase=TERMINAL_ERROR
+1793207079369 NATIVE_QUEUE_TERMINAL reason=ERROR taskId=-1527611273
+1793207079410 RECOVERY119 QUEUE task=-1527611273 phase=NATIVE_DB_OWNS_RETRY
+1793207079418 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207079544 RECOVERY119 SCAN_END pass=0
+1793207080551 RECOVERY119 SCAN_BEGIN pass=1
+1793207080585 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207080617 RECOVERY119 SCAN_END pass=1
+1793207082619 RECOVERY119 SCAN_BEGIN pass=2
+1793207082654 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207082698 RECOVERY119 SCAN_END pass=2
+1793207083552 RECOVERY119 QUEUE task=-1527611273 phase=USER_PAUSED
+1793207084045 PORTABLE123 SAVED items=34
+1793207087703 RECOVERY119 SCAN_BEGIN pass=3
+1793207087724 RECOVERY119 QUEUE task=-1527611273 phase=PAUSED_OR_DELETED
+1793207087727 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793207087760 RECOVERY119 item=5949 task=-1527611273 phase=PAUSED_OR_NO_RUN_INTENT state=PAUSED
+1793207087776 RECOVERY119 SCAN_END pass=3
+1793207089207 PORTABLE123 SAVED items=34
+1793207094185 STATE=task_ready taskId=-1955694338 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E116.mkv tag=null url=https://cdn.shabakaty.cc/vascin18/5BBAED84-E81E-EE28-BDA7-A3CA90A29BE5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793739885&Signature=GFHd%2BRgH0rP8Wd6OS3BpOehL6e8%3D
+1793207094343 PORTABLE123 SAVED items=34
+1793207097779 RECOVERY119 SCAN_BEGIN pass=4
+1793207097788 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793207097823 RECOVERY119 SCAN_END pass=4
+1793207107895 RECOVERY119 DEPENDENCY_PLAN_SAVED item=5949
+1793207107903 STATE=task_ready taskId=-55879473 path=/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].srt tag=null url=https://cnth2.shabakaty.cc/vascin-translation-files/109FA5DC-BEB6-4D9D-249A-185839367D9F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795724015&Signature=mDlRZRm9KLP3UGPk0M4rjEAgdWo%3D
+1793207107906 STATE=NATIVE_ADMISSION_ENTER113 taskId=-55879473 path=/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].srt tag=null url=https://cnth2.shabakaty.cc/vascin-translation-files/109FA5DC-BEB6-4D9D-249A-185839367D9F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795724015&Signature=mDlRZRm9KLP3UGPk0M4rjEAgdWo%3D
+1793207107916 RECOVERY119 QUEUE task=-55879473 phase=ADMISSION_DURABLE
+1793207107924 STATE=start_requested taskId=-55879473 path=/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].srt tag=null url=https://cnth2.shabakaty.cc/vascin-translation-files/109FA5DC-BEB6-4D9D-249A-185839367D9F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795724015&Signature=mDlRZRm9KLP3UGPk0M4rjEAgdWo%3D
+1793207107927 RECOVERY119 QUEUE task=-55879473 phase=NATIVE_SUBMIT
+1793207107932 NATIVE_QUEUE_SUBMIT taskId=-55879473 path=/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].srt
+1793207107936 NATIVE_QUEUE_START_RETURN=-55879473
+1793207107948 STATE=DOWNLOAD_COMPLETED taskId=-55879473 path=/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].srt tag=null url=https://cnth2.shabakaty.cc/vascin-translation-files/109FA5DC-BEB6-4D9D-249A-185839367D9F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795724015&Signature=mDlRZRm9KLP3UGPk0M4rjEAgdWo%3D
+1793207107952 RECOVERY119 QUEUE task=-55879473 phase=TERMINAL_COMPLETED
+1793207107948 STATE=task_ready taskId=1157083807 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793739656&Signature=N17p4Or1fuFZ8HX%2FbWSLQyFw%2Fxk%3D
+1793207107956 NATIVE_QUEUE_TERMINAL reason=COMPLETED taskId=-55879473
+1793207107958 STATE=NATIVE_ADMISSION_ENTER113 taskId=1157083807 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793739656&Signature=N17p4Or1fuFZ8HX%2FbWSLQyFw%2Fxk%3D
+1793207107968 STATE=DOWNLOAD_DB_COMPLETED_CONFIRMED taskId=-55879473 path=/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].srt tag=null url=https://cnth2.shabakaty.cc/vascin-translation-files/109FA5DC-BEB6-4D9D-249A-185839367D9F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795724015&Signature=mDlRZRm9KLP3UGPk0M4rjEAgdWo%3D
+1793207107973 RECOVERY119 QUEUE task=-55879473 phase=TERMINAL_DB_COMMITTED
+1793207107977 RECOVERY119 QUEUE task=1157083807 phase=ADMISSION_DURABLE
+1793207107981 RECOVERY119 QUEUE task=-55879473 phase=DB_COMMIT_ACKNOWLEDGED
+1793207107985 STATE=start_requested taskId=1157083807 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793739656&Signature=N17p4Or1fuFZ8HX%2FbWSLQyFw%2Fxk%3D
+1793207107988 RECOVERY119 QUEUE task=1157083807 phase=NATIVE_SUBMIT
+1793207107994 NATIVE_QUEUE_SUBMIT taskId=1157083807 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207107998 NATIVE_QUEUE_START_RETURN=1157083807
+1793207108027 STATE=DOWNLOAD_PENDING taskId=1157083807 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793739656&Signature=N17p4Or1fuFZ8HX%2FbWSLQyFw%2Fxk%3D
+1793207108055 STATE=DOWNLOAD_STARTED taskId=1157083807 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793739656&Signature=N17p4Or1fuFZ8HX%2FbWSLQyFw%2Fxk%3D
+1793207108149 RECOVERY119 SCAN_BEGIN pass=0
+1793207108183 RECOVERY119 QUEUE task=1157083807 phase=NATIVE_OWNED status=6
+1793207108186 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207108274 RECOVERY119 item=1 task=-55879473 phase=COMPLETED_SOURCE_MISSING_OR_NOT_VIDEO state=COMPLETED
+1793207108279 RECOVERY119 item=5949 task=1157083807 phase=NATIVE_ACTIVE state=STARTED
+1793207108293 RECOVERY119 SCAN_END pass=0
+1793207108589 RECOVERY119 SCAN_BEGIN pass=0
+1793207108618 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207108709 RECOVERY119 SCAN_END pass=0
+1793207108887 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=7582 total=238157615 percent=0 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207109525 PORTABLE123 SAVED items=34
+1793207109713 RECOVERY119 SCAN_BEGIN pass=1
+1793207109730 RECOVERY119 QUEUE task=1157083807 phase=NATIVE_OWNED status=3
+1793207109732 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207109776 RECOVERY119 item=5949 task=1157083807 phase=NATIVE_ACTIVE state=PROGRESS
+1793207109787 RECOVERY119 SCAN_END pass=1
+1793207111790 RECOVERY119 SCAN_BEGIN pass=2
+1793207111804 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207111851 RECOVERY119 SCAN_END pass=2
+1793207114661 PORTABLE123 SAVED items=34
+1793207114921 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=12196297 total=238157615 percent=5 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207116856 RECOVERY119 SCAN_BEGIN pass=3
+1793207116871 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207116914 RECOVERY119 SCAN_END pass=3
+1793207119815 PORTABLE123 SAVED items=34
+1793207120947 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=27662793 total=238157615 percent=11 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207124958 PORTABLE123 SAVED items=34
+1793207126918 RECOVERY119 SCAN_BEGIN pass=4
+1793207126938 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207126989 RECOVERY119 SCAN_END pass=4
+1793207127009 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=41507273 total=238157615 percent=17 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207127294 RECOVERY119 SCAN_BEGIN pass=0
+1793207127307 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207127357 RECOVERY119 SCAN_END pass=0
+1793207128360 RECOVERY119 SCAN_BEGIN pass=1
+1793207128373 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207128408 RECOVERY119 SCAN_END pass=1
+1793207130070 PORTABLE123 SAVED items=34
+1793207130410 RECOVERY119 SCAN_BEGIN pass=2
+1793207130423 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207130458 RECOVERY119 SCAN_END pass=2
+1793207133126 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=56826313 total=238157615 percent=23 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207135227 PORTABLE123 SAVED items=34
+1793207135464 RECOVERY119 SCAN_BEGIN pass=3
+1793207135487 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207135535 RECOVERY119 SCAN_END pass=3
+1793207137193 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=66984393 total=238157615 percent=28 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207140378 PORTABLE123 SAVED items=34
+1793207143252 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=80404480 total=238157615 percent=33 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207145540 RECOVERY119 SCAN_BEGIN pass=4
+1793207145573 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207145644 PORTABLE123 SAVED items=34
+1793207145689 RECOVERY119 SCAN_END pass=4
+1793207146010 RECOVERY119 SCAN_BEGIN pass=0
+1793207146025 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207146064 RECOVERY119 SCAN_END pass=0
+1793207147067 RECOVERY119 SCAN_BEGIN pass=1
+1793207147079 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207147112 RECOVERY119 SCAN_END pass=1
+1793207147281 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=90906624 total=238157615 percent=38 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207149114 RECOVERY119 SCAN_BEGIN pass=2
+1793207149132 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207149201 RECOVERY119 SCAN_END pass=2
+1793207150803 PORTABLE123 SAVED items=34
+1793207153337 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=105029632 total=238157615 percent=44 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207154211 RECOVERY119 SCAN_BEGIN pass=3
+1793207154233 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207154293 RECOVERY119 SCAN_END pass=3
+1793207155962 PORTABLE123 SAVED items=34
+1793207159383 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=116039680 total=238157615 percent=48 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207161098 PORTABLE123 SAVED items=34
+1793207164297 RECOVERY119 SCAN_BEGIN pass=4
+1793207164325 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207164379 RECOVERY119 SCAN_END pass=4
+1793207164690 RECOVERY119 SCAN_BEGIN pass=0
+1793207164715 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207164775 RECOVERY119 SCAN_END pass=0
+1793207165698 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=129458176 total=238157615 percent=54 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207165780 RECOVERY119 SCAN_BEGIN pass=1
+1793207165801 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207165876 RECOVERY119 SCAN_END pass=1
+1793207166244 PORTABLE123 SAVED items=34
+1793207167882 RECOVERY119 SCAN_BEGIN pass=2
+1793207167909 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207167966 RECOVERY119 SCAN_END pass=2
+1793207171407 PORTABLE123 SAVED items=34
+1793207172136 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=143302656 total=238157615 percent=60 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207172968 RECOVERY119 SCAN_BEGIN pass=3
+1793207172986 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207173028 RECOVERY119 SCAN_END pass=3
+1793207176532 PORTABLE123 SAVED items=34
+1793207178204 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=155230208 total=238157615 percent=65 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207181671 PORTABLE123 SAVED items=34
+1793207183032 RECOVERY119 SCAN_BEGIN pass=4
+1793207183052 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207183105 RECOVERY119 SCAN_END pass=4
+1793207183415 RECOVERY119 SCAN_BEGIN pass=0
+1793207183441 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207183507 RECOVERY119 SCAN_END pass=0
+1793207184237 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=168992768 total=238157615 percent=70 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207184511 RECOVERY119 SCAN_BEGIN pass=1
+1793207184526 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207184575 RECOVERY119 SCAN_END pass=1
+1793207186581 RECOVERY119 SCAN_BEGIN pass=2
+1793207186608 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207186672 RECOVERY119 SCAN_END pass=2
+1793207186808 PORTABLE123 SAVED items=34
+1793207188270 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=179052544 total=238157615 percent=75 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207191679 RECOVERY119 SCAN_BEGIN pass=3
+1793207191703 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207191759 RECOVERY119 SCAN_END pass=3
+1793207191966 PORTABLE123 SAVED items=34
+1793207194319 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=192061440 total=238157615 percent=80 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207197081 PORTABLE123 SAVED items=34
+1793207200481 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=206938112 total=238157615 percent=86 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207201765 RECOVERY119 SCAN_BEGIN pass=4
+1793207201790 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207201848 RECOVERY119 SCAN_END pass=4
+1793207202150 RECOVERY119 SCAN_BEGIN pass=0
+1793207202164 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207202209 RECOVERY119 SCAN_END pass=0
+1793207202223 PORTABLE123 SAVED items=34
+1793207203216 RECOVERY119 SCAN_BEGIN pass=1
+1793207203234 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207203292 RECOVERY119 SCAN_END pass=1
+1793207205299 RECOVERY119 SCAN_BEGIN pass=2
+1793207205319 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207205370 RECOVERY119 SCAN_END pass=2
+1793207206494 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=219176960 total=238157615 percent=92 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207207350 PORTABLE123 SAVED items=34
+1793207210376 RECOVERY119 SCAN_BEGIN pass=3
+1793207210398 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207210451 RECOVERY119 SCAN_END pass=3
+1793207212492 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=232792064 total=238157615 percent=97 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207212517 PORTABLE123 SAVED items=34
+1793207214583 STATE=DOWNLOAD_COMPLETED taskId=1157083807 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793739656&Signature=N17p4Or1fuFZ8HX%2FbWSLQyFw%2Fxk%3D
+1793207214588 RECOVERY119 QUEUE task=1157083807 phase=TERMINAL_COMPLETED
+1793207214592 NATIVE_QUEUE_TERMINAL reason=COMPLETED taskId=1157083807
+1793207214592 STATE=DOWNLOAD_DB_COMPLETED_CONFIRMED taskId=1157083807 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793739656&Signature=N17p4Or1fuFZ8HX%2FbWSLQyFw%2Fxk%3D
+1793207214602 RECOVERY119 QUEUE task=1157083807 phase=TERMINAL_DB_COMMITTED
+1793207214619 RECOVERY119 QUEUE task=1157083807 phase=DB_COMMIT_ACKNOWLEDGED
+1793207214741 STATE=MKV_UI_QUEUED_IMMEDIATE taskId=1157083807 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793739656&Signature=N17p4Or1fuFZ8HX%2FbWSLQyFw%2Fxk%3D
+1793207214760 MKV_READY token=27kz37wg0rernkrkgtgy
+1793207214827 RECOVERY119 INPUTS114_VERIFIED token=27kz37wg0rernkrkgtgy count=1
+1793207214842 RECOVERY119 MUX115_ACQUIRED target=ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207214845 RECOVERY119 SCAN_BEGIN pass=0
+1793207214863 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793207214883 RECOVERY119 INPUTS114_VERIFIED token=27kz37wg0rernkrkgtgy count=1
+1793207214927 RECOVERY119 item=5949 task=1157083807 phase=MKV_NATIVE_ACTIVE state=COMPLETED
+1793207214950 RECOVERY119 SCAN_END pass=0
+1793207215260 RECOVERY119 SCAN_BEGIN pass=0
+1793207215271 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793207215329 RECOVERY119 SCAN_END pass=0
+1793207216334 RECOVERY119 SCAN_BEGIN pass=1
+1793207216347 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793207216395 RECOVERY119 SCAN_END pass=1
+1793207216920 RECOVERY119 MUX115_RELEASED target=ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207217186 PORTABLE123 SAVED items=35
+1793207218402 RECOVERY119 SCAN_BEGIN pass=2
+1793207218421 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793207218756 RECOVERY119 restart_committed108
+1793207218759 RECOVERY119 item=5949 task=1157083807 phase=TRANSACTION_RECONCILED_OR_ACTIVE state=COMPLETED
+1793207218769 RECOVERY119 SCAN_END pass=2
+1793207219207 PORTABLE123 SAVED items=35
+1793207223775 RECOVERY119 SCAN_BEGIN pass=3
+1793207223816 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793207224019 RECOVERY119 SCAN_END pass=3
+1793207234028 RECOVERY119 SCAN_BEGIN pass=4
+1793207234077 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793207234217 RECOVERY119 item=5949 task=1157083807 phase=FINAL_COMMIT_UNCHANGED state=COMPLETED
+1793207234240 RECOVERY119 SCAN_END pass=4
+1793207254244 RECOVERY119 SCAN_BEGIN pass=5
+1793207254265 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793207254315 RECOVERY119 SCAN_END pass=5
+1793207262846 PORTABLE123 SAVED items=34
+1793207268693 CA1 session=962eeb5d-8a78-42b9-8726-03a914fb6016 stage=enqueue_plan work=5785 count=1 cap=1080
+1793207268715 CA1 session=962eeb5d-8a78-42b9-8726-03a914fb6016 stage=enqueue_dispatch work=5785 id=5949 quality=720p bytes=238157615 url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4
+1793207268729 RECOVERY119 DEPENDENCY_PLAN_SAVED item=5949
+1793207268735 STATE=task_ready taskId=-55879473 path=/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].srt tag=null url=https://cnth2.shabakaty.cc/vascin-translation-files/109FA5DC-BEB6-4D9D-249A-185839367D9F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795724015&Signature=mDlRZRm9KLP3UGPk0M4rjEAgdWo%3D
+1793207268737 STATE=NATIVE_ADMISSION_ENTER113 taskId=-55879473 path=/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].srt tag=null url=https://cnth2.shabakaty.cc/vascin-translation-files/109FA5DC-BEB6-4D9D-249A-185839367D9F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795724015&Signature=mDlRZRm9KLP3UGPk0M4rjEAgdWo%3D
+1793207268750 RECOVERY119 QUEUE task=-55879473 phase=ADMISSION_DURABLE
+1793207268761 STATE=start_requested taskId=-55879473 path=/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].srt tag=null url=https://cnth2.shabakaty.cc/vascin-translation-files/109FA5DC-BEB6-4D9D-249A-185839367D9F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795724015&Signature=mDlRZRm9KLP3UGPk0M4rjEAgdWo%3D
+1793207268765 RECOVERY119 QUEUE task=-55879473 phase=NATIVE_SUBMIT
+1793207268771 NATIVE_QUEUE_SUBMIT taskId=-55879473 path=/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].srt
+1793207268774 NATIVE_QUEUE_START_RETURN=-55879473
+1793207268779 CA1 session=962eeb5d-8a78-42b9-8726-03a914fb6016 stage=enqueue_admitted work=5785 id=5949
+1793207268785 STATE=task_ready taskId=1157083807 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793739656&Signature=N17p4Or1fuFZ8HX%2FbWSLQyFw%2Fxk%3D
+1793207268790 CA1 session=962eeb5d-8a78-42b9-8726-03a914fb6016 stage=enqueue_complete work=5785 accepted=1 failed=0 count=1
+1793207268792 STATE=NATIVE_ADMISSION_ENTER113 taskId=1157083807 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793739656&Signature=N17p4Or1fuFZ8HX%2FbWSLQyFw%2Fxk%3D
+1793207268808 RECOVERY119 QUEUE task=1157083807 phase=ADMISSION_DURABLE
+1793207268819 STATE=DOWNLOAD_PENDING taskId=-55879473 path=/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].srt tag=null url=https://cnth2.shabakaty.cc/vascin-translation-files/109FA5DC-BEB6-4D9D-249A-185839367D9F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795724015&Signature=mDlRZRm9KLP3UGPk0M4rjEAgdWo%3D
+1793207268819 STATE=start_requested taskId=1157083807 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793739656&Signature=N17p4Or1fuFZ8HX%2FbWSLQyFw%2Fxk%3D
+1793207268823 RECOVERY119 QUEUE task=1157083807 phase=NATIVE_SUBMIT
+1793207268829 NATIVE_QUEUE_SUBMIT taskId=1157083807 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207268832 NATIVE_QUEUE_START_RETURN=1157083807
+1793207268867 STATE=DOWNLOAD_STARTED taskId=-55879473 path=/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].srt tag=null url=https://cnth2.shabakaty.cc/vascin-translation-files/109FA5DC-BEB6-4D9D-249A-185839367D9F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795724015&Signature=mDlRZRm9KLP3UGPk0M4rjEAgdWo%3D
+1793207268887 STATE=DOWNLOAD_PENDING taskId=1157083807 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793739656&Signature=N17p4Or1fuFZ8HX%2FbWSLQyFw%2Fxk%3D
+1793207268890 STATE=DOWNLOAD_STARTED taskId=1157083807 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793739656&Signature=N17p4Or1fuFZ8HX%2FbWSLQyFw%2Fxk%3D
+1793207268983 RECOVERY119 SCAN_BEGIN pass=0
+1793207269002 RECOVERY119 QUEUE task=1157083807 phase=NATIVE_OWNED status=6
+1793207269005 RECOVERY119 QUEUE task=-55879473 phase=NATIVE_OWNED status=6
+1793207269007 RECOVERY119 QUEUE_SCAN requests=2 connected=true
+1793207269057 RECOVERY119 item=1 task=-55879473 phase=NATIVE_ACTIVE state=STARTED
+1793207269063 RECOVERY119 item=5949 task=1157083807 phase=NATIVE_ACTIVE state=STARTED
+1793207269078 RECOVERY119 SCAN_END pass=0
+1793207269183 STATE=DOWNLOAD_PROGRESS taskId=-55879473 bytes=7642 total=18897 percent=40 path=/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].srt
+1793207269212 STATE=DOWNLOAD_COMPLETED taskId=-55879473 path=/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].srt tag=null url=https://cnth2.shabakaty.cc/vascin-translation-files/109FA5DC-BEB6-4D9D-249A-185839367D9F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795724015&Signature=mDlRZRm9KLP3UGPk0M4rjEAgdWo%3D
+1793207269219 RECOVERY119 QUEUE task=-55879473 phase=TERMINAL_COMPLETED
+1793207269222 STATE=DOWNLOAD_DB_COMPLETED_CONFIRMED taskId=-55879473 path=/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].srt tag=null url=https://cnth2.shabakaty.cc/vascin-translation-files/109FA5DC-BEB6-4D9D-249A-185839367D9F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795724015&Signature=mDlRZRm9KLP3UGPk0M4rjEAgdWo%3D
+1793207269222 NATIVE_QUEUE_TERMINAL reason=COMPLETED taskId=-55879473
+1793207269227 RECOVERY119 QUEUE task=-55879473 phase=TERMINAL_DB_COMMITTED
+1793207269243 RECOVERY119 QUEUE task=-55879473 phase=DB_COMMIT_ACKNOWLEDGED
+1793207269362 RECOVERY119 SCAN_BEGIN pass=0
+1793207269378 RECOVERY119 QUEUE task=1157083807 phase=NATIVE_OWNED status=2
+1793207269380 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207269417 RECOVERY119 item=1 task=-55879473 phase=COMPLETED_SOURCE_MISSING_OR_NOT_VIDEO state=COMPLETED
+1793207269430 RECOVERY119 SCAN_END pass=0
+1793207269748 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=7582 total=238157615 percent=0 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207270432 RECOVERY119 SCAN_BEGIN pass=1
+1793207270450 RECOVERY119 QUEUE task=1157083807 phase=NATIVE_OWNED status=3
+1793207270454 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207270513 RECOVERY119 item=5949 task=1157083807 phase=NATIVE_ACTIVE state=PROGRESS
+1793207270524 RECOVERY119 SCAN_END pass=1
+1793207272527 RECOVERY119 SCAN_BEGIN pass=2
+1793207272539 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207272597 RECOVERY119 SCAN_END pass=2
+1793207272991 PORTABLE123 SAVED items=34
+1793207275778 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=16701897 total=238157615 percent=7 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207277602 RECOVERY119 SCAN_BEGIN pass=3
+1793207277623 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207277675 RECOVERY119 SCAN_END pass=3
+1793207278131 PORTABLE123 SAVED items=34
+1793207281823 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=33020361 total=238157615 percent=13 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207283291 PORTABLE123 SAVED items=34
+1793207285843 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=43456969 total=238157615 percent=18 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207287678 RECOVERY119 SCAN_BEGIN pass=4
+1793207287694 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207287736 RECOVERY119 SCAN_END pass=4
+1793207288044 RECOVERY119 SCAN_BEGIN pass=0
+1793207288063 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207288144 RECOVERY119 SCAN_END pass=0
+1793207288407 PORTABLE123 SAVED items=34
+1793207289148 RECOVERY119 SCAN_BEGIN pass=1
+1793207289162 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207289198 RECOVERY119 SCAN_END pass=1
+1793207291201 RECOVERY119 SCAN_BEGIN pass=2
+1793207291219 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207291262 RECOVERY119 SCAN_END pass=2
+1793207291911 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=59939273 total=238157615 percent=25 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207293533 PORTABLE123 SAVED items=34
+1793207296265 RECOVERY119 SCAN_BEGIN pass=3
+1793207296286 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207296340 RECOVERY119 SCAN_END pass=3
+1793207297948 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=74719179 total=238157615 percent=31 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207298654 PORTABLE123 SAVED items=34
+1793207303805 PORTABLE123 SAVED items=34
+1793207304034 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=88088576 total=238157615 percent=36 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207306350 RECOVERY119 SCAN_BEGIN pass=4
+1793207306371 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207306412 RECOVERY119 SCAN_END pass=4
+1793207306716 RECOVERY119 SCAN_BEGIN pass=0
+1793207306750 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207306811 RECOVERY119 SCAN_END pass=0
+1793207307821 RECOVERY119 SCAN_BEGIN pass=1
+1793207307840 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207307886 RECOVERY119 SCAN_END pass=1
+1793207308036 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=98762752 total=238157615 percent=41 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207308959 PORTABLE123 SAVED items=34
+1793207309889 RECOVERY119 SCAN_BEGIN pass=2
+1793207309914 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207309966 RECOVERY119 SCAN_END pass=2
+1793207314075 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=110927872 total=238157615 percent=46 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207314128 PORTABLE123 SAVED items=34
+1793207314970 RECOVERY119 SCAN_BEGIN pass=3
+1793207314987 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207315042 RECOVERY119 SCAN_END pass=3
+1793207318103 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=121790464 total=238157615 percent=51 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207319292 PORTABLE123 SAVED items=34
+1793207324155 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=135143424 total=238157615 percent=56 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207324456 PORTABLE123 SAVED items=34
+1793207325051 RECOVERY119 SCAN_BEGIN pass=4
+1793207325074 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207325127 RECOVERY119 SCAN_END pass=4
+1793207325439 RECOVERY119 SCAN_BEGIN pass=0
+1793207325457 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207325508 RECOVERY119 SCAN_END pass=0
+1793207326514 RECOVERY119 SCAN_BEGIN pass=1
+1793207326537 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207326590 RECOVERY119 SCAN_END pass=1
+1793207328597 RECOVERY119 SCAN_BEGIN pass=2
+1793207328615 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207328677 RECOVERY119 SCAN_END pass=2
+1793207329619 PORTABLE123 SAVED items=34
+1793207330269 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=149692416 total=238157615 percent=62 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207333682 RECOVERY119 SCAN_BEGIN pass=3
+1793207333704 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207333754 RECOVERY119 SCAN_END pass=3
+1793207334294 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=159866880 total=238157615 percent=67 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207334749 PORTABLE123 SAVED items=34
+1793207339881 PORTABLE123 SAVED items=34
+1793207340308 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=174481408 total=238157615 percent=73 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207343757 RECOVERY119 SCAN_BEGIN pass=4
+1793207343770 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207343817 RECOVERY119 SCAN_END pass=4
+1793207344112 RECOVERY119 SCAN_BEGIN pass=0
+1793207344125 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207344171 RECOVERY119 SCAN_END pass=0
+1793207345018 PORTABLE123 SAVED items=34
+1793207345175 RECOVERY119 SCAN_BEGIN pass=1
+1793207345190 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207345239 RECOVERY119 SCAN_END pass=1
+1793207346393 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=191373312 total=238157615 percent=80 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207347244 RECOVERY119 SCAN_BEGIN pass=2
+1793207347266 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207347322 RECOVERY119 SCAN_END pass=2
+1793207350150 PORTABLE123 SAVED items=34
+1793207352324 RECOVERY119 SCAN_BEGIN pass=3
+1793207352343 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207352387 RECOVERY119 SCAN_END pass=3
+1793207352445 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=203481088 total=238157615 percent=85 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207355289 PORTABLE123 SAVED items=34
+1793207358537 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=218456064 total=238157615 percent=91 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207360422 PORTABLE123 SAVED items=34
+1793207362389 RECOVERY119 SCAN_BEGIN pass=4
+1793207362406 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207362451 RECOVERY119 SCAN_END pass=4
+1793207362747 RECOVERY119 SCAN_BEGIN pass=0
+1793207362760 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207362828 RECOVERY119 SCAN_END pass=0
+1793207363834 RECOVERY119 SCAN_BEGIN pass=1
+1793207363850 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207363905 RECOVERY119 SCAN_END pass=1
+1793207364578 STATE=DOWNLOAD_PROGRESS taskId=1157083807 bytes=232448000 total=238157615 percent=97 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207365562 PORTABLE123 SAVED items=34
+1793207365909 RECOVERY119 SCAN_BEGIN pass=2
+1793207365929 RECOVERY119 QUEUE_SCAN requests=1 connected=true
+1793207365976 RECOVERY119 SCAN_END pass=2
+1793207366863 STATE=DOWNLOAD_COMPLETED taskId=1157083807 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793739656&Signature=N17p4Or1fuFZ8HX%2FbWSLQyFw%2Fxk%3D
+1793207366867 RECOVERY119 QUEUE task=1157083807 phase=TERMINAL_COMPLETED
+1793207366868 STATE=DOWNLOAD_DB_COMPLETED_CONFIRMED taskId=1157083807 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793739656&Signature=N17p4Or1fuFZ8HX%2FbWSLQyFw%2Fxk%3D
+1793207366869 NATIVE_QUEUE_TERMINAL reason=COMPLETED taskId=1157083807
+1793207366871 RECOVERY119 QUEUE task=1157083807 phase=TERMINAL_DB_COMMITTED
+1793207366889 RECOVERY119 QUEUE task=1157083807 phase=DB_COMMIT_ACKNOWLEDGED
+1793207367122 RECOVERY119 SCAN_BEGIN pass=0
+1793207367151 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793207367183 STATE=MKV_UI_QUEUED_IMMEDIATE taskId=1157083807 path=/storage/emulated/0/Cinemana/work/ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4 tag=null url=https://cdn.shabakaty.cc/vascin16-mp4/FA8F88EF-24C3-DAD5-2E75-1546ADA40F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793739656&Signature=N17p4Or1fuFZ8HX%2FbWSLQyFw%2Fxk%3D
+1793207367227 MKV_READY token=27kz37wg0rernkrkgtgy
+1793207367402 RECOVERY119 INPUTS114_VERIFIED token=27kz37wg0rernkrkgtgy count=1
+1793207367418 RECOVERY119 MUX115_ACQUIRED target=ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207367438 RECOVERY119 item=5949 task=1157083807 phase=MKV_NATIVE_ACTIVE state=COMPLETED
+1793207367480 RECOVERY119 SCAN_END pass=0
+1793207367548 RECOVERY119 INPUTS114_VERIFIED token=27kz37wg0rernkrkgtgy count=1
+1793207368492 RECOVERY119 SCAN_BEGIN pass=1
+1793207368517 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793207368688 RECOVERY119 SCAN_END pass=1
+1793207369741 RECOVERY119 INPUTS114_VERIFIED token=27kz37wg0rernkrkgtgy count=1
+1793207370694 RECOVERY119 SCAN_BEGIN pass=2
+1793207370727 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793207371123 RECOVERY119 SCAN_END pass=2
+1793207371133 PORTABLE123 SAVED items=34
+1793207373345 RECOVERY119 MUX115_RELEASED target=ناروتو S01 E145 [cnm-27kz37wg0rernkrkgtgy].mp4
+1793207373969 PORTABLE123 SAVED items=35
+1793207376130 RECOVERY119 SCAN_BEGIN pass=3
+1793207376147 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793207377493 RECOVERY119 restart_committed108
+1793207377496 RECOVERY119 item=5949 task=1157083807 phase=TRANSACTION_RECONCILED_OR_ACTIVE state=COMPLETED
+1793207377520 RECOVERY119 SCAN_END pass=3
+1793207377524 RECOVERY119 PERF116_RECOVERY_MS=1395
+1793207378275 PORTABLE123 SAVED items=35
+1793207387530 RECOVERY119 SCAN_BEGIN pass=4
+1793207387576 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793207387747 RECOVERY119 SCAN_END pass=4
+1793207407755 RECOVERY119 SCAN_BEGIN pass=5
+1793207407793 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793207407926 RECOVERY119 item=5949 task=1157083807 phase=FINAL_COMMIT_UNCHANGED state=COMPLETED
+1793207407954 RECOVERY119 SCAN_END pass=5
+1793207447959 RECOVERY119 SCAN_BEGIN pass=6
+1793207447993 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793207448060 RECOVERY119 SCAN_END pass=6
+1793207451686 PORTABLE123 SAVED items=35
+1793207466853 PORTABLE123 SAVED items=35
+1793207471999 PORTABLE123 SAVED items=35
+1793207477138 PORTABLE123 SAVED items=35
+1793207482307 PORTABLE123 SAVED items=35
+1793207487485 PORTABLE123 SAVED items=35
+1793207492836 PORTABLE123 SAVED items=35
+1793207497970 PORTABLE123 SAVED items=35
+1793207503116 PORTABLE123 SAVED items=35
+1793207508240 PORTABLE123 SAVED items=35
+1793207513365 PORTABLE123 SAVED items=35
+1793207518503 PORTABLE123 SAVED items=35
+1793207523818 PORTABLE123 SAVED items=35
+1793207528067 RECOVERY119 SCAN_BEGIN pass=7
+1793207528087 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793207528153 RECOVERY119 SCAN_END pass=7
+1793207528947 PORTABLE123 SAVED items=35
+1793207534091 PORTABLE123 SAVED items=35
+1793207539245 PORTABLE123 SAVED items=35
+1793207544467 PORTABLE123 SAVED items=35
+1793207549711 PORTABLE123 SAVED items=35
+1793207554889 PORTABLE123 SAVED items=35
+1793207560044 PORTABLE123 SAVED items=35
+1793207565220 PORTABLE123 SAVED items=35
+1793207575371 PORTABLE123 SAVED items=35
+1793207580508 PORTABLE123 SAVED items=35
+1793207585653 PORTABLE123 SAVED items=35
+1793207590860 PORTABLE123 SAVED items=35
+1793207596008 PORTABLE123 SAVED items=35
+1793207611194 PORTABLE123 SAVED items=35
+1793207616337 PORTABLE123 SAVED items=35
+1793207621483 PORTABLE123 SAVED items=35
+1793207631648 PORTABLE123 SAVED items=35
+1793207636787 PORTABLE123 SAVED items=35
+1793207641931 PORTABLE123 SAVED items=35
+1793207647086 PORTABLE123 SAVED items=35
+1793207648156 RECOVERY119 SCAN_BEGIN pass=8
+1793207648171 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793207648307 RECOVERY119 SCAN_END pass=8
+1793207652252 PORTABLE123 SAVED items=35
+1793207657399 PORTABLE123 SAVED items=35
+1793207662593 PORTABLE123 SAVED items=35
+1793207667780 PORTABLE123 SAVED items=35
+1793207672958 PORTABLE123 SAVED items=35
+1793207678144 PORTABLE123 SAVED items=35
+1793207683614 PORTABLE123 SAVED items=35
+1793207688790 PORTABLE123 SAVED items=35
+1793207693983 PORTABLE123 SAVED items=35
+1793207699153 PORTABLE123 SAVED items=35
+1793207704327 PORTABLE123 SAVED items=35
+1793207709502 PORTABLE123 SAVED items=35
+1793207759743 PORTABLE123 SAVED items=35
+1793207764876 PORTABLE123 SAVED items=35
+1793207768310 RECOVERY119 SCAN_BEGIN pass=9
+1793207768326 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793207768376 RECOVERY119 SCAN_END pass=9
+1793207770018 PORTABLE123 SAVED items=35
+1793207775159 PORTABLE123 SAVED items=35
+1793207780293 PORTABLE123 SAVED items=35
+1793207785441 PORTABLE123 SAVED items=35
+1793207888379 RECOVERY119 SCAN_BEGIN pass=10
+1793207888408 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793207888570 RECOVERY119 SCAN_END pass=10
+1793208008598 RECOVERY119 SCAN_BEGIN pass=11
+1793208008738 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793208009233 RECOVERY119 SCAN_END pass=11
+1793208009257 RECOVERY119 PERF116_RECOVERY_MS=668
+1793208129269 RECOVERY119 SCAN_BEGIN pass=12
+1793208129321 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793208129665 RECOVERY119 SCAN_END pass=12
+1793208249678 RECOVERY119 SCAN_BEGIN pass=13
+1793208249744 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793208250197 RECOVERY119 SCAN_END pass=13
+1793208250206 RECOVERY119 PERF116_RECOVERY_MS=530
+1793208370213 RECOVERY119 SCAN_BEGIN pass=14
+1793208370253 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793208370438 RECOVERY119 SCAN_END pass=14
+1793208490451 RECOVERY119 SCAN_BEGIN pass=15
+1793208490649 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793208491089 RECOVERY119 SCAN_END pass=15
+1793208491103 RECOVERY119 PERF116_RECOVERY_MS=654
+1793208611120 RECOVERY119 SCAN_BEGIN pass=16
+1793208611222 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793208611485 RECOVERY119 SCAN_END pass=16
+1793208731500 RECOVERY119 SCAN_BEGIN pass=17
+1793208731538 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793208731686 RECOVERY119 SCAN_END pass=17
+1793208851693 RECOVERY119 SCAN_BEGIN pass=18
+1793208851736 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793208851898 RECOVERY119 SCAN_END pass=18
+1793208971904 RECOVERY119 SCAN_BEGIN pass=19
+1793208971949 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793208972124 RECOVERY119 SCAN_END pass=19
+1793209092131 RECOVERY119 SCAN_BEGIN pass=20
+1793209092171 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793209092421 RECOVERY119 SCAN_END pass=20
+1793209212436 RECOVERY119 SCAN_BEGIN pass=21
+1793209212513 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793209212747 RECOVERY119 SCAN_END pass=21
+1793209332764 RECOVERY119 SCAN_BEGIN pass=22
+1793209332844 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793209333082 RECOVERY119 SCAN_END pass=22
+1793209453089 RECOVERY119 SCAN_BEGIN pass=23
+1793209453121 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793209453317 RECOVERY119 SCAN_END pass=23
+1793209573324 RECOVERY119 SCAN_BEGIN pass=24
+1793209573470 RECOVERY119 QUEUE_SCAN requests=0 connected=true
+1793209573706 RECOVERY119 SCAN_END pass=24
