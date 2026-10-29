@@ -159,3 +159,86 @@
 1793290782637	LOCAL_ACCOUNT	api_local operation=a
 1793290782645	LOCAL_ACCOUNT	poster_begin key=49a2a12 source=true thumbnail=true
 1793290782645	LOCAL_ACCOUNT	poster_ready key=49a2a12
+1793293517257	LOCAL_ACCOUNT	build=PATCH277
+1793293517322	LOCAL_ACCOUNT	account_storage shared=true
+1793293517762	LOCAL_ACCOUNT	foreground_episode_scan_requested
+1793293524278	LOCAL_ACCOUNT	api_local operation=l
+1793293524278	LOCAL_ACCOUNT	highlight_local id=3133004 count=0
+1793293524280	LOCAL_ACCOUNT	poster_begin key=5f64d611 source=true thumbnail=true
+1793293524306	LOCAL_ACCOUNT	poster_begin key=5f64d611 source=true thumbnail=true
+1793293524338	LOCAL_ACCOUNT	poster_ready key=5f64d611
+1793293524606	LOCAL_ACCOUNT	detail_begin id=3133004
+1793293524607	LOCAL_ACCOUNT	http_begin route=allVideoInfo id=3133004
+1793293524664	LOCAL_ACCOUNT	http_result route=allVideoInfo id=3133004 status=200
+1793293524669	LOCAL_ACCOUNT	http_begin route=transcoddedFiles id=3133004
+1793293524671	LOCAL_ACCOUNT	detail_result id=3133004 kind=2 root=0 poster=true elapsed_ms=66
+1793293524720	LOCAL_ACCOUNT	http_result route=transcoddedFiles id=3133004 status=200
+1793293524725	LOCAL_ACCOUNT	api_local operation=a
+1793293524729	LOCAL_ACCOUNT	api_local operation=p
+1793293524729	LOCAL_ACCOUNT	season_begin id=3133004
+1793293524729	LOCAL_ACCOUNT	http_begin route=videoSeason id=3133004
+1793293524735	LOCAL_ACCOUNT	poster_begin key=5f64d611 source=true thumbnail=true
+1793293524736	LOCAL_ACCOUNT	poster_ready key=5f64d611
+1793293524773	LOCAL_ACCOUNT	http_result route=videoSeason id=3133004 status=200
+1793293524809	LOCAL_ACCOUNT	season_result id=3133004 count=8 elapsed_ms=81
+1793293534555	LOCAL_ACCOUNT	api_local operation=l
+1793293534555	LOCAL_ACCOUNT	highlight_local id=1319570 count=0
+1793293534556	LOCAL_ACCOUNT	poster_begin key=6bd7dcd4 source=true thumbnail=true
+1793293534572	LOCAL_ACCOUNT	poster_begin key=6bd7dcd4 source=true thumbnail=true
+1793293534743	LOCAL_ACCOUNT	poster_ready key=6bd7dcd4
+1793293534871	LOCAL_ACCOUNT	detail_begin id=1319570
+1793293534872	LOCAL_ACCOUNT	http_begin route=allVideoInfo id=1319570
+1793293534912	LOCAL_ACCOUNT	http_result route=allVideoInfo id=1319570 status=200
+1793293534916	LOCAL_ACCOUNT	http_begin route=transcoddedFiles id=1319570
+1793293534917	LOCAL_ACCOUNT	detail_result id=1319570 kind=2 root=0 poster=true elapsed_ms=46
+1793293534964	LOCAL_ACCOUNT	http_result route=transcoddedFiles id=1319570 status=200
+1793293534970	LOCAL_ACCOUNT	api_local operation=a
+1793293534975	LOCAL_ACCOUNT	season_begin id=1319570
+1793293534975	LOCAL_ACCOUNT	api_local operation=p
+1793293534975	LOCAL_ACCOUNT	http_begin route=videoSeason id=1319570
+1793293534975	LOCAL_ACCOUNT	poster_begin key=6bd7dcd4 source=true thumbnail=true
+1793293534976	LOCAL_ACCOUNT	poster_ready key=6bd7dcd4
+1793293535014	LOCAL_ACCOUNT	http_result route=videoSeason id=1319570 status=200
+1793293535089	LOCAL_ACCOUNT	season_result id=1319570 count=39 elapsed_ms=114
+1793293535557	LOCAL_ACCOUNT	detail_begin id=1319570
+1793293535557	LOCAL_ACCOUNT	http_begin route=allVideoInfo id=1319570
+1793293535562	LOCAL_ACCOUNT	http_result route=allVideoInfo id=1319570 status=200
+1793293535571	LOCAL_ACCOUNT	detail_result id=1319570 kind=2 root=0 poster=true elapsed_ms=14
+1793293538414	LOCAL_ACCOUNT	categories_filtered kept=41 total=50
+1793293540258	LOCAL_ACCOUNT	categories_filtered kept=41 total=50
+1793293545929	LOCAL_ACCOUNT	api_local operation=q
+1793293574177	LOCAL_ACCOUNT	foreground_episode_scan_requested
+1793293576852	LOCAL_ACCOUNT	poster_begin key=49a2a12 source=true thumbnail=true
+1793293576867	LOCAL_ACCOUNT	poster_begin key=49a2a12 source=true thumbnail=true
+1793293576878	LOCAL_ACCOUNT	poster_ready key=49a2a12
+1793293577153	LOCAL_ACCOUNT	detail_begin id=3153695
+1793293577154	LOCAL_ACCOUNT	http_begin route=allVideoInfo id=3153695
+1793293577557	LOCAL_ACCOUNT	http_result route=allVideoInfo id=3153695 status=200
+1793293577561	LOCAL_ACCOUNT	http_begin route=transcoddedFiles id=3153695
+1793293577562	LOCAL_ACCOUNT	detail_result id=3153695 kind=1 root=0 poster=true elapsed_ms=410
+1793293577729	LOCAL_ACCOUNT	http_result route=transcoddedFiles id=3153695 status=200
+1793293577732	LOCAL_ACCOUNT	api_local operation=a
+1793293611113	LOCAL_ACCOUNT	poster_begin key=b60fc4d4 source=true thumbnail=true
+1793293611129	LOCAL_ACCOUNT	poster_begin key=b60fc4d4 source=true thumbnail=true
+1793293611354	LOCAL_ACCOUNT	poster_ready key=b60fc4d4
+1793293611411	LOCAL_ACCOUNT	detail_begin id=3129338
+1793293611412	LOCAL_ACCOUNT	http_begin route=allVideoInfo id=3129338
+1793293611464	LOCAL_ACCOUNT	http_result route=allVideoInfo id=3129338 status=200
+1793293611467	LOCAL_ACCOUNT	http_begin route=transcoddedFiles id=3129338
+1793293611475	LOCAL_ACCOUNT	detail_result id=3129338 kind=1 root=0 poster=true elapsed_ms=65
+1793293611518	LOCAL_ACCOUNT	http_result route=transcoddedFiles id=3129338 status=200
+1793293611520	LOCAL_ACCOUNT	api_local operation=a
+1793293611530	LOCAL_ACCOUNT	poster_begin key=b60fc4d4 source=true thumbnail=true
+1793293611532	LOCAL_ACCOUNT	poster_ready key=b60fc4d4
+1793293629028	LOCAL_ACCOUNT	poster_begin key=49a2a12 source=true thumbnail=true
+1793293629045	LOCAL_ACCOUNT	poster_begin key=49a2a12 source=true thumbnail=true
+1793293629061	LOCAL_ACCOUNT	poster_ready key=49a2a12
+1793293629327	LOCAL_ACCOUNT	detail_begin id=3153695
+1793293629328	LOCAL_ACCOUNT	http_begin route=allVideoInfo id=3153695
+1793293629332	LOCAL_ACCOUNT	http_result route=allVideoInfo id=3153695 status=200
+1793293629338	LOCAL_ACCOUNT	detail_result id=3153695 kind=1 root=0 poster=true elapsed_ms=10
+1793293629339	LOCAL_ACCOUNT	http_begin route=transcoddedFiles id=3153695
+1793293629341	LOCAL_ACCOUNT	http_result route=transcoddedFiles id=3153695 status=200
+1793293629342	LOCAL_ACCOUNT	api_local operation=a
+1793293629365	LOCAL_ACCOUNT	poster_begin key=49a2a12 source=true thumbnail=true
+1793293629366	LOCAL_ACCOUNT	poster_ready key=49a2a12
