@@ -10,3 +10,15 @@
 {"utc_ms":1793287852206,"elapsed_ms":793575719,"pid":4761,"thread":"CA1-work-names","session":"enhancements","stage":"work_name_resolved","detail":"root=3133004 title=حبك نار"}
 {"utc_ms":1793287852210,"elapsed_ms":793575722,"pid":4761,"thread":"main","session":"enhancements","stage":"sort_changed","detail":"mode=0 descending=false"}
 {"utc_ms":1793287852354,"elapsed_ms":793575867,"pid":4761,"thread":"main","session":"enhancements","stage":"subtitle_size_apply","detail":"sp=20.0 px=47.25"}
+{"utc_ms":1793288642439,"elapsed_ms":794365952,"pid":9233,"thread":"main","session":"app","stage":"log_init","detail":"build=CA1.6 external=\/storage\/emulated\/0\/Cinemana\/work\/log\/ca1_batch.jsonl fallback=\/data\/user\/0\/com.cinemana.pro\/files\/log\/ca1_batch.jsonl"}
+{"utc_ms":1793288642439,"elapsed_ms":794365952,"pid":9233,"thread":"main","session":"enhancements","stage":"entry_install","detail":"root=androidx.coordinatorlayout.widget.CoordinatorLayout"}
+{"utc_ms":1793288642440,"elapsed_ms":794365953,"pid":9233,"thread":"main","session":"enhancements","stage":"entry_visibility","detail":"attempt=0 found=true kind= id= episodes=-1 visible=false shown=false parents=MaterialTextView:8\/ConstraintLayout:0\/NestedScrollView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/FragmentContainerView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/"}
+{"utc_ms":1793288643592,"elapsed_ms":794367105,"pid":9233,"thread":"main","session":"enhancements","stage":"subtitle_size_apply","detail":"sp=20.0 px=47.25"}
+{"utc_ms":1793288644594,"elapsed_ms":794368107,"pid":9233,"thread":"main","session":"enhancements","stage":"entry_install","detail":"root=androidx.coordinatorlayout.widget.CoordinatorLayout"}
+{"utc_ms":1793288644595,"elapsed_ms":794368107,"pid":9233,"thread":"main","session":"enhancements","stage":"entry_visibility","detail":"attempt=0 found=true kind= id= episodes=-1 visible=false shown=false parents=MaterialTextView:8\/ConstraintLayout:0\/NestedScrollView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/FragmentContainerView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/"}
+{"utc_ms":1793288645351,"elapsed_ms":794368864,"pid":9233,"thread":"main","session":"enhancements","stage":"subtitle_size_apply","detail":"sp=20.0 px=47.25"}
+{"utc_ms":1793288656598,"elapsed_ms":794380110,"pid":9233,"thread":"main","session":"enhancements","stage":"profile_cleanup","detail":"help share discover removed"}
+{"utc_ms":1793288658534,"elapsed_ms":794382047,"pid":9233,"thread":"main","session":"enhancements","stage":"profile_cleanup","detail":"help share discover removed"}
+{"utc_ms":1793288659422,"elapsed_ms":794382934,"pid":9233,"thread":"main","session":"enhancements","stage":"profile_cleanup","detail":"help share discover removed"}
+{"utc_ms":1793288659972,"elapsed_ms":794383485,"pid":9233,"thread":"main","session":"enhancements","stage":"sort_install","detail":"anchor=false"}
+{"utc_ms":1793288660557,"elapsed_ms":794384070,"pid":9233,"thread":"main","session":"enhancements","stage":"profile_cleanup","detail":"help share discover removed"}
