@@ -6952,3 +6952,80 @@
 {"utc_ms":1793358145368,"elapsed_ms":863867868,"pid":16285,"thread":"main","session":"enhancements","stage":"sort_install","detail":"anchor=false"}
 {"utc_ms":1793358489103,"elapsed_ms":864211603,"pid":16285,"thread":"cnm-mkv-queue-3","session":"enhancements","stage":"episode_ready_notification105","detail":"5674:-96613917"}
 {"utc_ms":1793359042680,"elapsed_ms":864765180,"pid":16285,"thread":"dependencies112","session":"enhancements","stage":"dependency_item_error119","detail":"continue watching","error":"java.io.IOException: ambiguous exact native subtitle task\n\tat com.shabakaty.cinemana.ca1.Dependencies112.recover(Dependencies112.java:112)\n\tat com.shabakaty.cinemana.ca1.Dependencies112.lambda$scan$1(Dependencies112.java:70)\n\tat com.shabakaty.cinemana.ca1.Dependencies112$$ExternalSyntheticLambda3.run(D8$$SyntheticClass:8)\n\tat java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1100)\n\tat java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)\n\tat java.lang.Thread.run(Thread.java:1571)\n"}
+{"utc_ms":1793362094203,"elapsed_ms":867816703,"pid":24914,"thread":"main","session":"app","stage":"log_init","detail":"build=CA1.6 external=\/storage\/emulated\/0\/Cinemana\/work\/log\/ca1_batch.jsonl fallback=\/data\/user\/0\/com.cinemana.pro\/files\/log\/ca1_batch.jsonl"}
+{"utc_ms":1793362094203,"elapsed_ms":867816703,"pid":24914,"thread":"main","session":"enhancements","stage":"entry_install","detail":"root=androidx.coordinatorlayout.widget.CoordinatorLayout"}
+{"utc_ms":1793362094204,"elapsed_ms":867816704,"pid":24914,"thread":"main","session":"enhancements","stage":"entry_visibility","detail":"attempt=0 found=true kind= id= episodes=-1 visible=false shown=false parents=MaterialTextView:8\/ConstraintLayout:0\/NestedScrollView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/FragmentContainerView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/"}
+{"utc_ms":1793362095546,"elapsed_ms":867818046,"pid":24914,"thread":"main","session":"enhancements","stage":"subtitle_size_apply","detail":"sp=20.0 px=47.25"}
+{"utc_ms":1793362096452,"elapsed_ms":867818952,"pid":24914,"thread":"main","session":"enhancements","stage":"entry_install","detail":"root=androidx.coordinatorlayout.widget.CoordinatorLayout"}
+{"utc_ms":1793362096453,"elapsed_ms":867818953,"pid":24914,"thread":"main","session":"enhancements","stage":"entry_visibility","detail":"attempt=0 found=true kind= id= episodes=-1 visible=false shown=false parents=MaterialTextView:8\/ConstraintLayout:0\/NestedScrollView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/FragmentContainerView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/"}
+{"utc_ms":1793362097420,"elapsed_ms":867819920,"pid":24914,"thread":"main","session":"enhancements","stage":"subtitle_size_apply","detail":"sp=20.0 px=47.25"}
+{"utc_ms":1793362103612,"elapsed_ms":867826112,"pid":24914,"thread":"main","session":"enhancements","stage":"entry_install","detail":"root=androidx.coordinatorlayout.widget.CoordinatorLayout"}
+{"utc_ms":1793362103613,"elapsed_ms":867826113,"pid":24914,"thread":"main","session":"enhancements","stage":"entry_visibility","detail":"attempt=0 found=true kind= id= episodes=-1 visible=false shown=false parents=MaterialTextView:8\/ConstraintLayout:0\/NestedScrollView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/FragmentContainerView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/"}
+{"utc_ms":1793362106474,"elapsed_ms":867828974,"pid":24914,"thread":"main","session":"enhancements","stage":"profile_cleanup","detail":"help share discover removed"}
+{"utc_ms":1793362108449,"elapsed_ms":867830949,"pid":24914,"thread":"main","session":"enhancements","stage":"sort_install","detail":"anchor=false"}
+{"utc_ms":1793362108979,"elapsed_ms":867831479,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18432"}
+{"utc_ms":1793362108981,"elapsed_ms":867831481,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18433"}
+{"utc_ms":1793362108984,"elapsed_ms":867831483,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18434"}
+{"utc_ms":1793362108987,"elapsed_ms":867831487,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18435"}
+{"utc_ms":1793362108989,"elapsed_ms":867831489,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18436"}
+{"utc_ms":1793362108991,"elapsed_ms":867831491,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18437"}
+{"utc_ms":1793362108994,"elapsed_ms":867831494,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18438"}
+{"utc_ms":1793362108997,"elapsed_ms":867831497,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18439"}
+{"utc_ms":1793362108998,"elapsed_ms":867831498,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18440"}
+{"utc_ms":1793362109000,"elapsed_ms":867831500,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18441"}
+{"utc_ms":1793362109002,"elapsed_ms":867831502,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18442"}
+{"utc_ms":1793362109003,"elapsed_ms":867831503,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18443"}
+{"utc_ms":1793362109004,"elapsed_ms":867831504,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18444"}
+{"utc_ms":1793362109006,"elapsed_ms":867831506,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18445"}
+{"utc_ms":1793362109006,"elapsed_ms":867831506,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18446"}
+{"utc_ms":1793362109007,"elapsed_ms":867831507,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18447"}
+{"utc_ms":1793362109012,"elapsed_ms":867831512,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18448"}
+{"utc_ms":1793362109013,"elapsed_ms":867831513,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18449"}
+{"utc_ms":1793362109015,"elapsed_ms":867831515,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18450"}
+{"utc_ms":1793362109017,"elapsed_ms":867831517,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18451"}
+{"utc_ms":1793362109019,"elapsed_ms":867831519,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18452"}
+{"utc_ms":1793362109022,"elapsed_ms":867831522,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18453"}
+{"utc_ms":1793362109024,"elapsed_ms":867831523,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18454"}
+{"utc_ms":1793362109026,"elapsed_ms":867831526,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18455"}
+{"utc_ms":1793362109028,"elapsed_ms":867831528,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18456"}
+{"utc_ms":1793362109031,"elapsed_ms":867831530,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18457"}
+{"utc_ms":1793362109032,"elapsed_ms":867831532,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18458"}
+{"utc_ms":1793362109035,"elapsed_ms":867831535,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18459"}
+{"utc_ms":1793362109036,"elapsed_ms":867831536,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18460"}
+{"utc_ms":1793362109038,"elapsed_ms":867831538,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18461"}
+{"utc_ms":1793362109039,"elapsed_ms":867831539,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18462"}
+{"utc_ms":1793362109040,"elapsed_ms":867831540,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18463"}
+{"utc_ms":1793362109041,"elapsed_ms":867831541,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18464"}
+{"utc_ms":1793362109044,"elapsed_ms":867831544,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18465"}
+{"utc_ms":1793362109045,"elapsed_ms":867831545,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18466"}
+{"utc_ms":1793362109047,"elapsed_ms":867831547,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18467"}
+{"utc_ms":1793362109048,"elapsed_ms":867831548,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18468"}
+{"utc_ms":1793362109053,"elapsed_ms":867831553,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18469"}
+{"utc_ms":1793362109056,"elapsed_ms":867831556,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18496"}
+{"utc_ms":1793362109058,"elapsed_ms":867831558,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18470"}
+{"utc_ms":1793362109061,"elapsed_ms":867831561,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18471"}
+{"utc_ms":1793362109063,"elapsed_ms":867831563,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18473"}
+{"utc_ms":1793362109065,"elapsed_ms":867831565,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18472"}
+{"utc_ms":1793362109067,"elapsed_ms":867831567,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18474"}
+{"utc_ms":1793362109070,"elapsed_ms":867831570,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18475"}
+{"utc_ms":1793362109072,"elapsed_ms":867831572,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18476"}
+{"utc_ms":1793362109074,"elapsed_ms":867831574,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18477"}
+{"utc_ms":1793362109075,"elapsed_ms":867831575,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18479"}
+{"utc_ms":1793362109078,"elapsed_ms":867831578,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18480"}
+{"utc_ms":1793362109080,"elapsed_ms":867831580,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18478"}
+{"utc_ms":1793362109084,"elapsed_ms":867831584,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18483"}
+{"utc_ms":1793362109086,"elapsed_ms":867831586,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18485"}
+{"utc_ms":1793362109087,"elapsed_ms":867831587,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18484"}
+{"utc_ms":1793362109091,"elapsed_ms":867831591,"pid":24914,"thread":"DefaultDispatcher-worker-8","session":"enhancements","stage":"resync_missing_preserved","detail":"18486"}
+{"utc_ms":1793362109094,"elapsed_ms":867831594,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18487"}
+{"utc_ms":1793362109096,"elapsed_ms":867831596,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18489"}
+{"utc_ms":1793362109098,"elapsed_ms":867831598,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18491"}
+{"utc_ms":1793362109099,"elapsed_ms":867831599,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18492"}
+{"utc_ms":1793362109100,"elapsed_ms":867831600,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18493"}
+{"utc_ms":1793362109103,"elapsed_ms":867831602,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18494"}
+{"utc_ms":1793362109103,"elapsed_ms":867831603,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18495"}
+{"utc_ms":1793362109104,"elapsed_ms":867831604,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18488"}
+{"utc_ms":1793362109106,"elapsed_ms":867831605,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18481"}
+{"utc_ms":1793362109107,"elapsed_ms":867831606,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18490"}
+{"utc_ms":1793362109108,"elapsed_ms":867831608,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18482"}
+{"utc_ms":1793362134623,"elapsed_ms":867857123,"pid":24914,"thread":"main","session":"enhancements","stage":"profile_cleanup","detail":"help share discover removed"}

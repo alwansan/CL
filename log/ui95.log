@@ -8414,3 +8414,199 @@
 1793358262736	LOCAL_ACCOUNT	poster_ready key=86687558
 1793358263213	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
 1793358263216	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362090584	LOCAL_ACCOUNT	build=PATCH280
+1793362090597	LOCAL_ACCOUNT	account_storage shared=true
+1793362090974	LOCAL_ACCOUNT	foreground_episode_scan_requested
+1793362091362	LOCAL_ACCOUNT	episode_http status=200
+1793362091748	LOCAL_ACCOUNT	episodes_reconciled count=0
+1793362091753	LOCAL_ACCOUNT	subscription_checked id=5661 previous=220 fetched=220 new=0 baseline=220
+1793362091825	LOCAL_ACCOUNT	scan_complete checked=1 total=1 cursor=0
+1793362091835	LOCAL_ACCOUNT	notifications_delivered count=0
+1793362091841	LOCAL_ACCOUNT	notifications_delivered count=0
+1793362094206	LOCAL_ACCOUNT	api_local operation=l
+1793362094206	LOCAL_ACCOUNT	highlight_local id=3133463 count=0
+1793362094208	LOCAL_ACCOUNT	poster_begin key=69702c17 source=true thumbnail=true
+1793362094251	LOCAL_ACCOUNT	poster_begin key=69702c17 source=true thumbnail=true
+1793362094309	LOCAL_ACCOUNT	poster_ready key=69702c17
+1793362094550	LOCAL_ACCOUNT	detail_begin id=3133463
+1793362094552	LOCAL_ACCOUNT	http_begin route=allVideoInfo id=3133463
+1793362094605	LOCAL_ACCOUNT	http_result route=allVideoInfo id=3133463 status=200
+1793362094608	LOCAL_ACCOUNT	http_begin route=transcoddedFiles id=3133463
+1793362094615	LOCAL_ACCOUNT	detail_result id=3133463 kind=2 root=0 poster=true elapsed_ms=66
+1793362094650	LOCAL_ACCOUNT	http_result route=transcoddedFiles id=3133463 status=200
+1793362094653	LOCAL_ACCOUNT	api_local operation=a
+1793362094659	LOCAL_ACCOUNT	season_begin id=3133463
+1793362094660	LOCAL_ACCOUNT	api_local operation=p
+1793362094660	LOCAL_ACCOUNT	http_begin route=videoSeason id=3133463
+1793362094668	LOCAL_ACCOUNT	poster_begin key=69702c17 source=true thumbnail=true
+1793362094670	LOCAL_ACCOUNT	poster_ready key=69702c17
+1793362094704	LOCAL_ACCOUNT	http_result route=videoSeason id=3133463 status=200
+1793362094707	LOCAL_ACCOUNT	season_result id=3133463 count=7 elapsed_ms=48
+1793362096455	LOCAL_ACCOUNT	api_local operation=l
+1793362096456	LOCAL_ACCOUNT	highlight_local id=3133463 count=0
+1793362096457	LOCAL_ACCOUNT	poster_begin key=69702c17 source=true thumbnail=true
+1793362096457	LOCAL_ACCOUNT	poster_ready key=69702c17
+1793362096475	LOCAL_ACCOUNT	poster_begin key=69702c17 source=true thumbnail=true
+1793362096476	LOCAL_ACCOUNT	poster_ready key=69702c17
+1793362096775	LOCAL_ACCOUNT	detail_begin id=3133463
+1793362096777	LOCAL_ACCOUNT	http_begin route=allVideoInfo id=3133463
+1793362096784	LOCAL_ACCOUNT	http_result route=allVideoInfo id=3133463 status=200
+1793362096787	LOCAL_ACCOUNT	detail_result id=3133463 kind=2 root=0 poster=true elapsed_ms=13
+1793362096790	LOCAL_ACCOUNT	http_begin route=transcoddedFiles id=3133463
+1793362096795	LOCAL_ACCOUNT	http_result route=transcoddedFiles id=3133463 status=200
+1793362096799	LOCAL_ACCOUNT	api_local operation=a
+1793362096804	LOCAL_ACCOUNT	season_begin id=3133463
+1793362096805	LOCAL_ACCOUNT	api_local operation=p
+1793362096806	LOCAL_ACCOUNT	http_begin route=videoSeason id=3133463
+1793362096807	LOCAL_ACCOUNT	poster_begin key=69702c17 source=true thumbnail=true
+1793362096809	LOCAL_ACCOUNT	poster_ready key=69702c17
+1793362096813	LOCAL_ACCOUNT	http_result route=videoSeason id=3133463 status=200
+1793362096821	LOCAL_ACCOUNT	season_result id=3133463 count=7 elapsed_ms=17
+1793362103617	LOCAL_ACCOUNT	poster_begin key=45de35a3 source=true thumbnail=true
+1793362103641	LOCAL_ACCOUNT	poster_begin key=45de35a3 source=true thumbnail=true
+1793362103693	LOCAL_ACCOUNT	poster_ready key=45de35a3
+1793362103919	LOCAL_ACCOUNT	detail_begin id=3153647
+1793362103922	LOCAL_ACCOUNT	http_begin route=allVideoInfo id=3153647
+1793362103972	LOCAL_ACCOUNT	http_result route=allVideoInfo id=3153647 status=200
+1793362103975	LOCAL_ACCOUNT	http_begin route=transcoddedFiles id=3153647
+1793362103977	LOCAL_ACCOUNT	detail_result id=3153647 kind=1 root=0 poster=true elapsed_ms=58
+1793362104018	LOCAL_ACCOUNT	http_result route=transcoddedFiles id=3153647 status=200
+1793362104024	LOCAL_ACCOUNT	api_local operation=a
+1793362104030	LOCAL_ACCOUNT	poster_begin key=45de35a3 source=true thumbnail=true
+1793362104031	LOCAL_ACCOUNT	poster_ready key=45de35a3
+1793362108742	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362108743	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362108744	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362108745	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362108746	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362108747	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362108748	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362108748	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362108750	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362108750	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362108752	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362108752	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362108833	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362108834	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362108838	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362108839	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362108841	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362108841	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362108844	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362108844	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362108846	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362108846	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362108847	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362108847	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362109616	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362109618	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362109755	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362109793	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362109795	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362109822	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362109823	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362109827	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362109827	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362109830	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362109830	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362109833	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362109835	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362109856	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362109856	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362109857	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362109858	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362109874	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362109875	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362109948	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362109948	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362111135	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362112023	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362112024	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362112025	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362112025	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362112028	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362112029	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362112031	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362112032	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362112033	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362112033	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362112036	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362112037	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362112040	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362112040	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362113202	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362113206	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362113549	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362113551	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362114127	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362114128	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362114858	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362114863	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362115203	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362115205	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362115208	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362115208	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362115210	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362115210	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362115212	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362115212	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362115214	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362115214	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362115215	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362115216	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362118643	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362118644	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362118649	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362118650	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362118655	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362118657	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362118661	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362118662	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362118667	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362118668	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362121966	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362121967	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362121970	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362121970	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362121971	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362121972	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362121973	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362121974	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362121975	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362121975	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362125147	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362125147	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362125148	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362125149	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362125150	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362125150	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362125151	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362125151	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362125152	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362125152	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362128732	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362128733	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362128737	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362128738	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362128740	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362128740	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362128742	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362128742	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362128746	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362128747	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362132482	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362132483	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362132485	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362132485	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362132486	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362132487	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362132488	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362132489	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362132490	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362132491	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362133884	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362133887	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362134135	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362134138	LOCAL_ACCOUNT	poster_ready key=86687558
+1793362134552	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
+1793362134554	LOCAL_ACCOUNT	poster_ready key=86687558
