@@ -1,0 +1,335 @@
+SDK: 35
+PRODUCT_NAME: mondrian_global
+DEVICE_NAME: mondrian
+BOARD_NAME: taro
+SUPPORTED_ABIS: arm64-v8a, armeabi-v7a, armeabi
+MANUFACTURER: Xiaomi
+BRAND: POCO
+MODEL: 23013PC75G
+
+APP_NAME: سينمانا برو
+PACKAGE: com.cinemana.pro
+VERSION_NAME: 6.0.0
+VERSION_CODE: 50382
+
+1793369647.835  1000  2679 29202 E ActivityManager: ANR in com.cinemana.pro
+1793369647.835  1000  2679 29202 E ActivityManager: PID: 29013
+1793369647.835  1000  2679 29202 E ActivityManager: Reason: Process ProcessRecord{8ca775c 29013:com.cinemana.pro/u0a3008} failed to complete startup
+1793369647.835  1000  2679 29202 E ActivityManager: ErrorId: 47982819-dc73-46e2-8f7f-dfd26f8018dd
+1793369647.835  1000  2679 29202 E ActivityManager: Frozen: false
+1793369647.835  1000  2679 29202 E ActivityManager: Board Sensor Temperature: 42433
+1793369647.835  1000  2679 29202 E ActivityManager: Current cpu freq: [cpu0: 1804800, cpu1: 1804800, cpu2: 1804800, cpu3: 1804800, cpu4: 1440000, cpu5: 1440000, cpu6: 1440000, cpu7: 1401600]
+1793369647.835  1000  2679 29202 E ActivityManager: Load: 0.0 / 0.0 / 0.0
+1793369647.835  1000  2679 29202 E ActivityManager: ----- Output from /proc/pressure/memory -----
+1793369647.835  1000  2679 29202 E ActivityManager: some avg10=0.49 avg60=0.81 avg300=1.56 total=4921984661
+1793369647.835  1000  2679 29202 E ActivityManager: full avg10=0.00 avg60=0.11 avg300=0.30 total=1869238349
+1793369647.835  1000  2679 29202 E ActivityManager: ----- End output from /proc/pressure/memory -----
+1793369647.835  1000  2679 29202 E ActivityManager: ----- Output from /proc/pressure/cpu -----
+1793369647.835  1000  2679 29202 E ActivityManager: some avg10=39.22 avg60=39.36 avg300=42.66 total=79969506097
+1793369647.835  1000  2679 29202 E ActivityManager: ----- End output from /proc/pressure/cpu -----
+1793369647.835  1000  2679 29202 E ActivityManager: ----- Output from /proc/pressure/io -----
+1793369647.835  1000  2679 29202 E ActivityManager: some avg10=0.62 avg60=0.55 avg300=1.17 total=5594469685
+1793369647.835  1000  2679 29202 E ActivityManager: full avg10=0.00 avg60=0.04 avg300=0.28 total=2792274631
+1793369647.835  1000  2679 29202 E ActivityManager: ----- End output from /proc/pressure/io -----
+1793369647.835  1000  2679 29202 E ActivityManager: CPU usage from 49346ms to -13ms ago (٢٠٢٦-١٠-٣٠ ١٧:١٣:١٨.٠٥٢ to ٢٠٢٦-١٠-٣٠ ١٧:١٤:٠٧.٤١١):
+1793369647.835  1000  2679 29202 E ActivityManager:   92% 8102/com.openai.chatgpt: 74% user + 18% kernel / faults: 207831 minor 120 major
+1793369647.835  1000  2679 29202 E ActivityManager:     46% 12596/RenderThread: 40% user + 6.3% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     26% 8102/usap64: 22% user + 4.2% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     6.4% 12531/HeapTaskDaemon: 3.9% user + 2.4% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     2.5% 8726/DefaultDispatch: 2% user + 0.5% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     1.8% 14956/binder:8102_7: 0.8% user + 1% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     1.2% 12543/binder:8102_1: 0.5% user + 0.6% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     1.1% 10803/DefaultDispatch: 0.8% user + 0.3% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     1.1% 17333/FrameMetricsAgg: 0.6% user + 0.5% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     1% 12875/binder:8102_5: 0.5% user + 0.5% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0.8% 12549/binder:8102_3: 0.3% user + 0.4% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0.5% 12745/binder:8102_1: 0.1% user + 0.3% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0.4% 12637/SentryExecutorS: 0.2% user + 0.2% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0.4% 10853/DefaultDispatch: 0.3% user + 0.1% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0.3% 6244/DefaultDispatch: 0.2% user + 0.1% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0.1% 10852/DefaultDispatch: 0% user + 0% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0.1% 12780/network_thread : 0% user + 0.1% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0.1% 12782/worker_thread -: 0% user + 0% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0.1% 31392/DefaultDispatch: 0% user + 0% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0% 6243/DefaultDispatch: 0% user + 0% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0% 31257/DefaultDispatch: 0% user + 0% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0% 10806/DefaultDispatch: 0% user + 0% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0% 10814/DefaultDispatch: 0% user + 0% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0% 10855/DefaultDispatch: 0% user + 0% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0% 12538/ReferenceQueueD: 0% user + 0% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0% 17334/a3g0 Dispatcher: 0% user + 0% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0% 12601/DefaultExecutor: 0% user + 0% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0% 10771/a3g0 TaskRunner: 0% user + 0% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0% 10804/DefaultDispatch: 0% user + 0% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0% 12541/FinalizerDaemon: 0% user + 0% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0% 12719/datadog-storage: 0% user + 0% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0% 12746/datadog-rum-vit: 0% user + 0% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0% 12748/datadog-context: 0% user + 0% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0% 12749/a3g0 TaskRunner: 0% user + 0% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0% 12753/datadog-rum-pip: 0% user + 0% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0% 17275/8102-ScoutState: 0% user + 0% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0% 29368/DefaultDispatch: 0% user + 0% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0% 31256/DefaultDispatch: 0% user + 0% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:    +0% 29185/a3g0 Dispatcher: 0% user + 0% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:   83% 1626/surfaceflinger: 56% user + 27% kernel / faults: 2824 minor 27 major
+1793369647.835  1000  2679 29202 E ActivityManager:     35% 1626/surfaceflinger: 27% user + 7.2% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     22% 1938/RenderEngine: 16% user + 5.6% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     4.9% 2171/app: 1.8% user + 3% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     4.3% 2538/RelBufCB: 1.2% user + 3% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     3.3% 23554/binder:1626_5: 1.8% user + 1.5% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     2.7% 2169/TimerDispatch: 0.9% user + 1.8% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     2.6% 2537/BckgrndExec HP: 1.4% user + 1.1% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     2.3% 2974/binder:1626_4: 1.2% user + 1% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     1.5% 2972/binder:1626_3: 0.8% user + 0.7% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     1.5% 1916/binder:1626_2: 0.8% user + 0.6% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     1% 1915/binder:1626_1: 0.6% user + 0.4% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     1% 2174/RegionSampling: 0.2% user + 0.7% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0.1% 2173/appSf: 0% user + 0.1% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0.1% 2521/SF_TouchMonitor: 0% user + 0.1% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0% 2176/RegSampIdle: 0% user + 0% kernel
+1793369647.835  1000  2679 29202 E ActivityManager:     0% 2180/surfaceflinger: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 1937/surfaceflinger: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 2178/surfaceflinger: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 7104/1626-binder-1: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:   71% 26068/com.f0x1d.logfox: 35% user + 35% kernel / faults: 498919 minor 40 major
+1793369647.836  1000  2679 29202 E ActivityManager:     9.1% 27630/HeapTaskDaemon: 3.7% user + 5.4% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     7.1% 26068/usap64: 6.1% user + 1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     5.3% 27665/RenderThread: 3.7% user + 1.5% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     3.2% 24405/DefaultDispatch: 1.7% user + 1.4% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     3.1% 23474/DefaultDispatch: 1.4% user + 1.6% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     2.9% 16464/DefaultDispatch: 1.3% user + 1.6% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     2.8% 27654/DefaultDispatch: 1.3% user + 1.5% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     2.8% 27735/DefaultDispatch: 1.2% user + 1.6% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     2.8% 28731/DefaultDispatch: 1.2% user + 1.6% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     2.8% 24406/DefaultDispatch: 1.1% user + 1.6% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     2.8% 28796/DefaultDispatch: 1.2% user + 1.5% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     2.7% 24408/DefaultDispatch: 1.2% user + 1.4% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     2.7% 27652/DefaultDispatch: 1.1% user + 1.6% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     2.7% 27732/DefaultDispatch: 1.2% user + 1.5% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     2.7% 29171/DefaultDispatch: 1.1% user + 1.5% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     2.7% 22061/DefaultDispatch: 1.1% user + 1.5% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     2.7% 24404/DefaultDispatch: 1.1% user + 1.5% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     2.7% 28730/DefaultDispatch: 1.1% user + 1.5% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     2.7% 28795/DefaultDispatch: 1.1% user + 1.5% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     2.6% 24407/DefaultDispatch: 1% user + 1.6% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.7% 27631/ReferenceQueueD: 0.4% user + 0.2% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.4% 27651/binder:26068_4: 0.2% user + 0.2% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.2% 27684/DefaultExecutor: 0.1% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.2% 23478/binder:26068_7: 0% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 8385/binder:26068_6: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 27629/Jit thread pool: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 27632/FinalizerDaemon: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 27685/binder:26068_3: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 24413/binder:26068_8: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 27790/arch_disk_io_2: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:    +0% 28993/26068-ScoutStat: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:   47% 7777/com.google.android.providers.media.module: 20% user + 27% kernel / faults: 16315 minor 430 major
+1793369647.836  1000  2679 29202 E ActivityManager:     8.9% 7884/MediaDbOpsBackg: 0.6% user + 8.2% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     3.7% 25394/Thread-41807: 1.9% user + 1.7% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     3.6% 28025/Thread-41827: 1.8% user + 1.8% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     3.6% 25361/Thread-41801: 1.8% user + 1.8% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     3.6% 25833/Thread-41819: 1.7% user + 1.8% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     3.6% 28008/Thread-41826: 1.8% user + 1.7% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     3.5% 28026/Thread-41828: 1.7% user + 1.7% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     3.4% 25296/Thread-41798: 1.8% user + 1.5% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     3.4% 25748/Thread-41818: 1.7% user + 1.6% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     3.3% 28021/Thread-41825: 1.6% user + 1.7% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     3.2% 28016/Thread-41824: 1.6% user + 1.6% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     1.1% 24515/binder:7777_6: 0.6% user + 0.5% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.7% 7883/MediaBackground: 0.5% user + 0.2% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.5% 8005/binder:7777_4: 0.3% user + 0.2% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.3% 7925/fg: 0.2% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 7787/HeapTaskDaemon: 0.1% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 7788/ReferenceQueueD: 0.1% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 24644/binder:7777_7: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 7777/rs.media.module: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 8010/WM.task-2: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 8042/WM.task-3: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 8064/emulated;0: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 8070/WM.task-4: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:    +0% 28969/pool-4-thread-1: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:    +0% 28997/pool-4-thread-1: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:   46% 2679/system_server: 24% user + 21% kernel / faults: 55916 minor 911 major
+1793369647.836  1000  2679 29202 E ActivityManager:     3.3% 3868/MiuiMemoryServi: 0.4% user + 2.8% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     3.1% 9401/binder:2679_1C: 2.1% user + 1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     3.1% 2742/HeapTaskDaemon: 1% user + 2% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     2.9% 3637/InputDispatcher: 1.9% user + 0.9% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     2.2% 4939/binder:2679_8: 1.6% user + 0.6% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     2.1% 7085/binder:2679_15: 1.3% user + 0.8% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     2.1% 6051/binder:2679_10: 1.4% user + 0.6% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     2% 3893/SmartPowerServi: 0.1% user + 1.8% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     1.8% 7891/binder:2679_17: 1.2% user + 0.5% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     1.7% 5274/binder:2679_D: 1.1% user + 0.5% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     1.5% 3193/binder:2679_3: 1% user + 0.5% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     1.5% 2790/android.anim: 1% user + 0.5% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     1.5% 4536/binder:2679_6: 0.9% user + 0.5% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     1.4% 2752/binder:2679_2: 0.9% user + 0.5% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     1.4% 6396/binder:2679_14: 0.9% user + 0.5% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     1% 9476/binder:2679_20: 0.6% user + 0.3% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.9% 2789/android.display: 0.5% user + 0.3% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.8% 2819/ActivityManager: 0.4% user + 0.4% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.8% 2787/android.ui: 0.4% user + 0.3% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.8% 3638/InputReader: 0.5% user + 0.3% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.6% 5407/binder:2679_E: 0.3% user + 0.2% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.5% 3263/SensorService: 0.2% user + 0.3% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.5% 3409/miui-gesture: 0.1% user + 0.4% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.5% 3269/eduling.default: 0.4% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.5% 7554/binder:2679_16: 0.3% user + 0.2% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.4% 2679/system_server: 0.2% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.3% 4164/BarFollowAnimat: 0.1% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.3% 2769/BpfServicePoll: 0.1% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.3% 3268/roid.usagestats: 0.2% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.3% 3859/SchedBoostServi: 0.1% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.2% 2760/android.fg: 0% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.2% 2810/socket_writer_q: 0% user + 0.2% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.2% 3708/android.imms: 0% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.2% 2811/android.bg: 0.1% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.2% 3901/SmartPowerDispl: 0.1% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.2% 2770/BpfServiceTr: 0% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.2% 6357/binder:2679_13: 0.1% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 2859/OomAdjuster: 0% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 2876/batterystats-ha: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 3279/SettingsProvide: 0.1% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 3873/BpfClientLib: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 8646/binder:2679_1A: 0.1% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 2788/android.io: 0% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 3776/NetworkDetectIn: 0% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 3849/Greezer: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 2743/ReferenceQueueD: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 3768/WifiHandlerThre: 0.1% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 3783/ConnectivitySer: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 3763/NetworkStats: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 4163/TaskSnapshotPer: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 7963/LazyTaskWriterT: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 2948/bgres-controlle: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 3000/PackageManager: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 5144/MobileDataStats: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 2791/android.anim.lf: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 2965/PowerManagerSer: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 3580/UEventObserver: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 3639/HwBinder:2679_2: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 3765/tworkPolicy.uid: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 3836/shoulderKey: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 3903/ScenarioManager: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 4564/Thread-254: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 2744/FinalizerDaemon: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 2761/miui.bg: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 2815/miui.fg: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 2825/LowMemThread: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 2927/batterystats-wo: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 2952/FileObserver: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 3192/ArtService-BgTh: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 3352/AlarmManager: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 3408/miui_input_thre: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 3766/MiuiNetworkPoli: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 3853/ProcessManager: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 3867/stability_work_: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 3872/Thread-43: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 3904/SystemPluginHan: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 3917/CameraOpt_Dispa: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 3935/CamIntentAwareW: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 4118/shortcut: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 4132/Thread-253: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 4749/EventHandler: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 5206/MiuiActivityCon: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:    +0% 29121/Timer-32297: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:    +0% 29200/AnrMainProcessD: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:    +0% 29201/AnrMainProcessD: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:    +0% 29202/AnrConsumer: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:    +0% 29203/AnrAuxiliaryTas: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:   32% 4961/com.android.systemui: 22% user + 10% kernel / faults: 46023 minor 570 major
+1793369647.836  1000  2679 29202 E ActivityManager:     14% 5403/RenderThread: 10% user + 4.2% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     6.9% 4961/ndroid.systemui: 5.5% user + 1.3% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     5% 5145/wmshell.main: 3% user + 2% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     2.2% 5193/wmshell.anim: 1.4% user + 0.7% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.7% 5013/HeapTaskDaemon: 0.4% user + 0.3% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.4% 6524/binder:4961_A: 0.2% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.4% 5321/SysUiBg: 0.1% user + 0.2% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.4% 5358/binder:4961_4: 0.1% user + 0.2% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.3% 7692/binder:4961_10: 0.1% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.3% 5037/binder:4961_3: 0.1% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.2% 5021/binder:4961_1: 0.1% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.2% 28288/binder:4961_F: 0.1% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 6247/binder:4961_8: 0% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 6413/binder:4961_4: 0% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 5765/NotifInflation: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 5023/binder:4961_2: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 6015/binder:4961_6: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 5018/FinalizerDaemon: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 5594/pool-4-thread-1: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 5901/CCBackground: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 5012/Jit thread pool: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 5317/android.bg: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 5359/SystemUIBg-2: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 5478/SystemUIBg-3: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 5480/SystemUIBg-4: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 5481/SystemUIBg-5: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 5510/SystemUIBg-7: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 5536/plugin: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 6020/binder:4961_7: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 6169/hwuiTask1: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 12608/onetrack_upload: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:   31% 7943/com.miui.daemon: 24% user + 6.8% kernel / faults: 732400 minor 51551 major
+1793369647.836  1000  2679 29202 E ActivityManager:     23% 8805/mi_ad_pubsub_up: 19% user + 4.3% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     6.4% 7954/HeapTaskDaemon: 4.3% user + 2.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.7% 17421/Thread-9: 0.6% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.5% 7956/FinalizerDaemon: 0.5% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 7955/ReferenceQueueD: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 10475/binder:7943_5: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 17108/com.miui.daemon: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 7953/Jit thread pool: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 8415/MQSEventManager: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 8567/android.bg: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:   14% 1446/vendor.qti.hardware.display.composer-service: 7.9% user + 6.6% kernel / faults: 12492 minor
+1793369647.836  1000  2679 29202 E ActivityManager:     7.6% 1875/HwBinder:1446_2: 5.1% user + 2.5% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     6.8% 1606/composer-servic: 2.8% user + 4% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 1567/HWC_UeventThrea: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 7418/1446-HwBind-1: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 7419/1446-HwBind-2: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:   11% 18124/com.google.android.gms: 6.7% user + 4.9% kernel / faults: 24995 minor 43 major
+1793369647.836  1000  2679 29202 E ActivityManager:     3.2% 23620/actvpool[107]: 1.6% user + 1.6% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.9% 18124/gle.android.gms: 0.4% user + 0.5% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.6% 17834/SensorBatchThre: 0.4% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.6% 18134/HeapTaskDaemon: 0.2% user + 0.3% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.3% 26875/lowpool[5278]: 0.2% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.3% 18798/GoogleApiHandle: 0.1% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.2% 19462/CronetNet: 0.1% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 28827/lowpool[5298]: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 18139/binder:18124_1: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 19491/binder:18124_8: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 21164/binder:18124_10: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 20962/binder:18124_E: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 18873/binder:18124_6: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 21042/binder:18124_F: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 17463/highpool[436]: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 18135/ReferenceQueueD: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 18142/binder:18124_2: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 19010/queued-work-loo: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 19095/netscheduler-qu: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 19478/CronetFile: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 22682/highpool[437]: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:    +0% 29106/lowpool[5301]: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:    +0% 29133/Measurement Wor: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:    +0% 29139/Measurement Net: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:    +0% 29178/AdIdClientAutoD: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:    +0% 29179/lowpool[5302]: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:   9.6% 4481/com.mi.android.globallauncher: 7.2% user + 2.3% kernel / faults: 23123 minor 202 major
+1793369647.836  1000  2679 29202 E ActivityManager:     5% 5224/RenderThread: 4.2% user + 0.7% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     2.7% 4481/.globallauncher: 2% user + 0.7% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.7% 6269/Thread_ReloadTa: 0.4% user + 0.2% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.2% 1083/binder:4481_9: 0.1% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.2% 5357/binder:4481_4: 0.1% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 5002/HeapTaskDaemon: 0% user + 0.1% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 5462/binder:4481_5: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0.1% 5007/binder:4481_1: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 5477/binder:4481_5: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 5029/binder:4481_3: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 5003/ReferenceQueueD: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 5262/android.bg: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 5459/hwuiTask0: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 5460/hwuiTask1: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 7850/InteractionJank: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager:     0% 24199/MAML-LocalTask: 0% user + 0% kernel
+1793369647.836  1000  2679 29202 E ActivityManager: 71% TOTAL: 39% user + 27% kernel + 0.2% iowait + 4.2% irq + 0.3% softirq
+1793369647.836  1000  2679 29202 E ActivityManager: CPU usage from 625067022ms to 625067022ms ago (١٩٧٠-٠١-٠١ ٠٣:٠٠:٠٠.٠٠٠ to ١٩٧٠-٠١-٠١ ٠٣:٠٠:٠٠.٠٠٠) with 0% awake:
+1793369647.836  1000  2679 29202 E ActivityManager: 0% TOTAL: 0% user + 0% kernel
