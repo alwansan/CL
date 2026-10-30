@@ -7029,3 +7029,79 @@
 {"utc_ms":1793362109107,"elapsed_ms":867831606,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18490"}
 {"utc_ms":1793362109108,"elapsed_ms":867831608,"pid":24914,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18482"}
 {"utc_ms":1793362134623,"elapsed_ms":867857123,"pid":24914,"thread":"main","session":"enhancements","stage":"profile_cleanup","detail":"help share discover removed"}
+{"utc_ms":1793365229342,"elapsed_ms":870951842,"pid":16125,"thread":"main","session":"app","stage":"log_init","detail":"build=CA1.6 external=\/storage\/emulated\/0\/Cinemana\/work\/log\/ca1_batch.jsonl fallback=\/data\/user\/0\/com.cinemana.pro\/files\/log\/ca1_batch.jsonl"}
+{"utc_ms":1793365229343,"elapsed_ms":870951843,"pid":16125,"thread":"main","session":"enhancements","stage":"entry_install","detail":"root=androidx.coordinatorlayout.widget.CoordinatorLayout"}
+{"utc_ms":1793365229347,"elapsed_ms":870951847,"pid":16125,"thread":"main","session":"enhancements","stage":"entry_visibility","detail":"attempt=0 found=true kind= id= episodes=-1 visible=false shown=false parents=MaterialTextView:8\/ConstraintLayout:0\/NestedScrollView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/FragmentContainerView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/"}
+{"utc_ms":1793365232739,"elapsed_ms":870955239,"pid":16125,"thread":"main","session":"enhancements","stage":"subtitle_size_apply","detail":"sp=20.0 px=47.25"}
+{"utc_ms":1793365254824,"elapsed_ms":870977324,"pid":16125,"thread":"main","session":"enhancements","stage":"entry_install","detail":"root=androidx.coordinatorlayout.widget.CoordinatorLayout"}
+{"utc_ms":1793365254829,"elapsed_ms":870977329,"pid":16125,"thread":"main","session":"enhancements","stage":"entry_visibility","detail":"attempt=0 found=true kind= id= episodes=-1 visible=false shown=false parents=MaterialTextView:8\/ConstraintLayout:0\/NestedScrollView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/FragmentContainerView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/"}
+{"utc_ms":1793365258383,"elapsed_ms":870980883,"pid":16125,"thread":"main","session":"enhancements","stage":"subtitle_size_apply","detail":"sp=20.0 px=47.25"}
+{"utc_ms":1793365260284,"elapsed_ms":870982784,"pid":16125,"thread":"main","session":"enhancements","stage":"profile_cleanup","detail":"help share discover removed"}
+{"utc_ms":1793365261579,"elapsed_ms":870984079,"pid":16125,"thread":"main","session":"enhancements","stage":"sort_install","detail":"anchor=false"}
+{"utc_ms":1793365262237,"elapsed_ms":870984737,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18432"}
+{"utc_ms":1793365262238,"elapsed_ms":870984738,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18433"}
+{"utc_ms":1793365262239,"elapsed_ms":870984739,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18434"}
+{"utc_ms":1793365262240,"elapsed_ms":870984740,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18435"}
+{"utc_ms":1793365262242,"elapsed_ms":870984742,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18436"}
+{"utc_ms":1793365262245,"elapsed_ms":870984745,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18437"}
+{"utc_ms":1793365262247,"elapsed_ms":870984747,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18438"}
+{"utc_ms":1793365262248,"elapsed_ms":870984748,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18439"}
+{"utc_ms":1793365262250,"elapsed_ms":870984750,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18440"}
+{"utc_ms":1793365262251,"elapsed_ms":870984751,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18441"}
+{"utc_ms":1793365262252,"elapsed_ms":870984752,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18442"}
+{"utc_ms":1793365262253,"elapsed_ms":870984753,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18443"}
+{"utc_ms":1793365262255,"elapsed_ms":870984755,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18444"}
+{"utc_ms":1793365262257,"elapsed_ms":870984757,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18445"}
+{"utc_ms":1793365262258,"elapsed_ms":870984758,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18446"}
+{"utc_ms":1793365262260,"elapsed_ms":870984760,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18447"}
+{"utc_ms":1793365262262,"elapsed_ms":870984762,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18448"}
+{"utc_ms":1793365262263,"elapsed_ms":870984763,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18449"}
+{"utc_ms":1793365262264,"elapsed_ms":870984764,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18450"}
+{"utc_ms":1793365262266,"elapsed_ms":870984766,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18451"}
+{"utc_ms":1793365262267,"elapsed_ms":870984767,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18452"}
+{"utc_ms":1793365262270,"elapsed_ms":870984770,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18453"}
+{"utc_ms":1793365262273,"elapsed_ms":870984773,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18454"}
+{"utc_ms":1793365262274,"elapsed_ms":870984774,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18455"}
+{"utc_ms":1793365262275,"elapsed_ms":870984775,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18456"}
+{"utc_ms":1793365262276,"elapsed_ms":870984776,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18457"}
+{"utc_ms":1793365262278,"elapsed_ms":870984778,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18458"}
+{"utc_ms":1793365262279,"elapsed_ms":870984779,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18459"}
+{"utc_ms":1793365262281,"elapsed_ms":870984781,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18460"}
+{"utc_ms":1793365262285,"elapsed_ms":870984785,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18461"}
+{"utc_ms":1793365262286,"elapsed_ms":870984786,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18462"}
+{"utc_ms":1793365262289,"elapsed_ms":870984789,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18463"}
+{"utc_ms":1793365262291,"elapsed_ms":870984791,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18464"}
+{"utc_ms":1793365262292,"elapsed_ms":870984792,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18465"}
+{"utc_ms":1793365262293,"elapsed_ms":870984793,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18466"}
+{"utc_ms":1793365262296,"elapsed_ms":870984796,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18467"}
+{"utc_ms":1793365262299,"elapsed_ms":870984799,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18468"}
+{"utc_ms":1793365262301,"elapsed_ms":870984801,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18469"}
+{"utc_ms":1793365262303,"elapsed_ms":870984803,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18496"}
+{"utc_ms":1793365262303,"elapsed_ms":870984803,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18470"}
+{"utc_ms":1793365262305,"elapsed_ms":870984805,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18471"}
+{"utc_ms":1793365262306,"elapsed_ms":870984806,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18473"}
+{"utc_ms":1793365262308,"elapsed_ms":870984808,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18472"}
+{"utc_ms":1793365262309,"elapsed_ms":870984809,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18474"}
+{"utc_ms":1793365262310,"elapsed_ms":870984810,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18475"}
+{"utc_ms":1793365262311,"elapsed_ms":870984811,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18476"}
+{"utc_ms":1793365262312,"elapsed_ms":870984812,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18477"}
+{"utc_ms":1793365262315,"elapsed_ms":870984815,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18479"}
+{"utc_ms":1793365262316,"elapsed_ms":870984816,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18480"}
+{"utc_ms":1793365262319,"elapsed_ms":870984819,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18478"}
+{"utc_ms":1793365262320,"elapsed_ms":870984820,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18483"}
+{"utc_ms":1793365262322,"elapsed_ms":870984822,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18485"}
+{"utc_ms":1793365262324,"elapsed_ms":870984824,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18484"}
+{"utc_ms":1793365262326,"elapsed_ms":870984826,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18486"}
+{"utc_ms":1793365262328,"elapsed_ms":870984828,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18487"}
+{"utc_ms":1793365262333,"elapsed_ms":870984833,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18489"}
+{"utc_ms":1793365262335,"elapsed_ms":870984835,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18491"}
+{"utc_ms":1793365262336,"elapsed_ms":870984836,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18492"}
+{"utc_ms":1793365262340,"elapsed_ms":870984840,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18493"}
+{"utc_ms":1793365262342,"elapsed_ms":870984842,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18494"}
+{"utc_ms":1793365262345,"elapsed_ms":870984845,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18495"}
+{"utc_ms":1793365262348,"elapsed_ms":870984848,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18488"}
+{"utc_ms":1793365262350,"elapsed_ms":870984850,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18481"}
+{"utc_ms":1793365262352,"elapsed_ms":870984852,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18490"}
+{"utc_ms":1793365262358,"elapsed_ms":870984858,"pid":16125,"thread":"DefaultDispatcher-worker-15","session":"enhancements","stage":"resync_missing_preserved","detail":"18482"}
+{"utc_ms":1793365272284,"elapsed_ms":870994784,"pid":16125,"thread":"main","session":"enhancements","stage":"profile_cleanup","detail":"help share discover removed"}
+{"utc_ms":1793365284647,"elapsed_ms":871007147,"pid":16125,"thread":"main","session":"enhancements","stage":"subtitle_size_apply","detail":"sp=20.0 px=47.25"}
