@@ -335,3 +335,7 @@
 1793365254918 cinemeta logo_ready
 1793365255149 ui same_renderer_used_for_tmdb_and_cinemeta
 1793365255151 cinemeta draw_requested
+1793369300875 cinemeta lookup_started
+1793369300882 cinemeta logo_ready
+1793369301062 cinemeta draw_requested
+1793369301062 ui same_renderer_used_for_tmdb_and_cinemeta
