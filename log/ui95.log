@@ -8731,3 +8731,13 @@
 1793365271884	LOCAL_ACCOUNT	poster_ready key=86687558
 1793365271964	LOCAL_ACCOUNT	poster_begin key=86687558 source=true thumbnail=true
 1793365271966	LOCAL_ACCOUNT	poster_ready key=86687558
+1793366428754	LOCAL_ACCOUNT	build=PATCH274
+1793366428770	LOCAL_ACCOUNT	account_storage shared=true
+1793366428787	LOCAL_ACCOUNT	notifications_delivered count=0
+1793366429068	LOCAL_ACCOUNT	notifications_delivered count=0
+1793366429254	LOCAL_ACCOUNT	foreground_episode_scan_requested
+1793366429675	LOCAL_ACCOUNT	episode_http status=200
+1793366429984	LOCAL_ACCOUNT	episodes_reconciled count=0
+1793366429985	LOCAL_ACCOUNT	subscription_checked id=5661 previous=220 fetched=220 new=0 baseline=220
+1793366430026	LOCAL_ACCOUNT	scan_complete checked=1 total=1 cursor=0
+1793366430031	LOCAL_ACCOUNT	notifications_delivered count=0
