@@ -8741,3 +8741,13 @@
 1793366429985	LOCAL_ACCOUNT	subscription_checked id=5661 previous=220 fetched=220 new=0 baseline=220
 1793366430026	LOCAL_ACCOUNT	scan_complete checked=1 total=1 cursor=0
 1793366430031	LOCAL_ACCOUNT	notifications_delivered count=0
+1793367167173	LOCAL_ACCOUNT	build=PATCH274
+1793367167195	LOCAL_ACCOUNT	account_storage shared=true
+1793367167203	LOCAL_ACCOUNT	notifications_delivered count=0
+1793367167599	LOCAL_ACCOUNT	notifications_delivered count=0
+1793367167798	LOCAL_ACCOUNT	foreground_episode_scan_requested
+1793367168007	LOCAL_ACCOUNT	episode_http status=200
+1793367168809	LOCAL_ACCOUNT	episodes_reconciled count=0
+1793367168809	LOCAL_ACCOUNT	subscription_checked id=5661 previous=220 fetched=220 new=0 baseline=220
+1793367168875	LOCAL_ACCOUNT	scan_complete checked=1 total=1 cursor=0
+1793367168891	LOCAL_ACCOUNT	notifications_delivered count=0
