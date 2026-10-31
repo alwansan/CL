@@ -61554,3 +61554,243 @@
 1793473322015 PATCH319_EXPORT_JOB_RETURN
 1793473322049 PATCH319_EXPORT_JOB_START
 1793473323239 MKV_FFMPEG_SLOT_ACQUIRED target=ناروتو S01 E49 [cnm-hv53zx1vpaouv8sxaue3].mkv
+1793476661858 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793476661936 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793476661985 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793476662516 DB_PROMOTE_DOWNLOADS_MATCH task_id=-467448186 external_id=5672 score=6030 exactPath=true originalPath=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E12.mkv title=ناروتو S01 season=1 episode=12
+1793476662555 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793476662602 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E12.mkv size=37994861
+1793476662688 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793476662820 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E12.mkv task_id=-467448186 external_id=5672 item_id=5672
+1793476662940 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:-467448186;externalId:5672;itemId:5672;path:/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E12.mkv
+1793476663043 MKV_INTERNAL_IDENTITY=5672@1793476662970 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E12.mkv noSub=false
+1793476663783 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E15 [cnm-255bi0t57ooygecpyyor].mp4 title=ناروتو S01 season=1 episode=15
+1793476663822 QUEUE_ENQUEUED key=item:5675
+1793476663866 QUEUE_START key=item:5675
+1793476663913 QUEUE_ATTEMPT=1/1 key=item:5675
+1793476663956 watcher started; waiting for final video filename (not .temp)
+1793476664008 candidate video observed: /storage/emulated/0/Cinemana/work/ناروتو S01 E15 [cnm-255bi0t57ooygecpyyor].mp4 size=35026873
+1793476664122 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E17 [cnm-38qn9vfkyffwdxhq47c5].mp4 title=ناروتو S01 season=1 episode=17
+1793476664177 QUEUE_ENQUEUED key=item:5677
+1793476664400 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E22 [cnm-3qkzu8t5je9cqwvvd8kz].mp4 title=ناروتو S01 season=1 episode=22
+1793476664426 QUEUE_ENQUEUED key=item:5682
+1793476664647 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E23 [cnm-24xxsqvc7qtlj1l0snux].mp4 title=ناروتو S01 season=1 episode=23
+1793476664677 QUEUE_ENQUEUED key=item:5683
+1793476664885 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E24 [cnm-5lno9lx4cr8m5duchzot].mp4 title=ناروتو S01 season=1 episode=24
+1793476664915 QUEUE_ENQUEUED key=item:5684
+1793476665125 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E25 [cnm-4myq1dqb3b47ca4v4kgj].mp4 title=ناروتو S01 season=1 episode=25
+1793476665179 QUEUE_ENQUEUED key=item:5685
+1793476665372 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E26 [cnm-3y8v4f1s2jwg0rotimo8].mp4 title=ناروتو S01 season=1 episode=26
+1793476665404 QUEUE_ENQUEUED key=item:5686
+1793476665692 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E27 [cnm-zo6htr40gntpwmt93ztf].mp4 title=ناروتو S01 season=1 episode=27
+1793476665707 QUEUE_ENQUEUED key=item:5687
+1793476665882 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E28 [cnm-25c45j5ymlnv9hka5m7y].mp4 title=ناروتو S01 season=1 episode=28
+1793476665915 QUEUE_ENQUEUED key=item:5688
+1793476666251 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E35 [cnm-2biq5d90b85u5kfxpzb5].mp4 title=ناروتو S01 season=1 episode=35
+1793476666299 QUEUE_ENQUEUED key=item:5695
+1793476666595 final video stable: /storage/emulated/0/Cinemana/work/ناروتو S01 E15 [cnm-255bi0t57ooygecpyyor].mp4 size=35026873
+1793476666627 VIDEO_READY_FOR_MKV path=/storage/emulated/0/Cinemana/work/ناروتو S01 E15 [cnm-255bi0t57ooygecpyyor].mp4
+1793476666688 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E44 [cnm-3pil2uzqvj6kd4jgorx1].mp4 title=ناروتو S01 season=1 episode=44
+1793476666734 QUEUE_ENQUEUED key=item:5704
+1793476667098 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E45 [cnm-4czb0enzcoet3c57gct4].mp4 title=ناروتو S01 season=1 episode=45
+1793476667171 QUEUE_ENQUEUED key=item:5705
+1793476667487 DB_PROMOTE_DOWNLOADS_MATCH task_id=-1207981786 external_id=5706 score=6030 exactPath=true originalPath=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E46.mkv title=ناروتو S01 season=1 episode=46
+1793476667523 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793476667619 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E46.mkv size=37896187
+1793476667679 MKV_FFMPEG_SLOT_ACQUIRED target=ناروتو S01 E15 [cnm-255bi0t57ooygecpyyor].mkv
+1793476667730 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793476667790 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E46.mkv task_id=-1207981786 external_id=5706 item_id=5706
+1793476667832 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:-1207981786;externalId:5706;itemId:5706;path:/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E46.mkv
+1793476667885 MKV_INTERNAL_IDENTITY=5706@1793476667838 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E46.mkv noSub=false
+1793476668261 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E47 [cnm-3ti717pjale5020ze7la].mp4 title=ناروتو S01 season=1 episode=47
+1793476668307 QUEUE_ENQUEUED key=item:5707
+1793476668421 DB_PROMOTE_DOWNLOADS_MATCH task_id=2010510946 external_id=5708 score=6280 exactPath=true originalPath=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E48.mkv title=ناروتو S01 season=1 episode=48
+1793476668481 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793476668521 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E48.mkv size=41238645
+1793476668556 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793476668613 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E48.mkv task_id=2010510946 external_id=5708 item_id=5708
+1793476668683 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:2010510946;externalId:5708;itemId:5708;path:/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E48.mkv
+1793476668780 MKV_INTERNAL_IDENTITY=5708@1793476668706 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E48.mkv noSub=false
+1793476669450 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E49 [cnm-hv53zx1vpaouv8sxaue3].mp4 title=ناروتو S01 season=1 episode=49
+1793476669488 QUEUE_ENQUEUED key=item:5709
+1793476669626 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E50 [cnm-28ovimbq0vc1z99bv5r6].mp4 title=ناروتو S01 season=1 episode=50
+1793476669660 QUEUE_ENQUEUED key=item:5710
+1793476669797 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E51 [cnm-4n5e2mp2as8wfo835f1k].mp4 title=ناروتو S01 season=1 episode=51
+1793476669821 QUEUE_ENQUEUED key=item:5711
+1793476669985 DB_PROMOTE_DOWNLOADS_MATCH task_id=2005342643 external_id=5712 score=6280 exactPath=true originalPath=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E52.mkv title=ناروتو S01 season=1 episode=52
+1793476670008 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793476670038 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E52.mkv size=37028087
+1793476670077 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793476670134 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E52.mkv task_id=2005342643 external_id=5712 item_id=5712
+1793476670167 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:2005342643;externalId:5712;itemId:5712;path:/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E52.mkv
+1793476670217 MKV_INTERNAL_IDENTITY=5712@1793476670171 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E52.mkv noSub=false
+1793476670553 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E53 [cnm-2hmxr1s2v5kqgeim5hpf].mp4 title=ناروتو S01 season=1 episode=53
+1793476670604 QUEUE_ENQUEUED key=item:5713
+1793476670955 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E54 [cnm-20o6x6khycmoawui3n8u].mp4 title=ناروتو S01 season=1 episode=54
+1793476670986 QUEUE_ENQUEUED key=item:5714
+1793476671338 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E55 [cnm-buym1hn4r86jc6ar3ztv].mp4 title=ناروتو S01 season=1 episode=55
+1793476671400 QUEUE_ENQUEUED key=item:5715
+1793476671979 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E56 [cnm-3tapddkgjj64o7aggpm3].mp4 title=ناروتو S01 season=1 episode=56
+1793476672093 QUEUE_ENQUEUED key=item:5719
+1793476672571 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E57 [cnm-53s89v7ncs5jog9bnx8z].mp4 title=ناروتو S01 season=1 episode=57
+1793476672669 QUEUE_ENQUEUED key=item:5720
+1793476672824 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793476672869 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793476672907 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793476673207 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E58 [cnm-5s2yimny6dxvblo0864z].mp4 title=ناروتو S01 season=1 episode=58
+1793476673295 QUEUE_ENQUEUED key=item:5721
+1793476673879 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E60 [cnm-5f2jakti8sv0o11fkiyo].mp4 title=ناروتو S01 season=1 episode=60
+1793476674002 QUEUE_ENQUEUED key=item:5723
+1793476675086 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E61 [cnm-3khxx1vtmu18ya3kles6].mp4 title=ناروتو S01 season=1 episode=61
+1793476675146 QUEUE_ENQUEUED key=item:5724
+1793476675564 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E62 [cnm-ienb97nlzt4oqtdny08u].mp4 title=ناروتو S01 season=1 episode=62
+1793476675611 QUEUE_ENQUEUED key=item:5725
+1793476675716 DB_PROMOTE_DOWNLOADS_MATCH task_id=1903575788 external_id=5675 score=6280 exactPath=true originalPath=/storage/emulated/0/Cinemana/work/ناروتو S01 E15 [cnm-255bi0t57ooygecpyyor].mp4 title=ناروتو S01 season=1 episode=15
+1793476675762 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793476675788 DB_PROMOTE_DOWNLOADS_VERIFIED path=ناروتو S01 E15 [cnm-255bi0t57ooygecpyyor].mkv size=34271407
+1793476675830 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793476675859 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E63 [cnm-29uw7u1t7t4rkq8jkumk].mp4 title=ناروتو S01 season=1 episode=63
+1793476675873 DB_PROMOTE_SUBTITLE_RESULT=kotlin.Unit
+1793476675903 QUEUE_ENQUEUED key=item:5726
+1793476675923 DB_PROMOTE_SUCCESS path=ناروتو S01 E15 [cnm-255bi0t57ooygecpyyor].mkv task_id=1903575788 external_id=5675 item_id=5675
+1793476675968 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:1903575788;externalId:5675;itemId:5675;path:ناروتو S01 E15 [cnm-255bi0t57ooygecpyyor].mkv
+1793476676030 DB_PROMOTE_DOWNLOADS_MATCH task_id=1903575788 external_id=5675 score=6280 exactPath=true originalPath=ناروتو S01 E15 [cnm-255bi0t57ooygecpyyor].mkv title=ناروتو S01 season=1 episode=15
+1793476676076 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793476676136 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E15.mkv size=34271407
+1793476676169 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793476676228 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E64 [cnm-3n99vdyy008mhmes0ogn].mp4 title=ناروتو S01 season=1 episode=64
+1793476676239 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E15.mkv task_id=1903575788 external_id=5675 item_id=5675
+1793476676276 QUEUE_ENQUEUED key=item:5727
+1793476676284 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:1903575788;externalId:5675;itemId:5675;path:/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E15.mkv
+1793476676328 MKV_INTERNAL_IDENTITY=5675@1793476676302 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E15.mkv noSub=false
+1793476676378 DB_PROMOTE_DOWNLOADS_MATCH task_id=1903575788 external_id=5675 score=6280 exactPath=true originalPath=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E15.mkv title=ناروتو S01 season=1 episode=15
+1793476676423 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793476676476 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E15.mkv size=34271407
+1793476676514 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793476676532 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E66 [cnm-29afczrqhnm909684j7o].mp4 title=ناروتو S01 season=1 episode=66
+1793476676565 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E15.mkv task_id=1903575788 external_id=5675 item_id=5675
+1793476676566 QUEUE_ENQUEUED key=item:5729
+1793476676613 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:1903575788;externalId:5675;itemId:5675;path:/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E15.mkv
+1793476676954 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E67 [cnm-1b3vxmg701nyqguezdkk].mp4 title=ناروتو S01 season=1 episode=67
+1793476677022 QUEUE_ENQUEUED key=item:5730
+1793476677615 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E68 [cnm-3z6qygpiheatztx5hq3f].mp4 title=ناروتو S01 season=1 episode=68
+1793476677686 QUEUE_ENQUEUED key=item:5731
+1793476678091 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E69 [cnm-57ttawa9is7rz2bw677w].mp4 title=ناروتو S01 season=1 episode=69
+1793476678164 QUEUE_ENQUEUED key=item:5732
+1793476678460 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E70 [cnm-3z2opzpqg8uubfshmh2h].mp4 title=ناروتو S01 season=1 episode=70
+1793476678504 QUEUE_ENQUEUED key=item:5733
+1793476678826 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E71 [cnm-46a1d9jck1j94ll37lkz].mp4 title=ناروتو S01 season=1 episode=71
+1793476678898 QUEUE_ENQUEUED key=item:5734
+1793476679353 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E72 [cnm-l84e2i31fibwpzk6rky2].mp4 title=ناروتو S01 season=1 episode=72
+1793476679424 QUEUE_ENQUEUED key=item:5735
+1793476679878 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E73 [cnm-47bci6vb2q4rmo63risl].mp4 title=ناروتو S01 season=1 episode=73
+1793476679926 QUEUE_ENQUEUED key=item:5736
+1793476680291 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E74 [cnm-4dhuancnuy2qrs0cw2fm].mp4 title=ناروتو S01 season=1 episode=74
+1793476680342 QUEUE_ENQUEUED key=item:5737
+1793476680700 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E75 [cnm-4ujqw9nezfffdhn95n8w].mp4 title=ناروتو S01 season=1 episode=75
+1793476680746 QUEUE_ENQUEUED key=item:5738
+1793476681049 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E76 [cnm-58kfierqwf5lz7m331pu].mp4 title=ناروتو S01 season=1 episode=76
+1793476681100 QUEUE_ENQUEUED key=item:5739
+1793476681472 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E77 [cnm-4gr4xkgz1id1biy5oqp3].mp4 title=ناروتو S01 season=1 episode=77
+1793476681545 QUEUE_ENQUEUED key=item:5740
+1793476681800 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E78 [cnm-2a06boh2l31jwpxplbmr].mp4 title=ناروتو S01 season=1 episode=78
+1793476681856 QUEUE_ENQUEUED key=item:5741
+1793476682195 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E79 [cnm-3hofm4xa5mxlbq55cimy].mp4 title=ناروتو S01 season=1 episode=79
+1793476682248 QUEUE_ENQUEUED key=item:5742
+1793476682698 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E81 [cnm-5u01thxc9nhde4d8g08e].mp4 title=ناروتو S01 season=1 episode=81
+1793476682759 QUEUE_ENQUEUED key=item:5744
+1793476683125 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E82 [cnm-3533o18mr650urjk90c0].mp4 title=ناروتو S01 season=1 episode=82
+1793476683183 QUEUE_ENQUEUED key=item:5745
+1793476683604 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E83 [cnm-221l9rlulut7wi9ugc30].mp4 title=ناروتو S01 season=1 episode=83
+1793476683657 QUEUE_ENQUEUED key=item:5746
+1793476684134 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E84 [cnm-1pp39mds2srzbvj9c2mz].mp4 title=ناروتو S01 season=1 episode=84
+1793476684218 QUEUE_ENQUEUED key=item:5747
+1793476684556 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E85 [cnm-2u6onbogwu99pi14hmou].mp4 title=ناروتو S01 season=1 episode=85
+1793476684610 QUEUE_ENQUEUED key=item:5748
+1793476685111 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E87 [cnm-fui891js0ap9rp8pyy6p].mp4 title=ناروتو S01 season=1 episode=87
+1793476685168 QUEUE_ENQUEUED key=item:5750
+1793476685657 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E88 [cnm-3ejzok8mls8qrxhvjb9e].mp4 title=ناروتو S01 season=1 episode=88
+1793476685800 QUEUE_ENQUEUED key=item:5751
+1793476686370 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E89 [cnm-56hv59uxts0csyf8t6ks].mp4 title=ناروتو S01 season=1 episode=89
+1793476686441 QUEUE_ENQUEUED key=item:5752
+1793476686679 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E90 [cnm-4qcz6xqz97kam7vf68rp].mp4 title=ناروتو S01 season=1 episode=90
+1793476686724 QUEUE_ENQUEUED key=item:5753
+1793476688802 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E100 [cnm-o1xuiu3iso9px7p6ibmx].mp4 title=ناروتو S01 season=1 episode=100
+1793476688957 QUEUE_ENQUEUED key=item:5763
+1793476690003 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E101 [cnm-54v09te2804qk3v55v2u].mp4 title=ناروتو S01 season=1 episode=101
+1793476690200 QUEUE_ENQUEUED key=item:5770
+1793476690900 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E103 [cnm-nl3jjkifmvzhpp4jvfto].mp4 title=ناروتو S01 season=1 episode=103
+1793476690960 QUEUE_ENQUEUED key=item:5772
+1793476702819 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E102 [cnm-1mqw6auw06mu1lfo7ank].mp4 title=ناروتو S01 season=1 episode=102
+1793476702905 QUEUE_ENQUEUED key=item:5771
+1793476703248 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E104 [cnm-29j2uih1k4rdwkny82a7].mp4 title=ناروتو S01 season=1 episode=104
+1793476703294 QUEUE_ENQUEUED key=item:5773
+1793476703564 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E105 [cnm-4plsav7lmd2q4fxou167].mp4 title=ناروتو S01 season=1 episode=105
+1793476703645 QUEUE_ENQUEUED key=item:5774
+1793476703980 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E106 [cnm-66o6whdktvabi8z72dqr].mp4 title=ناروتو S01 season=1 episode=106
+1793476704046 QUEUE_ENQUEUED key=item:5775
+1793476704307 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E108 [cnm-3carvns6ubnutw97alnq].mp4 title=ناروتو S01 season=1 episode=108
+1793476704352 QUEUE_ENQUEUED key=item:5777
+1793476707956 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E109 [cnm-45i8gqoqr76qs8fdt4ak].mp4 title=ناروتو S01 season=1 episode=109
+1793476708001 QUEUE_ENQUEUED key=item:5778
+1793476708189 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E110 [cnm-322d0fg2hdg07cjmzxo0].mp4 title=ناروتو S01 season=1 episode=110
+1793476708223 QUEUE_ENQUEUED key=item:5779
+1793476721847 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E111 [cnm-fep3h7aj4vlzzelhdylw].mp4 title=ناروتو S01 season=1 episode=111
+1793476721875 QUEUE_ENQUEUED key=item:5780
+1793476735617 PATCH319_EXPORT_JOB_START
+1793476736317 MKV_FFMPEG_SLOT_ACQUIRED target=ناروتو S01 E51 [cnm-4n5e2mp2as8wfo835f1k].mkv
+1793476746151 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E59 [cnm-57jl7bqfdiyckiyardlz].mp4 title=ناروتو S01 season=1 episode=59
+1793476746213 QUEUE_ENQUEUED key=item:5722
+1793476747244 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E97 [cnm-xims7aj97pfx4q463t3h].mp4 title=ناروتو S01 season=1 episode=97
+1793476747303 QUEUE_ENQUEUED key=item:5760
+1793476747685 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E98 [cnm-2b6g0e0w5defde99s2tl].mp4 title=ناروتو S01 season=1 episode=98
+1793476747756 QUEUE_ENQUEUED key=item:5761
+1793476748202 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E99 [cnm-54jg31k0chgvy96cumxr].mp4 title=ناروتو S01 season=1 episode=99
+1793476748273 QUEUE_ENQUEUED key=item:5762
+1793476748333 DB_PROMOTE_DOWNLOADS_MATCH task_id=1386946811 external_id=5711 score=6280 exactPath=true originalPath=/storage/emulated/0/Cinemana/work/ناروتو S01 E51 [cnm-4n5e2mp2as8wfo835f1k].mp4 title=ناروتو S01 season=1 episode=51
+1793476748399 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793476748440 DB_PROMOTE_DOWNLOADS_VERIFIED path=ناروتو S01 E51 [cnm-4n5e2mp2as8wfo835f1k].mkv size=34659587
+1793476748515 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793476748552 DB_PROMOTE_SUBTITLE_RESULT=kotlin.Unit
+1793476748625 DB_PROMOTE_SUCCESS path=ناروتو S01 E51 [cnm-4n5e2mp2as8wfo835f1k].mkv task_id=1386946811 external_id=5711 item_id=5711
+1793476748686 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:1386946811;externalId:5711;itemId:5711;path:ناروتو S01 E51 [cnm-4n5e2mp2as8wfo835f1k].mkv
+1793476748781 DB_PROMOTE_DOWNLOADS_MATCH task_id=1386946811 external_id=5711 score=6280 exactPath=true originalPath=ناروتو S01 E51 [cnm-4n5e2mp2as8wfo835f1k].mkv title=ناروتو S01 season=1 episode=51
+1793476748839 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793476748914 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E51.mkv size=34659587
+1793476748954 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793476749010 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E51.mkv task_id=1386946811 external_id=5711 item_id=5711
+1793476749046 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:1386946811;externalId:5711;itemId:5711;path:/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E51.mkv
+1793476749118 MKV_INTERNAL_IDENTITY=5711@1793476749054 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E51.mkv noSub=false
+1793476749255 DB_PROMOTE_DOWNLOADS_MATCH task_id=1386946811 external_id=5711 score=6280 exactPath=true originalPath=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E51.mkv title=ناروتو S01 season=1 episode=51
+1793476749317 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793476749370 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E51.mkv size=34659587
+1793476749464 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793476749554 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E51.mkv task_id=1386946811 external_id=5711 item_id=5711
+1793476749616 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:1386946811;externalId:5711;itemId:5711;path:/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E51.mkv
+1793476759774 MKV_FFMPEG_SLOT_RELEASED target=ناروتو S01 E51 [cnm-4n5e2mp2as8wfo835f1k].mkv
+1793476759893 PATCH319_EXPORT_JOB_RETURN
+1793476759971 PATCH319_EXPORT_JOB_START
+1793476761397 MKV_FFMPEG_SLOT_ACQUIRED target=ناروتو S01 E50 [cnm-28ovimbq0vc1z99bv5r6].mkv
+1793476772712 DB_PROMOTE_DOWNLOADS_MATCH task_id=1171421987 external_id=5710 score=6280 exactPath=true originalPath=/storage/emulated/0/Cinemana/work/ناروتو S01 E50 [cnm-28ovimbq0vc1z99bv5r6].mp4 title=ناروتو S01 season=1 episode=50
+1793476772773 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793476772825 DB_PROMOTE_DOWNLOADS_VERIFIED path=ناروتو S01 E50 [cnm-28ovimbq0vc1z99bv5r6].mkv size=44639786
+1793476772866 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793476772964 DB_PROMOTE_SUBTITLE_RESULT=kotlin.Unit
+1793476773018 DB_PROMOTE_SUCCESS path=ناروتو S01 E50 [cnm-28ovimbq0vc1z99bv5r6].mkv task_id=1171421987 external_id=5710 item_id=5710
+1793476773087 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:1171421987;externalId:5710;itemId:5710;path:ناروتو S01 E50 [cnm-28ovimbq0vc1z99bv5r6].mkv
+1793476773205 DB_PROMOTE_DOWNLOADS_MATCH task_id=1171421987 external_id=5710 score=6280 exactPath=true originalPath=ناروتو S01 E50 [cnm-28ovimbq0vc1z99bv5r6].mkv title=ناروتو S01 season=1 episode=50
+1793476773263 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793476773361 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E50.mkv size=44639786
+1793476773422 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793476773513 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E50.mkv task_id=1171421987 external_id=5710 item_id=5710
+1793476773576 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:1171421987;externalId:5710;itemId:5710;path:/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E50.mkv
+1793476773635 MKV_INTERNAL_IDENTITY=5710@1793476773587 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E50.mkv noSub=false
+1793476773755 DB_PROMOTE_DOWNLOADS_MATCH task_id=1171421987 external_id=5710 score=6280 exactPath=true originalPath=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E50.mkv title=ناروتو S01 season=1 episode=50
+1793476773789 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793476773845 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E50.mkv size=44639786
+1793476774404 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793476774486 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E50.mkv task_id=1171421987 external_id=5710 item_id=5710
+1793476774550 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:1171421987;externalId:5710;itemId:5710;path:/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E50.mkv
+1793476784018 MKV_FFMPEG_SLOT_RELEASED target=ناروتو S01 E50 [cnm-28ovimbq0vc1z99bv5r6].mkv
+1793476784082 PATCH319_EXPORT_JOB_RETURN
+1793476784202 PATCH319_EXPORT_JOB_START
