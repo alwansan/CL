@@ -6485,3 +6485,10 @@
 {"utc_ms":1793466891653,"elapsed_ms":972614153,"pid":15249,"thread":"DefaultDispatcher-worker-62","session":"enhancements","stage":"resync_missing_preserved","detail":"6006"}
 {"utc_ms":1793466891672,"elapsed_ms":972614172,"pid":15249,"thread":"DefaultDispatcher-worker-68","session":"enhancements","stage":"resync_missing_preserved","detail":"6010"}
 {"utc_ms":1793466894051,"elapsed_ms":972616551,"pid":15249,"thread":"main","session":"enhancements","stage":"profile_cleanup","detail":"help share discover removed"}
+{"utc_ms":1793468520198,"elapsed_ms":974242698,"pid":4470,"thread":"main","session":"app","stage":"log_init","detail":"build=CA1.6 external=\/storage\/emulated\/0\/Cinemana\/work\/log\/ca1_batch.jsonl fallback=\/data\/user\/0\/com.cinemana.pro\/files\/log\/ca1_batch.jsonl"}
+{"utc_ms":1793468520198,"elapsed_ms":974242698,"pid":4470,"thread":"main","session":"enhancements","stage":"entry_install","detail":"root=androidx.coordinatorlayout.widget.CoordinatorLayout"}
+{"utc_ms":1793468520199,"elapsed_ms":974242699,"pid":4470,"thread":"main","session":"enhancements","stage":"entry_visibility","detail":"attempt=0 found=true kind= id= episodes=-1 visible=false shown=false parents=MaterialTextView:8\/ConstraintLayout:0\/NestedScrollView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/FragmentContainerView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/"}
+{"utc_ms":1793468523149,"elapsed_ms":974245649,"pid":4470,"thread":"main","session":"enhancements","stage":"subtitle_size_apply","detail":"sp=20.0 px=47.25"}
+{"utc_ms":1793468527301,"elapsed_ms":974249801,"pid":4470,"thread":"cnm-mkv-queue-1","session":"enhancements","stage":"episode_ready_notification105","detail":"5668:1028183030"}
+{"utc_ms":1793468530800,"elapsed_ms":974253300,"pid":4470,"thread":"main","session":"enhancements","stage":"profile_cleanup","detail":"help share discover removed"}
+{"utc_ms":1793468532285,"elapsed_ms":974254785,"pid":4470,"thread":"main","session":"enhancements","stage":"sort_install","detail":"anchor=false"}
