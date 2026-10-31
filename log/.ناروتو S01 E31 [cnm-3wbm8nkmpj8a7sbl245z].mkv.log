@@ -1,0 +1,12 @@
+1793469738510 SUBTITLE_POLICY=manifest-ready expected=1 completed=1 files=1 token=3wbm8nkmpj8a7sbl245z
+1793469738921 ffmpeg=native:/data/app/~~B1i2AqrVk8EL5fgswAKVHw==/com.cinemana.pro-FT-3c7DS_L2Ap8AIjPN6sw==/lib/arm64/libffmpeg.so
+1793469738977 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1793469738978 exec=[/data/app/~~B1i2AqrVk8EL5fgswAKVHw==/com.cinemana.pro-FT-3c7DS_L2Ap8AIjPN6sw==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E31 [cnm-3wbm8nkmpj8a7sbl245z].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E31 [cnm-3wbm8nkmpj8a7sbl245z].srt] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو S01 E31] [-metadata:s:s:0] [language=ar] [-metadata] [title=ناروتو S01 E31] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو S01 E31 [cnm-3wbm8nkmpj8a7sbl245z].mkv.cnm115-4446c372-04c5-4be4-9415-4ec407d60283.part]
+1793469743984 exit=0 output=
+1793469743994 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو S01 E31 [cnm-3wbm8nkmpj8a7sbl245z].mkv size=34608204
+1793469744598 DB_PROMOTE=true
+1793469744691 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E31.mkv work=ناروتو season=01 episode=31 noSub=false
+1793469745241 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E31.mkv
+1793469745980 delete video=ناروتو S01 E31 [cnm-3wbm8nkmpj8a7sbl245z].mp4 result=true
+1793469745986 delete subtitle=arabic subtitle for ناروتو S01 E31 [cnm-3wbm8nkmpj8a7sbl245z].srt result=true
+1793469745998 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E31.mkv
