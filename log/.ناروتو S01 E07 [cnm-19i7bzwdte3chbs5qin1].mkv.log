@@ -1,0 +1,12 @@
+1793450696894 SUBTITLE_POLICY=manifest-ready expected=1 completed=1 files=1 token=19i7bzwdte3chbs5qin1
+1793450696957 ffmpeg=native:/data/app/~~AwpU66vDnQgKPOTVfvAW5g==/com.cinemana.pro-D3Ob0WwDGtcmdwlyYD36Cg==/lib/arm64/libffmpeg.so
+1793450696984 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1793450696985 exec=[/data/app/~~AwpU66vDnQgKPOTVfvAW5g==/com.cinemana.pro-D3Ob0WwDGtcmdwlyYD36Cg==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E07 [cnm-19i7bzwdte3chbs5qin1].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E07 [cnm-19i7bzwdte3chbs5qin1].srt] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو S01 E07] [-metadata:s:s:0] [language=ar] [-metadata] [title=ناروتو S01 E07] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو S01 E07 [cnm-19i7bzwdte3chbs5qin1].mkv.cnm115-8db29c50-733d-4cc9-a4ac-e3b548751d0a.part]
+1793450698294 exit=0 output=
+1793450698297 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو S01 E07 [cnm-19i7bzwdte3chbs5qin1].mkv size=32893198
+1793450698409 DB_PROMOTE=true
+1793450698432 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E07.mkv work=ناروتو season=01 episode=07 noSub=false
+1793450698470 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E07.mkv
+1793450698546 delete video=ناروتو S01 E07 [cnm-19i7bzwdte3chbs5qin1].mp4 result=true
+1793450698549 delete subtitle=arabic subtitle for ناروتو S01 E07 [cnm-19i7bzwdte3chbs5qin1].srt result=true
+1793450698553 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E07.mkv
