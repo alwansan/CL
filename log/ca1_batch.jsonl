@@ -6536,3 +6536,14 @@
 {"utc_ms":1793471162538,"elapsed_ms":976885038,"pid":4159,"thread":"main","session":"enhancements","stage":"profile_cleanup","detail":"help share discover removed"}
 {"utc_ms":1793471163514,"elapsed_ms":976886014,"pid":4159,"thread":"main","session":"enhancements","stage":"sort_install","detail":"anchor=false"}
 {"utc_ms":1793471174371,"elapsed_ms":976896871,"pid":4159,"thread":"main","session":"enhancements","stage":"profile_cleanup","detail":"help share discover removed"}
+{"utc_ms":1793473193967,"elapsed_ms":978916467,"pid":12339,"thread":"main","session":"app","stage":"log_init","detail":"build=CA1.6 external=\/storage\/emulated\/0\/Cinemana\/work\/log\/ca1_batch.jsonl fallback=\/data\/user\/0\/com.cinemana.pro\/files\/log\/ca1_batch.jsonl"}
+{"utc_ms":1793473193967,"elapsed_ms":978916467,"pid":12339,"thread":"main","session":"enhancements","stage":"entry_install","detail":"root=androidx.coordinatorlayout.widget.CoordinatorLayout"}
+{"utc_ms":1793473193968,"elapsed_ms":978916468,"pid":12339,"thread":"main","session":"enhancements","stage":"entry_visibility","detail":"attempt=0 found=true kind= id= episodes=-1 visible=false shown=false parents=MaterialTextView:8\/ConstraintLayout:0\/NestedScrollView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/FragmentContainerView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/"}
+{"utc_ms":1793473198271,"elapsed_ms":978920771,"pid":12339,"thread":"cnm-mkv-queue-1","session":"enhancements","stage":"episode_ready_notification105","detail":"5672:-467448186"}
+{"utc_ms":1793473198620,"elapsed_ms":978921120,"pid":12339,"thread":"main","session":"enhancements","stage":"subtitle_size_apply","detail":"sp=20.0 px=47.25"}
+{"utc_ms":1793473200402,"elapsed_ms":978922902,"pid":12339,"thread":"main","session":"enhancements","stage":"entry_install","detail":"root=androidx.coordinatorlayout.widget.CoordinatorLayout"}
+{"utc_ms":1793473200403,"elapsed_ms":978922903,"pid":12339,"thread":"main","session":"enhancements","stage":"entry_visibility","detail":"attempt=0 found=true kind= id= episodes=-1 visible=false shown=false parents=MaterialTextView:8\/ConstraintLayout:0\/NestedScrollView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/FragmentContainerView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/"}
+{"utc_ms":1793473202016,"elapsed_ms":978924516,"pid":12339,"thread":"main","session":"enhancements","stage":"subtitle_size_apply","detail":"sp=20.0 px=47.25"}
+{"utc_ms":1793473203330,"elapsed_ms":978925830,"pid":12339,"thread":"main","session":"enhancements","stage":"profile_cleanup","detail":"help share discover removed"}
+{"utc_ms":1793473204834,"elapsed_ms":978927334,"pid":12339,"thread":"main","session":"enhancements","stage":"sort_install","detail":"anchor=false"}
+{"utc_ms":1793473210504,"elapsed_ms":978933004,"pid":12339,"thread":"main","session":"enhancements","stage":"profile_cleanup","detail":"help share discover removed"}
