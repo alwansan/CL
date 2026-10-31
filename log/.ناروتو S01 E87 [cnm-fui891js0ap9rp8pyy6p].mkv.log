@@ -1,8 +1,0 @@
-1793484858907 SUBTITLE_POLICY=manifest-ready expected=1 completed=3 files=1 token=fui891js0ap9rp8pyy6p
-1793484859435 ffmpeg=native:/data/app/~~vhyjtL5AgelvBzf1JZOcuQ==/com.cinemana.pro-pKcLA33yNKowbvN_r_JpHw==/lib/arm64/libffmpeg.so
-1793484859558 subtitle_track_types=derived_from_real_input_languages (PATCH127)
-1793484859560 exec=[/data/app/~~vhyjtL5AgelvBzf1JZOcuQ==/com.cinemana.pro-pKcLA33yNKowbvN_r_JpHw==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E87 [cnm-fui891js0ap9rp8pyy6p].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E87 [cnm-fui891js0ap9rp8pyy6p].srt] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو S01 E87] [-metadata:s:s:0] [language=ar] [-metadata] [title=ناروتو S01 E87] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو S01 E87 [cnm-fui891js0ap9rp8pyy6p].mkv.cnm115-14bf911d-66ce-47b8-9412-3f665c215ecc.part]
-1793484868513 exit=0 output=
-1793484868532 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو S01 E87 [cnm-fui891js0ap9rp8pyy6p].mkv size=35160617
-1793484868940 DB_PROMOTE=true
-1793484868956 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E87.mkv work=ناروتو season=01 episode=87 noSub=false
