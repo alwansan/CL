@@ -3538,3 +3538,7 @@
 {"utc_ms":1793462854276,"elapsed_ms":968576776,"pid":20115,"thread":"ExoPlayer:Playback","session":"enhancements","stage":"subtitle_sample_retained","detail":"samples=1 end_us=714128000"}
 {"utc_ms":1793462856635,"elapsed_ms":968579135,"pid":20115,"thread":"ExoPlayer:SimpleDecoder","session":"subtitles","stage":"subtitle_timeline","detail":"format=SRT intervals=1 boundaries=2"}
 {"utc_ms":1793462856635,"elapsed_ms":968579135,"pid":20115,"thread":"ExoPlayer:Playback","session":"enhancements","stage":"subtitle_sample_retained","detail":"samples=1 end_us=722720000"}
+{"utc_ms":1793462884093,"elapsed_ms":968606593,"pid":20115,"thread":"main","session":"enhancements","stage":"subtitle_size_apply","detail":"sp=16.800001 px=39.690002"}
+{"utc_ms":1793462886079,"elapsed_ms":968608579,"pid":20115,"thread":"main","session":"enhancements","stage":"entry_install","detail":"root=androidx.coordinatorlayout.widget.CoordinatorLayout"}
+{"utc_ms":1793462886080,"elapsed_ms":968608580,"pid":20115,"thread":"main","session":"enhancements","stage":"entry_visibility","detail":"attempt=0 found=true kind= id= episodes=-1 visible=false shown=false parents=MaterialTextView:8\/ConstraintLayout:0\/NestedScrollView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/FragmentContainerView:0\/CoordinatorLayout:0\/FragmentContainerView:0\/"}
+{"utc_ms":1793462887740,"elapsed_ms":968610240,"pid":20115,"thread":"main","session":"enhancements","stage":"subtitle_size_apply","detail":"sp=16.800001 px=39.690002"}

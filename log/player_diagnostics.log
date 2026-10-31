@@ -3036,3 +3036,25 @@ UTC_MS=1793462860810 PID=20115 THREAD=main UPTIME_MS=968583310 MESSAGE=uptimeMs=
 UTC_MS=1793462860813 PID=20115 THREAD=main UPTIME_MS=968583313 MESSAGE=uptimeMs=968583310 event=player_state_update_extra=1
 UTC_MS=1793462860817 PID=20115 THREAD=main UPTIME_MS=968583317 MESSAGE=uptimeMs=968583314 event=player_state_update_playback_state=3
 UTC_MS=1793462860821 PID=20115 THREAD=main UPTIME_MS=968583321 MESSAGE=uptimeMs=968583317 event=player_state_update_position_us=717005
+UTC_MS=1793462880948 PID=20115 THREAD=main UPTIME_MS=968603448 MESSAGE=uptimeMs=968603441 event=activity_on_destroy
+UTC_MS=1793462880954 PID=20115 THREAD=main UPTIME_MS=968603454 MESSAGE=uptimeMs=968603450 event=surface_detach_enter
+UTC_MS=1793462880956 PID=20115 THREAD=ExoPlayer:Playback UPTIME_MS=968603456 MESSAGE=uptimeMs=968603454 event=renderer_surface_message_type=1
+UTC_MS=1793462880956 PID=20115 THREAD=main UPTIME_MS=968603456 MESSAGE=uptimeMs=968603454 event=surface_detach_complete
+UTC_MS=1793462880959 PID=20115 THREAD=ExoPlayer:Playback UPTIME_MS=968603459 MESSAGE=uptimeMs=968603457 event=renderer_output_message_payload_class=null
+UTC_MS=1793462880959 PID=20115 THREAD=main UPTIME_MS=968603459 MESSAGE=uptimeMs=968603457 event=player_state_update_enter
+UTC_MS=1793462880963 PID=20115 THREAD=ExoPlayer:Playback UPTIME_MS=968603463 MESSAGE=uptimeMs=968603459 event=renderer_surface_snapshot stage=output_message_surface_before surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793462880964 PID=20115 THREAD=main UPTIME_MS=968603464 MESSAGE=uptimeMs=968603459 event=player_state_update_playing_flag=false
+UTC_MS=1793462880964 PID=20115 THREAD=ExoPlayer:Playback UPTIME_MS=968603464 MESSAGE=uptimeMs=968603463 event=renderer_surface_snapshot stage=output_message_surface_after surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793462880965 PID=20115 THREAD=main UPTIME_MS=968603465 MESSAGE=uptimeMs=968603464 event=player_state_update_reason=-1
+UTC_MS=1793462880965 PID=20115 THREAD=ExoPlayer:Playback UPTIME_MS=968603465 MESSAGE=uptimeMs=968603464 event=renderer_surface_attached=false
+UTC_MS=1793462880966 PID=20115 THREAD=main UPTIME_MS=968603466 MESSAGE=uptimeMs=968603465 event=player_state_update_extra=1
+UTC_MS=1793462880972 PID=20115 THREAD=main UPTIME_MS=968603472 MESSAGE=uptimeMs=968603467 event=player_state_update_playback_state=3
+UTC_MS=1793462880984 PID=20115 THREAD=main UPTIME_MS=968603484 MESSAGE=uptimeMs=968603473 event=player_state_update_position_us=717005
+UTC_MS=1793462881020 PID=20115 THREAD=ExoPlayer:Playback UPTIME_MS=968603520 MESSAGE=uptimeMs=968603517 event=renderer_lifecycle_E_reset_enter
+UTC_MS=1793462881030 PID=20115 THREAD=ExoPlayer:Playback UPTIME_MS=968603530 MESSAGE=uptimeMs=968603523 event=renderer_surface_snapshot stage=E_before_cleanup surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793462881032 PID=20115 THREAD=ExoPlayer:Playback UPTIME_MS=968603532 MESSAGE=uptimeMs=968603531 event=renderer_lifecycle_B_cleanup_enter
+UTC_MS=1793462881037 PID=20115 THREAD=ExoPlayer:Playback UPTIME_MS=968603537 MESSAGE=uptimeMs=968603532 event=renderer_surface_snapshot stage=B_before_cleanup surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793462881049 PID=20115 THREAD=ExoPlayer:Playback UPTIME_MS=968603549 MESSAGE=uptimeMs=968603539 event=ffmpeg_decoder_release
+UTC_MS=1793462881053 PID=20115 THREAD=ExoPlayer:Playback UPTIME_MS=968603553 MESSAGE=uptimeMs=968603551 event=renderer_surface_retained_by_B_cleanup
+UTC_MS=1793462881059 PID=20115 THREAD=ExoPlayer:Playback UPTIME_MS=968603559 MESSAGE=uptimeMs=968603554 event=renderer_lifecycle_B_cleanup_complete
+UTC_MS=1793462881069 PID=20115 THREAD=ExoPlayer:Playback UPTIME_MS=968603569 MESSAGE=uptimeMs=968603560 event=renderer_surface_snapshot stage=B_cleanup_complete surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
