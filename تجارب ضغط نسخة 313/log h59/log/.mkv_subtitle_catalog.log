@@ -1,0 +1,94 @@
+1793460877956 PROBE128 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E01.mkv ebml=[0:ar/S_TEXT/UTF8@ebml] media=[] ffmpeg=[] chosen=[0:ar/S_TEXT/UTF8@ebml]
+1793460877957 CATALOG128 source=verified path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E01.mkv tracks=[0:ar/S_TEXT/UTF8@ebml] exposed=1
+1793460877998 CATALOG128 source=verified path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E01.mkv tracks=[0:ar/S_TEXT/UTF8@ebml] exposed=1
+1793460892829 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793460892829 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793460892850 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793460892851 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793460896347 CATALOG128 empty path=
+1793460896381 CATALOG128 empty path=
+1793460899951 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793460899952 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793460899972 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793460899973 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793460902532 CATALOG128 empty path=
+1793460902580 CATALOG128 empty path=
+1793460905067 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793460905067 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793460905083 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793460905084 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793460908419 CATALOG128 empty path=
+1793460908451 CATALOG128 empty path=
+1793460909526 CATALOG128 empty path=
+1793460909558 CATALOG128 empty path=
+1793460911241 CATALOG128 empty path=
+1793460911274 CATALOG128 empty path=
+1793460913932 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793460913933 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793460913954 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793460913954 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793460917504 CATALOG128 empty path=
+1793460917538 CATALOG128 empty path=
+1793460920930 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793460920931 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793460920954 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793460920955 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462811313 PROBE128 path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E15.mkv ebml=[0:ar/S_TEXT/UTF8@ebml,1:sp/S_TEXT/ASS@ebml] media=[] ffmpeg=[] chosen=[0:ar/S_TEXT/UTF8@ebml,1:sp/S_TEXT/ASS@ebml]
+1793462811315 CATALOG128 source=verified path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E15.mkv tracks=[0:ar/S_TEXT/UTF8@ebml,1:sp/S_TEXT/ASS@ebml] exposed=2
+1793462811389 CATALOG128 source=verified path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E15.mkv tracks=[0:ar/S_TEXT/UTF8@ebml,1:sp/S_TEXT/ASS@ebml] exposed=2
+1793462820812 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player,1:sp/text/x-ssa@player]
+1793462820813 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player,1:sp/text/x-ssa@player] exposed=2
+1793462820862 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player,1:sp/text/x-ssa@player]
+1793462820863 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player,1:sp/text/x-ssa@player] exposed=2
+1793462824554 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462824555 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462824588 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462824589 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462825817 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462825818 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462825862 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462825864 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462827040 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462827041 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462827094 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462827095 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462827693 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462827694 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462827724 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462827725 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462829355 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462829355 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462829392 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462829393 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462832449 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462832450 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462832497 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462832497 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462835899 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462835900 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462835934 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462835934 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462838552 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462838553 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462838595 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462838596 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462841275 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462841276 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462841314 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462841314 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462843319 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462843320 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462843357 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462843358 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462845008 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462845009 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462845050 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462845051 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462848067 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462848068 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462848105 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462848105 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462850905 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462850906 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793462850944 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793462850945 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1

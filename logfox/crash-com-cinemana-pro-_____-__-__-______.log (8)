@@ -1,0 +1,28 @@
+SDK: 35
+PRODUCT_NAME: mondrian_global
+DEVICE_NAME: mondrian
+BOARD_NAME: taro
+SUPPORTED_ABIS: arm64-v8a, armeabi-v7a, armeabi
+MANUFACTURER: Xiaomi
+BRAND: POCO
+MODEL: 23013PC75G
+
+APP_NAME: سينمانا برو
+PACKAGE: com.cinemana.pro
+VERSION_NAME: 6.0.0
+VERSION_CODE: 50382
+
+1793464416.252 13013 24999 24999 E AndroidRuntime: FATAL EXCEPTION: main
+1793464416.252 13013 24999 24999 E AndroidRuntime: Process: com.cinemana.pro, PID: 24999
+1793464416.252 13013 24999 24999 E AndroidRuntime: java.lang.NullPointerException: Attempt to invoke interface method 'boolean com.liulishuo.filedownloader.IFileDownloadMessenger.isBlockingCompleted()' on a null object reference
+1793464416.252 13013 24999 24999 E AndroidRuntime: 	at com.liulishuo.filedownloader.FileDownloadMessageStation.interceptBlockCompleteMessage(FileDownloadMessageStation.java:1)
+1793464416.252 13013 24999 24999 E AndroidRuntime: 	at com.liulishuo.filedownloader.FileDownloadMessageStation.access$400(FileDownloadMessageStation.java:1)
+1793464416.252 13013 24999 24999 E AndroidRuntime: 	at com.liulishuo.filedownloader.FileDownloadMessageStation$UIHandlerCallback.dispose(FileDownloadMessageStation.java:2)
+1793464416.252 13013 24999 24999 E AndroidRuntime: 	at com.liulishuo.filedownloader.FileDownloadMessageStation$UIHandlerCallback.handleMessage(FileDownloadMessageStation.java:3)
+1793464416.252 13013 24999 24999 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:103)
+1793464416.252 13013 24999 24999 E AndroidRuntime: 	at android.os.Looper.loopOnce(Looper.java:249)
+1793464416.252 13013 24999 24999 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:337)
+1793464416.252 13013 24999 24999 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:9682)
+1793464416.252 13013 24999 24999 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+1793464416.252 13013 24999 24999 E AndroidRuntime: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:625)
+1793464416.252 13013 24999 24999 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:944)
