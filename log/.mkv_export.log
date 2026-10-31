@@ -59320,3 +59320,509 @@
 1793465253481 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
 1793465253506 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
 1793465254189 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793465254384 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793465254447 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793465255422 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793465255461 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793465255479 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793465256929 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793465256931 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793465256954 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793465256957 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793465257040 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793465257054 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793465257928 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793465257977 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793465257997 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793465258965 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793465259147 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793465259160 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793465259485 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793465259515 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793465259515 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793465261224 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793465261283 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793465261514 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793465261638 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793465261673 MKV_FFMPEG_SLOT_RELEASED target=ناروتو S01 E18 [cnm-cd5unnlsmjwlj3uuqapg].mkv
+1793465264138 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793465264282 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793465264322 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793465265669 DB_PROMOTE_DOWNLOADS_MATCH task_id=538891301 external_id=5679 score=6280 exactPath=true originalPath=/storage/emulated/0/Cinemana/work/ناروتو S01 E19 [cnm-1rokx42v4p1noa8qsq9j].mp4 title=ناروتو S01 season=1 episode=19
+1793465265720 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793465265798 DB_PROMOTE_DOWNLOADS_VERIFIED path=ناروتو S01 E19 [cnm-1rokx42v4p1noa8qsq9j].mkv size=32302465
+1793465266125 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793465266602 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793465266909 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793465266965 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793465268073 DB_PROMOTE_SUBTITLE_RESULT=kotlin.Unit
+1793465268244 DB_PROMOTE_SUCCESS path=ناروتو S01 E19 [cnm-1rokx42v4p1noa8qsq9j].mkv task_id=538891301 external_id=5679 item_id=5679
+1793465268450 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:538891301;externalId:5679;itemId:5679;path:ناروتو S01 E19 [cnm-1rokx42v4p1noa8qsq9j].mkv
+1793465268497 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466853699 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466853775 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466853837 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466854432 DB_PROMOTE_DOWNLOADS_MATCH task_id=-96613917 external_id=5674 score=6030 exactPath=true originalPath=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E14.mkv title=ناروتو S01 season=1 episode=14
+1793466854545 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793466854608 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E14.mkv size=37038170
+1793466854734 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793466854808 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E14.mkv task_id=-96613917 external_id=5674 item_id=5674
+1793466854839 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:-96613917;externalId:5674;itemId:5674;path:/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E14.mkv
+1793466854960 MKV_INTERNAL_IDENTITY=5674@1793466854866 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E14.mkv noSub=false
+1793466855704 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E17 [cnm-38qn9vfkyffwdxhq47c5].mp4 title=ناروتو S01 season=1 episode=17
+1793466855744 QUEUE_ENQUEUED key=item:5677
+1793466855820 QUEUE_START key=item:5677
+1793466855850 QUEUE_ATTEMPT=1/1 key=item:5677
+1793466855876 watcher started; waiting for final video filename (not .temp)
+1793466855916 candidate video observed: /storage/emulated/0/Cinemana/work/ناروتو S01 E17 [cnm-38qn9vfkyffwdxhq47c5].mp4 size=40295973
+1793466855946 DB_PROMOTE_DOWNLOADS_MATCH task_id=-1166885448 external_id=5676 score=6030 exactPath=true originalPath=/storage/emulated/0/Cinemana/work/ناروتو S01 E16 [cnm-4n21lfuhfh1eop9ptgvv].mp4 title=ناروتو S01 season=1 episode=16
+1793466855965 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793466855981 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E16.mkv size=35099215
+1793466855996 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793466856014 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E16.mkv task_id=-1166885448 external_id=5676 item_id=5676
+1793466856030 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466856040 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:-1166885448;externalId:5676;itemId:5676;path:/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E16.mkv
+1793466856067 MKV_INTERNAL_IDENTITY=5676@1793466856043 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E16.mkv noSub=false
+1793466856097 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466856099 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466856229 DB_PROMOTE_DOWNLOADS_MATCH task_id=-2032650983 external_id=5678 score=6030 exactPath=true originalPath=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E18.mkv title=ناروتو S01 season=1 episode=18
+1793466856259 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793466856307 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E18.mkv size=30938405
+1793466856345 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793466856374 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E18.mkv task_id=-2032650983 external_id=5678 item_id=5678
+1793466856406 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:-2032650983;externalId:5678;itemId:5678;path:/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E18.mkv
+1793466856442 MKV_INTERNAL_IDENTITY=5678@1793466856411 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E18.mkv noSub=false
+1793466856601 DB_PROMOTE_DOWNLOADS_MATCH task_id=538891301 external_id=5679 score=6280 exactPath=true originalPath=ناروتو S01 E19 [cnm-1rokx42v4p1noa8qsq9j].mkv title=ناروتو S01 season=1 episode=19
+1793466856632 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793466856674 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E19.mkv size=32302465
+1793466856702 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793466856726 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E19.mkv task_id=538891301 external_id=5679 item_id=5679
+1793466856762 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:538891301;externalId:5679;itemId:5679;path:/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E19.mkv
+1793466856806 MKV_INTERNAL_IDENTITY=5679@1793466856767 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E19.mkv noSub=false
+1793466857093 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E20 [cnm-56csus3yw2ijsd7kswrp].mp4 title=ناروتو S01 season=1 episode=20
+1793466857121 QUEUE_ENQUEUED key=item:5680
+1793466857150 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466857163 QUEUE_START key=item:5680
+1793466857191 QUEUE_ATTEMPT=1/1 key=item:5680
+1793466857210 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466857242 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466857243 watcher started; waiting for final video filename (not .temp)
+1793466857300 candidate video observed: /storage/emulated/0/Cinemana/work/ناروتو S01 E20 [cnm-56csus3yw2ijsd7kswrp].mp4 size=39670233
+1793466857410 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E21 [cnm-65rp6gci1xkh8y4m8sku].mp4 title=ناروتو S01 season=1 episode=21
+1793466857434 QUEUE_ENQUEUED key=item:5681
+1793466857470 QUEUE_START key=item:5681
+1793466857488 QUEUE_ATTEMPT=1/1 key=item:5681
+1793466857514 watcher started; waiting for final video filename (not .temp)
+1793466857554 candidate video observed: /storage/emulated/0/Cinemana/work/ناروتو S01 E21 [cnm-65rp6gci1xkh8y4m8sku].mp4 size=32080733
+1793466857798 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E29 [cnm-1uw8i69ycqmrbwcaloax].mp4 title=ناروتو S01 season=1 episode=29
+1793466857849 QUEUE_ENQUEUED key=item:5689
+1793466858211 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E30 [cnm-2swe0zopz45ktjhtc4gt].mp4 title=ناروتو S01 season=1 episode=30
+1793466858251 QUEUE_ENQUEUED key=item:5690
+1793466858299 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466858352 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466858353 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466858485 final video stable: /storage/emulated/0/Cinemana/work/ناروتو S01 E17 [cnm-38qn9vfkyffwdxhq47c5].mp4 size=40295973
+1793466858534 VIDEO_READY_FOR_MKV path=/storage/emulated/0/Cinemana/work/ناروتو S01 E17 [cnm-38qn9vfkyffwdxhq47c5].mp4
+1793466858560 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E31 [cnm-3wbm8nkmpj8a7sbl245z].mp4 title=ناروتو S01 season=1 episode=31
+1793466858574 MKV_MANIFEST_DEFER token=38qn9vfkyffwdxhq47c5
+1793466858616 QUEUE_ENQUEUED key=item:5691
+1793466858651 QUEUE_FINISH key=item:5677
+1793466859094 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E32 [cnm-66ovresyrjoqna2gf4ak].mp4 title=ناروتو S01 season=1 episode=32
+1793466859145 QUEUE_ENQUEUED key=item:5692
+1793466859175 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466859296 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466859305 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466859915 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E34 [cnm-2umrmxubddrrgih7r9e6].mp4 title=ناروتو S01 season=1 episode=34
+1793466859960 final video stable: /storage/emulated/0/Cinemana/work/ناروتو S01 E20 [cnm-56csus3yw2ijsd7kswrp].mp4 size=39670233
+1793466859996 QUEUE_ENQUEUED key=item:5694
+1793466860013 VIDEO_READY_FOR_MKV path=/storage/emulated/0/Cinemana/work/ناروتو S01 E20 [cnm-56csus3yw2ijsd7kswrp].mp4
+1793466860199 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466860236 final video stable: /storage/emulated/0/Cinemana/work/ناروتو S01 E21 [cnm-65rp6gci1xkh8y4m8sku].mp4 size=32080733
+1793466860275 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466860303 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466860305 VIDEO_READY_FOR_MKV path=/storage/emulated/0/Cinemana/work/ناروتو S01 E21 [cnm-65rp6gci1xkh8y4m8sku].mp4
+1793466860609 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E35 [cnm-2biq5d90b85u5kfxpzb5].mp4 title=ناروتو S01 season=1 episode=35
+1793466860669 QUEUE_ENQUEUED key=item:5695
+1793466861239 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E36 [cnm-2xjnbx6ggtqpjhkvvgpd].mp4 title=ناروتو S01 season=1 episode=36
+1793466861253 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466861286 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466861296 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466861349 QUEUE_ENQUEUED key=item:5696
+1793466861469 MKV_FFMPEG_SLOT_ACQUIRED target=ناروتو S01 E20 [cnm-56csus3yw2ijsd7kswrp].mkv
+1793466861775 MKV_FFMPEG_SLOT_ACQUIRED target=ناروتو S01 E21 [cnm-65rp6gci1xkh8y4m8sku].mkv
+1793466861811 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E37 [cnm-66edngl46eppth9aai9h].mp4 title=ناروتو S01 season=1 episode=37
+1793466861883 QUEUE_ENQUEUED key=item:5697
+1793466862133 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466862182 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466862223 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466863066 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466863090 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466863142 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466863838 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466863880 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466863916 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466864735 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466864790 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466864804 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466865010 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466865031 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466865052 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466866161 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466866195 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466866207 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466867437 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466867463 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466867471 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466867748 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466867765 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466867785 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466868436 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466868464 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466868475 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466869425 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466869454 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466869472 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466869884 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466869924 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466869950 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466870135 QUEUE_START key=item:5689
+1793466870188 QUEUE_ATTEMPT=1/1 key=item:5689
+1793466870253 watcher started; waiting for final video filename (not .temp)
+1793466870325 candidate video observed: /storage/emulated/0/Cinemana/work/ناروتو S01 E29 [cnm-1uw8i69ycqmrbwcaloax].mp4 size=37276852
+1793466870640 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466870743 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466870762 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466872003 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466872045 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466872091 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466872142 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466872232 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466872247 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466872394 DB_PROMOTE_DOWNLOADS_MATCH task_id=291173871 external_id=5680 score=6280 exactPath=true originalPath=/storage/emulated/0/Cinemana/work/ناروتو S01 E20 [cnm-56csus3yw2ijsd7kswrp].mp4 title=ناروتو S01 season=1 episode=20
+1793466872491 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793466872557 DB_PROMOTE_DOWNLOADS_VERIFIED path=ناروتو S01 E20 [cnm-56csus3yw2ijsd7kswrp].mkv size=38901940
+1793466872615 DB_PROMOTE_DOWNLOADS_MATCH task_id=104796720 external_id=5681 score=6280 exactPath=true originalPath=/storage/emulated/0/Cinemana/work/ناروتو S01 E21 [cnm-65rp6gci1xkh8y4m8sku].mp4 title=ناروتو S01 season=1 episode=21
+1793466872620 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793466872695 DB_PROMOTE_SUBTITLE_RESULT=kotlin.Unit
+1793466872701 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793466872749 DB_PROMOTE_SUCCESS path=ناروتو S01 E20 [cnm-56csus3yw2ijsd7kswrp].mkv task_id=291173871 external_id=5680 item_id=5680
+1793466872776 DB_PROMOTE_DOWNLOADS_VERIFIED path=ناروتو S01 E21 [cnm-65rp6gci1xkh8y4m8sku].mkv size=31314316
+1793466872794 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:291173871;externalId:5680;itemId:5680;path:ناروتو S01 E20 [cnm-56csus3yw2ijsd7kswrp].mkv
+1793466872823 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793466872876 DB_PROMOTE_SUBTITLE_RESULT=kotlin.Unit
+1793466872918 DB_PROMOTE_SUCCESS path=ناروتو S01 E21 [cnm-65rp6gci1xkh8y4m8sku].mkv task_id=104796720 external_id=5681 item_id=5681
+1793466872994 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:104796720;externalId:5681;itemId:5681;path:ناروتو S01 E21 [cnm-65rp6gci1xkh8y4m8sku].mkv
+1793466872994 DB_PROMOTE_DOWNLOADS_MATCH task_id=291173871 external_id=5680 score=6280 exactPath=true originalPath=ناروتو S01 E20 [cnm-56csus3yw2ijsd7kswrp].mkv title=ناروتو S01 season=1 episode=20
+1793466873042 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793466873042 final video stable: /storage/emulated/0/Cinemana/work/ناروتو S01 E29 [cnm-1uw8i69ycqmrbwcaloax].mp4 size=37276852
+1793466873092 VIDEO_READY_FOR_MKV path=/storage/emulated/0/Cinemana/work/ناروتو S01 E29 [cnm-1uw8i69ycqmrbwcaloax].mp4
+1793466873112 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E20.mkv size=38901940
+1793466873126 DB_PROMOTE_DOWNLOADS_MATCH task_id=104796720 external_id=5681 score=6280 exactPath=true originalPath=ناروتو S01 E21 [cnm-65rp6gci1xkh8y4m8sku].mkv title=ناروتو S01 season=1 episode=21
+1793466873135 MKV_MANIFEST_DEFER token=1uw8i69ycqmrbwcaloax
+1793466873193 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793466873207 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793466873243 QUEUE_FINISH key=item:5689
+1793466873302 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E21.mkv size=31314316
+1793466873308 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E20.mkv task_id=291173871 external_id=5680 item_id=5680
+1793466873341 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793466873376 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:291173871;externalId:5680;itemId:5680;path:/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E20.mkv
+1793466873442 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E21.mkv task_id=104796720 external_id=5681 item_id=5681
+1793466873463 MKV_INTERNAL_IDENTITY=5680@1793466873415 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E20.mkv noSub=false
+1793466873500 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:104796720;externalId:5681;itemId:5681;path:/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E21.mkv
+1793466873526 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466873583 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466873592 MKV_INTERNAL_IDENTITY=5681@1793466873524 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E21.mkv noSub=false
+1793466873613 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466873627 DB_PROMOTE_DOWNLOADS_MATCH task_id=291173871 external_id=5680 score=6280 exactPath=true originalPath=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E20.mkv title=ناروتو S01 season=1 episode=20
+1793466873677 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466873682 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466873689 DB_PROMOTE_DOWNLOADS_MATCH task_id=104796720 external_id=5681 score=6280 exactPath=true originalPath=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E21.mkv title=ناروتو S01 season=1 episode=21
+1793466873704 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793466873720 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466873765 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793466873804 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E20.mkv size=38901940
+1793466873813 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E21.mkv size=31314316
+1793466873855 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793466873925 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793466874078 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E20.mkv task_id=291173871 external_id=5680 item_id=5680
+1793466874129 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E21.mkv task_id=104796720 external_id=5681 item_id=5681
+1793466874167 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:291173871;externalId:5680;itemId:5680;path:/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E20.mkv
+1793466874180 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:104796720;externalId:5681;itemId:5681;path:/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E21.mkv
+1793466874191 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E17 [cnm-38qn9vfkyffwdxhq47c5].mp4 title=ناروتو S01 season=1 episode=17
+1793466874299 QUEUE_ENQUEUED key=item:5677
+1793466874461 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466874480 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466874499 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466874889 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E29 [cnm-1uw8i69ycqmrbwcaloax].mp4 title=ناروتو S01 season=1 episode=29
+1793466874917 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466874934 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466874946 QUEUE_ENQUEUED key=item:5689
+1793466874970 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466875128 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466875182 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466875214 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466875620 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466875668 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466875669 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466875769 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466875774 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466875786 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466876085 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466876154 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466876156 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466876697 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466876699 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466876720 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466876734 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466876775 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466876796 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466877311 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466877352 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466877363 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466877517 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466877561 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466877566 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466878016 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466878083 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466878119 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466878410 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466878418 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466878442 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466878589 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466878660 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466878663 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466879341 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466879367 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466879375 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466879423 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466879423 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466879423 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466880081 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466880132 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466880139 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466880407 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466880408 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466880430 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466880651 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466880724 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466880735 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466881432 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466881448 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466881458 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466881469 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466881490 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466881496 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466881922 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466881993 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466881994 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466882233 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466882242 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466882288 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466882512 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466882525 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466882545 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466883025 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466883094 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466883143 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466884132 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466884172 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466884203 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466885108 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466885307 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466885327 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466886079 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466886080 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466886135 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466886199 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466886316 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466886335 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466887353 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466887454 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466887461 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466887696 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466887729 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466887735 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466888336 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466888515 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466888527 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466889107 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466889118 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466889171 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466889617 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466889712 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466889712 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466890591 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466890675 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466890713 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466891078 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466891127 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466891177 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466891479 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466891566 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466891582 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466892390 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466892522 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466892529 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466892670 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466892688 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466892708 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466893382 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466893418 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466893428 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466894110 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466894185 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466894196 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466894199 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466894242 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466894258 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466894846 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466894898 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466894926 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466895353 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466895375 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466895381 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466895382 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466895429 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466895441 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466895897 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466895941 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466895943 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466896397 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466896429 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466896429 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466896564 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466896616 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466896623 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466897332 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466897334 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466897360 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466897747 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466897761 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466897828 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466897967 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466897996 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466898018 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466898549 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466898590 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466898621 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466898820 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466898825 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466898851 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466898994 QUEUE_START key=item:5690
+1793466899057 QUEUE_ATTEMPT=1/1 key=item:5690
+1793466899163 watcher started; waiting for final video filename (not .temp)
+1793466899254 candidate video observed: /storage/emulated/0/Cinemana/work/ناروتو S01 E30 [cnm-2swe0zopz45ktjhtc4gt].mp4 size=33536741
+1793466899412 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466899612 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466899678 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466900818 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466900913 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466900946 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466900970 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466900980 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466901036 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466901456 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E52 [cnm-69me5bmcs1a0k2q1o48n].mp4 title=ناروتو S01 season=1 episode=52
+1793466901527 QUEUE_ENQUEUED key=item:5712
+1793466901648 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466901692 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466901713 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466901926 final video stable: /storage/emulated/0/Cinemana/work/ناروتو S01 E30 [cnm-2swe0zopz45ktjhtc4gt].mp4 size=33536741
+1793466901958 VIDEO_READY_FOR_MKV path=/storage/emulated/0/Cinemana/work/ناروتو S01 E30 [cnm-2swe0zopz45ktjhtc4gt].mp4
+1793466902003 MKV_MANIFEST_DEFER token=2swe0zopz45ktjhtc4gt
+1793466902115 QUEUE_FINISH key=item:5690
+1793466902152 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466902152 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466902182 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466902438 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466902519 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466902519 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466903319 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466903379 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466903379 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466903511 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466903519 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466903567 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466903950 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466903990 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466904000 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466904570 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466904643 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466904643 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466904706 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466904734 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466904749 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466905215 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466905272 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466905274 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466905781 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466905809 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466905818 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466905859 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466905880 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466905891 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466906365 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466906441 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466906450 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466906886 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466906919 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466906929 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466906936 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466906982 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466907003 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466907463 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466907506 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466907517 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466908121 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466908304 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E30 [cnm-2swe0zopz45ktjhtc4gt].mp4 title=ناروتو S01 season=1 episode=30
+1793466908352 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466908385 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466908390 QUEUE_ENQUEUED key=item:5690
+1793466908445 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466908504 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466908538 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466909517 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E49 [cnm-hv53zx1vpaouv8sxaue3].mp4 title=ناروتو S01 season=1 episode=49
+1793466909650 QUEUE_ENQUEUED key=item:5709
+1793466909775 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466909908 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466909915 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466911106 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466911155 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466911172 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466911427 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466911438 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466911495 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466911959 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466912015 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466912015 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466912497 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466912533 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466912542 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466912740 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466912772 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466912783 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466913032 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466913099 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466913113 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466913709 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466913770 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466913774 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466914061 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466914114 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466914142 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466915346 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466915482 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466915504 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466916616 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466916679 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466916718 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466917394 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466917408 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466917456 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466917854 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E13 [cnm-2s2lm3r8j79nnnneacdh].mp4 title=ناروتو S01 season=1 episode=13
+1793466917988 QUEUE_ENQUEUED key=item:5673
+1793466918153 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466918259 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466918288 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793466919432 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793466919516 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793466919542 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
