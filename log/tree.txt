@@ -180,7 +180,7 @@
 │   ├── [ 22K 2026-10-31 19:33:19]  arabic subtitle for ناروتو S01 E97 [cnm-xims7aj97pfx4q463t3h].srt
 │   ├── [ 18K 2026-10-31 19:33:19]  arabic subtitle for ناروتو S01 E98 [cnm-2b6g0e0w5defde99s2tl].srt
 │   ├── [ 19K 2026-10-31 19:33:19]  arabic subtitle for ناروتو S01 E99 [cnm-54jg31k0chgvy96cumxr].srt
-│   ├── [3.4K 2026-10-31 21:26:19]  data
+│   ├── [3.4K 2026-10-31 21:45:05]  data
 │   │   ├── [ 20K 2026-10-31 21:26:17]  cnm_recovery
 │   │   │   ├── [ 419 2026-10-31 19:33:26]  104zv0oq78v591etxzrk.json
 │   │   │   ├── [ 417 2026-10-31 19:33:24]  11mdmt5c622ga4jc7wb7.json
@@ -359,10 +359,10 @@
 │   │   │   ├── [ 419 2026-10-31 19:33:21]  ydw2o0a4zi1pr3bc883s.json
 │   │   │   ├── [ 418 2026-10-31 19:33:25]  yjitc5abynmak3ksh50y.json
 │   │   │   └── [2.0K 2026-10-31 21:25:04]  zo6htr40gntpwmt93ztf.json
-│   │   ├── [1018K 2026-10-31 21:24:43]  episodes.v1.bin
-│   │   ├── [1018K 2026-10-31 21:24:43]  episodes.v1.bin.previous
-│   │   ├── [ 72K 2026-10-31 21:26:19]  library.v1.bin
-│   │   ├── [ 71K 2026-10-31 21:26:19]  library.v1.bin.previous
+│   │   ├── [1018K 2026-10-31 21:45:05]  episodes.v1.bin
+│   │   ├── [1018K 2026-10-31 21:45:05]  episodes.v1.bin.previous
+│   │   ├── [ 74K 2026-10-31 21:44:53]  library.v1.bin
+│   │   ├── [ 74K 2026-10-31 21:44:53]  library.v1.bin.previous
 │   │   ├── [3.4K 2026-10-31 20:14:47]  local-account
 │   │   │   └── [ 12K 2026-10-31 20:14:47]  account.bin
 │   │   ├── [3.4K 2026-10-31 21:26:15]  mkv-proofs
@@ -398,10 +398,10 @@
 │   │   │   ├── [ 103 2026-10-31 20:42:07]  dat8g3c8b4djsvisoyrk.path
 │   │   │   └── [ 103 2026-10-31 19:33:38]  qswl05curr9wm6bz9iev.path
 │   │   ├── [1.9K 2026-10-31 21:26:22]  mkv_repair_pending.properties
-│   │   ├── [2.9K 2026-10-31 21:24:43]  watch.v1.bin
-│   │   └── [2.9K 2026-10-31 21:24:43]  watch.v1.bin.previous
+│   │   ├── [2.9K 2026-10-31 21:45:05]  watch.v1.bin
+│   │   └── [2.9K 2026-10-31 21:45:05]  watch.v1.bin.previous
 │   ├── [ 20K 2026-10-31 21:26:08]  log
-│   │   ├── [4.9M 2026-10-31 21:26:15]  .mkv_export.log
+│   │   ├── [4.9M 2026-10-31 21:45:05]  .mkv_export.log
 │   │   ├── [6.0K 2026-10-31 20:14:42]  .mkv_player_resolver.log
 │   │   ├── [9.2K 2026-10-31 20:14:42]  .mkv_subtitle_catalog.log
 │   │   ├── [3.7K 2026-10-31 19:33:38]  .ناروتو S01 E01 [cnm-qswl05curr9wm6bz9iev].mkv.log
@@ -454,16 +454,16 @@
 │   │   ├── [5.2K 2026-10-31 19:06:34]  .ناروتو شيبودن S01 E14 [cnm-590wzx40u2rykj8vm3zu].mkv.log
 │   │   ├── [2.5K 2026-10-31 19:06:50]  .ناروتو شيبودن S01 E15 [cnm-15okwzjpmwbnemqxajhz].mkv.log
 │   │   ├── [2.1M 2026-10-31 21:26:14]  ca1_batch.jsonl
-│   │   ├── [ 14M 2026-10-31 21:26:23]  diagnostics.log
-│   │   ├── [8.9M 2026-10-31 21:26:23]  downloads.log
+│   │   ├── [ 14M 2026-10-31 21:45:05]  diagnostics.log
+│   │   ├── [9.0M 2026-10-31 21:45:05]  downloads.log
 │   │   ├── [232K 2026-10-31 21:26:20]  load_diagnostics.filedownloader.jsonl
-│   │   ├── [359K 2026-10-31 21:26:14]  load_diagnostics.main.jsonl
+│   │   ├── [364K 2026-10-31 21:45:01]  load_diagnostics.main.jsonl
 │   │   ├── [3.0K 2026-10-31 21:25:04]  logo_sources.log
-│   │   ├── [ 21K 2026-10-31 21:26:15]  mkv_identity.map
+│   │   ├── [ 21K 2026-10-31 21:44:52]  mkv_identity.map
 │   │   ├── [605K 2026-10-31 20:14:48]  player_diagnostics.log
 │   │   ├── [ 241 2026-10-31 20:14:18]  storage_maintenance.log
-│   │   ├── [ 32K 2026-10-31 21:26:33]  tree.txt
-│   │   ├── [837K 2026-10-31 21:26:14]  ui95.log
+│   │   ├── [ 36K 2026-10-31 21:48:20]  tree.txt
+│   │   ├── [837K 2026-10-31 21:45:05]  ui95.log
 │   │   └── [996K 2026-10-31 21:26:19]  ui_performance.jsonl
 │   ├── [ 19K 2026-10-31 19:33:22]  special subtitle for ناروتو S01 E116 [cnm-680unu62q5914m78cfcf].ass
 │   ├── [ 28K 2026-10-31 19:33:27]  special subtitle for ناروتو S01 E142 [cnm-60nacsy0svbejqkha5n7].ass

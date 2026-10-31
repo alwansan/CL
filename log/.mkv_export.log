@@ -61338,3 +61338,24 @@
 1793471175546 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
 1793471175569 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E41.mkv task_id=711063290 external_id=5701 item_id=5701
 1793471175594 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:711063290;externalId:5701;itemId:5701;path:/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E41.mkv
+1793472272519 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793472272585 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793472291301 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1793472291341 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1793472291388 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1793472292207 DB_PROMOTE_DOWNLOADS_MATCH task_id=-1566588814 external_id=5673 score=6030 exactPath=true originalPath=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E13.mkv title=ناروتو S01 season=1 episode=13
+1793472292275 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1793472292333 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E13.mkv size=32252999
+1793472292389 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1793472292460 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E13.mkv task_id=-1566588814 external_id=5673 item_id=5673
+1793472292531 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:-1566588814;externalId:5673;itemId:5673;path:/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E13.mkv
+1793472292616 MKV_INTERNAL_IDENTITY=5673@1793472292542 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E13.mkv noSub=false
+1793472293159 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E12 [cnm-3jtfupyemh8w6mi5t9nt].mp4 title=ناروتو S01 season=1 episode=12
+1793472293218 QUEUE_ENQUEUED key=item:5672
+1793472293278 QUEUE_START key=item:5672
+1793472293312 QUEUE_ATTEMPT=1/1 key=item:5672
+1793472293343 watcher started; waiting for final video filename (not .temp)
+1793472293382 candidate video observed: /storage/emulated/0/Cinemana/work/ناروتو S01 E12 [cnm-3jtfupyemh8w6mi5t9nt].mp4 size=38759867
+1793472293604 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو S01 E15 [cnm-255bi0t57ooygecpyyor].mp4 title=ناروتو S01 season=1 episode=15
+1793472293655 QUEUE_ENQUEUED key=item:5675
+1793472305478 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
