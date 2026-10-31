@@ -3605,3 +3605,1042 @@ UTC_MS=1793453921376 PID=29261 THREAD=main UPTIME_MS=959643876 MESSAGE=uptimeMs=
 UTC_MS=1793453921385 PID=29261 THREAD=main UPTIME_MS=959643885 MESSAGE=uptimeMs=959643879 event=player_state_update_playback_state=1
 UTC_MS=1793453921393 PID=29261 THREAD=main UPTIME_MS=959643893 MESSAGE=uptimeMs=959643886 event=player_state_update_position_us=768903
 UTC_MS=1793453921398 PID=29261 THREAD=main UPTIME_MS=959643898 MESSAGE=uptimeMs=959643896 event=activity_on_destroy
+UTC_MS=1793457944311 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963666810 MESSAGE=uptimeMs=963666809 event=renderer_surface_message_type=102
+UTC_MS=1793457944311 PID=18380 THREAD=main UPTIME_MS=963666811 MESSAGE=uptimeMs=963666809 event=player_state_update_enter
+UTC_MS=1793457944314 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963666814 MESSAGE=uptimeMs=963666812 event=renderer_output_message_payload_class=java.lang.Integer
+UTC_MS=1793457944314 PID=18380 THREAD=main UPTIME_MS=963666814 MESSAGE=uptimeMs=963666812 event=player_state_update_playing_flag=false
+UTC_MS=1793457944315 PID=18380 THREAD=main UPTIME_MS=963666815 MESSAGE=uptimeMs=963666814 event=player_state_update_reason=-1
+UTC_MS=1793457944317 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963666817 MESSAGE=uptimeMs=963666814 event=renderer_surface_message_type=4
+UTC_MS=1793457944318 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963666818 MESSAGE=uptimeMs=963666817 event=renderer_output_message_payload_class=java.lang.Integer
+UTC_MS=1793457944319 PID=18380 THREAD=main UPTIME_MS=963666819 MESSAGE=uptimeMs=963666815 event=player_state_update_extra=1
+UTC_MS=1793457944319 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963666819 MESSAGE=uptimeMs=963666818 event=renderer_surface_message_type=6
+UTC_MS=1793457944320 PID=18380 THREAD=main UPTIME_MS=963666820 MESSAGE=uptimeMs=963666819 event=player_state_update_playback_state=1
+UTC_MS=1793457944320 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963666820 MESSAGE=uptimeMs=963666819 event=renderer_output_message_payload_class=com.shabakaty.downloader.s64$d
+UTC_MS=1793457944322 PID=18380 THREAD=main UPTIME_MS=963666822 MESSAGE=uptimeMs=963666821 event=player_state_update_position_us=0
+UTC_MS=1793457944357 PID=18380 THREAD=main UPTIME_MS=963666857 MESSAGE=uptimeMs=963666856 event=player_state_update_enter
+UTC_MS=1793457944358 PID=18380 THREAD=main UPTIME_MS=963666858 MESSAGE=uptimeMs=963666857 event=player_state_update_playing_flag=true
+UTC_MS=1793457944360 PID=18380 THREAD=main UPTIME_MS=963666860 MESSAGE=uptimeMs=963666858 event=player_state_update_reason=1
+UTC_MS=1793457944361 PID=18380 THREAD=main UPTIME_MS=963666861 MESSAGE=uptimeMs=963666860 event=player_state_update_extra=1
+UTC_MS=1793457944363 PID=18380 THREAD=main UPTIME_MS=963666863 MESSAGE=uptimeMs=963666861 event=player_state_update_playback_state=1
+UTC_MS=1793457944364 PID=18380 THREAD=main UPTIME_MS=963666864 MESSAGE=uptimeMs=963666864 event=player_state_update_position_us=0
+UTC_MS=1793457944367 PID=18380 THREAD=main UPTIME_MS=963666867 MESSAGE=uptimeMs=963666865 event=player_playback_state=1
+UTC_MS=1793457944371 PID=18380 THREAD=main UPTIME_MS=963666871 MESSAGE=uptimeMs=963666868 event=player_is_loading=false
+UTC_MS=1793457944374 PID=18380 THREAD=main UPTIME_MS=963666873 MESSAGE=uptimeMs=963666871 event=player_state_position_us=0
+UTC_MS=1793457944380 PID=18380 THREAD=main UPTIME_MS=963666880 MESSAGE=uptimeMs=963666874 event=player_duration_us=-9223372036854775807
+UTC_MS=1793457944388 PID=18380 THREAD=main UPTIME_MS=963666888 MESSAGE=uptimeMs=963666880 event=player_play_when_ready=true
+UTC_MS=1793457944392 PID=18380 THREAD=main UPTIME_MS=963666892 MESSAGE=uptimeMs=963666890 event=player_loading_spinner_visible=false
+UTC_MS=1793457944394 PID=18380 THREAD=main UPTIME_MS=963666894 MESSAGE=uptimeMs=963666892 event=player_state_refresh_g_enter
+UTC_MS=1793457944407 PID=18380 THREAD=main UPTIME_MS=963666907 MESSAGE=uptimeMs=963666905 event=player_state_update_enter
+UTC_MS=1793457944411 PID=18380 THREAD=main UPTIME_MS=963666911 MESSAGE=uptimeMs=963666907 event=player_state_update_playing_flag=true
+UTC_MS=1793457944414 PID=18380 THREAD=main UPTIME_MS=963666914 MESSAGE=uptimeMs=963666911 event=player_state_update_reason=1
+UTC_MS=1793457944417 PID=18380 THREAD=main UPTIME_MS=963666917 MESSAGE=uptimeMs=963666914 event=player_state_update_extra=1
+UTC_MS=1793457944419 PID=18380 THREAD=main UPTIME_MS=963666919 MESSAGE=uptimeMs=963666918 event=player_state_update_playback_state=1
+UTC_MS=1793457944422 PID=18380 THREAD=main UPTIME_MS=963666922 MESSAGE=uptimeMs=963666919 event=player_state_update_position_us=0
+UTC_MS=1793457944425 PID=18380 THREAD=main UPTIME_MS=963666925 MESSAGE=uptimeMs=963666922 event=player_state_refresh_g_complete
+UTC_MS=1793457944426 PID=18380 THREAD=main UPTIME_MS=963666926 MESSAGE=uptimeMs=963666925 event=renderer_is_ready=false
+UTC_MS=1793457944430 PID=18380 THREAD=main UPTIME_MS=963666930 MESSAGE=uptimeMs=963666927 event=renderer_surface_snapshot stage=isReady_false surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793457944431 PID=18380 THREAD=main UPTIME_MS=963666931 MESSAGE=uptimeMs=963666930 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793457944433 PID=18380 THREAD=main UPTIME_MS=963666933 MESSAGE=uptimeMs=963666931 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=0 ready=false ended=false
+UTC_MS=1793457944434 PID=18380 THREAD=main UPTIME_MS=963666934 MESSAGE=uptimeMs=963666933 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=0 ready=false ended=false
+UTC_MS=1793457944443 PID=18380 THREAD=main UPTIME_MS=963666943 MESSAGE=uptimeMs=963666934 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793457944447 PID=18380 THREAD=main UPTIME_MS=963666947 MESSAGE=uptimeMs=963666943 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793457944453 PID=18380 THREAD=main UPTIME_MS=963666953 MESSAGE=uptimeMs=963666948 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793457944461 PID=18380 THREAD=main UPTIME_MS=963666961 MESSAGE=uptimeMs=963666955 event=player_playback_state=4
+UTC_MS=1793457944466 PID=18380 THREAD=main UPTIME_MS=963666966 MESSAGE=uptimeMs=963666961 event=player_is_loading=false
+UTC_MS=1793457944472 PID=18380 THREAD=main UPTIME_MS=963666972 MESSAGE=uptimeMs=963666966 event=player_state_position_us=0
+UTC_MS=1793457944475 PID=18380 THREAD=main UPTIME_MS=963666975 MESSAGE=uptimeMs=963666972 event=player_duration_us=-9223372036854775807
+UTC_MS=1793457944480 PID=18380 THREAD=main UPTIME_MS=963666980 MESSAGE=uptimeMs=963666975 event=player_play_when_ready=true
+UTC_MS=1793457944483 PID=18380 THREAD=main UPTIME_MS=963666983 MESSAGE=uptimeMs=963666980 event=player_loading_spinner_visible=false
+UTC_MS=1793457944499 PID=18380 THREAD=main UPTIME_MS=963666999 MESSAGE=uptimeMs=963666993 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793457944502 PID=18380 THREAD=main UPTIME_MS=963667002 MESSAGE=uptimeMs=963666999 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=0 ready=false ended=false
+UTC_MS=1793457944505 PID=18380 THREAD=main UPTIME_MS=963667005 MESSAGE=uptimeMs=963667003 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=0 ready=false ended=false
+UTC_MS=1793457944507 PID=18380 THREAD=main UPTIME_MS=963667007 MESSAGE=uptimeMs=963667005 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793457944509 PID=18380 THREAD=main UPTIME_MS=963667009 MESSAGE=uptimeMs=963667007 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793457944523 PID=18380 THREAD=main UPTIME_MS=963667023 MESSAGE=uptimeMs=963667021 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793457944557 PID=18380 THREAD=main UPTIME_MS=963667057 MESSAGE=uptimeMs=963667054 event=video_model_at_quality_switch=VideoModel(nb=5694, enTitle=Naruto, arTitle=ناروتو, stars=8, arContent=ٺحڪي اڷقصة عن حياة صبي ڪان يمقٺهُ سڪّان أهاڷي قرية ڪۈنۈها ، سبب ڪراهيٺهم ڷه ڷا يعۈد ڷشخصهِ بڷ
+ڷما بداخڷه! فمنذ أن ڪان نارۈٺۈ رضيعاً، قام اڷهۈڪاج اڷرابع "أقۈى اڷنينجا" بمقاٺڷة اڷڪيۈبي ۈهۈ ثعڷب قۈي بٺسعة أذيڷ
+انٺهٺ اڷمعرڪة بقيام اڷهۈڪاج بخٺماڷثعڷب داخڷ اڷطفڷ اڷرضيع نارۈٺۈ. عاش نارۈٺۈ حياٺهُ مڪرۈهاً ۈۈحيداً بسبب ٺڷڪ
+اڷحادثة، ڷڪن ذڷڪ جعڷ إرادٺهُ قۈيّة في أن يصبح أقۈى نينجا في ڪۈنۈها، ۈيصبح اڷهۈڪاج اڷجديد ڷها
+ڷڪن طريق اڷهۈڪاج ڷم يڪن سهڷاً، بڷ مڷيئاً باڷمصاعب، اڷأڷم، اڷٺحدياٺ، جميعها يجٺازها نارۈٺۈ
+برفقة أصدقاءه ساسڪي ۈ ساڪۈرا ۈمعڷّمه ڪاڪاشي, enContent=Naruto Uzumaki, a hyperactive and knuckle-headed ninja, lives in Konohagakure, the Hidden Leaf village. Moments prior to his birth, a huge demon known as the Kyuubi, the Nine-tailed Fox, attacked Konohagakure and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the 4th Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto.
+
+Shunned because of the presence of the Kyuubi inside him, Naruto struggles to find his place in the village. He strives to become the Hokage of Konohagakure, and he meets many friends and foes along the way.
+, mDate=2002-10-03, year=2002, kind=2, season=1, imgObjUrl=https://cnth2.shabakaty.cc/vascin-poster-images/3098185E-D26B-4B9E-1A21-97700B88BD4D_poster.jpg, imgMediumThumbObjUrl=https://cnth2.shabakaty.cc/vascin-poster-images/11EFAA85-0E0F-6C73-AB16-48BCEA416DEB_poster_medium_thumb.jpg, filmRating=1, seriesRating=1, episodeNummer=34, rate=0, isSpecial=, itemDate=2016-09-25 00:00:00, duration=1384.8, imdbUrlRef=http://myanimelist.net/anime/20/Naruto, rootSeries=5661, useParentImg=0, showComments=false, episodeFlag=0000, trailer=, isMock=false, parentSkipping=0, downloadCollectionID=5661, imgThumbObjUrl=https://cnth2.shabakaty.cc/vascin-poster-images/741D69AA-4C37-B87A-82EC-EF533914F925_poster_thumb.jpg, skippingDurations=SkippingDurations(start=[], end=[]), arTranslationFilePath=https://cnth2.shabakaty.cc/vascin-translation-files/8284930C-1F56-55AE-4141-86A585CA7BB0_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796047560&Signature=2tVVbNG50XEjKedma3SzkP1acA8%3D, subtitles=[Subtitle(id=1, name=arabic, type=ar, extention=srt, file=https://cnth2.shabakaty.cc/vascin-translation-files/8284930C-1F56-55AE-4141-86A585CA7BB0_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796047560&Signature=2tVVbNG50XEjKedma3SzkP1acA8%3D), Subtitle(id=2, name=arabic, type=ar, extention=vtt, file=https://cnth2.shabakaty.cc/vascin-translation-files/8284930C-1F56-55AE-4141-86A585CA7BB0_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796047560&Signature=iM%2FTTmyYGOeEh2wRJdQhTmiaqCM%3D)], hasIntroSkipping=true, skippableScenes=[SkippableScene(start=0, end=89904, controlLevel=3)], categories=[Category(enTitle=Animation, arTitle=رسوم متحركة), Category(enTitle=Action, arTitle=اكشن), Category(enTitle=Adventure, arTitle=مغامرة)], videoLikesNumber=1102, videoDisLikesNumber=17, videoLanguages=VideoLanguages(enTitle=English, arTitle=الإنجليزية), videoCommentsNumber=0, videoViewsNumber=0, directorsInfo=[], actorsInfo=[com.shabakaty.downloader.ob4@8bd1a50, com.shabakaty.downloader.ob4@68c449, com.shabakaty.downloader.ob4@1e0014e], writersInfo=[], itemOrderList=, listId=, listSortOrder=, castable=true, publishDate=, episodeDesc=الحلقة  34, customArTitle=, customEnTitle=, finished=false, url=, downloadTaskId=0, downloadedTime=0, size=, description=, isAddedToWatchLater=false, status=VideoStatus(liked=false, watched=false, annoying=false, disLiked=false, favorite=false, watchLater=0, videoProgress=0), qualities=[240p, 360p, 480p, 720p], wantedQuality=null, arTranslationFilePathVTT=https://cnth2.shabakaty.cc/vascin-translation-files/8284930C-1F56-55AE-4141-86A585CA7BB0_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796047560&Signature=iM%2FTTmyYGOeEh2wRJdQhTmiaqCM%3D, isDownloading=false)
+UTC_MS=1793457944557 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963667057 MESSAGE=uptimeMs=963667055 event=renderer_surface_message_type=1
+UTC_MS=1793457944559 PID=18380 THREAD=main UPTIME_MS=963667058 MESSAGE=uptimeMs=963667057 event=quality_switch_fallback_to_default_quality=240p
+UTC_MS=1793457944559 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963667059 MESSAGE=uptimeMs=963667057 event=renderer_output_message_payload_class=null
+UTC_MS=1793457944561 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963667061 MESSAGE=uptimeMs=963667059 event=renderer_surface_snapshot stage=output_message_surface_before surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793457944563 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963667063 MESSAGE=uptimeMs=963667062 event=renderer_surface_snapshot stage=output_message_surface_after surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793457944568 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963667068 MESSAGE=uptimeMs=963667063 event=renderer_surface_attached=false
+UTC_MS=1793457944571 PID=18380 THREAD=main UPTIME_MS=963667071 MESSAGE=uptimeMs=963667069 event=quality_switch_target_url=https://cdn.shabakaty.cc/vascin18-mp4/623354ED-98F5-3EA3-5BCE-CFC199032288_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793655021&Signature=S79NaQWKvqvfiB9oDbgwf8PGf8s%3D
+UTC_MS=1793457944591 PID=18380 THREAD=main UPTIME_MS=963667091 MESSAGE=uptimeMs=963667088 event=device_manufacturer=Xiaomi
+UTC_MS=1793457944595 PID=18380 THREAD=main UPTIME_MS=963667095 MESSAGE=uptimeMs=963667092 event=device_model=23013PC75G
+UTC_MS=1793457944597 PID=18380 THREAD=main UPTIME_MS=963667097 MESSAGE=uptimeMs=963667095 event=device_codename=mondrian
+UTC_MS=1793457944601 PID=18380 THREAD=main UPTIME_MS=963667101 MESSAGE=uptimeMs=963667098 event=android_release=15
+UTC_MS=1793457944604 PID=18380 THREAD=main UPTIME_MS=963667104 MESSAGE=uptimeMs=963667102 event=android_sdk_int=35
+UTC_MS=1793457944606 PID=18380 THREAD=main UPTIME_MS=963667106 MESSAGE=uptimeMs=963667104 event=device_build_fingerprint=POCO/mondrian_global/mondrian:15/AQ3A.250226.002/OS3.0.5.0.VMNMIXM:user/release-keys
+UTC_MS=1793457944609 PID=18380 THREAD=main UPTIME_MS=963667109 MESSAGE=uptimeMs=963667107 event=media_item_refresh_request
+UTC_MS=1793457944618 PID=18380 THREAD=main UPTIME_MS=963667118 MESSAGE=uptimeMs=963667109 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793457944628 PID=18380 THREAD=main UPTIME_MS=963667128 MESSAGE=uptimeMs=963667119 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=0 ready=false ended=false
+UTC_MS=1793457944631 PID=18380 THREAD=main UPTIME_MS=963667131 MESSAGE=uptimeMs=963667129 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=0 ready=false ended=false
+UTC_MS=1793457944635 PID=18380 THREAD=main UPTIME_MS=963667135 MESSAGE=uptimeMs=963667132 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793457944641 PID=18380 THREAD=main UPTIME_MS=963667141 MESSAGE=uptimeMs=963667135 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793457944647 PID=18380 THREAD=main UPTIME_MS=963667147 MESSAGE=uptimeMs=963667142 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793457944655 PID=18380 THREAD=main UPTIME_MS=963667155 MESSAGE=uptimeMs=963667148 event=refresh_playback_state=4
+UTC_MS=1793457944663 PID=18380 THREAD=main UPTIME_MS=963667163 MESSAGE=uptimeMs=963667156 event=refresh_is_loading=false
+UTC_MS=1793457944667 PID=18380 THREAD=main UPTIME_MS=963667167 MESSAGE=uptimeMs=963667163 event=media_refresh_item_id=
+UTC_MS=1793457944670 PID=18380 THREAD=main UPTIME_MS=963667170 MESSAGE=uptimeMs=963667168 event=media_refresh_item_uri=https://cdn.shabakaty.cc/vascin18-mp4/623354ED-98F5-3EA3-5BCE-CFC199032288_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793655021&Signature=S79NaQWKvqvfiB9oDbgwf8PGf8s%3D
+UTC_MS=1793457944674 PID=18380 THREAD=main UPTIME_MS=963667174 MESSAGE=uptimeMs=963667171 event=refresh_item_count=1
+UTC_MS=1793457944677 PID=18380 THREAD=main UPTIME_MS=963667177 MESSAGE=uptimeMs=963667174 event=refresh_position_us=0
+UTC_MS=1793457944679 PID=18380 THREAD=main UPTIME_MS=963667179 MESSAGE=uptimeMs=963667177 event=refresh_play_when_ready=true
+UTC_MS=1793457944687 PID=18380 THREAD=main UPTIME_MS=963667187 MESSAGE=uptimeMs=963667181 event=player_playback_state=2
+UTC_MS=1793457944690 PID=18380 THREAD=main UPTIME_MS=963667190 MESSAGE=uptimeMs=963667188 event=player_is_loading=false
+UTC_MS=1793457944694 PID=18380 THREAD=main UPTIME_MS=963667194 MESSAGE=uptimeMs=963667192 event=player_state_position_us=0
+UTC_MS=1793457944700 PID=18380 THREAD=main UPTIME_MS=963667200 MESSAGE=uptimeMs=963667195 event=player_duration_us=-9223372036854775807
+UTC_MS=1793457944702 PID=18380 THREAD=main UPTIME_MS=963667202 MESSAGE=uptimeMs=963667200 event=player_play_when_ready=true
+UTC_MS=1793457944704 PID=18380 THREAD=main UPTIME_MS=963667204 MESSAGE=uptimeMs=963667202 event=player_loading_spinner_visible=true
+UTC_MS=1793457944706 PID=18380 THREAD=main UPTIME_MS=963667206 MESSAGE=uptimeMs=963667204 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793457944708 PID=18380 THREAD=main UPTIME_MS=963667208 MESSAGE=uptimeMs=963667206 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=0 ready=false ended=false
+UTC_MS=1793457944710 PID=18380 THREAD=main UPTIME_MS=963667210 MESSAGE=uptimeMs=963667208 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=0 ready=false ended=false
+UTC_MS=1793457944713 PID=18380 THREAD=main UPTIME_MS=963667213 MESSAGE=uptimeMs=963667211 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793457944716 PID=18380 THREAD=main UPTIME_MS=963667216 MESSAGE=uptimeMs=963667213 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793457944720 PID=18380 THREAD=main UPTIME_MS=963667220 MESSAGE=uptimeMs=963667216 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793457944727 PID=18380 THREAD=main UPTIME_MS=963667227 MESSAGE=uptimeMs=963667225 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793457944728 PID=18380 THREAD=main UPTIME_MS=963667228 MESSAGE=uptimeMs=963667227 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=0 ready=false ended=false
+UTC_MS=1793457944729 PID=18380 THREAD=main UPTIME_MS=963667229 MESSAGE=uptimeMs=963667228 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=0 ready=false ended=false
+UTC_MS=1793457944730 PID=18380 THREAD=main UPTIME_MS=963667230 MESSAGE=uptimeMs=963667229 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793457944732 PID=18380 THREAD=main UPTIME_MS=963667232 MESSAGE=uptimeMs=963667230 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793457944733 PID=18380 THREAD=main UPTIME_MS=963667233 MESSAGE=uptimeMs=963667232 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793457944735 PID=18380 THREAD=main UPTIME_MS=963667235 MESSAGE=uptimeMs=963667234 event=media_item_refresh_request_dispatched
+UTC_MS=1793457944736 PID=18380 THREAD=main UPTIME_MS=963667236 MESSAGE=uptimeMs=963667235 event=quality_switch_source_and_subtitles_refresh_dispatched
+UTC_MS=1793457944744 PID=18380 THREAD=main UPTIME_MS=963667244 MESSAGE=uptimeMs=963667243 event=activity_on_start
+UTC_MS=1793457944748 PID=18380 THREAD=main UPTIME_MS=963667248 MESSAGE=uptimeMs=963667247 event=player_state_update_enter
+UTC_MS=1793457944749 PID=18380 THREAD=main UPTIME_MS=963667249 MESSAGE=uptimeMs=963667249 event=player_state_update_playing_flag=true
+UTC_MS=1793457944751 PID=18380 THREAD=main UPTIME_MS=963667251 MESSAGE=uptimeMs=963667250 event=player_state_update_reason=1
+UTC_MS=1793457944752 PID=18380 THREAD=main UPTIME_MS=963667252 MESSAGE=uptimeMs=963667252 event=player_state_update_extra=1
+UTC_MS=1793457944753 PID=18380 THREAD=main UPTIME_MS=963667253 MESSAGE=uptimeMs=963667252 event=player_state_update_playback_state=2
+UTC_MS=1793457944754 PID=18380 THREAD=main UPTIME_MS=963667254 MESSAGE=uptimeMs=963667253 event=player_state_update_position_us=0
+UTC_MS=1793457944762 PID=18380 THREAD=main UPTIME_MS=963667262 MESSAGE=uptimeMs=963667261 event=activity_on_resume
+UTC_MS=1793457944810 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963667310 MESSAGE=uptimeMs=963667307 event=renderer_surface_message_type=1
+UTC_MS=1793457944813 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963667313 MESSAGE=uptimeMs=963667310 event=renderer_output_message_payload_class=android.view.Surface
+UTC_MS=1793457944816 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963667316 MESSAGE=uptimeMs=963667314 event=renderer_surface_snapshot stage=output_message_surface_before surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793457944818 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963667318 MESSAGE=uptimeMs=963667316 event=renderer_surface_snapshot stage=output_message_surface_after surfacePresent=true surfaceId=4615af3 surfaceValid=true configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793457944822 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963667322 MESSAGE=uptimeMs=963667319 event=renderer_surface_attached=true
+UTC_MS=1793457946297 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668797 MESSAGE=uptimeMs=963668793 event=decoder_policy_should_use_software_check=Format(1, null, null, video/avc, avc1.640015, -1, null, [426, 240, 29.970009], [-1, -1])
+UTC_MS=1793457946302 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668802 MESSAGE=uptimeMs=963668797 event=decoder_policy_software_false
+UTC_MS=1793457946304 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668804 MESSAGE=uptimeMs=963668802 event=decoder_policy_should_use_software_check=Format(1, null, null, video/avc, avc1.640015, -1, null, [426, 240, 29.970009], [-1, -1])
+UTC_MS=1793457946307 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668807 MESSAGE=uptimeMs=963668805 event=decoder_policy_software_false
+UTC_MS=1793457946334 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668834 MESSAGE=uptimeMs=963668829 event=decoder_policy_should_use_software_check=Format(1, null, null, video/avc, avc1.640015, -1, null, [426, 240, 29.970009], [-1, -1])
+UTC_MS=1793457946337 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668837 MESSAGE=uptimeMs=963668835 event=decoder_policy_software_false
+UTC_MS=1793457946343 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668843 MESSAGE=uptimeMs=963668838 event=decoder_policy_should_use_software_check=Format(1, null, null, video/avc, avc1.640015, -1, null, [426, 240, 29.970009], [-1, -1])
+UTC_MS=1793457946346 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668846 MESSAGE=uptimeMs=963668843 event=decoder_policy_software_false
+UTC_MS=1793457946350 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668850 MESSAGE=uptimeMs=963668848 event=decoder_policy_should_use_software_check=Format(2, null, null, audio/mp4a-latm, mp4a.40.2, -1, und, [-1, -1, -1.0], [2, 48000])
+UTC_MS=1793457946353 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668853 MESSAGE=uptimeMs=963668851 event=decoder_policy_software_false
+UTC_MS=1793457946357 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668857 MESSAGE=uptimeMs=963668854 event=decoder_policy_should_use_software_check=Format(2, null, null, audio/mp4a-latm, mp4a.40.2, -1, und, [-1, -1, -1.0], [2, 48000])
+UTC_MS=1793457946359 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668859 MESSAGE=uptimeMs=963668858 event=decoder_policy_software_false
+UTC_MS=1793457946366 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668866 MESSAGE=uptimeMs=963668860 event=decoder_policy_should_use_software_check=Format(2, null, null, audio/mp4a-latm, mp4a.40.2, -1, und, [-1, -1, -1.0], [2, 48000])
+UTC_MS=1793457946369 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668869 MESSAGE=uptimeMs=963668866 event=decoder_policy_software_false
+UTC_MS=1793457946372 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668872 MESSAGE=uptimeMs=963668870 event=decoder_policy_should_use_software_check=Format(2, null, null, audio/mp4a-latm, mp4a.40.2, -1, und, [-1, -1, -1.0], [2, 48000])
+UTC_MS=1793457946375 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668875 MESSAGE=uptimeMs=963668872 event=decoder_policy_software_false
+UTC_MS=1793457946379 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668879 MESSAGE=uptimeMs=963668876 event=decoder_policy_should_use_software_check=Format(null, null, null, application/x-subrip, null, -1, ar, [-1, -1, -1.0], [-1, -1])
+UTC_MS=1793457946384 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668884 MESSAGE=uptimeMs=963668879 event=decoder_policy_software_false
+UTC_MS=1793457946389 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668889 MESSAGE=uptimeMs=963668884 event=decoder_policy_should_use_software_check=Format(null, null, null, application/x-subrip, null, -1, ar, [-1, -1, -1.0], [-1, -1])
+UTC_MS=1793457946392 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668892 MESSAGE=uptimeMs=963668889 event=decoder_policy_software_false
+UTC_MS=1793457946394 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668894 MESSAGE=uptimeMs=963668892 event=decoder_policy_should_use_software_check=Format(null, null, null, application/x-subrip, null, -1, ar, [-1, -1, -1.0], [-1, -1])
+UTC_MS=1793457946396 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668896 MESSAGE=uptimeMs=963668894 event=decoder_policy_software_false
+UTC_MS=1793457946403 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668903 MESSAGE=uptimeMs=963668900 event=renderer_lifecycle_E_reset_enter
+UTC_MS=1793457946406 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668906 MESSAGE=uptimeMs=963668903 event=renderer_surface_snapshot stage=E_before_cleanup surfacePresent=true surfaceId=4615af3 surfaceValid=true configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793457946407 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668907 MESSAGE=uptimeMs=963668906 event=renderer_lifecycle_B_cleanup_enter
+UTC_MS=1793457946409 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668909 MESSAGE=uptimeMs=963668907 event=renderer_surface_snapshot stage=B_before_cleanup surfacePresent=true surfaceId=4615af3 surfaceValid=true configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793457946411 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668911 MESSAGE=uptimeMs=963668910 event=ffmpeg_decoder_release
+UTC_MS=1793457946413 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668913 MESSAGE=uptimeMs=963668912 event=renderer_surface_retained_by_B_cleanup
+UTC_MS=1793457946414 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668914 MESSAGE=uptimeMs=963668913 event=renderer_lifecycle_B_cleanup_complete
+UTC_MS=1793457946415 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963668915 MESSAGE=uptimeMs=963668914 event=renderer_surface_snapshot stage=B_cleanup_complete surfacePresent=true surfaceId=4615af3 surfaceValid=true configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793457947128 PID=18380 THREAD=main UPTIME_MS=963669628 MESSAGE=uptimeMs=963669626 event=player_playback_state=3
+UTC_MS=1793457947131 PID=18380 THREAD=main UPTIME_MS=963669631 MESSAGE=uptimeMs=963669628 event=player_is_loading=false
+UTC_MS=1793457947133 PID=18380 THREAD=main UPTIME_MS=963669633 MESSAGE=uptimeMs=963669632 event=player_state_position_us=768874
+UTC_MS=1793457947135 PID=18380 THREAD=main UPTIME_MS=963669635 MESSAGE=uptimeMs=963669634 event=player_duration_us=1389803
+UTC_MS=1793457947144 PID=18380 THREAD=main UPTIME_MS=963669644 MESSAGE=uptimeMs=963669637 event=player_play_when_ready=true
+UTC_MS=1793457947146 PID=18380 THREAD=main UPTIME_MS=963669646 MESSAGE=uptimeMs=963669644 event=player_loading_spinner_visible=false
+UTC_MS=1793457947150 PID=18380 THREAD=main UPTIME_MS=963669650 MESSAGE=uptimeMs=963669648 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793457947154 PID=18380 THREAD=main UPTIME_MS=963669654 MESSAGE=uptimeMs=963669651 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=2 ready=false ended=true
+UTC_MS=1793457947156 PID=18380 THREAD=main UPTIME_MS=963669656 MESSAGE=uptimeMs=963669654 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=2 ready=false ended=true
+UTC_MS=1793457947160 PID=18380 THREAD=main UPTIME_MS=963669660 MESSAGE=uptimeMs=963669656 event=renderer_snapshot index=3 name=TextRenderer state=2 ready=false ended=true
+UTC_MS=1793457947164 PID=18380 THREAD=main UPTIME_MS=963669664 MESSAGE=uptimeMs=963669661 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793457947167 PID=18380 THREAD=main UPTIME_MS=963669667 MESSAGE=uptimeMs=963669664 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793457949368 PID=18380 THREAD=main UPTIME_MS=963671868 MESSAGE=uptimeMs=963671864 event=player_playback_state=2
+UTC_MS=1793457949370 PID=18380 THREAD=main UPTIME_MS=963671870 MESSAGE=uptimeMs=963671869 event=player_is_loading=false
+UTC_MS=1793457949371 PID=18380 THREAD=main UPTIME_MS=963671871 MESSAGE=uptimeMs=963671870 event=player_state_position_us=780863
+UTC_MS=1793457949372 PID=18380 THREAD=main UPTIME_MS=963671872 MESSAGE=uptimeMs=963671871 event=player_duration_us=1389803
+UTC_MS=1793457949373 PID=18380 THREAD=main UPTIME_MS=963671873 MESSAGE=uptimeMs=963671872 event=player_play_when_ready=true
+UTC_MS=1793457949375 PID=18380 THREAD=main UPTIME_MS=963671875 MESSAGE=uptimeMs=963671873 event=player_loading_spinner_visible=true
+UTC_MS=1793457949377 PID=18380 THREAD=main UPTIME_MS=963671877 MESSAGE=uptimeMs=963671875 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793457949379 PID=18380 THREAD=main UPTIME_MS=963671879 MESSAGE=uptimeMs=963671877 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=1 ready=false ended=true
+UTC_MS=1793457949380 PID=18380 THREAD=main UPTIME_MS=963671880 MESSAGE=uptimeMs=963671879 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=1 ready=false ended=true
+UTC_MS=1793457949381 PID=18380 THREAD=main UPTIME_MS=963671881 MESSAGE=uptimeMs=963671880 event=renderer_snapshot index=3 name=TextRenderer state=1 ready=false ended=true
+UTC_MS=1793457949385 PID=18380 THREAD=main UPTIME_MS=963671885 MESSAGE=uptimeMs=963671882 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793457949389 PID=18380 THREAD=main UPTIME_MS=963671889 MESSAGE=uptimeMs=963671886 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793457949495 PID=18380 THREAD=main UPTIME_MS=963671995 MESSAGE=uptimeMs=963671991 event=player_playback_state=3
+UTC_MS=1793457949497 PID=18380 THREAD=main UPTIME_MS=963671997 MESSAGE=uptimeMs=963671995 event=player_is_loading=false
+UTC_MS=1793457949501 PID=18380 THREAD=main UPTIME_MS=963672001 MESSAGE=uptimeMs=963671998 event=player_state_position_us=780864
+UTC_MS=1793457949503 PID=18380 THREAD=main UPTIME_MS=963672003 MESSAGE=uptimeMs=963672002 event=player_duration_us=1389803
+UTC_MS=1793457949507 PID=18380 THREAD=main UPTIME_MS=963672007 MESSAGE=uptimeMs=963672003 event=player_play_when_ready=true
+UTC_MS=1793457949510 PID=18380 THREAD=main UPTIME_MS=963672010 MESSAGE=uptimeMs=963672008 event=player_loading_spinner_visible=false
+UTC_MS=1793457949515 PID=18380 THREAD=main UPTIME_MS=963672015 MESSAGE=uptimeMs=963672012 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793457949518 PID=18380 THREAD=main UPTIME_MS=963672018 MESSAGE=uptimeMs=963672015 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=2 ready=false ended=true
+UTC_MS=1793457949520 PID=18380 THREAD=main UPTIME_MS=963672020 MESSAGE=uptimeMs=963672018 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=2 ready=false ended=true
+UTC_MS=1793457949521 PID=18380 THREAD=main UPTIME_MS=963672021 MESSAGE=uptimeMs=963672020 event=renderer_snapshot index=3 name=TextRenderer state=2 ready=false ended=true
+UTC_MS=1793457949523 PID=18380 THREAD=main UPTIME_MS=963672023 MESSAGE=uptimeMs=963672021 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793457949524 PID=18380 THREAD=main UPTIME_MS=963672024 MESSAGE=uptimeMs=963672023 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793457950234 PID=18380 THREAD=main UPTIME_MS=963672734 MESSAGE=uptimeMs=963672731 event=player_playback_state=2
+UTC_MS=1793457950236 PID=18380 THREAD=main UPTIME_MS=963672736 MESSAGE=uptimeMs=963672735 event=player_is_loading=false
+UTC_MS=1793457950238 PID=18380 THREAD=main UPTIME_MS=963672738 MESSAGE=uptimeMs=963672736 event=player_state_position_us=791507
+UTC_MS=1793457950240 PID=18380 THREAD=main UPTIME_MS=963672740 MESSAGE=uptimeMs=963672738 event=player_duration_us=1389803
+UTC_MS=1793457950242 PID=18380 THREAD=main UPTIME_MS=963672742 MESSAGE=uptimeMs=963672740 event=player_play_when_ready=true
+UTC_MS=1793457950244 PID=18380 THREAD=main UPTIME_MS=963672744 MESSAGE=uptimeMs=963672742 event=player_loading_spinner_visible=true
+UTC_MS=1793457950246 PID=18380 THREAD=main UPTIME_MS=963672746 MESSAGE=uptimeMs=963672744 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793457950252 PID=18380 THREAD=main UPTIME_MS=963672752 MESSAGE=uptimeMs=963672746 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=1 ready=false ended=false
+UTC_MS=1793457950253 PID=18380 THREAD=main UPTIME_MS=963672753 MESSAGE=uptimeMs=963672752 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=1 ready=false ended=true
+UTC_MS=1793457950255 PID=18380 THREAD=main UPTIME_MS=963672755 MESSAGE=uptimeMs=963672754 event=renderer_snapshot index=3 name=TextRenderer state=1 ready=false ended=true
+UTC_MS=1793457950256 PID=18380 THREAD=main UPTIME_MS=963672756 MESSAGE=uptimeMs=963672755 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793457950258 PID=18380 THREAD=main UPTIME_MS=963672758 MESSAGE=uptimeMs=963672756 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793457950665 PID=18380 THREAD=main UPTIME_MS=963673165 MESSAGE=uptimeMs=963673163 event=player_playback_state=3
+UTC_MS=1793457950667 PID=18380 THREAD=main UPTIME_MS=963673167 MESSAGE=uptimeMs=963673166 event=player_is_loading=false
+UTC_MS=1793457950669 PID=18380 THREAD=main UPTIME_MS=963673169 MESSAGE=uptimeMs=963673167 event=player_state_position_us=791509
+UTC_MS=1793457950671 PID=18380 THREAD=main UPTIME_MS=963673171 MESSAGE=uptimeMs=963673169 event=player_duration_us=1389803
+UTC_MS=1793457950673 PID=18380 THREAD=main UPTIME_MS=963673173 MESSAGE=uptimeMs=963673171 event=player_play_when_ready=true
+UTC_MS=1793457950676 PID=18380 THREAD=main UPTIME_MS=963673176 MESSAGE=uptimeMs=963673174 event=player_loading_spinner_visible=false
+UTC_MS=1793457950681 PID=18380 THREAD=main UPTIME_MS=963673181 MESSAGE=uptimeMs=963673178 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793457950683 PID=18380 THREAD=main UPTIME_MS=963673183 MESSAGE=uptimeMs=963673182 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=2 ready=false ended=true
+UTC_MS=1793457950684 PID=18380 THREAD=main UPTIME_MS=963673184 MESSAGE=uptimeMs=963673183 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=2 ready=false ended=true
+UTC_MS=1793457950685 PID=18380 THREAD=main UPTIME_MS=963673185 MESSAGE=uptimeMs=963673184 event=renderer_snapshot index=3 name=TextRenderer state=2 ready=false ended=true
+UTC_MS=1793457950687 PID=18380 THREAD=main UPTIME_MS=963673187 MESSAGE=uptimeMs=963673185 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793457950689 PID=18380 THREAD=main UPTIME_MS=963673189 MESSAGE=uptimeMs=963673187 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793457952278 PID=18380 THREAD=main UPTIME_MS=963674778 MESSAGE=uptimeMs=963674776 event=player_state_update_enter
+UTC_MS=1793457952280 PID=18380 THREAD=main UPTIME_MS=963674780 MESSAGE=uptimeMs=963674778 event=player_state_update_playing_flag=true
+UTC_MS=1793457952282 PID=18380 THREAD=main UPTIME_MS=963674782 MESSAGE=uptimeMs=963674780 event=player_state_update_reason=1
+UTC_MS=1793457952284 PID=18380 THREAD=main UPTIME_MS=963674784 MESSAGE=uptimeMs=963674782 event=player_state_update_extra=1
+UTC_MS=1793457952285 PID=18380 THREAD=main UPTIME_MS=963674785 MESSAGE=uptimeMs=963674784 event=player_state_update_playback_state=3
+UTC_MS=1793457952286 PID=18380 THREAD=main UPTIME_MS=963674786 MESSAGE=uptimeMs=963674785 event=player_state_update_position_us=792992
+UTC_MS=1793457952294 PID=18380 THREAD=main UPTIME_MS=963674794 MESSAGE=uptimeMs=963674792 event=video_model_at_quality_switch=VideoModel(nb=5695, enTitle=Naruto, arTitle=ناروتو, stars=8, arContent=ٺحڪي اڷقصة عن حياة صبي ڪان يمقٺهُ سڪّان أهاڷي قرية ڪۈنۈها ، سبب ڪراهيٺهم ڷه ڷا يعۈد ڷشخصهِ بڷ
+ڷما بداخڷه! فمنذ أن ڪان نارۈٺۈ رضيعاً، قام اڷهۈڪاج اڷرابع "أقۈى اڷنينجا" بمقاٺڷة اڷڪيۈبي ۈهۈ ثعڷب قۈي بٺسعة أذيڷ
+انٺهٺ اڷمعرڪة بقيام اڷهۈڪاج بخٺماڷثعڷب داخڷ اڷطفڷ اڷرضيع نارۈٺۈ. عاش نارۈٺۈ حياٺهُ مڪرۈهاً ۈۈحيداً بسبب ٺڷڪ
+اڷحادثة، ڷڪن ذڷڪ جعڷ إرادٺهُ قۈيّة في أن يصبح أقۈى نينجا في ڪۈنۈها، ۈيصبح اڷهۈڪاج اڷجديد ڷها
+ڷڪن طريق اڷهۈڪاج ڷم يڪن سهڷاً، بڷ مڷيئاً باڷمصاعب، اڷأڷم، اڷٺحدياٺ، جميعها يجٺازها نارۈٺۈ
+برفقة أصدقاءه ساسڪي ۈ ساڪۈرا ۈمعڷّمه ڪاڪاشي, enContent=Naruto Uzumaki, a hyperactive and knuckle-headed ninja, lives in Konohagakure, the Hidden Leaf village. Moments prior to his birth, a huge demon known as the Kyuubi, the Nine-tailed Fox, attacked Konohagakure and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the 4th Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto.
+
+Shunned because of the presence of the Kyuubi inside him, Naruto struggles to find his place in the village. He strives to become the Hokage of Konohagakure, and he meets many friends and foes along the way.
+, mDate=2002-10-03, year=2002, kind=2, season=1, imgObjUrl=https://cnth2.shabakaty.cc/vascin-poster-images/3098185E-D26B-4B9E-1A21-97700B88BD4D_poster.jpg, imgMediumThumbObjUrl=https://cnth2.shabakaty.cc/vascin-poster-images/11EFAA85-0E0F-6C73-AB16-48BCEA416DEB_poster_medium_thumb.jpg, filmRating=1, seriesRating=1, episodeNummer=35, rate=0, isSpecial=, itemDate=2016-09-25 00:00:00, duration=1384.62, imdbUrlRef=http://myanimelist.net/anime/20/Naruto, rootSeries=5661, useParentImg=0, showComments=false, episodeFlag=0000, trailer=, isMock=false, parentSkipping=0, downloadCollectionID=5661, imgThumbObjUrl=https://cnth2.shabakaty.cc/vascin-poster-images/741D69AA-4C37-B87A-82EC-EF533914F925_poster_thumb.jpg, skippingDurations=SkippingDurations(start=[], end=[]), arTranslationFilePath=https://cnth2.shabakaty.cc/vascin-translation-files/1B732BCE-2713-B1CA-DE25-2A1CAAABBACA_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796048788&Signature=IxTGHh1C0zsWxK7eCan0O3uLdHk%3D, subtitles=[Subtitle(id=1, name=arabic, type=ar, extention=srt, file=https://cnth2.shabakaty.cc/vascin-translation-files/1B732BCE-2713-B1CA-DE25-2A1CAAABBACA_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796048788&Signature=IxTGHh1C0zsWxK7eCan0O3uLdHk%3D), Subtitle(id=2, name=arabic, type=ar, extention=vtt, file=https://cnth2.shabakaty.cc/vascin-translation-files/1B732BCE-2713-B1CA-DE25-2A1CAAABBACA_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796048788&Signature=NdEkQ6sSZSfRsLf35Gu4M53NLAo%3D)], hasIntroSkipping=true, skippableScenes=[SkippableScene(start=0, end=89904, controlLevel=3)], categories=[Category(enTitle=Animation, arTitle=رسوم متحركة), Category(enTitle=Action, arTitle=اكشن), Category(enTitle=Adventure, arTitle=مغامرة)], videoLikesNumber=1144, videoDisLikesNumber=22, videoLanguages=VideoLanguages(enTitle=English, arTitle=الإنجليزية), videoCommentsNumber=0, videoViewsNumber=0, directorsInfo=[], actorsInfo=[com.shabakaty.downloader.ob4@465db5c, com.shabakaty.downloader.ob4@d5c9e65, com.shabakaty.downloader.ob4@fd0673a], writersInfo=[], itemOrderList=, listId=, listSortOrder=, castable=true, publishDate=, episodeDesc=الحلقة  35, customArTitle=, customEnTitle=, finished=false, url=, downloadTaskId=0, downloadedTime=0, size=, description=, isAddedToWatchLater=false, status=VideoStatus(liked=false, watched=false, annoying=false, disLiked=false, favorite=false, watchLater=0, videoProgress=0), qualities=[240p, 360p, 480p, 720p], wantedQuality=null, arTranslationFilePathVTT=https://cnth2.shabakaty.cc/vascin-translation-files/1B732BCE-2713-B1CA-DE25-2A1CAAABBACA_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796048788&Signature=NdEkQ6sSZSfRsLf35Gu4M53NLAo%3D, isDownloading=false)
+UTC_MS=1793457952295 PID=18380 THREAD=main UPTIME_MS=963674795 MESSAGE=uptimeMs=963674794 event=quality_switch_fallback_to_default_quality=240p
+UTC_MS=1793457952303 PID=18380 THREAD=main UPTIME_MS=963674803 MESSAGE=uptimeMs=963674802 event=quality_switch_target_url=https://cdn.shabakaty.cc/vascin18-mp4/AF4327A5-2C95-EE70-2320-ACC42B24C7F4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793658726&Signature=KQb6fJS2a70iEGAM9YFHRqLI8eY%3D
+UTC_MS=1793457952306 PID=18380 THREAD=main UPTIME_MS=963674806 MESSAGE=uptimeMs=963674805 event=media_item_refresh_request
+UTC_MS=1793457952307 PID=18380 THREAD=main UPTIME_MS=963674807 MESSAGE=uptimeMs=963674806 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793457952308 PID=18380 THREAD=main UPTIME_MS=963674808 MESSAGE=uptimeMs=963674807 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=2 ready=false ended=true
+UTC_MS=1793457952309 PID=18380 THREAD=main UPTIME_MS=963674809 MESSAGE=uptimeMs=963674808 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=2 ready=false ended=true
+UTC_MS=1793457952310 PID=18380 THREAD=main UPTIME_MS=963674810 MESSAGE=uptimeMs=963674809 event=renderer_snapshot index=3 name=TextRenderer state=2 ready=false ended=true
+UTC_MS=1793457952311 PID=18380 THREAD=main UPTIME_MS=963674811 MESSAGE=uptimeMs=963674810 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793457952313 PID=18380 THREAD=main UPTIME_MS=963674813 MESSAGE=uptimeMs=963674811 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793457952314 PID=18380 THREAD=main UPTIME_MS=963674814 MESSAGE=uptimeMs=963674813 event=refresh_playback_state=3
+UTC_MS=1793457952316 PID=18380 THREAD=main UPTIME_MS=963674816 MESSAGE=uptimeMs=963674814 event=refresh_is_loading=false
+UTC_MS=1793457952317 PID=18380 THREAD=main UPTIME_MS=963674817 MESSAGE=uptimeMs=963674816 event=media_refresh_item_id=
+UTC_MS=1793457952318 PID=18380 THREAD=main UPTIME_MS=963674818 MESSAGE=uptimeMs=963674817 event=media_refresh_item_uri=https://cdn.shabakaty.cc/vascin18-mp4/AF4327A5-2C95-EE70-2320-ACC42B24C7F4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793658726&Signature=KQb6fJS2a70iEGAM9YFHRqLI8eY%3D
+UTC_MS=1793457952319 PID=18380 THREAD=main UPTIME_MS=963674819 MESSAGE=uptimeMs=963674818 event=refresh_item_count=1
+UTC_MS=1793457952320 PID=18380 THREAD=main UPTIME_MS=963674820 MESSAGE=uptimeMs=963674819 event=refresh_position_us=793032
+UTC_MS=1793457952321 PID=18380 THREAD=main UPTIME_MS=963674821 MESSAGE=uptimeMs=963674820 event=refresh_play_when_ready=true
+UTC_MS=1793457952326 PID=18380 THREAD=main UPTIME_MS=963674826 MESSAGE=uptimeMs=963674823 event=player_playback_state=2
+UTC_MS=1793457952327 PID=18380 THREAD=main UPTIME_MS=963674827 MESSAGE=uptimeMs=963674826 event=player_is_loading=false
+UTC_MS=1793457952334 PID=18380 THREAD=main UPTIME_MS=963674834 MESSAGE=uptimeMs=963674828 event=player_state_position_us=0
+UTC_MS=1793457952336 PID=18380 THREAD=main UPTIME_MS=963674836 MESSAGE=uptimeMs=963674834 event=player_duration_us=-9223372036854775807
+UTC_MS=1793457952337 PID=18380 THREAD=main UPTIME_MS=963674837 MESSAGE=uptimeMs=963674836 event=player_play_when_ready=true
+UTC_MS=1793457952338 PID=18380 THREAD=main UPTIME_MS=963674838 MESSAGE=uptimeMs=963674837 event=player_loading_spinner_visible=true
+UTC_MS=1793457952339 PID=18380 THREAD=main UPTIME_MS=963674839 MESSAGE=uptimeMs=963674839 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793457952341 PID=18380 THREAD=main UPTIME_MS=963674841 MESSAGE=uptimeMs=963674840 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=0 ready=false ended=false
+UTC_MS=1793457952342 PID=18380 THREAD=main UPTIME_MS=963674842 MESSAGE=uptimeMs=963674841 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=0 ready=false ended=false
+UTC_MS=1793457952344 PID=18380 THREAD=main UPTIME_MS=963674844 MESSAGE=uptimeMs=963674842 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793457952345 PID=18380 THREAD=main UPTIME_MS=963674845 MESSAGE=uptimeMs=963674844 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793457952346 PID=18380 THREAD=main UPTIME_MS=963674846 MESSAGE=uptimeMs=963674845 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793457952348 PID=18380 THREAD=main UPTIME_MS=963674848 MESSAGE=uptimeMs=963674847 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793457952349 PID=18380 THREAD=main UPTIME_MS=963674849 MESSAGE=uptimeMs=963674848 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=0 ready=false ended=false
+UTC_MS=1793457952350 PID=18380 THREAD=main UPTIME_MS=963674850 MESSAGE=uptimeMs=963674849 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=0 ready=false ended=false
+UTC_MS=1793457952351 PID=18380 THREAD=main UPTIME_MS=963674851 MESSAGE=uptimeMs=963674851 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793457952352 PID=18380 THREAD=main UPTIME_MS=963674852 MESSAGE=uptimeMs=963674851 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793457952353 PID=18380 THREAD=main UPTIME_MS=963674853 MESSAGE=uptimeMs=963674852 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793457952354 PID=18380 THREAD=main UPTIME_MS=963674854 MESSAGE=uptimeMs=963674853 event=media_item_refresh_request_dispatched
+UTC_MS=1793457952356 PID=18380 THREAD=main UPTIME_MS=963674856 MESSAGE=uptimeMs=963674855 event=quality_switch_source_and_subtitles_refresh_dispatched
+UTC_MS=1793457953798 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963676298 MESSAGE=uptimeMs=963676293 event=decoder_policy_should_use_software_check=Format(1, null, null, video/avc, avc1.640015, -1, null, [426, 240, 29.970016], [-1, -1])
+UTC_MS=1793457953802 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963676302 MESSAGE=uptimeMs=963676298 event=decoder_policy_software_false
+UTC_MS=1793457953803 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963676303 MESSAGE=uptimeMs=963676302 event=decoder_policy_should_use_software_check=Format(1, null, null, video/avc, avc1.640015, -1, null, [426, 240, 29.970016], [-1, -1])
+UTC_MS=1793457953804 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963676304 MESSAGE=uptimeMs=963676303 event=decoder_policy_software_false
+UTC_MS=1793457953805 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963676305 MESSAGE=uptimeMs=963676305 event=decoder_policy_should_use_software_check=Format(1, null, null, video/avc, avc1.640015, -1, null, [426, 240, 29.970016], [-1, -1])
+UTC_MS=1793457953806 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963676306 MESSAGE=uptimeMs=963676306 event=decoder_policy_software_false
+UTC_MS=1793457953807 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963676307 MESSAGE=uptimeMs=963676307 event=decoder_policy_should_use_software_check=Format(1, null, null, video/avc, avc1.640015, -1, null, [426, 240, 29.970016], [-1, -1])
+UTC_MS=1793457953808 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963676308 MESSAGE=uptimeMs=963676307 event=decoder_policy_software_false
+UTC_MS=1793457953809 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963676309 MESSAGE=uptimeMs=963676309 event=decoder_policy_should_use_software_check=Format(2, null, null, audio/mp4a-latm, mp4a.40.2, -1, und, [-1, -1, -1.0], [2, 48000])
+UTC_MS=1793457953810 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963676310 MESSAGE=uptimeMs=963676310 event=decoder_policy_software_false
+UTC_MS=1793457953811 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963676311 MESSAGE=uptimeMs=963676311 event=decoder_policy_should_use_software_check=Format(2, null, null, audio/mp4a-latm, mp4a.40.2, -1, und, [-1, -1, -1.0], [2, 48000])
+UTC_MS=1793457953812 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963676312 MESSAGE=uptimeMs=963676311 event=decoder_policy_software_false
+UTC_MS=1793457953813 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963676313 MESSAGE=uptimeMs=963676312 event=decoder_policy_should_use_software_check=Format(2, null, null, audio/mp4a-latm, mp4a.40.2, -1, und, [-1, -1, -1.0], [2, 48000])
+UTC_MS=1793457953814 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963676314 MESSAGE=uptimeMs=963676313 event=decoder_policy_software_false
+UTC_MS=1793457953816 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963676316 MESSAGE=uptimeMs=963676315 event=decoder_policy_should_use_software_check=Format(2, null, null, audio/mp4a-latm, mp4a.40.2, -1, und, [-1, -1, -1.0], [2, 48000])
+UTC_MS=1793457953817 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963676317 MESSAGE=uptimeMs=963676316 event=decoder_policy_software_false
+UTC_MS=1793457953819 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963676319 MESSAGE=uptimeMs=963676318 event=renderer_lifecycle_E_reset_enter
+UTC_MS=1793457953820 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963676320 MESSAGE=uptimeMs=963676319 event=renderer_surface_snapshot stage=E_before_cleanup surfacePresent=true surfaceId=4615af3 surfaceValid=true configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793457953821 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963676321 MESSAGE=uptimeMs=963676320 event=renderer_lifecycle_B_cleanup_enter
+UTC_MS=1793457953822 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963676322 MESSAGE=uptimeMs=963676321 event=renderer_surface_snapshot stage=B_before_cleanup surfacePresent=true surfaceId=4615af3 surfaceValid=true configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793457953823 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963676323 MESSAGE=uptimeMs=963676322 event=ffmpeg_decoder_release
+UTC_MS=1793457953824 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963676324 MESSAGE=uptimeMs=963676323 event=renderer_surface_retained_by_B_cleanup
+UTC_MS=1793457953825 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963676325 MESSAGE=uptimeMs=963676324 event=renderer_lifecycle_B_cleanup_complete
+UTC_MS=1793457953826 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963676326 MESSAGE=uptimeMs=963676325 event=renderer_surface_snapshot stage=B_cleanup_complete surfacePresent=true surfaceId=4615af3 surfaceValid=true configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793457954028 PID=18380 THREAD=main UPTIME_MS=963676528 MESSAGE=uptimeMs=963676526 event=player_playback_state=3
+UTC_MS=1793457954030 PID=18380 THREAD=main UPTIME_MS=963676530 MESSAGE=uptimeMs=963676528 event=player_is_loading=false
+UTC_MS=1793457954033 PID=18380 THREAD=main UPTIME_MS=963676533 MESSAGE=uptimeMs=963676531 event=player_state_position_us=0
+UTC_MS=1793457954036 PID=18380 THREAD=main UPTIME_MS=963676536 MESSAGE=uptimeMs=963676533 event=player_duration_us=1389739
+UTC_MS=1793457954038 PID=18380 THREAD=main UPTIME_MS=963676538 MESSAGE=uptimeMs=963676536 event=player_play_when_ready=true
+UTC_MS=1793457954039 PID=18380 THREAD=main UPTIME_MS=963676539 MESSAGE=uptimeMs=963676538 event=player_loading_spinner_visible=false
+UTC_MS=1793457954041 PID=18380 THREAD=main UPTIME_MS=963676541 MESSAGE=uptimeMs=963676540 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793457954043 PID=18380 THREAD=main UPTIME_MS=963676543 MESSAGE=uptimeMs=963676542 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=2 ready=false ended=true
+UTC_MS=1793457954045 PID=18380 THREAD=main UPTIME_MS=963676545 MESSAGE=uptimeMs=963676544 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=2 ready=false ended=true
+UTC_MS=1793457954046 PID=18380 THREAD=main UPTIME_MS=963676546 MESSAGE=uptimeMs=963676545 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793457954047 PID=18380 THREAD=main UPTIME_MS=963676547 MESSAGE=uptimeMs=963676546 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793457954049 PID=18380 THREAD=main UPTIME_MS=963676549 MESSAGE=uptimeMs=963676548 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793457955575 PID=18380 THREAD=main UPTIME_MS=963678075 MESSAGE=uptimeMs=963678072 event=surface_detach_enter
+UTC_MS=1793457955577 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963678077 MESSAGE=uptimeMs=963678076 event=renderer_surface_message_type=1
+UTC_MS=1793457955578 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963678078 MESSAGE=uptimeMs=963678077 event=renderer_output_message_payload_class=null
+UTC_MS=1793457955579 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963678079 MESSAGE=uptimeMs=963678078 event=renderer_surface_snapshot stage=output_message_surface_before surfacePresent=true surfaceId=4615af3 surfaceValid=true configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793457955580 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963678080 MESSAGE=uptimeMs=963678079 event=renderer_surface_snapshot stage=output_message_surface_after surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793457955581 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963678081 MESSAGE=uptimeMs=963678080 event=renderer_surface_attached=false
+UTC_MS=1793457955597 PID=18380 THREAD=main UPTIME_MS=963678097 MESSAGE=uptimeMs=963678095 event=surface_detach_complete
+UTC_MS=1793457955599 PID=18380 THREAD=main UPTIME_MS=963678099 MESSAGE=uptimeMs=963678097 event=player_state_update_enter
+UTC_MS=1793457955600 PID=18380 THREAD=main UPTIME_MS=963678100 MESSAGE=uptimeMs=963678099 event=player_state_update_playing_flag=false
+UTC_MS=1793457955601 PID=18380 THREAD=main UPTIME_MS=963678101 MESSAGE=uptimeMs=963678100 event=player_state_update_reason=-1
+UTC_MS=1793457955602 PID=18380 THREAD=main UPTIME_MS=963678102 MESSAGE=uptimeMs=963678101 event=player_state_update_extra=1
+UTC_MS=1793457955603 PID=18380 THREAD=main UPTIME_MS=963678103 MESSAGE=uptimeMs=963678102 event=player_state_update_playback_state=3
+UTC_MS=1793457955604 PID=18380 THREAD=main UPTIME_MS=963678104 MESSAGE=uptimeMs=963678103 event=player_state_update_position_us=1441
+UTC_MS=1793457955623 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963678123 MESSAGE=uptimeMs=963678121 event=renderer_lifecycle_E_reset_enter
+UTC_MS=1793457955623 PID=18380 THREAD=main UPTIME_MS=963678123 MESSAGE=uptimeMs=963678122 event=activity_on_pause
+UTC_MS=1793457955627 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963678126 MESSAGE=uptimeMs=963678124 event=renderer_surface_snapshot stage=E_before_cleanup surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793457955628 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963678128 MESSAGE=uptimeMs=963678127 event=renderer_lifecycle_B_cleanup_enter
+UTC_MS=1793457955630 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963678130 MESSAGE=uptimeMs=963678129 event=renderer_surface_snapshot stage=B_before_cleanup surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793457955631 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963678131 MESSAGE=uptimeMs=963678130 event=ffmpeg_decoder_release
+UTC_MS=1793457955635 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963678135 MESSAGE=uptimeMs=963678132 event=renderer_surface_retained_by_B_cleanup
+UTC_MS=1793457955637 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963678137 MESSAGE=uptimeMs=963678136 event=renderer_lifecycle_B_cleanup_complete
+UTC_MS=1793457955641 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963678141 MESSAGE=uptimeMs=963678138 event=renderer_surface_snapshot stage=B_cleanup_complete surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793457956687 PID=18380 THREAD=main UPTIME_MS=963679187 MESSAGE=uptimeMs=963679184 event=activity_on_stop
+UTC_MS=1793457956697 PID=18380 THREAD=main UPTIME_MS=963679197 MESSAGE=uptimeMs=963679191 event=player_state_update_enter
+UTC_MS=1793457956704 PID=18380 THREAD=main UPTIME_MS=963679204 MESSAGE=uptimeMs=963679200 event=player_state_update_playing_flag=false
+UTC_MS=1793457956707 PID=18380 THREAD=main UPTIME_MS=963679207 MESSAGE=uptimeMs=963679204 event=player_state_update_reason=-1
+UTC_MS=1793457956715 PID=18380 THREAD=main UPTIME_MS=963679215 MESSAGE=uptimeMs=963679208 event=player_state_update_extra=1
+UTC_MS=1793457956717 PID=18380 THREAD=main UPTIME_MS=963679217 MESSAGE=uptimeMs=963679215 event=player_state_update_playback_state=1
+UTC_MS=1793457956726 PID=18380 THREAD=main UPTIME_MS=963679226 MESSAGE=uptimeMs=963679219 event=player_state_update_position_us=1450
+UTC_MS=1793457956740 PID=18380 THREAD=main UPTIME_MS=963679240 MESSAGE=uptimeMs=963679233 event=activity_on_destroy
+UTC_MS=1793457995347 PID=18380 THREAD=main UPTIME_MS=963717847 MESSAGE=uptimeMs=963717845 event=player_state_update_enter
+UTC_MS=1793457995351 PID=18380 THREAD=main UPTIME_MS=963717851 MESSAGE=uptimeMs=963717847 event=player_state_update_playing_flag=true
+UTC_MS=1793457995355 PID=18380 THREAD=main UPTIME_MS=963717855 MESSAGE=uptimeMs=963717851 event=player_state_update_reason=1
+UTC_MS=1793457995358 PID=18380 THREAD=main UPTIME_MS=963717858 MESSAGE=uptimeMs=963717855 event=player_state_update_extra=1
+UTC_MS=1793457995367 PID=18380 THREAD=main UPTIME_MS=963717867 MESSAGE=uptimeMs=963717860 event=player_state_update_playback_state=1
+UTC_MS=1793457995372 PID=18380 THREAD=main UPTIME_MS=963717872 MESSAGE=uptimeMs=963717867 event=player_state_update_position_us=1450
+UTC_MS=1793457995377 PID=18380 THREAD=main UPTIME_MS=963717877 MESSAGE=uptimeMs=963717873 event=player_playback_state=1
+UTC_MS=1793457995380 PID=18380 THREAD=main UPTIME_MS=963717880 MESSAGE=uptimeMs=963717878 event=player_is_loading=false
+UTC_MS=1793457995383 PID=18380 THREAD=main UPTIME_MS=963717883 MESSAGE=uptimeMs=963717880 event=player_state_position_us=1450
+UTC_MS=1793457995386 PID=18380 THREAD=main UPTIME_MS=963717886 MESSAGE=uptimeMs=963717884 event=player_duration_us=1389739
+UTC_MS=1793457995388 PID=18380 THREAD=main UPTIME_MS=963717888 MESSAGE=uptimeMs=963717886 event=player_play_when_ready=true
+UTC_MS=1793457995391 PID=18380 THREAD=main UPTIME_MS=963717891 MESSAGE=uptimeMs=963717888 event=player_loading_spinner_visible=false
+UTC_MS=1793457995394 PID=18380 THREAD=main UPTIME_MS=963717894 MESSAGE=uptimeMs=963717892 event=player_state_refresh_g_enter
+UTC_MS=1793457995398 PID=18380 THREAD=main UPTIME_MS=963717898 MESSAGE=uptimeMs=963717897 event=player_state_update_enter
+UTC_MS=1793457995400 PID=18380 THREAD=main UPTIME_MS=963717900 MESSAGE=uptimeMs=963717898 event=player_state_update_playing_flag=true
+UTC_MS=1793457995403 PID=18380 THREAD=main UPTIME_MS=963717903 MESSAGE=uptimeMs=963717900 event=player_state_update_reason=1
+UTC_MS=1793457995408 PID=18380 THREAD=main UPTIME_MS=963717908 MESSAGE=uptimeMs=963717903 event=player_state_update_extra=1
+UTC_MS=1793457995410 PID=18380 THREAD=main UPTIME_MS=963717910 MESSAGE=uptimeMs=963717908 event=player_state_update_playback_state=1
+UTC_MS=1793457995411 PID=18380 THREAD=main UPTIME_MS=963717911 MESSAGE=uptimeMs=963717910 event=player_state_update_position_us=1450
+UTC_MS=1793457995418 PID=18380 THREAD=main UPTIME_MS=963717918 MESSAGE=uptimeMs=963717913 event=player_state_refresh_g_complete
+UTC_MS=1793457995421 PID=18380 THREAD=main UPTIME_MS=963717921 MESSAGE=uptimeMs=963717919 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793457995425 PID=18380 THREAD=main UPTIME_MS=963717925 MESSAGE=uptimeMs=963717922 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=0 ready=false ended=false
+UTC_MS=1793457995426 PID=18380 THREAD=main UPTIME_MS=963717926 MESSAGE=uptimeMs=963717925 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=0 ready=false ended=false
+UTC_MS=1793457995427 PID=18380 THREAD=main UPTIME_MS=963717927 MESSAGE=uptimeMs=963717926 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793457995428 PID=18380 THREAD=main UPTIME_MS=963717928 MESSAGE=uptimeMs=963717927 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793457995429 PID=18380 THREAD=main UPTIME_MS=963717929 MESSAGE=uptimeMs=963717928 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793457995431 PID=18380 THREAD=main UPTIME_MS=963717931 MESSAGE=uptimeMs=963717930 event=player_playback_state=2
+UTC_MS=1793457995432 PID=18380 THREAD=main UPTIME_MS=963717932 MESSAGE=uptimeMs=963717931 event=player_is_loading=false
+UTC_MS=1793457995433 PID=18380 THREAD=main UPTIME_MS=963717933 MESSAGE=uptimeMs=963717932 event=player_state_position_us=1450
+UTC_MS=1793457995434 PID=18380 THREAD=main UPTIME_MS=963717934 MESSAGE=uptimeMs=963717933 event=player_duration_us=1389739
+UTC_MS=1793457995435 PID=18380 THREAD=main UPTIME_MS=963717935 MESSAGE=uptimeMs=963717934 event=player_play_when_ready=true
+UTC_MS=1793457995435 PID=18380 THREAD=main UPTIME_MS=963717935 MESSAGE=uptimeMs=963717935 event=player_loading_spinner_visible=true
+UTC_MS=1793457995437 PID=18380 THREAD=main UPTIME_MS=963717937 MESSAGE=uptimeMs=963717936 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793457995438 PID=18380 THREAD=main UPTIME_MS=963717938 MESSAGE=uptimeMs=963717938 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=0 ready=false ended=false
+UTC_MS=1793457995439 PID=18380 THREAD=main UPTIME_MS=963717939 MESSAGE=uptimeMs=963717938 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=0 ready=false ended=false
+UTC_MS=1793457995441 PID=18380 THREAD=main UPTIME_MS=963717940 MESSAGE=uptimeMs=963717939 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793457995441 PID=18380 THREAD=main UPTIME_MS=963717941 MESSAGE=uptimeMs=963717941 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793457995442 PID=18380 THREAD=main UPTIME_MS=963717942 MESSAGE=uptimeMs=963717941 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793457995454 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963717954 MESSAGE=uptimeMs=963717952 event=renderer_surface_message_type=1
+UTC_MS=1793457995454 PID=18380 THREAD=main UPTIME_MS=963717954 MESSAGE=uptimeMs=963717952 event=video_model_at_quality_switch=VideoModel(nb=101909, enTitle=The Conjuring, arTitle=الشعوذة, stars=7.5, arContent=تدور القصة في إطار رعب عن إيد وارين (باتريك ويلسون)، وزوجته لورين (فيرا فارميجا)، اللذين يعملان كمحققين في الخوارق الطبيعية ويحوزان على شهرة عالمية، تطلب مساعدتهما أسرة روجر (رون ليفينجستون)؛ حيث تتعرض للترهيب من قوى الظلام في مزرعة منعزلة، وبينما يضطران لمواجهة كيان شيطاني قوي، تقع عائلة وارين في أكثر الحالات رعباً في حياتهما.
+
+, enContent=Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse., mDate=2013-07-19, year=2013, kind=1, season=0, imgObjUrl=https://cnth2.shabakaty.cc/vascin-poster-images/6D40D967-46D2-3B1D-90C6-942A2A328F3A_poster.jpg, imgMediumThumbObjUrl=https://cnth2.shabakaty.cc/vascin-poster-images/E1E0C77F-2C6A-E435-3F3C-5DC34A719BEC_poster_medium_thumb.jpg, filmRating=4, seriesRating=1, episodeNummer=0, rate=0, isSpecial=, itemDate=2017-08-26 15:41:02, duration=6718.09, imdbUrlRef=http://www.imdb.com/title/tt1457767/, rootSeries=0, useParentImg=0, showComments=false, episodeFlag=0000, trailer=https://www.youtube.com/watch?v=qPxWnvUTwSM, isMock=false, parentSkipping=1, downloadCollectionID=0, imgThumbObjUrl=https://cnth2.shabakaty.cc/vascin-poster-images/53025021-D868-F646-4CB2-3A2496ED94C9_poster_thumb.jpg, skippingDurations=SkippingDurations(start=[747.628388, 1461.117854, 4008.371528, 6207.464167], end=[753.272373, 1466.090548, 4011.115841, 6210.952326]), arTranslationFilePath=https://cnth2.shabakaty.cc/vascin-translation-files/182ADD4E-C623-5738-9987-F8EBE344DACF_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796049599&Signature=aYjdHtXeEYyAMZMZN%2B34lVFCENk%3D, subtitles=[Subtitle(id=1, name=arabic, type=ar, extention=srt, file=https://cnth2.shabakaty.cc/vascin-translation-files/182ADD4E-C623-5738-9987-F8EBE344DACF_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796049599&Signature=aYjdHtXeEYyAMZMZN%2B34lVFCENk%3D), Subtitle(id=2, name=arabic, type=ar, extention=vtt, file=https://cnth2.shabakaty.cc/vascin-translation-files/182ADD4E-C623-5738-9987-F8EBE344DACF_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796049599&Signature=n%2FUx62eTLh%2B9CP2AwTj3QjGz91A%3D), Subtitle(id=3, name=english, type=en, extention=srt, file=https://cnth2.shabakaty.cc/vascin-translation-files/426F2545-21B1-6E6A-9562-69F99BAF7870_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796049599&Signature=Bjne0W%2B%2Frzq2AwqyEw6vl6cLUrA%3D), Subtitle(id=4, name=english, type=en, extention=vtt, file=https://cnth2.shabakaty.cc/vascin-translation-files/426F2545-21B1-6E6A-9562-69F99BAF7870_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796049599&Signature=MWUR53nXxhE1OyKGzv8RmQrepXk%3D)], hasIntroSkipping=true, skippableScenes=[SkippableScene(start=0, end=29775, controlLevel=3)], categories=[Category(enTitle=Horror, arTitle=رعب), Category(enTitle=Mystery, arTitle=غموض), Category(enTitle=Thriller, arTitle=اثارة)], videoLikesNumber=8449, videoDisLikesNumber=233, videoLanguages=VideoLanguages(enTitle=English, arTitle=الإنجليزية), videoCommentsNumber=0, videoViewsNumber=0, directorsInfo=[com.shabakaty.downloader.ob4@aead8a], actorsInfo=[com.shabakaty.downloader.ob4@5fc1ffb, com.shabakaty.downloader.ob4@53a4818, com.shabakaty.downloader.ob4@6583271, com.shabakaty.downloader.ob4@7521856], writersInfo=[com.shabakaty.downloader.ob4@9e2c0d7, com.shabakaty.downloader.ob4@997cdc4], itemOrderList=, listId=, listSortOrder=, castable=true, publishDate=, episodeDesc=, customArTitle=, customEnTitle=, finished=false, url=, downloadTaskId=0, downloadedTime=0, size=, description=, isAddedToWatchLater=false, status=VideoStatus(liked=false, watched=false, annoying=false, disLiked=false, favorite=false, watchLater=0, videoProgress=0), qualities=[240p, 360p, 480p, 720p, 1080p, 2160p], wantedQuality=null, arTranslationFilePathVTT=https://cnth2.shabakaty.cc/vascin-translation-files/182ADD4E-C623-5738-9987-F8EBE344DACF_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796049599&Signature=n%2FUx62eTLh%2B9CP2AwTj3QjGz91A%3D, isDownloading=false)
+UTC_MS=1793457995455 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963717955 MESSAGE=uptimeMs=963717954 event=renderer_output_message_payload_class=null
+UTC_MS=1793457995455 PID=18380 THREAD=main UPTIME_MS=963717955 MESSAGE=uptimeMs=963717954 event=quality_switch_fallback_to_default_quality=240p
+UTC_MS=1793457995456 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963717956 MESSAGE=uptimeMs=963717955 event=renderer_surface_snapshot stage=output_message_surface_before surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793457995458 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963717958 MESSAGE=uptimeMs=963717957 event=renderer_surface_snapshot stage=output_message_surface_after surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793457995459 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963717959 MESSAGE=uptimeMs=963717958 event=renderer_surface_attached=false
+UTC_MS=1793457995463 PID=18380 THREAD=main UPTIME_MS=963717963 MESSAGE=uptimeMs=963717962 event=quality_switch_target_url=https://cdn.shabakaty.cc/vascin24-mp4/F0A01F75-26DF-EA38-E240-9C6ACEEF3DF8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1794036950&Signature=SjRbuLI69U8t9%2FFJCKPvTs0JiBc%3D
+UTC_MS=1793457995480 PID=18380 THREAD=main UPTIME_MS=963717980 MESSAGE=uptimeMs=963717978 event=media_item_refresh_request
+UTC_MS=1793457995482 PID=18380 THREAD=main UPTIME_MS=963717982 MESSAGE=uptimeMs=963717981 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793457995485 PID=18380 THREAD=main UPTIME_MS=963717985 MESSAGE=uptimeMs=963717983 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=0 ready=false ended=false
+UTC_MS=1793457995488 PID=18380 THREAD=main UPTIME_MS=963717988 MESSAGE=uptimeMs=963717985 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=0 ready=false ended=false
+UTC_MS=1793457995490 PID=18380 THREAD=main UPTIME_MS=963717990 MESSAGE=uptimeMs=963717988 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793457995493 PID=18380 THREAD=main UPTIME_MS=963717993 MESSAGE=uptimeMs=963717991 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793457995496 PID=18380 THREAD=main UPTIME_MS=963717996 MESSAGE=uptimeMs=963717993 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793457995498 PID=18380 THREAD=main UPTIME_MS=963717998 MESSAGE=uptimeMs=963717996 event=refresh_playback_state=2
+UTC_MS=1793457995499 PID=18380 THREAD=main UPTIME_MS=963717999 MESSAGE=uptimeMs=963717998 event=refresh_is_loading=false
+UTC_MS=1793457995501 PID=18380 THREAD=main UPTIME_MS=963718001 MESSAGE=uptimeMs=963717999 event=media_refresh_item_id=
+UTC_MS=1793457995502 PID=18380 THREAD=main UPTIME_MS=963718002 MESSAGE=uptimeMs=963718001 event=media_refresh_item_uri=https://cdn.shabakaty.cc/vascin24-mp4/F0A01F75-26DF-EA38-E240-9C6ACEEF3DF8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1794036950&Signature=SjRbuLI69U8t9%2FFJCKPvTs0JiBc%3D
+UTC_MS=1793457995504 PID=18380 THREAD=main UPTIME_MS=963718004 MESSAGE=uptimeMs=963718002 event=refresh_item_count=1
+UTC_MS=1793457995506 PID=18380 THREAD=main UPTIME_MS=963718006 MESSAGE=uptimeMs=963718004 event=refresh_position_us=1450
+UTC_MS=1793457995508 PID=18380 THREAD=main UPTIME_MS=963718008 MESSAGE=uptimeMs=963718006 event=refresh_play_when_ready=true
+UTC_MS=1793457995516 PID=18380 THREAD=main UPTIME_MS=963718016 MESSAGE=uptimeMs=963718010 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793457995518 PID=18380 THREAD=main UPTIME_MS=963718018 MESSAGE=uptimeMs=963718016 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=0 ready=false ended=false
+UTC_MS=1793457995523 PID=18380 THREAD=main UPTIME_MS=963718023 MESSAGE=uptimeMs=963718018 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=0 ready=false ended=false
+UTC_MS=1793457995527 PID=18380 THREAD=main UPTIME_MS=963718027 MESSAGE=uptimeMs=963718023 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793457995530 PID=18380 THREAD=main UPTIME_MS=963718030 MESSAGE=uptimeMs=963718027 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793457995531 PID=18380 THREAD=main UPTIME_MS=963718031 MESSAGE=uptimeMs=963718030 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793457995533 PID=18380 THREAD=main UPTIME_MS=963718033 MESSAGE=uptimeMs=963718032 event=media_item_refresh_request_dispatched
+UTC_MS=1793457995534 PID=18380 THREAD=main UPTIME_MS=963718034 MESSAGE=uptimeMs=963718033 event=quality_switch_source_and_subtitles_refresh_dispatched
+UTC_MS=1793457995541 PID=18380 THREAD=main UPTIME_MS=963718041 MESSAGE=uptimeMs=963718038 event=activity_on_start
+UTC_MS=1793457995546 PID=18380 THREAD=main UPTIME_MS=963718046 MESSAGE=uptimeMs=963718045 event=player_state_update_enter
+UTC_MS=1793457995547 PID=18380 THREAD=main UPTIME_MS=963718047 MESSAGE=uptimeMs=963718046 event=player_state_update_playing_flag=true
+UTC_MS=1793457995549 PID=18380 THREAD=main UPTIME_MS=963718049 MESSAGE=uptimeMs=963718047 event=player_state_update_reason=1
+UTC_MS=1793457995550 PID=18380 THREAD=main UPTIME_MS=963718050 MESSAGE=uptimeMs=963718049 event=player_state_update_extra=1
+UTC_MS=1793457995551 PID=18380 THREAD=main UPTIME_MS=963718051 MESSAGE=uptimeMs=963718050 event=player_state_update_playback_state=2
+UTC_MS=1793457995553 PID=18380 THREAD=main UPTIME_MS=963718053 MESSAGE=uptimeMs=963718051 event=player_state_update_position_us=0
+UTC_MS=1793457995562 PID=18380 THREAD=main UPTIME_MS=963718062 MESSAGE=uptimeMs=963718059 event=activity_on_resume
+UTC_MS=1793457995612 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963718112 MESSAGE=uptimeMs=963718107 event=renderer_surface_message_type=1
+UTC_MS=1793457995615 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963718115 MESSAGE=uptimeMs=963718113 event=renderer_output_message_payload_class=android.view.Surface
+UTC_MS=1793457995620 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963718120 MESSAGE=uptimeMs=963718115 event=renderer_surface_snapshot stage=output_message_surface_before surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793457995627 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963718127 MESSAGE=uptimeMs=963718120 event=renderer_surface_snapshot stage=output_message_surface_after surfacePresent=true surfaceId=c518365 surfaceValid=true configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793457995634 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963718134 MESSAGE=uptimeMs=963718128 event=renderer_surface_attached=true
+UTC_MS=1793458000661 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723161 MESSAGE=uptimeMs=963723158 event=decoder_policy_should_use_software_check=Format(1, null, null, video/avc, avc1.640015, -1, null, [426, 240, 23.976023], [-1, -1])
+UTC_MS=1793458000662 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723162 MESSAGE=uptimeMs=963723161 event=decoder_policy_software_false
+UTC_MS=1793458000664 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723164 MESSAGE=uptimeMs=963723162 event=decoder_policy_should_use_software_check=Format(1, null, null, video/avc, avc1.640015, -1, null, [426, 240, 23.976023], [-1, -1])
+UTC_MS=1793458000665 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723165 MESSAGE=uptimeMs=963723164 event=decoder_policy_software_false
+UTC_MS=1793458000667 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723167 MESSAGE=uptimeMs=963723166 event=decoder_policy_should_use_software_check=Format(1, null, null, video/avc, avc1.640015, -1, null, [426, 240, 23.976023], [-1, -1])
+UTC_MS=1793458000668 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723168 MESSAGE=uptimeMs=963723167 event=decoder_policy_software_false
+UTC_MS=1793458000669 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723169 MESSAGE=uptimeMs=963723168 event=decoder_policy_should_use_software_check=Format(1, null, null, video/avc, avc1.640015, -1, null, [426, 240, 23.976023], [-1, -1])
+UTC_MS=1793458000670 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723170 MESSAGE=uptimeMs=963723169 event=decoder_policy_software_false
+UTC_MS=1793458000672 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723172 MESSAGE=uptimeMs=963723171 event=decoder_policy_should_use_software_check=Format(2, null, null, audio/mp4a-latm, mp4a.40.2, -1, en, [-1, -1, -1.0], [2, 48000])
+UTC_MS=1793458000673 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723173 MESSAGE=uptimeMs=963723172 event=decoder_policy_software_false
+UTC_MS=1793458000674 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723174 MESSAGE=uptimeMs=963723173 event=decoder_policy_should_use_software_check=Format(2, null, null, audio/mp4a-latm, mp4a.40.2, -1, en, [-1, -1, -1.0], [2, 48000])
+UTC_MS=1793458000675 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723175 MESSAGE=uptimeMs=963723174 event=decoder_policy_software_false
+UTC_MS=1793458000676 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723176 MESSAGE=uptimeMs=963723175 event=decoder_policy_should_use_software_check=Format(2, null, null, audio/mp4a-latm, mp4a.40.2, -1, en, [-1, -1, -1.0], [2, 48000])
+UTC_MS=1793458000677 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723177 MESSAGE=uptimeMs=963723177 event=decoder_policy_software_false
+UTC_MS=1793458000679 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723179 MESSAGE=uptimeMs=963723178 event=decoder_policy_should_use_software_check=Format(2, null, null, audio/mp4a-latm, mp4a.40.2, -1, en, [-1, -1, -1.0], [2, 48000])
+UTC_MS=1793458000680 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723180 MESSAGE=uptimeMs=963723179 event=decoder_policy_software_false
+UTC_MS=1793458000681 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723181 MESSAGE=uptimeMs=963723180 event=decoder_policy_should_use_software_check=Format(null, null, null, application/x-subrip, null, -1, ar, [-1, -1, -1.0], [-1, -1])
+UTC_MS=1793458000682 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723182 MESSAGE=uptimeMs=963723181 event=decoder_policy_software_false
+UTC_MS=1793458000683 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723183 MESSAGE=uptimeMs=963723182 event=decoder_policy_should_use_software_check=Format(null, null, null, application/x-subrip, null, -1, ar, [-1, -1, -1.0], [-1, -1])
+UTC_MS=1793458000684 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723184 MESSAGE=uptimeMs=963723183 event=decoder_policy_software_false
+UTC_MS=1793458000685 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723185 MESSAGE=uptimeMs=963723185 event=decoder_policy_should_use_software_check=Format(null, null, null, application/x-subrip, null, -1, ar, [-1, -1, -1.0], [-1, -1])
+UTC_MS=1793458000686 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723186 MESSAGE=uptimeMs=963723186 event=decoder_policy_software_false
+UTC_MS=1793458000687 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723187 MESSAGE=uptimeMs=963723187 event=decoder_policy_should_use_software_check=Format(null, null, null, application/x-subrip, null, -1, en, [-1, -1, -1.0], [-1, -1])
+UTC_MS=1793458000688 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723188 MESSAGE=uptimeMs=963723187 event=decoder_policy_software_false
+UTC_MS=1793458000690 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723190 MESSAGE=uptimeMs=963723189 event=decoder_policy_should_use_software_check=Format(null, null, null, application/x-subrip, null, -1, en, [-1, -1, -1.0], [-1, -1])
+UTC_MS=1793458000691 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723191 MESSAGE=uptimeMs=963723190 event=decoder_policy_software_false
+UTC_MS=1793458000692 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723192 MESSAGE=uptimeMs=963723191 event=decoder_policy_should_use_software_check=Format(null, null, null, application/x-subrip, null, -1, en, [-1, -1, -1.0], [-1, -1])
+UTC_MS=1793458000693 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723193 MESSAGE=uptimeMs=963723192 event=decoder_policy_software_false
+UTC_MS=1793458000695 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723195 MESSAGE=uptimeMs=963723194 event=renderer_lifecycle_E_reset_enter
+UTC_MS=1793458000697 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723197 MESSAGE=uptimeMs=963723195 event=renderer_surface_snapshot stage=E_before_cleanup surfacePresent=true surfaceId=c518365 surfaceValid=true configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458000698 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723198 MESSAGE=uptimeMs=963723197 event=renderer_lifecycle_B_cleanup_enter
+UTC_MS=1793458000700 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723200 MESSAGE=uptimeMs=963723199 event=renderer_surface_snapshot stage=B_before_cleanup surfacePresent=true surfaceId=c518365 surfaceValid=true configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458000704 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723204 MESSAGE=uptimeMs=963723201 event=ffmpeg_decoder_release
+UTC_MS=1793458000706 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723206 MESSAGE=uptimeMs=963723204 event=renderer_surface_retained_by_B_cleanup
+UTC_MS=1793458000710 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723210 MESSAGE=uptimeMs=963723207 event=renderer_lifecycle_B_cleanup_complete
+UTC_MS=1793458000713 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963723212 MESSAGE=uptimeMs=963723210 event=renderer_surface_snapshot stage=B_cleanup_complete surfacePresent=true surfaceId=c518365 surfaceValid=true configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458001061 PID=18380 THREAD=main UPTIME_MS=963723561 MESSAGE=uptimeMs=963723557 event=player_playback_state=3
+UTC_MS=1793458001065 PID=18380 THREAD=main UPTIME_MS=963723565 MESSAGE=uptimeMs=963723561 event=player_is_loading=false
+UTC_MS=1793458001067 PID=18380 THREAD=main UPTIME_MS=963723567 MESSAGE=uptimeMs=963723565 event=player_state_position_us=0
+UTC_MS=1793458001068 PID=18380 THREAD=main UPTIME_MS=963723568 MESSAGE=uptimeMs=963723567 event=player_duration_us=6717127
+UTC_MS=1793458001070 PID=18380 THREAD=main UPTIME_MS=963723570 MESSAGE=uptimeMs=963723569 event=player_play_when_ready=true
+UTC_MS=1793458001072 PID=18380 THREAD=main UPTIME_MS=963723572 MESSAGE=uptimeMs=963723571 event=player_loading_spinner_visible=false
+UTC_MS=1793458001074 PID=18380 THREAD=main UPTIME_MS=963723574 MESSAGE=uptimeMs=963723573 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458001075 PID=18380 THREAD=main UPTIME_MS=963723575 MESSAGE=uptimeMs=963723574 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=2 ready=false ended=true
+UTC_MS=1793458001076 PID=18380 THREAD=main UPTIME_MS=963723576 MESSAGE=uptimeMs=963723575 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=2 ready=false ended=true
+UTC_MS=1793458001077 PID=18380 THREAD=main UPTIME_MS=963723577 MESSAGE=uptimeMs=963723576 event=renderer_snapshot index=3 name=TextRenderer state=2 ready=false ended=true
+UTC_MS=1793458001078 PID=18380 THREAD=main UPTIME_MS=963723578 MESSAGE=uptimeMs=963723577 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458001079 PID=18380 THREAD=main UPTIME_MS=963723579 MESSAGE=uptimeMs=963723578 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458002953 PID=18380 THREAD=main UPTIME_MS=963725453 MESSAGE=uptimeMs=963725451 event=surface_detach_enter
+UTC_MS=1793458002955 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963725455 MESSAGE=uptimeMs=963725454 event=renderer_surface_message_type=1
+UTC_MS=1793458002956 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963725456 MESSAGE=uptimeMs=963725455 event=renderer_output_message_payload_class=null
+UTC_MS=1793458002958 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963725458 MESSAGE=uptimeMs=963725457 event=renderer_surface_snapshot stage=output_message_surface_before surfacePresent=true surfaceId=c518365 surfaceValid=true configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458002959 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963725459 MESSAGE=uptimeMs=963725458 event=renderer_surface_snapshot stage=output_message_surface_after surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458002960 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963725460 MESSAGE=uptimeMs=963725459 event=renderer_surface_attached=false
+UTC_MS=1793458002976 PID=18380 THREAD=main UPTIME_MS=963725475 MESSAGE=uptimeMs=963725474 event=surface_detach_complete
+UTC_MS=1793458002977 PID=18380 THREAD=main UPTIME_MS=963725477 MESSAGE=uptimeMs=963725476 event=player_state_update_enter
+UTC_MS=1793458002978 PID=18380 THREAD=main UPTIME_MS=963725478 MESSAGE=uptimeMs=963725477 event=player_state_update_playing_flag=false
+UTC_MS=1793458002979 PID=18380 THREAD=main UPTIME_MS=963725479 MESSAGE=uptimeMs=963725478 event=player_state_update_reason=-1
+UTC_MS=1793458002981 PID=18380 THREAD=main UPTIME_MS=963725481 MESSAGE=uptimeMs=963725479 event=player_state_update_extra=1
+UTC_MS=1793458002982 PID=18380 THREAD=main UPTIME_MS=963725482 MESSAGE=uptimeMs=963725481 event=player_state_update_playback_state=3
+UTC_MS=1793458002983 PID=18380 THREAD=main UPTIME_MS=963725483 MESSAGE=uptimeMs=963725483 event=player_state_update_position_us=1688
+UTC_MS=1793458003001 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963725501 MESSAGE=uptimeMs=963725497 event=renderer_lifecycle_E_reset_enter
+UTC_MS=1793458003003 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963725503 MESSAGE=uptimeMs=963725501 event=renderer_surface_snapshot stage=E_before_cleanup surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458003004 PID=18380 THREAD=main UPTIME_MS=963725504 MESSAGE=uptimeMs=963725502 event=activity_on_pause
+UTC_MS=1793458003004 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963725504 MESSAGE=uptimeMs=963725503 event=renderer_lifecycle_B_cleanup_enter
+UTC_MS=1793458003006 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963725506 MESSAGE=uptimeMs=963725505 event=renderer_surface_snapshot stage=B_before_cleanup surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458003009 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963725509 MESSAGE=uptimeMs=963725506 event=ffmpeg_decoder_release
+UTC_MS=1793458003012 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963725512 MESSAGE=uptimeMs=963725509 event=renderer_surface_retained_by_B_cleanup
+UTC_MS=1793458003015 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963725515 MESSAGE=uptimeMs=963725514 event=renderer_lifecycle_B_cleanup_complete
+UTC_MS=1793458003022 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963725522 MESSAGE=uptimeMs=963725516 event=renderer_surface_snapshot stage=B_cleanup_complete surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458004051 PID=18380 THREAD=main UPTIME_MS=963726551 MESSAGE=uptimeMs=963726543 event=activity_on_stop
+UTC_MS=1793458004056 PID=18380 THREAD=main UPTIME_MS=963726556 MESSAGE=uptimeMs=963726551 event=player_state_update_enter
+UTC_MS=1793458004058 PID=18380 THREAD=main UPTIME_MS=963726558 MESSAGE=uptimeMs=963726556 event=player_state_update_playing_flag=false
+UTC_MS=1793458004061 PID=18380 THREAD=main UPTIME_MS=963726561 MESSAGE=uptimeMs=963726558 event=player_state_update_reason=-1
+UTC_MS=1793458004064 PID=18380 THREAD=main UPTIME_MS=963726564 MESSAGE=uptimeMs=963726561 event=player_state_update_extra=1
+UTC_MS=1793458004066 PID=18380 THREAD=main UPTIME_MS=963726567 MESSAGE=uptimeMs=963726564 event=player_state_update_playback_state=1
+UTC_MS=1793458004069 PID=18380 THREAD=main UPTIME_MS=963726569 MESSAGE=uptimeMs=963726567 event=player_state_update_position_us=1699
+UTC_MS=1793458004074 PID=18380 THREAD=main UPTIME_MS=963726574 MESSAGE=uptimeMs=963726573 event=activity_on_destroy
+UTC_MS=1793458006347 PID=18380 THREAD=main UPTIME_MS=963728847 MESSAGE=uptimeMs=963728844 event=player_state_update_enter
+UTC_MS=1793458006349 PID=18380 THREAD=main UPTIME_MS=963728849 MESSAGE=uptimeMs=963728847 event=player_state_update_playing_flag=true
+UTC_MS=1793458006350 PID=18380 THREAD=main UPTIME_MS=963728850 MESSAGE=uptimeMs=963728849 event=player_state_update_reason=1
+UTC_MS=1793458006352 PID=18380 THREAD=main UPTIME_MS=963728852 MESSAGE=uptimeMs=963728850 event=player_state_update_extra=1
+UTC_MS=1793458006353 PID=18380 THREAD=main UPTIME_MS=963728853 MESSAGE=uptimeMs=963728852 event=player_state_update_playback_state=1
+UTC_MS=1793458006355 PID=18380 THREAD=main UPTIME_MS=963728855 MESSAGE=uptimeMs=963728853 event=player_state_update_position_us=1699
+UTC_MS=1793458006357 PID=18380 THREAD=main UPTIME_MS=963728857 MESSAGE=uptimeMs=963728856 event=player_playback_state=1
+UTC_MS=1793458006359 PID=18380 THREAD=main UPTIME_MS=963728859 MESSAGE=uptimeMs=963728857 event=player_is_loading=false
+UTC_MS=1793458006360 PID=18380 THREAD=main UPTIME_MS=963728860 MESSAGE=uptimeMs=963728859 event=player_state_position_us=1699
+UTC_MS=1793458006362 PID=18380 THREAD=main UPTIME_MS=963728862 MESSAGE=uptimeMs=963728861 event=player_duration_us=6717127
+UTC_MS=1793458006365 PID=18380 THREAD=main UPTIME_MS=963728865 MESSAGE=uptimeMs=963728863 event=player_play_when_ready=true
+UTC_MS=1793458006368 PID=18380 THREAD=main UPTIME_MS=963728868 MESSAGE=uptimeMs=963728866 event=player_loading_spinner_visible=false
+UTC_MS=1793458006370 PID=18380 THREAD=main UPTIME_MS=963728870 MESSAGE=uptimeMs=963728868 event=player_state_refresh_g_enter
+UTC_MS=1793458006373 PID=18380 THREAD=main UPTIME_MS=963728873 MESSAGE=uptimeMs=963728872 event=player_state_update_enter
+UTC_MS=1793458006375 PID=18380 THREAD=main UPTIME_MS=963728875 MESSAGE=uptimeMs=963728874 event=player_state_update_playing_flag=true
+UTC_MS=1793458006376 PID=18380 THREAD=main UPTIME_MS=963728876 MESSAGE=uptimeMs=963728875 event=player_state_update_reason=1
+UTC_MS=1793458006378 PID=18380 THREAD=main UPTIME_MS=963728878 MESSAGE=uptimeMs=963728877 event=player_state_update_extra=1
+UTC_MS=1793458006379 PID=18380 THREAD=main UPTIME_MS=963728879 MESSAGE=uptimeMs=963728878 event=player_state_update_playback_state=1
+UTC_MS=1793458006380 PID=18380 THREAD=main UPTIME_MS=963728880 MESSAGE=uptimeMs=963728879 event=player_state_update_position_us=1699
+UTC_MS=1793458006381 PID=18380 THREAD=main UPTIME_MS=963728881 MESSAGE=uptimeMs=963728881 event=player_state_refresh_g_complete
+UTC_MS=1793458006382 PID=18380 THREAD=main UPTIME_MS=963728882 MESSAGE=uptimeMs=963728881 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458006384 PID=18380 THREAD=main UPTIME_MS=963728884 MESSAGE=uptimeMs=963728883 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=0 ready=false ended=false
+UTC_MS=1793458006385 PID=18380 THREAD=main UPTIME_MS=963728885 MESSAGE=uptimeMs=963728884 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=0 ready=false ended=false
+UTC_MS=1793458006386 PID=18380 THREAD=main UPTIME_MS=963728886 MESSAGE=uptimeMs=963728885 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458006387 PID=18380 THREAD=main UPTIME_MS=963728887 MESSAGE=uptimeMs=963728886 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458006388 PID=18380 THREAD=main UPTIME_MS=963728888 MESSAGE=uptimeMs=963728887 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458006389 PID=18380 THREAD=main UPTIME_MS=963728889 MESSAGE=uptimeMs=963728888 event=player_playback_state=2
+UTC_MS=1793458006390 PID=18380 THREAD=main UPTIME_MS=963728890 MESSAGE=uptimeMs=963728889 event=player_is_loading=false
+UTC_MS=1793458006391 PID=18380 THREAD=main UPTIME_MS=963728891 MESSAGE=uptimeMs=963728890 event=player_state_position_us=1699
+UTC_MS=1793458006391 PID=18380 THREAD=main UPTIME_MS=963728891 MESSAGE=uptimeMs=963728891 event=player_duration_us=6717127
+UTC_MS=1793458006393 PID=18380 THREAD=main UPTIME_MS=963728893 MESSAGE=uptimeMs=963728891 event=player_play_when_ready=true
+UTC_MS=1793458006394 PID=18380 THREAD=main UPTIME_MS=963728894 MESSAGE=uptimeMs=963728893 event=player_loading_spinner_visible=true
+UTC_MS=1793458006394 PID=18380 THREAD=main UPTIME_MS=963728894 MESSAGE=uptimeMs=963728894 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458006395 PID=18380 THREAD=main UPTIME_MS=963728895 MESSAGE=uptimeMs=963728894 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=0 ready=false ended=false
+UTC_MS=1793458006396 PID=18380 THREAD=main UPTIME_MS=963728896 MESSAGE=uptimeMs=963728895 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=0 ready=false ended=false
+UTC_MS=1793458006397 PID=18380 THREAD=main UPTIME_MS=963728897 MESSAGE=uptimeMs=963728896 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458006397 PID=18380 THREAD=main UPTIME_MS=963728897 MESSAGE=uptimeMs=963728897 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458006398 PID=18380 THREAD=main UPTIME_MS=963728898 MESSAGE=uptimeMs=963728897 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458006405 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963728905 MESSAGE=uptimeMs=963728904 event=renderer_surface_message_type=1
+UTC_MS=1793458006405 PID=18380 THREAD=main UPTIME_MS=963728905 MESSAGE=uptimeMs=963728904 event=video_model_at_quality_switch=VideoModel(nb=101909, enTitle=The Conjuring, arTitle=الشعوذة, stars=7.5, arContent=تدور القصة في إطار رعب عن إيد وارين (باتريك ويلسون)، وزوجته لورين (فيرا فارميجا)، اللذين يعملان كمحققين في الخوارق الطبيعية ويحوزان على شهرة عالمية، تطلب مساعدتهما أسرة روجر (رون ليفينجستون)؛ حيث تتعرض للترهيب من قوى الظلام في مزرعة منعزلة، وبينما يضطران لمواجهة كيان شيطاني قوي، تقع عائلة وارين في أكثر الحالات رعباً في حياتهما.
+
+, enContent=Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse., mDate=2013-07-19, year=2013, kind=1, season=0, imgObjUrl=https://cnth2.shabakaty.cc/vascin-poster-images/6D40D967-46D2-3B1D-90C6-942A2A328F3A_poster.jpg, imgMediumThumbObjUrl=https://cnth2.shabakaty.cc/vascin-poster-images/E1E0C77F-2C6A-E435-3F3C-5DC34A719BEC_poster_medium_thumb.jpg, filmRating=4, seriesRating=1, episodeNummer=0, rate=0, isSpecial=, itemDate=2017-08-26 15:41:02, duration=6718.09, imdbUrlRef=http://www.imdb.com/title/tt1457767/, rootSeries=0, useParentImg=0, showComments=false, episodeFlag=0000, trailer=https://www.youtube.com/watch?v=qPxWnvUTwSM, isMock=false, parentSkipping=1, downloadCollectionID=0, imgThumbObjUrl=https://cnth2.shabakaty.cc/vascin-poster-images/53025021-D868-F646-4CB2-3A2496ED94C9_poster_thumb.jpg, skippingDurations=SkippingDurations(start=[747.628388, 1461.117854, 4008.371528, 6207.464167], end=[753.272373, 1466.090548, 4011.115841, 6210.952326]), arTranslationFilePath=https://cnth2.shabakaty.cc/vascin-translation-files/182ADD4E-C623-5738-9987-F8EBE344DACF_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796049599&Signature=aYjdHtXeEYyAMZMZN%2B34lVFCENk%3D, subtitles=[Subtitle(id=1, name=arabic, type=ar, extention=srt, file=https://cnth2.shabakaty.cc/vascin-translation-files/182ADD4E-C623-5738-9987-F8EBE344DACF_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796049599&Signature=aYjdHtXeEYyAMZMZN%2B34lVFCENk%3D), Subtitle(id=2, name=arabic, type=ar, extention=vtt, file=https://cnth2.shabakaty.cc/vascin-translation-files/182ADD4E-C623-5738-9987-F8EBE344DACF_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796049599&Signature=n%2FUx62eTLh%2B9CP2AwTj3QjGz91A%3D), Subtitle(id=3, name=english, type=en, extention=srt, file=https://cnth2.shabakaty.cc/vascin-translation-files/426F2545-21B1-6E6A-9562-69F99BAF7870_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796049599&Signature=Bjne0W%2B%2Frzq2AwqyEw6vl6cLUrA%3D), Subtitle(id=4, name=english, type=en, extention=vtt, file=https://cnth2.shabakaty.cc/vascin-translation-files/426F2545-21B1-6E6A-9562-69F99BAF7870_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796049599&Signature=MWUR53nXxhE1OyKGzv8RmQrepXk%3D)], hasIntroSkipping=true, skippableScenes=[SkippableScene(start=0, end=29775, controlLevel=3)], categories=[Category(enTitle=Horror, arTitle=رعب), Category(enTitle=Mystery, arTitle=غموض), Category(enTitle=Thriller, arTitle=اثارة)], videoLikesNumber=8449, videoDisLikesNumber=233, videoLanguages=VideoLanguages(enTitle=English, arTitle=الإنجليزية), videoCommentsNumber=0, videoViewsNumber=0, directorsInfo=[com.shabakaty.downloader.ob4@1cc604a], actorsInfo=[com.shabakaty.downloader.ob4@c97bbbb, com.shabakaty.downloader.ob4@57018d8, com.shabakaty.downloader.ob4@75c9431, com.shabakaty.downloader.ob4@6783716], writersInfo=[com.shabakaty.downloader.ob4@2fc5897, com.shabakaty.downloader.ob4@439ea84], itemOrderList=, listId=, listSortOrder=, castable=true, publishDate=, episodeDesc=, customArTitle=, customEnTitle=, finished=false, url=, downloadTaskId=0, downloadedTime=0, size=, description=, isAddedToWatchLater=false, status=VideoStatus(liked=false, watched=false, annoying=false, disLiked=false, favorite=false, watchLater=0, videoProgress=0), qualities=[240p, 360p, 480p, 720p, 1080p, 2160p], wantedQuality=null, arTranslationFilePathVTT=https://cnth2.shabakaty.cc/vascin-translation-files/182ADD4E-C623-5738-9987-F8EBE344DACF_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796049599&Signature=n%2FUx62eTLh%2B9CP2AwTj3QjGz91A%3D, isDownloading=false)
+UTC_MS=1793458006406 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963728906 MESSAGE=uptimeMs=963728905 event=renderer_output_message_payload_class=null
+UTC_MS=1793458006406 PID=18380 THREAD=main UPTIME_MS=963728906 MESSAGE=uptimeMs=963728905 event=quality_switch_fallback_to_default_quality=240p
+UTC_MS=1793458006407 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963728907 MESSAGE=uptimeMs=963728906 event=renderer_surface_snapshot stage=output_message_surface_before surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458006408 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963728908 MESSAGE=uptimeMs=963728907 event=renderer_surface_snapshot stage=output_message_surface_after surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458006409 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963728909 MESSAGE=uptimeMs=963728908 event=renderer_surface_attached=false
+UTC_MS=1793458006412 PID=18380 THREAD=main UPTIME_MS=963728912 MESSAGE=uptimeMs=963728912 event=quality_switch_target_url=https://cdn.shabakaty.cc/vascin24-mp4/F0A01F75-26DF-EA38-E240-9C6ACEEF3DF8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1794036950&Signature=SjRbuLI69U8t9%2FFJCKPvTs0JiBc%3D
+UTC_MS=1793458006414 PID=18380 THREAD=main UPTIME_MS=963728914 MESSAGE=uptimeMs=963728914 event=media_item_refresh_request
+UTC_MS=1793458006415 PID=18380 THREAD=main UPTIME_MS=963728915 MESSAGE=uptimeMs=963728914 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458006416 PID=18380 THREAD=main UPTIME_MS=963728916 MESSAGE=uptimeMs=963728915 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=0 ready=false ended=false
+UTC_MS=1793458006416 PID=18380 THREAD=main UPTIME_MS=963728916 MESSAGE=uptimeMs=963728916 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=0 ready=false ended=false
+UTC_MS=1793458006419 PID=18380 THREAD=main UPTIME_MS=963728919 MESSAGE=uptimeMs=963728917 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458006420 PID=18380 THREAD=main UPTIME_MS=963728920 MESSAGE=uptimeMs=963728919 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458006422 PID=18380 THREAD=main UPTIME_MS=963728922 MESSAGE=uptimeMs=963728920 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458006424 PID=18380 THREAD=main UPTIME_MS=963728924 MESSAGE=uptimeMs=963728923 event=refresh_playback_state=2
+UTC_MS=1793458006426 PID=18380 THREAD=main UPTIME_MS=963728926 MESSAGE=uptimeMs=963728924 event=refresh_is_loading=false
+UTC_MS=1793458006428 PID=18380 THREAD=main UPTIME_MS=963728928 MESSAGE=uptimeMs=963728926 event=media_refresh_item_id=
+UTC_MS=1793458006428 PID=18380 THREAD=main UPTIME_MS=963728928 MESSAGE=uptimeMs=963728928 event=media_refresh_item_uri=https://cdn.shabakaty.cc/vascin24-mp4/F0A01F75-26DF-EA38-E240-9C6ACEEF3DF8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1794036950&Signature=SjRbuLI69U8t9%2FFJCKPvTs0JiBc%3D
+UTC_MS=1793458006430 PID=18380 THREAD=main UPTIME_MS=963728929 MESSAGE=uptimeMs=963728929 event=refresh_item_count=1
+UTC_MS=1793458006430 PID=18380 THREAD=main UPTIME_MS=963728930 MESSAGE=uptimeMs=963728930 event=refresh_position_us=1699
+UTC_MS=1793458006431 PID=18380 THREAD=main UPTIME_MS=963728931 MESSAGE=uptimeMs=963728930 event=refresh_play_when_ready=true
+UTC_MS=1793458006435 PID=18380 THREAD=main UPTIME_MS=963728935 MESSAGE=uptimeMs=963728933 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458006437 PID=18380 THREAD=main UPTIME_MS=963728937 MESSAGE=uptimeMs=963728935 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=0 ready=false ended=false
+UTC_MS=1793458006438 PID=18380 THREAD=main UPTIME_MS=963728938 MESSAGE=uptimeMs=963728937 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=0 ready=false ended=false
+UTC_MS=1793458006439 PID=18380 THREAD=main UPTIME_MS=963728939 MESSAGE=uptimeMs=963728938 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458006439 PID=18380 THREAD=main UPTIME_MS=963728939 MESSAGE=uptimeMs=963728939 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458006440 PID=18380 THREAD=main UPTIME_MS=963728940 MESSAGE=uptimeMs=963728939 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458006441 PID=18380 THREAD=main UPTIME_MS=963728941 MESSAGE=uptimeMs=963728940 event=media_item_refresh_request_dispatched
+UTC_MS=1793458006441 PID=18380 THREAD=main UPTIME_MS=963728941 MESSAGE=uptimeMs=963728941 event=quality_switch_source_and_subtitles_refresh_dispatched
+UTC_MS=1793458006445 PID=18380 THREAD=main UPTIME_MS=963728945 MESSAGE=uptimeMs=963728944 event=activity_on_start
+UTC_MS=1793458006448 PID=18380 THREAD=main UPTIME_MS=963728948 MESSAGE=uptimeMs=963728947 event=player_state_update_enter
+UTC_MS=1793458006449 PID=18380 THREAD=main UPTIME_MS=963728949 MESSAGE=uptimeMs=963728948 event=player_state_update_playing_flag=true
+UTC_MS=1793458006450 PID=18380 THREAD=main UPTIME_MS=963728949 MESSAGE=uptimeMs=963728949 event=player_state_update_reason=1
+UTC_MS=1793458006451 PID=18380 THREAD=main UPTIME_MS=963728951 MESSAGE=uptimeMs=963728950 event=player_state_update_extra=1
+UTC_MS=1793458006451 PID=18380 THREAD=main UPTIME_MS=963728951 MESSAGE=uptimeMs=963728951 event=player_state_update_playback_state=2
+UTC_MS=1793458006452 PID=18380 THREAD=main UPTIME_MS=963728952 MESSAGE=uptimeMs=963728952 event=player_state_update_position_us=0
+UTC_MS=1793458006458 PID=18380 THREAD=main UPTIME_MS=963728958 MESSAGE=uptimeMs=963728957 event=activity_on_resume
+UTC_MS=1793458006517 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963729017 MESSAGE=uptimeMs=963729006 event=renderer_surface_message_type=1
+UTC_MS=1793458006521 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963729021 MESSAGE=uptimeMs=963729019 event=renderer_output_message_payload_class=android.view.Surface
+UTC_MS=1793458006524 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963729024 MESSAGE=uptimeMs=963729022 event=renderer_surface_snapshot stage=output_message_surface_before surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458006533 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963729033 MESSAGE=uptimeMs=963729025 event=renderer_surface_snapshot stage=output_message_surface_after surfacePresent=true surfaceId=444e320 surfaceValid=true configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458006537 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963729037 MESSAGE=uptimeMs=963729034 event=renderer_surface_attached=true
+UTC_MS=1793458010481 PID=18380 THREAD=main UPTIME_MS=963732981 MESSAGE=uptimeMs=963732978 event=player_state_update_enter
+UTC_MS=1793458010483 PID=18380 THREAD=main UPTIME_MS=963732983 MESSAGE=uptimeMs=963732981 event=player_state_update_playing_flag=false
+UTC_MS=1793458010485 PID=18380 THREAD=main UPTIME_MS=963732985 MESSAGE=uptimeMs=963732983 event=player_state_update_reason=-1
+UTC_MS=1793458010487 PID=18380 THREAD=main UPTIME_MS=963732986 MESSAGE=uptimeMs=963732985 event=player_state_update_extra=1
+UTC_MS=1793458010488 PID=18380 THREAD=main UPTIME_MS=963732988 MESSAGE=uptimeMs=963732987 event=player_state_update_playback_state=2
+UTC_MS=1793458010489 PID=18380 THREAD=main UPTIME_MS=963732989 MESSAGE=uptimeMs=963732988 event=player_state_update_position_us=1661
+UTC_MS=1793458010492 PID=18380 THREAD=main UPTIME_MS=963732992 MESSAGE=uptimeMs=963732990 event=player_playback_state=2
+UTC_MS=1793458010493 PID=18380 THREAD=main UPTIME_MS=963732993 MESSAGE=uptimeMs=963732992 event=player_is_loading=false
+UTC_MS=1793458010495 PID=18380 THREAD=main UPTIME_MS=963732994 MESSAGE=uptimeMs=963732993 event=player_state_position_us=1661
+UTC_MS=1793458010496 PID=18380 THREAD=main UPTIME_MS=963732996 MESSAGE=uptimeMs=963732995 event=player_duration_us=-9223372036854775807
+UTC_MS=1793458010497 PID=18380 THREAD=main UPTIME_MS=963732997 MESSAGE=uptimeMs=963732996 event=player_play_when_ready=false
+UTC_MS=1793458010499 PID=18380 THREAD=main UPTIME_MS=963732999 MESSAGE=uptimeMs=963732997 event=player_loading_spinner_visible=true
+UTC_MS=1793458010500 PID=18380 THREAD=main UPTIME_MS=963733000 MESSAGE=uptimeMs=963732999 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458010502 PID=18380 THREAD=main UPTIME_MS=963733002 MESSAGE=uptimeMs=963733001 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=0 ready=false ended=false
+UTC_MS=1793458010503 PID=18380 THREAD=main UPTIME_MS=963733003 MESSAGE=uptimeMs=963733002 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=0 ready=false ended=false
+UTC_MS=1793458010505 PID=18380 THREAD=main UPTIME_MS=963733005 MESSAGE=uptimeMs=963733003 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458010506 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963733005 MESSAGE=uptimeMs=963733003 event=decoder_policy_should_use_software_check=Format(1, null, null, video/avc, avc1.640015, -1, null, [426, 240, 23.976023], [-1, -1])
+UTC_MS=1793458010507 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963733007 MESSAGE=uptimeMs=963733006 event=decoder_policy_software_false
+UTC_MS=1793458010507 PID=18380 THREAD=main UPTIME_MS=963733007 MESSAGE=uptimeMs=963733006 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458010508 PID=18380 THREAD=main UPTIME_MS=963733008 MESSAGE=uptimeMs=963733007 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458010508 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963733008 MESSAGE=uptimeMs=963733007 event=decoder_policy_should_use_software_check=Format(1, null, null, video/avc, avc1.640015, -1, null, [426, 240, 23.976023], [-1, -1])
+UTC_MS=1793458010509 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963733009 MESSAGE=uptimeMs=963733008 event=decoder_policy_software_false
+UTC_MS=1793458010510 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963733010 MESSAGE=uptimeMs=963733009 event=decoder_policy_should_use_software_check=Format(1, null, null, video/avc, avc1.640015, -1, null, [426, 240, 23.976023], [-1, -1])
+UTC_MS=1793458010511 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963733011 MESSAGE=uptimeMs=963733010 event=decoder_policy_software_false
+UTC_MS=1793458010512 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963733012 MESSAGE=uptimeMs=963733011 event=decoder_policy_should_use_software_check=Format(1, null, null, video/avc, avc1.640015, -1, null, [426, 240, 23.976023], [-1, -1])
+UTC_MS=1793458010513 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963733013 MESSAGE=uptimeMs=963733012 event=decoder_policy_software_false
+UTC_MS=1793458010514 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963733014 MESSAGE=uptimeMs=963733013 event=decoder_policy_should_use_software_check=Format(2, null, null, audio/mp4a-latm, mp4a.40.2, -1, en, [-1, -1, -1.0], [2, 48000])
+UTC_MS=1793458010515 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963733015 MESSAGE=uptimeMs=963733014 event=decoder_policy_software_false
+UTC_MS=1793458010516 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963733016 MESSAGE=uptimeMs=963733015 event=decoder_policy_should_use_software_check=Format(2, null, null, audio/mp4a-latm, mp4a.40.2, -1, en, [-1, -1, -1.0], [2, 48000])
+UTC_MS=1793458010517 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963733017 MESSAGE=uptimeMs=963733016 event=decoder_policy_software_false
+UTC_MS=1793458010518 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963733018 MESSAGE=uptimeMs=963733017 event=decoder_policy_should_use_software_check=Format(2, null, null, audio/mp4a-latm, mp4a.40.2, -1, en, [-1, -1, -1.0], [2, 48000])
+UTC_MS=1793458010519 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963733019 MESSAGE=uptimeMs=963733018 event=decoder_policy_software_false
+UTC_MS=1793458010520 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963733020 MESSAGE=uptimeMs=963733019 event=decoder_policy_should_use_software_check=Format(2, null, null, audio/mp4a-latm, mp4a.40.2, -1, en, [-1, -1, -1.0], [2, 48000])
+UTC_MS=1793458010521 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963733021 MESSAGE=uptimeMs=963733020 event=decoder_policy_software_false
+UTC_MS=1793458010522 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963733022 MESSAGE=uptimeMs=963733021 event=renderer_lifecycle_E_reset_enter
+UTC_MS=1793458010523 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963733023 MESSAGE=uptimeMs=963733022 event=renderer_surface_snapshot stage=E_before_cleanup surfacePresent=true surfaceId=444e320 surfaceValid=true configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458010524 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963733024 MESSAGE=uptimeMs=963733023 event=renderer_lifecycle_B_cleanup_enter
+UTC_MS=1793458010525 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963733025 MESSAGE=uptimeMs=963733024 event=renderer_surface_snapshot stage=B_before_cleanup surfacePresent=true surfaceId=444e320 surfaceValid=true configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458010526 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963733026 MESSAGE=uptimeMs=963733025 event=ffmpeg_decoder_release
+UTC_MS=1793458010527 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963733027 MESSAGE=uptimeMs=963733026 event=renderer_surface_retained_by_B_cleanup
+UTC_MS=1793458010527 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963733027 MESSAGE=uptimeMs=963733027 event=renderer_lifecycle_B_cleanup_complete
+UTC_MS=1793458010528 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963733028 MESSAGE=uptimeMs=963733028 event=renderer_surface_snapshot stage=B_cleanup_complete surfacePresent=true surfaceId=444e320 surfaceValid=true configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458010905 PID=18380 THREAD=main UPTIME_MS=963733405 MESSAGE=uptimeMs=963733403 event=player_playback_state=3
+UTC_MS=1793458010907 PID=18380 THREAD=main UPTIME_MS=963733407 MESSAGE=uptimeMs=963733406 event=player_is_loading=false
+UTC_MS=1793458010908 PID=18380 THREAD=main UPTIME_MS=963733408 MESSAGE=uptimeMs=963733407 event=player_state_position_us=1661
+UTC_MS=1793458010909 PID=18380 THREAD=main UPTIME_MS=963733409 MESSAGE=uptimeMs=963733408 event=player_duration_us=6717127
+UTC_MS=1793458010910 PID=18380 THREAD=main UPTIME_MS=963733410 MESSAGE=uptimeMs=963733409 event=player_play_when_ready=false
+UTC_MS=1793458010912 PID=18380 THREAD=main UPTIME_MS=963733412 MESSAGE=uptimeMs=963733411 event=player_loading_spinner_visible=false
+UTC_MS=1793458010915 PID=18380 THREAD=main UPTIME_MS=963733415 MESSAGE=uptimeMs=963733414 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458010918 PID=18380 THREAD=main UPTIME_MS=963733418 MESSAGE=uptimeMs=963733416 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=1 ready=false ended=true
+UTC_MS=1793458010919 PID=18380 THREAD=main UPTIME_MS=963733419 MESSAGE=uptimeMs=963733418 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=1 ready=false ended=true
+UTC_MS=1793458010922 PID=18380 THREAD=main UPTIME_MS=963733422 MESSAGE=uptimeMs=963733421 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458010924 PID=18380 THREAD=main UPTIME_MS=963733424 MESSAGE=uptimeMs=963733423 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458010926 PID=18380 THREAD=main UPTIME_MS=963733426 MESSAGE=uptimeMs=963733424 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458012385 PID=18380 THREAD=main UPTIME_MS=963734885 MESSAGE=uptimeMs=963734883 event=player_playback_state=2
+UTC_MS=1793458012386 PID=18380 THREAD=main UPTIME_MS=963734886 MESSAGE=uptimeMs=963734885 event=player_is_loading=false
+UTC_MS=1793458012387 PID=18380 THREAD=main UPTIME_MS=963734887 MESSAGE=uptimeMs=963734886 event=player_state_position_us=11661
+UTC_MS=1793458012388 PID=18380 THREAD=main UPTIME_MS=963734888 MESSAGE=uptimeMs=963734887 event=player_duration_us=6717127
+UTC_MS=1793458012389 PID=18380 THREAD=main UPTIME_MS=963734889 MESSAGE=uptimeMs=963734888 event=player_play_when_ready=false
+UTC_MS=1793458012390 PID=18380 THREAD=main UPTIME_MS=963734890 MESSAGE=uptimeMs=963734889 event=player_loading_spinner_visible=true
+UTC_MS=1793458012391 PID=18380 THREAD=main UPTIME_MS=963734891 MESSAGE=uptimeMs=963734890 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458012392 PID=18380 THREAD=main UPTIME_MS=963734892 MESSAGE=uptimeMs=963734891 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=1 ready=false ended=false
+UTC_MS=1793458012397 PID=18380 THREAD=main UPTIME_MS=963734897 MESSAGE=uptimeMs=963734893 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=1 ready=false ended=true
+UTC_MS=1793458012399 PID=18380 THREAD=main UPTIME_MS=963734899 MESSAGE=uptimeMs=963734897 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458012400 PID=18380 THREAD=main UPTIME_MS=963734900 MESSAGE=uptimeMs=963734899 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458012402 PID=18380 THREAD=main UPTIME_MS=963734902 MESSAGE=uptimeMs=963734901 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458012510 PID=18380 THREAD=main UPTIME_MS=963735010 MESSAGE=uptimeMs=963735008 event=player_playback_state=3
+UTC_MS=1793458012512 PID=18380 THREAD=main UPTIME_MS=963735012 MESSAGE=uptimeMs=963735011 event=player_is_loading=false
+UTC_MS=1793458012514 PID=18380 THREAD=main UPTIME_MS=963735014 MESSAGE=uptimeMs=963735012 event=player_state_position_us=11661
+UTC_MS=1793458012515 PID=18380 THREAD=main UPTIME_MS=963735015 MESSAGE=uptimeMs=963735014 event=player_duration_us=6717127
+UTC_MS=1793458012516 PID=18380 THREAD=main UPTIME_MS=963735016 MESSAGE=uptimeMs=963735015 event=player_play_when_ready=false
+UTC_MS=1793458012517 PID=18380 THREAD=main UPTIME_MS=963735017 MESSAGE=uptimeMs=963735016 event=player_loading_spinner_visible=false
+UTC_MS=1793458012519 PID=18380 THREAD=main UPTIME_MS=963735019 MESSAGE=uptimeMs=963735018 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458012521 PID=18380 THREAD=main UPTIME_MS=963735021 MESSAGE=uptimeMs=963735019 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=1 ready=false ended=true
+UTC_MS=1793458012522 PID=18380 THREAD=main UPTIME_MS=963735022 MESSAGE=uptimeMs=963735021 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=1 ready=false ended=true
+UTC_MS=1793458012523 PID=18380 THREAD=main UPTIME_MS=963735023 MESSAGE=uptimeMs=963735022 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458012525 PID=18380 THREAD=main UPTIME_MS=963735025 MESSAGE=uptimeMs=963735023 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458012526 PID=18380 THREAD=main UPTIME_MS=963735026 MESSAGE=uptimeMs=963735025 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458012577 PID=18380 THREAD=main UPTIME_MS=963735077 MESSAGE=uptimeMs=963735075 event=player_playback_state=2
+UTC_MS=1793458012579 PID=18380 THREAD=main UPTIME_MS=963735079 MESSAGE=uptimeMs=963735077 event=player_is_loading=false
+UTC_MS=1793458012580 PID=18380 THREAD=main UPTIME_MS=963735080 MESSAGE=uptimeMs=963735079 event=player_state_position_us=21661
+UTC_MS=1793458012581 PID=18380 THREAD=main UPTIME_MS=963735081 MESSAGE=uptimeMs=963735080 event=player_duration_us=6717127
+UTC_MS=1793458012584 PID=18380 THREAD=main UPTIME_MS=963735084 MESSAGE=uptimeMs=963735082 event=player_play_when_ready=false
+UTC_MS=1793458012586 PID=18380 THREAD=main UPTIME_MS=963735086 MESSAGE=uptimeMs=963735084 event=player_loading_spinner_visible=true
+UTC_MS=1793458012587 PID=18380 THREAD=main UPTIME_MS=963735087 MESSAGE=uptimeMs=963735086 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458012591 PID=18380 THREAD=main UPTIME_MS=963735091 MESSAGE=uptimeMs=963735088 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=1 ready=false ended=false
+UTC_MS=1793458012593 PID=18380 THREAD=main UPTIME_MS=963735093 MESSAGE=uptimeMs=963735091 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=1 ready=false ended=true
+UTC_MS=1793458012595 PID=18380 THREAD=main UPTIME_MS=963735095 MESSAGE=uptimeMs=963735093 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458012599 PID=18380 THREAD=main UPTIME_MS=963735099 MESSAGE=uptimeMs=963735096 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458012601 PID=18380 THREAD=main UPTIME_MS=963735101 MESSAGE=uptimeMs=963735100 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458012683 PID=18380 THREAD=main UPTIME_MS=963735183 MESSAGE=uptimeMs=963735180 event=player_playback_state=3
+UTC_MS=1793458012686 PID=18380 THREAD=main UPTIME_MS=963735186 MESSAGE=uptimeMs=963735183 event=player_is_loading=false
+UTC_MS=1793458012688 PID=18380 THREAD=main UPTIME_MS=963735188 MESSAGE=uptimeMs=963735186 event=player_state_position_us=21661
+UTC_MS=1793458012689 PID=18380 THREAD=main UPTIME_MS=963735189 MESSAGE=uptimeMs=963735188 event=player_duration_us=6717127
+UTC_MS=1793458012690 PID=18380 THREAD=main UPTIME_MS=963735190 MESSAGE=uptimeMs=963735189 event=player_play_when_ready=false
+UTC_MS=1793458012691 PID=18380 THREAD=main UPTIME_MS=963735191 MESSAGE=uptimeMs=963735191 event=player_loading_spinner_visible=false
+UTC_MS=1793458012693 PID=18380 THREAD=main UPTIME_MS=963735193 MESSAGE=uptimeMs=963735192 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458012694 PID=18380 THREAD=main UPTIME_MS=963735194 MESSAGE=uptimeMs=963735193 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=1 ready=false ended=true
+UTC_MS=1793458012695 PID=18380 THREAD=main UPTIME_MS=963735195 MESSAGE=uptimeMs=963735194 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=1 ready=false ended=true
+UTC_MS=1793458012696 PID=18380 THREAD=main UPTIME_MS=963735196 MESSAGE=uptimeMs=963735195 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458012697 PID=18380 THREAD=main UPTIME_MS=963735197 MESSAGE=uptimeMs=963735196 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458012698 PID=18380 THREAD=main UPTIME_MS=963735198 MESSAGE=uptimeMs=963735197 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458012736 PID=18380 THREAD=main UPTIME_MS=963735236 MESSAGE=uptimeMs=963735233 event=player_playback_state=2
+UTC_MS=1793458012738 PID=18380 THREAD=main UPTIME_MS=963735238 MESSAGE=uptimeMs=963735236 event=player_is_loading=false
+UTC_MS=1793458012741 PID=18380 THREAD=main UPTIME_MS=963735241 MESSAGE=uptimeMs=963735239 event=player_state_position_us=31661
+UTC_MS=1793458012742 PID=18380 THREAD=main UPTIME_MS=963735242 MESSAGE=uptimeMs=963735241 event=player_duration_us=6717127
+UTC_MS=1793458012744 PID=18380 THREAD=main UPTIME_MS=963735244 MESSAGE=uptimeMs=963735243 event=player_play_when_ready=false
+UTC_MS=1793458012746 PID=18380 THREAD=main UPTIME_MS=963735246 MESSAGE=uptimeMs=963735244 event=player_loading_spinner_visible=true
+UTC_MS=1793458012749 PID=18380 THREAD=main UPTIME_MS=963735249 MESSAGE=uptimeMs=963735247 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458012751 PID=18380 THREAD=main UPTIME_MS=963735251 MESSAGE=uptimeMs=963735249 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=1 ready=false ended=false
+UTC_MS=1793458012752 PID=18380 THREAD=main UPTIME_MS=963735252 MESSAGE=uptimeMs=963735251 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=1 ready=false ended=true
+UTC_MS=1793458012753 PID=18380 THREAD=main UPTIME_MS=963735253 MESSAGE=uptimeMs=963735252 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458012754 PID=18380 THREAD=main UPTIME_MS=963735254 MESSAGE=uptimeMs=963735253 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458012755 PID=18380 THREAD=main UPTIME_MS=963735255 MESSAGE=uptimeMs=963735254 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458012812 PID=18380 THREAD=main UPTIME_MS=963735312 MESSAGE=uptimeMs=963735309 event=player_playback_state=3
+UTC_MS=1793458012814 PID=18380 THREAD=main UPTIME_MS=963735314 MESSAGE=uptimeMs=963735312 event=player_is_loading=false
+UTC_MS=1793458012815 PID=18380 THREAD=main UPTIME_MS=963735315 MESSAGE=uptimeMs=963735314 event=player_state_position_us=31661
+UTC_MS=1793458012816 PID=18380 THREAD=main UPTIME_MS=963735316 MESSAGE=uptimeMs=963735315 event=player_duration_us=6717127
+UTC_MS=1793458012817 PID=18380 THREAD=main UPTIME_MS=963735317 MESSAGE=uptimeMs=963735316 event=player_play_when_ready=false
+UTC_MS=1793458012818 PID=18380 THREAD=main UPTIME_MS=963735318 MESSAGE=uptimeMs=963735318 event=player_loading_spinner_visible=false
+UTC_MS=1793458012820 PID=18380 THREAD=main UPTIME_MS=963735320 MESSAGE=uptimeMs=963735319 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458012821 PID=18380 THREAD=main UPTIME_MS=963735321 MESSAGE=uptimeMs=963735320 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=1 ready=false ended=true
+UTC_MS=1793458012822 PID=18380 THREAD=main UPTIME_MS=963735322 MESSAGE=uptimeMs=963735321 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=1 ready=false ended=true
+UTC_MS=1793458012823 PID=18380 THREAD=main UPTIME_MS=963735323 MESSAGE=uptimeMs=963735322 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458012824 PID=18380 THREAD=main UPTIME_MS=963735324 MESSAGE=uptimeMs=963735323 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458012825 PID=18380 THREAD=main UPTIME_MS=963735325 MESSAGE=uptimeMs=963735324 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458012902 PID=18380 THREAD=main UPTIME_MS=963735402 MESSAGE=uptimeMs=963735400 event=player_playback_state=2
+UTC_MS=1793458012904 PID=18380 THREAD=main UPTIME_MS=963735404 MESSAGE=uptimeMs=963735402 event=player_is_loading=false
+UTC_MS=1793458012905 PID=18380 THREAD=main UPTIME_MS=963735405 MESSAGE=uptimeMs=963735404 event=player_state_position_us=41661
+UTC_MS=1793458012908 PID=18380 THREAD=main UPTIME_MS=963735408 MESSAGE=uptimeMs=963735406 event=player_duration_us=6717127
+UTC_MS=1793458012909 PID=18380 THREAD=main UPTIME_MS=963735409 MESSAGE=uptimeMs=963735408 event=player_play_when_ready=false
+UTC_MS=1793458012910 PID=18380 THREAD=main UPTIME_MS=963735410 MESSAGE=uptimeMs=963735409 event=player_loading_spinner_visible=true
+UTC_MS=1793458012912 PID=18380 THREAD=main UPTIME_MS=963735412 MESSAGE=uptimeMs=963735411 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458012913 PID=18380 THREAD=main UPTIME_MS=963735413 MESSAGE=uptimeMs=963735412 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=1 ready=false ended=false
+UTC_MS=1793458012915 PID=18380 THREAD=main UPTIME_MS=963735415 MESSAGE=uptimeMs=963735414 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=1 ready=false ended=true
+UTC_MS=1793458012919 PID=18380 THREAD=main UPTIME_MS=963735419 MESSAGE=uptimeMs=963735416 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458012920 PID=18380 THREAD=main UPTIME_MS=963735420 MESSAGE=uptimeMs=963735419 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458012921 PID=18380 THREAD=main UPTIME_MS=963735421 MESSAGE=uptimeMs=963735420 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458012948 PID=18380 THREAD=main UPTIME_MS=963735448 MESSAGE=uptimeMs=963735446 event=player_playback_state=3
+UTC_MS=1793458012949 PID=18380 THREAD=main UPTIME_MS=963735449 MESSAGE=uptimeMs=963735448 event=player_is_loading=false
+UTC_MS=1793458012951 PID=18380 THREAD=main UPTIME_MS=963735451 MESSAGE=uptimeMs=963735450 event=player_state_position_us=41661
+UTC_MS=1793458012952 PID=18380 THREAD=main UPTIME_MS=963735452 MESSAGE=uptimeMs=963735451 event=player_duration_us=6717127
+UTC_MS=1793458012953 PID=18380 THREAD=main UPTIME_MS=963735453 MESSAGE=uptimeMs=963735452 event=player_play_when_ready=false
+UTC_MS=1793458012954 PID=18380 THREAD=main UPTIME_MS=963735454 MESSAGE=uptimeMs=963735453 event=player_loading_spinner_visible=false
+UTC_MS=1793458012957 PID=18380 THREAD=main UPTIME_MS=963735457 MESSAGE=uptimeMs=963735455 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458012958 PID=18380 THREAD=main UPTIME_MS=963735458 MESSAGE=uptimeMs=963735457 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=1 ready=false ended=true
+UTC_MS=1793458012959 PID=18380 THREAD=main UPTIME_MS=963735459 MESSAGE=uptimeMs=963735458 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=1 ready=false ended=true
+UTC_MS=1793458012960 PID=18380 THREAD=main UPTIME_MS=963735460 MESSAGE=uptimeMs=963735459 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458012961 PID=18380 THREAD=main UPTIME_MS=963735461 MESSAGE=uptimeMs=963735460 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458012963 PID=18380 THREAD=main UPTIME_MS=963735463 MESSAGE=uptimeMs=963735462 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458013066 PID=18380 THREAD=main UPTIME_MS=963735566 MESSAGE=uptimeMs=963735563 event=player_playback_state=2
+UTC_MS=1793458013068 PID=18380 THREAD=main UPTIME_MS=963735568 MESSAGE=uptimeMs=963735567 event=player_is_loading=false
+UTC_MS=1793458013071 PID=18380 THREAD=main UPTIME_MS=963735571 MESSAGE=uptimeMs=963735569 event=player_state_position_us=51661
+UTC_MS=1793458013073 PID=18380 THREAD=main UPTIME_MS=963735573 MESSAGE=uptimeMs=963735571 event=player_duration_us=6717127
+UTC_MS=1793458013076 PID=18380 THREAD=main UPTIME_MS=963735576 MESSAGE=uptimeMs=963735573 event=player_play_when_ready=false
+UTC_MS=1793458013080 PID=18380 THREAD=main UPTIME_MS=963735580 MESSAGE=uptimeMs=963735576 event=player_loading_spinner_visible=true
+UTC_MS=1793458013082 PID=18380 THREAD=main UPTIME_MS=963735582 MESSAGE=uptimeMs=963735581 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458013084 PID=18380 THREAD=main UPTIME_MS=963735584 MESSAGE=uptimeMs=963735582 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=1 ready=false ended=false
+UTC_MS=1793458013086 PID=18380 THREAD=main UPTIME_MS=963735585 MESSAGE=uptimeMs=963735584 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=1 ready=false ended=true
+UTC_MS=1793458013088 PID=18380 THREAD=main UPTIME_MS=963735588 MESSAGE=uptimeMs=963735586 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458013090 PID=18380 THREAD=main UPTIME_MS=963735590 MESSAGE=uptimeMs=963735589 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458013091 PID=18380 THREAD=main UPTIME_MS=963735591 MESSAGE=uptimeMs=963735590 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458013315 PID=18380 THREAD=main UPTIME_MS=963735814 MESSAGE=uptimeMs=963735812 event=player_playback_state=3
+UTC_MS=1793458013316 PID=18380 THREAD=main UPTIME_MS=963735816 MESSAGE=uptimeMs=963735815 event=player_is_loading=false
+UTC_MS=1793458013317 PID=18380 THREAD=main UPTIME_MS=963735817 MESSAGE=uptimeMs=963735816 event=player_state_position_us=61661
+UTC_MS=1793458013318 PID=18380 THREAD=main UPTIME_MS=963735818 MESSAGE=uptimeMs=963735817 event=player_duration_us=6717127
+UTC_MS=1793458013320 PID=18380 THREAD=main UPTIME_MS=963735820 MESSAGE=uptimeMs=963735819 event=player_play_when_ready=false
+UTC_MS=1793458013321 PID=18380 THREAD=main UPTIME_MS=963735821 MESSAGE=uptimeMs=963735820 event=player_loading_spinner_visible=false
+UTC_MS=1793458013323 PID=18380 THREAD=main UPTIME_MS=963735823 MESSAGE=uptimeMs=963735822 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458013324 PID=18380 THREAD=main UPTIME_MS=963735824 MESSAGE=uptimeMs=963735823 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=1 ready=false ended=true
+UTC_MS=1793458013325 PID=18380 THREAD=main UPTIME_MS=963735825 MESSAGE=uptimeMs=963735824 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=1 ready=false ended=true
+UTC_MS=1793458013326 PID=18380 THREAD=main UPTIME_MS=963735826 MESSAGE=uptimeMs=963735825 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458013327 PID=18380 THREAD=main UPTIME_MS=963735827 MESSAGE=uptimeMs=963735826 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458013328 PID=18380 THREAD=main UPTIME_MS=963735828 MESSAGE=uptimeMs=963735827 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458013794 PID=18380 THREAD=main UPTIME_MS=963736294 MESSAGE=uptimeMs=963736293 event=player_playback_state=2
+UTC_MS=1793458013796 PID=18380 THREAD=main UPTIME_MS=963736296 MESSAGE=uptimeMs=963736295 event=player_is_loading=false
+UTC_MS=1793458013797 PID=18380 THREAD=main UPTIME_MS=963736297 MESSAGE=uptimeMs=963736296 event=player_state_position_us=71661
+UTC_MS=1793458013799 PID=18380 THREAD=main UPTIME_MS=963736299 MESSAGE=uptimeMs=963736298 event=player_duration_us=6717127
+UTC_MS=1793458013801 PID=18380 THREAD=main UPTIME_MS=963736301 MESSAGE=uptimeMs=963736300 event=player_play_when_ready=false
+UTC_MS=1793458013802 PID=18380 THREAD=main UPTIME_MS=963736302 MESSAGE=uptimeMs=963736301 event=player_loading_spinner_visible=true
+UTC_MS=1793458013803 PID=18380 THREAD=main UPTIME_MS=963736303 MESSAGE=uptimeMs=963736302 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458013805 PID=18380 THREAD=main UPTIME_MS=963736305 MESSAGE=uptimeMs=963736303 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=1 ready=false ended=false
+UTC_MS=1793458013807 PID=18380 THREAD=main UPTIME_MS=963736307 MESSAGE=uptimeMs=963736305 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=1 ready=false ended=true
+UTC_MS=1793458013812 PID=18380 THREAD=main UPTIME_MS=963736312 MESSAGE=uptimeMs=963736307 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458013814 PID=18380 THREAD=main UPTIME_MS=963736314 MESSAGE=uptimeMs=963736312 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458013815 PID=18380 THREAD=main UPTIME_MS=963736315 MESSAGE=uptimeMs=963736314 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458013866 PID=18380 THREAD=main UPTIME_MS=963736366 MESSAGE=uptimeMs=963736364 event=player_playback_state=3
+UTC_MS=1793458013868 PID=18380 THREAD=main UPTIME_MS=963736368 MESSAGE=uptimeMs=963736367 event=player_is_loading=false
+UTC_MS=1793458013869 PID=18380 THREAD=main UPTIME_MS=963736369 MESSAGE=uptimeMs=963736368 event=player_state_position_us=71661
+UTC_MS=1793458013870 PID=18380 THREAD=main UPTIME_MS=963736370 MESSAGE=uptimeMs=963736369 event=player_duration_us=6717127
+UTC_MS=1793458013871 PID=18380 THREAD=main UPTIME_MS=963736371 MESSAGE=uptimeMs=963736370 event=player_play_when_ready=false
+UTC_MS=1793458013873 PID=18380 THREAD=main UPTIME_MS=963736372 MESSAGE=uptimeMs=963736371 event=player_loading_spinner_visible=false
+UTC_MS=1793458013875 PID=18380 THREAD=main UPTIME_MS=963736375 MESSAGE=uptimeMs=963736374 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458013876 PID=18380 THREAD=main UPTIME_MS=963736376 MESSAGE=uptimeMs=963736375 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=1 ready=false ended=true
+UTC_MS=1793458013877 PID=18380 THREAD=main UPTIME_MS=963736377 MESSAGE=uptimeMs=963736376 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=1 ready=false ended=true
+UTC_MS=1793458013878 PID=18380 THREAD=main UPTIME_MS=963736378 MESSAGE=uptimeMs=963736377 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458013879 PID=18380 THREAD=main UPTIME_MS=963736379 MESSAGE=uptimeMs=963736378 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458013880 PID=18380 THREAD=main UPTIME_MS=963736380 MESSAGE=uptimeMs=963736379 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458013947 PID=18380 THREAD=main UPTIME_MS=963736447 MESSAGE=uptimeMs=963736445 event=player_playback_state=2
+UTC_MS=1793458013950 PID=18380 THREAD=main UPTIME_MS=963736450 MESSAGE=uptimeMs=963736447 event=player_is_loading=false
+UTC_MS=1793458013952 PID=18380 THREAD=main UPTIME_MS=963736452 MESSAGE=uptimeMs=963736450 event=player_state_position_us=81661
+UTC_MS=1793458013954 PID=18380 THREAD=main UPTIME_MS=963736454 MESSAGE=uptimeMs=963736452 event=player_duration_us=6717127
+UTC_MS=1793458013958 PID=18380 THREAD=main UPTIME_MS=963736458 MESSAGE=uptimeMs=963736455 event=player_play_when_ready=false
+UTC_MS=1793458013960 PID=18380 THREAD=main UPTIME_MS=963736460 MESSAGE=uptimeMs=963736458 event=player_loading_spinner_visible=true
+UTC_MS=1793458013961 PID=18380 THREAD=main UPTIME_MS=963736461 MESSAGE=uptimeMs=963736460 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458013962 PID=18380 THREAD=main UPTIME_MS=963736462 MESSAGE=uptimeMs=963736461 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=1 ready=false ended=false
+UTC_MS=1793458013963 PID=18380 THREAD=main UPTIME_MS=963736463 MESSAGE=uptimeMs=963736462 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=1 ready=false ended=false
+UTC_MS=1793458013964 PID=18380 THREAD=main UPTIME_MS=963736464 MESSAGE=uptimeMs=963736463 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458013965 PID=18380 THREAD=main UPTIME_MS=963736465 MESSAGE=uptimeMs=963736464 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458013966 PID=18380 THREAD=main UPTIME_MS=963736466 MESSAGE=uptimeMs=963736465 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458014988 PID=18380 THREAD=main UPTIME_MS=963737488 MESSAGE=uptimeMs=963737486 event=player_playback_state=3
+UTC_MS=1793458014990 PID=18380 THREAD=main UPTIME_MS=963737490 MESSAGE=uptimeMs=963737489 event=player_is_loading=false
+UTC_MS=1793458014992 PID=18380 THREAD=main UPTIME_MS=963737492 MESSAGE=uptimeMs=963737490 event=player_state_position_us=81661
+UTC_MS=1793458014993 PID=18380 THREAD=main UPTIME_MS=963737493 MESSAGE=uptimeMs=963737492 event=player_duration_us=6717127
+UTC_MS=1793458014995 PID=18380 THREAD=main UPTIME_MS=963737495 MESSAGE=uptimeMs=963737494 event=player_play_when_ready=false
+UTC_MS=1793458014997 PID=18380 THREAD=main UPTIME_MS=963737497 MESSAGE=uptimeMs=963737496 event=player_loading_spinner_visible=false
+UTC_MS=1793458015000 PID=18380 THREAD=main UPTIME_MS=963737500 MESSAGE=uptimeMs=963737499 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458015001 PID=18380 THREAD=main UPTIME_MS=963737501 MESSAGE=uptimeMs=963737500 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=1 ready=false ended=true
+UTC_MS=1793458015003 PID=18380 THREAD=main UPTIME_MS=963737503 MESSAGE=uptimeMs=963737501 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=1 ready=false ended=true
+UTC_MS=1793458015003 PID=18380 THREAD=main UPTIME_MS=963737503 MESSAGE=uptimeMs=963737503 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458015004 PID=18380 THREAD=main UPTIME_MS=963737504 MESSAGE=uptimeMs=963737504 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458015005 PID=18380 THREAD=main UPTIME_MS=963737505 MESSAGE=uptimeMs=963737505 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458015483 PID=18380 THREAD=main UPTIME_MS=963737983 MESSAGE=uptimeMs=963737981 event=player_state_update_enter
+UTC_MS=1793458015485 PID=18380 THREAD=main UPTIME_MS=963737985 MESSAGE=uptimeMs=963737984 event=player_state_update_playing_flag=true
+UTC_MS=1793458015486 PID=18380 THREAD=main UPTIME_MS=963737986 MESSAGE=uptimeMs=963737985 event=player_state_update_reason=1
+UTC_MS=1793458015488 PID=18380 THREAD=main UPTIME_MS=963737988 MESSAGE=uptimeMs=963737987 event=player_state_update_extra=1
+UTC_MS=1793458015489 PID=18380 THREAD=main UPTIME_MS=963737989 MESSAGE=uptimeMs=963737988 event=player_state_update_playback_state=3
+UTC_MS=1793458015490 PID=18380 THREAD=main UPTIME_MS=963737990 MESSAGE=uptimeMs=963737989 event=player_state_update_position_us=81661
+UTC_MS=1793458015493 PID=18380 THREAD=main UPTIME_MS=963737993 MESSAGE=uptimeMs=963737991 event=player_playback_state=3
+UTC_MS=1793458015494 PID=18380 THREAD=main UPTIME_MS=963737994 MESSAGE=uptimeMs=963737993 event=player_is_loading=false
+UTC_MS=1793458015496 PID=18380 THREAD=main UPTIME_MS=963737996 MESSAGE=uptimeMs=963737995 event=player_state_position_us=81661
+UTC_MS=1793458015498 PID=18380 THREAD=main UPTIME_MS=963737998 MESSAGE=uptimeMs=963737996 event=player_duration_us=6717127
+UTC_MS=1793458015499 PID=18380 THREAD=main UPTIME_MS=963737999 MESSAGE=uptimeMs=963737998 event=player_play_when_ready=true
+UTC_MS=1793458015501 PID=18380 THREAD=main UPTIME_MS=963738001 MESSAGE=uptimeMs=963737999 event=player_loading_spinner_visible=false
+UTC_MS=1793458015505 PID=18380 THREAD=main UPTIME_MS=963738005 MESSAGE=uptimeMs=963738003 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458015506 PID=18380 THREAD=main UPTIME_MS=963738006 MESSAGE=uptimeMs=963738005 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=2 ready=false ended=true
+UTC_MS=1793458015535 PID=18380 THREAD=main UPTIME_MS=963738035 MESSAGE=uptimeMs=963738033 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=2 ready=false ended=true
+UTC_MS=1793458015537 PID=18380 THREAD=main UPTIME_MS=963738037 MESSAGE=uptimeMs=963738035 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458015539 PID=18380 THREAD=main UPTIME_MS=963738039 MESSAGE=uptimeMs=963738037 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458015543 PID=18380 THREAD=main UPTIME_MS=963738043 MESSAGE=uptimeMs=963738041 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458019180 PID=18380 THREAD=main UPTIME_MS=963741680 MESSAGE=uptimeMs=963741678 event=player_playback_state=2
+UTC_MS=1793458019184 PID=18380 THREAD=main UPTIME_MS=963741684 MESSAGE=uptimeMs=963741681 event=player_is_loading=false
+UTC_MS=1793458019186 PID=18380 THREAD=main UPTIME_MS=963741686 MESSAGE=uptimeMs=963741684 event=player_state_position_us=2313159
+UTC_MS=1793458019187 PID=18380 THREAD=main UPTIME_MS=963741687 MESSAGE=uptimeMs=963741686 event=player_duration_us=6717127
+UTC_MS=1793458019189 PID=18380 THREAD=main UPTIME_MS=963741689 MESSAGE=uptimeMs=963741687 event=player_play_when_ready=true
+UTC_MS=1793458019193 PID=18380 THREAD=main UPTIME_MS=963741693 MESSAGE=uptimeMs=963741689 event=player_loading_spinner_visible=true
+UTC_MS=1793458019195 PID=18380 THREAD=main UPTIME_MS=963741695 MESSAGE=uptimeMs=963741694 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458019196 PID=18380 THREAD=main UPTIME_MS=963741696 MESSAGE=uptimeMs=963741695 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=1 ready=false ended=true
+UTC_MS=1793458019198 PID=18380 THREAD=main UPTIME_MS=963741698 MESSAGE=uptimeMs=963741696 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=1 ready=false ended=true
+UTC_MS=1793458019201 PID=18380 THREAD=main UPTIME_MS=963741701 MESSAGE=uptimeMs=963741698 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458019203 PID=18380 THREAD=main UPTIME_MS=963741703 MESSAGE=uptimeMs=963741701 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458019204 PID=18380 THREAD=main UPTIME_MS=963741704 MESSAGE=uptimeMs=963741703 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458020033 PID=18380 THREAD=main UPTIME_MS=963742533 MESSAGE=uptimeMs=963742528 event=player_playback_state=3
+UTC_MS=1793458020035 PID=18380 THREAD=main UPTIME_MS=963742535 MESSAGE=uptimeMs=963742533 event=player_is_loading=false
+UTC_MS=1793458020037 PID=18380 THREAD=main UPTIME_MS=963742537 MESSAGE=uptimeMs=963742536 event=player_state_position_us=2313173
+UTC_MS=1793458020038 PID=18380 THREAD=main UPTIME_MS=963742538 MESSAGE=uptimeMs=963742537 event=player_duration_us=6717127
+UTC_MS=1793458020039 PID=18380 THREAD=main UPTIME_MS=963742539 MESSAGE=uptimeMs=963742538 event=player_play_when_ready=true
+UTC_MS=1793458020040 PID=18380 THREAD=main UPTIME_MS=963742540 MESSAGE=uptimeMs=963742539 event=player_loading_spinner_visible=false
+UTC_MS=1793458020044 PID=18380 THREAD=main UPTIME_MS=963742544 MESSAGE=uptimeMs=963742542 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458020045 PID=18380 THREAD=main UPTIME_MS=963742545 MESSAGE=uptimeMs=963742544 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=2 ready=false ended=true
+UTC_MS=1793458020046 PID=18380 THREAD=main UPTIME_MS=963742546 MESSAGE=uptimeMs=963742545 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=2 ready=false ended=true
+UTC_MS=1793458020047 PID=18380 THREAD=main UPTIME_MS=963742547 MESSAGE=uptimeMs=963742546 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458020048 PID=18380 THREAD=main UPTIME_MS=963742548 MESSAGE=uptimeMs=963742547 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458020049 PID=18380 THREAD=main UPTIME_MS=963742549 MESSAGE=uptimeMs=963742549 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458021915 PID=18380 THREAD=main UPTIME_MS=963744415 MESSAGE=uptimeMs=963744412 event=player_playback_state=2
+UTC_MS=1793458021922 PID=18380 THREAD=main UPTIME_MS=963744422 MESSAGE=uptimeMs=963744417 event=player_is_loading=false
+UTC_MS=1793458021935 PID=18380 THREAD=main UPTIME_MS=963744435 MESSAGE=uptimeMs=963744422 event=player_state_position_us=2305746
+UTC_MS=1793458021937 PID=18380 THREAD=main UPTIME_MS=963744437 MESSAGE=uptimeMs=963744436 event=player_duration_us=6717127
+UTC_MS=1793458021939 PID=18380 THREAD=main UPTIME_MS=963744439 MESSAGE=uptimeMs=963744437 event=player_play_when_ready=true
+UTC_MS=1793458021941 PID=18380 THREAD=main UPTIME_MS=963744441 MESSAGE=uptimeMs=963744439 event=player_loading_spinner_visible=true
+UTC_MS=1793458021945 PID=18380 THREAD=main UPTIME_MS=963744445 MESSAGE=uptimeMs=963744442 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458021947 PID=18380 THREAD=main UPTIME_MS=963744447 MESSAGE=uptimeMs=963744446 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=1 ready=false ended=false
+UTC_MS=1793458021949 PID=18380 THREAD=main UPTIME_MS=963744449 MESSAGE=uptimeMs=963744447 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=1 ready=false ended=false
+UTC_MS=1793458021951 PID=18380 THREAD=main UPTIME_MS=963744451 MESSAGE=uptimeMs=963744449 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458021953 PID=18380 THREAD=main UPTIME_MS=963744453 MESSAGE=uptimeMs=963744452 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458021956 PID=18380 THREAD=main UPTIME_MS=963744456 MESSAGE=uptimeMs=963744454 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458022366 PID=18380 THREAD=main UPTIME_MS=963744866 MESSAGE=uptimeMs=963744864 event=surface_detach_enter
+UTC_MS=1793458022367 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963744867 MESSAGE=uptimeMs=963744866 event=renderer_surface_message_type=1
+UTC_MS=1793458022368 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963744868 MESSAGE=uptimeMs=963744867 event=renderer_output_message_payload_class=null
+UTC_MS=1793458022369 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963744869 MESSAGE=uptimeMs=963744868 event=renderer_surface_snapshot stage=output_message_surface_before surfacePresent=true surfaceId=444e320 surfaceValid=true configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458022370 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963744870 MESSAGE=uptimeMs=963744869 event=renderer_surface_snapshot stage=output_message_surface_after surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458022370 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963744870 MESSAGE=uptimeMs=963744870 event=renderer_surface_attached=false
+UTC_MS=1793458022383 PID=18380 THREAD=main UPTIME_MS=963744883 MESSAGE=uptimeMs=963744881 event=surface_detach_complete
+UTC_MS=1793458022385 PID=18380 THREAD=main UPTIME_MS=963744885 MESSAGE=uptimeMs=963744883 event=player_state_update_enter
+UTC_MS=1793458022386 PID=18380 THREAD=main UPTIME_MS=963744886 MESSAGE=uptimeMs=963744885 event=player_state_update_playing_flag=false
+UTC_MS=1793458022388 PID=18380 THREAD=main UPTIME_MS=963744888 MESSAGE=uptimeMs=963744886 event=player_state_update_reason=-1
+UTC_MS=1793458022390 PID=18380 THREAD=main UPTIME_MS=963744890 MESSAGE=uptimeMs=963744888 event=player_state_update_extra=1
+UTC_MS=1793458022395 PID=18380 THREAD=main UPTIME_MS=963744895 MESSAGE=uptimeMs=963744892 event=player_state_update_playback_state=2
+UTC_MS=1793458022397 PID=18380 THREAD=main UPTIME_MS=963744897 MESSAGE=uptimeMs=963744895 event=player_state_update_position_us=2305746
+UTC_MS=1793458022407 PID=18380 THREAD=main UPTIME_MS=963744907 MESSAGE=uptimeMs=963744906 event=activity_on_pause
+UTC_MS=1793458022492 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963744992 MESSAGE=uptimeMs=963744989 event=renderer_lifecycle_E_reset_enter
+UTC_MS=1793458022494 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963744994 MESSAGE=uptimeMs=963744992 event=renderer_surface_snapshot stage=E_before_cleanup surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458022506 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963745006 MESSAGE=uptimeMs=963744996 event=renderer_lifecycle_B_cleanup_enter
+UTC_MS=1793458022509 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963745009 MESSAGE=uptimeMs=963745006 event=renderer_surface_snapshot stage=B_before_cleanup surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458022514 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963745014 MESSAGE=uptimeMs=963745009 event=ffmpeg_decoder_release
+UTC_MS=1793458022515 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963745015 MESSAGE=uptimeMs=963745014 event=renderer_surface_retained_by_B_cleanup
+UTC_MS=1793458022517 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963745017 MESSAGE=uptimeMs=963745015 event=renderer_lifecycle_B_cleanup_complete
+UTC_MS=1793458022524 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963745024 MESSAGE=uptimeMs=963745021 event=renderer_surface_snapshot stage=B_cleanup_complete surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458023492 PID=18380 THREAD=main UPTIME_MS=963745992 MESSAGE=uptimeMs=963745986 event=activity_on_stop
+UTC_MS=1793458023501 PID=18380 THREAD=main UPTIME_MS=963746001 MESSAGE=uptimeMs=963745994 event=player_state_update_enter
+UTC_MS=1793458023503 PID=18380 THREAD=main UPTIME_MS=963746003 MESSAGE=uptimeMs=963746002 event=player_state_update_playing_flag=false
+UTC_MS=1793458023521 PID=18380 THREAD=main UPTIME_MS=963746021 MESSAGE=uptimeMs=963746005 event=player_state_update_reason=-1
+UTC_MS=1793458023531 PID=18380 THREAD=main UPTIME_MS=963746031 MESSAGE=uptimeMs=963746021 event=player_state_update_extra=1
+UTC_MS=1793458023537 PID=18380 THREAD=main UPTIME_MS=963746037 MESSAGE=uptimeMs=963746033 event=player_state_update_playback_state=1
+UTC_MS=1793458023542 PID=18380 THREAD=main UPTIME_MS=963746042 MESSAGE=uptimeMs=963746037 event=player_state_update_position_us=2305749
+UTC_MS=1793458023550 PID=18380 THREAD=main UPTIME_MS=963746050 MESSAGE=uptimeMs=963746047 event=activity_on_destroy
+UTC_MS=1793458047685 PID=18380 THREAD=main UPTIME_MS=963770185 MESSAGE=uptimeMs=963770182 event=player_state_update_enter
+UTC_MS=1793458047687 PID=18380 THREAD=main UPTIME_MS=963770187 MESSAGE=uptimeMs=963770185 event=player_state_update_playing_flag=true
+UTC_MS=1793458047689 PID=18380 THREAD=main UPTIME_MS=963770189 MESSAGE=uptimeMs=963770187 event=player_state_update_reason=1
+UTC_MS=1793458047691 PID=18380 THREAD=main UPTIME_MS=963770191 MESSAGE=uptimeMs=963770189 event=player_state_update_extra=1
+UTC_MS=1793458047693 PID=18380 THREAD=main UPTIME_MS=963770193 MESSAGE=uptimeMs=963770192 event=player_state_update_playback_state=1
+UTC_MS=1793458047695 PID=18380 THREAD=main UPTIME_MS=963770195 MESSAGE=uptimeMs=963770193 event=player_state_update_position_us=2305749
+UTC_MS=1793458047697 PID=18380 THREAD=main UPTIME_MS=963770197 MESSAGE=uptimeMs=963770195 event=player_playback_state=1
+UTC_MS=1793458047700 PID=18380 THREAD=main UPTIME_MS=963770200 MESSAGE=uptimeMs=963770197 event=player_is_loading=false
+UTC_MS=1793458047702 PID=18380 THREAD=main UPTIME_MS=963770202 MESSAGE=uptimeMs=963770200 event=player_state_position_us=2305749
+UTC_MS=1793458047704 PID=18380 THREAD=main UPTIME_MS=963770204 MESSAGE=uptimeMs=963770202 event=player_duration_us=6717127
+UTC_MS=1793458047706 PID=18380 THREAD=main UPTIME_MS=963770206 MESSAGE=uptimeMs=963770205 event=player_play_when_ready=true
+UTC_MS=1793458047708 PID=18380 THREAD=main UPTIME_MS=963770208 MESSAGE=uptimeMs=963770207 event=player_loading_spinner_visible=false
+UTC_MS=1793458047710 PID=18380 THREAD=main UPTIME_MS=963770210 MESSAGE=uptimeMs=963770208 event=player_state_refresh_g_enter
+UTC_MS=1793458047713 PID=18380 THREAD=main UPTIME_MS=963770213 MESSAGE=uptimeMs=963770212 event=player_state_update_enter
+UTC_MS=1793458047716 PID=18380 THREAD=main UPTIME_MS=963770216 MESSAGE=uptimeMs=963770213 event=player_state_update_playing_flag=true
+UTC_MS=1793458047717 PID=18380 THREAD=main UPTIME_MS=963770217 MESSAGE=uptimeMs=963770216 event=player_state_update_reason=1
+UTC_MS=1793458047718 PID=18380 THREAD=main UPTIME_MS=963770218 MESSAGE=uptimeMs=963770217 event=player_state_update_extra=1
+UTC_MS=1793458047721 PID=18380 THREAD=main UPTIME_MS=963770221 MESSAGE=uptimeMs=963770219 event=player_state_update_playback_state=1
+UTC_MS=1793458047724 PID=18380 THREAD=main UPTIME_MS=963770224 MESSAGE=uptimeMs=963770221 event=player_state_update_position_us=2305749
+UTC_MS=1793458047726 PID=18380 THREAD=main UPTIME_MS=963770226 MESSAGE=uptimeMs=963770224 event=player_state_refresh_g_complete
+UTC_MS=1793458047729 PID=18380 THREAD=main UPTIME_MS=963770229 MESSAGE=uptimeMs=963770227 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458047731 PID=18380 THREAD=main UPTIME_MS=963770231 MESSAGE=uptimeMs=963770229 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=0 ready=false ended=false
+UTC_MS=1793458047732 PID=18380 THREAD=main UPTIME_MS=963770232 MESSAGE=uptimeMs=963770231 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=0 ready=false ended=false
+UTC_MS=1793458047734 PID=18380 THREAD=main UPTIME_MS=963770234 MESSAGE=uptimeMs=963770233 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458047735 PID=18380 THREAD=main UPTIME_MS=963770235 MESSAGE=uptimeMs=963770234 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458047737 PID=18380 THREAD=main UPTIME_MS=963770237 MESSAGE=uptimeMs=963770236 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458047741 PID=18380 THREAD=main UPTIME_MS=963770241 MESSAGE=uptimeMs=963770237 event=player_playback_state=2
+UTC_MS=1793458047743 PID=18380 THREAD=main UPTIME_MS=963770243 MESSAGE=uptimeMs=963770241 event=player_is_loading=false
+UTC_MS=1793458047746 PID=18380 THREAD=main UPTIME_MS=963770246 MESSAGE=uptimeMs=963770243 event=player_state_position_us=2305749
+UTC_MS=1793458047749 PID=18380 THREAD=main UPTIME_MS=963770249 MESSAGE=uptimeMs=963770247 event=player_duration_us=6717127
+UTC_MS=1793458047754 PID=18380 THREAD=main UPTIME_MS=963770254 MESSAGE=uptimeMs=963770250 event=player_play_when_ready=true
+UTC_MS=1793458047757 PID=18380 THREAD=main UPTIME_MS=963770257 MESSAGE=uptimeMs=963770255 event=player_loading_spinner_visible=true
+UTC_MS=1793458047759 PID=18380 THREAD=main UPTIME_MS=963770259 MESSAGE=uptimeMs=963770258 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458047762 PID=18380 THREAD=main UPTIME_MS=963770262 MESSAGE=uptimeMs=963770259 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=0 ready=false ended=false
+UTC_MS=1793458047766 PID=18380 THREAD=main UPTIME_MS=963770266 MESSAGE=uptimeMs=963770263 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=0 ready=false ended=false
+UTC_MS=1793458047768 PID=18380 THREAD=main UPTIME_MS=963770268 MESSAGE=uptimeMs=963770266 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458047771 PID=18380 THREAD=main UPTIME_MS=963770271 MESSAGE=uptimeMs=963770269 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458047773 PID=18380 THREAD=main UPTIME_MS=963770273 MESSAGE=uptimeMs=963770271 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458047786 PID=18380 THREAD=main UPTIME_MS=963770286 MESSAGE=uptimeMs=963770284 event=video_model_at_quality_switch=VideoModel(nb=5695, enTitle=Naruto, arTitle=ناروتو, stars=8, arContent=ٺحڪي اڷقصة عن حياة صبي ڪان يمقٺهُ سڪّان أهاڷي قرية ڪۈنۈها ، سبب ڪراهيٺهم ڷه ڷا يعۈد ڷشخصهِ بڷ
+ڷما بداخڷه! فمنذ أن ڪان نارۈٺۈ رضيعاً، قام اڷهۈڪاج اڷرابع "أقۈى اڷنينجا" بمقاٺڷة اڷڪيۈبي ۈهۈ ثعڷب قۈي بٺسعة أذيڷ
+انٺهٺ اڷمعرڪة بقيام اڷهۈڪاج بخٺماڷثعڷب داخڷ اڷطفڷ اڷرضيع نارۈٺۈ. عاش نارۈٺۈ حياٺهُ مڪرۈهاً ۈۈحيداً بسبب ٺڷڪ
+اڷحادثة، ڷڪن ذڷڪ جعڷ إرادٺهُ قۈيّة في أن يصبح أقۈى نينجا في ڪۈنۈها، ۈيصبح اڷهۈڪاج اڷجديد ڷها
+ڷڪن طريق اڷهۈڪاج ڷم يڪن سهڷاً، بڷ مڷيئاً باڷمصاعب، اڷأڷم، اڷٺحدياٺ، جميعها يجٺازها نارۈٺۈ
+برفقة أصدقاءه ساسڪي ۈ ساڪۈرا ۈمعڷّمه ڪاڪاشي, enContent=Naruto Uzumaki, a hyperactive and knuckle-headed ninja, lives in Konohagakure, the Hidden Leaf village. Moments prior to his birth, a huge demon known as the Kyuubi, the Nine-tailed Fox, attacked Konohagakure and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the 4th Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto.
+
+Shunned because of the presence of the Kyuubi inside him, Naruto struggles to find his place in the village. He strives to become the Hokage of Konohagakure, and he meets many friends and foes along the way.
+, mDate=2002-10-03, year=2002, kind=2, season=1, imgObjUrl=https://cnth2.shabakaty.cc/vascin-poster-images/3098185E-D26B-4B9E-1A21-97700B88BD4D_poster.jpg, imgMediumThumbObjUrl=https://cnth2.shabakaty.cc/vascin-poster-images/11EFAA85-0E0F-6C73-AB16-48BCEA416DEB_poster_medium_thumb.jpg, filmRating=1, seriesRating=1, episodeNummer=35, rate=0, isSpecial=, itemDate=2016-09-25 00:00:00, duration=1384.62, imdbUrlRef=http://myanimelist.net/anime/20/Naruto, rootSeries=5661, useParentImg=0, showComments=false, episodeFlag=0000, trailer=, isMock=false, parentSkipping=0, downloadCollectionID=5661, imgThumbObjUrl=https://cnth2.shabakaty.cc/vascin-poster-images/741D69AA-4C37-B87A-82EC-EF533914F925_poster_thumb.jpg, skippingDurations=SkippingDurations(start=[], end=[]), arTranslationFilePath=https://cnth2.shabakaty.cc/vascin-translation-files/1B732BCE-2713-B1CA-DE25-2A1CAAABBACA_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796048788&Signature=IxTGHh1C0zsWxK7eCan0O3uLdHk%3D, subtitles=[Subtitle(id=1, name=arabic, type=ar, extention=srt, file=https://cnth2.shabakaty.cc/vascin-translation-files/1B732BCE-2713-B1CA-DE25-2A1CAAABBACA_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796048788&Signature=IxTGHh1C0zsWxK7eCan0O3uLdHk%3D), Subtitle(id=2, name=arabic, type=ar, extention=vtt, file=https://cnth2.shabakaty.cc/vascin-translation-files/1B732BCE-2713-B1CA-DE25-2A1CAAABBACA_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796048788&Signature=NdEkQ6sSZSfRsLf35Gu4M53NLAo%3D)], hasIntroSkipping=true, skippableScenes=[SkippableScene(start=0, end=89904, controlLevel=3)], categories=[Category(enTitle=Animation, arTitle=رسوم متحركة), Category(enTitle=Action, arTitle=اكشن), Category(enTitle=Adventure, arTitle=مغامرة)], videoLikesNumber=1144, videoDisLikesNumber=22, videoLanguages=VideoLanguages(enTitle=English, arTitle=الإنجليزية), videoCommentsNumber=0, videoViewsNumber=0, directorsInfo=[], actorsInfo=[com.shabakaty.downloader.ob4@90b408e, com.shabakaty.downloader.ob4@349f0af, com.shabakaty.downloader.ob4@42afcbc], writersInfo=[], itemOrderList=, listId=, listSortOrder=, castable=true, publishDate=, episodeDesc=الحلقة  35, customArTitle=, customEnTitle=, finished=false, url=, downloadTaskId=0, downloadedTime=0, size=, description=, isAddedToWatchLater=false, status=VideoStatus(liked=false, watched=false, annoying=false, disLiked=false, favorite=false, watchLater=0, videoProgress=0), qualities=[240p, 360p, 480p, 720p], wantedQuality=null, arTranslationFilePathVTT=https://cnth2.shabakaty.cc/vascin-translation-files/1B732BCE-2713-B1CA-DE25-2A1CAAABBACA_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796048788&Signature=NdEkQ6sSZSfRsLf35Gu4M53NLAo%3D, isDownloading=false)
+UTC_MS=1793458047786 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963770286 MESSAGE=uptimeMs=963770284 event=renderer_surface_message_type=1
+UTC_MS=1793458047787 PID=18380 THREAD=main UPTIME_MS=963770287 MESSAGE=uptimeMs=963770287 event=quality_switch_fallback_to_default_quality=240p
+UTC_MS=1793458047789 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963770289 MESSAGE=uptimeMs=963770287 event=renderer_output_message_payload_class=null
+UTC_MS=1793458047790 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963770290 MESSAGE=uptimeMs=963770289 event=renderer_surface_snapshot stage=output_message_surface_before surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458047791 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963770291 MESSAGE=uptimeMs=963770290 event=renderer_surface_snapshot stage=output_message_surface_after surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458047792 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963770292 MESSAGE=uptimeMs=963770291 event=renderer_surface_attached=false
+UTC_MS=1793458047794 PID=18380 THREAD=main UPTIME_MS=963770294 MESSAGE=uptimeMs=963770293 event=quality_switch_target_url=https://cdn.shabakaty.cc/vascin18-mp4/AF4327A5-2C95-EE70-2320-ACC42B24C7F4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793658726&Signature=KQb6fJS2a70iEGAM9YFHRqLI8eY%3D
+UTC_MS=1793458047807 PID=18380 THREAD=main UPTIME_MS=963770307 MESSAGE=uptimeMs=963770305 event=media_item_refresh_request
+UTC_MS=1793458047808 PID=18380 THREAD=main UPTIME_MS=963770308 MESSAGE=uptimeMs=963770307 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458047811 PID=18380 THREAD=main UPTIME_MS=963770311 MESSAGE=uptimeMs=963770309 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=0 ready=false ended=false
+UTC_MS=1793458047813 PID=18380 THREAD=main UPTIME_MS=963770313 MESSAGE=uptimeMs=963770311 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=0 ready=false ended=false
+UTC_MS=1793458047818 PID=18380 THREAD=main UPTIME_MS=963770318 MESSAGE=uptimeMs=963770314 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458047821 PID=18380 THREAD=main UPTIME_MS=963770321 MESSAGE=uptimeMs=963770318 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458047823 PID=18380 THREAD=main UPTIME_MS=963770323 MESSAGE=uptimeMs=963770322 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458047825 PID=18380 THREAD=main UPTIME_MS=963770325 MESSAGE=uptimeMs=963770323 event=refresh_playback_state=2
+UTC_MS=1793458047825 PID=18380 THREAD=main UPTIME_MS=963770325 MESSAGE=uptimeMs=963770325 event=refresh_is_loading=false
+UTC_MS=1793458047826 PID=18380 THREAD=main UPTIME_MS=963770326 MESSAGE=uptimeMs=963770325 event=media_refresh_item_id=
+UTC_MS=1793458047829 PID=18380 THREAD=main UPTIME_MS=963770329 MESSAGE=uptimeMs=963770326 event=media_refresh_item_uri=https://cdn.shabakaty.cc/vascin18-mp4/AF4327A5-2C95-EE70-2320-ACC42B24C7F4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793658726&Signature=KQb6fJS2a70iEGAM9YFHRqLI8eY%3D
+UTC_MS=1793458047830 PID=18380 THREAD=main UPTIME_MS=963770330 MESSAGE=uptimeMs=963770329 event=refresh_item_count=1
+UTC_MS=1793458047832 PID=18380 THREAD=main UPTIME_MS=963770332 MESSAGE=uptimeMs=963770331 event=refresh_position_us=2305749
+UTC_MS=1793458047833 PID=18380 THREAD=main UPTIME_MS=963770333 MESSAGE=uptimeMs=963770332 event=refresh_play_when_ready=true
+UTC_MS=1793458047836 PID=18380 THREAD=main UPTIME_MS=963770336 MESSAGE=uptimeMs=963770334 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458047837 PID=18380 THREAD=main UPTIME_MS=963770337 MESSAGE=uptimeMs=963770336 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=0 ready=false ended=false
+UTC_MS=1793458047839 PID=18380 THREAD=main UPTIME_MS=963770339 MESSAGE=uptimeMs=963770337 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=0 ready=false ended=false
+UTC_MS=1793458047840 PID=18380 THREAD=main UPTIME_MS=963770340 MESSAGE=uptimeMs=963770339 event=renderer_snapshot index=3 name=TextRenderer state=0 ready=false ended=true
+UTC_MS=1793458047841 PID=18380 THREAD=main UPTIME_MS=963770341 MESSAGE=uptimeMs=963770340 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458047843 PID=18380 THREAD=main UPTIME_MS=963770343 MESSAGE=uptimeMs=963770341 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458047844 PID=18380 THREAD=main UPTIME_MS=963770344 MESSAGE=uptimeMs=963770343 event=media_item_refresh_request_dispatched
+UTC_MS=1793458047845 PID=18380 THREAD=main UPTIME_MS=963770345 MESSAGE=uptimeMs=963770344 event=quality_switch_source_and_subtitles_refresh_dispatched
+UTC_MS=1793458047849 PID=18380 THREAD=main UPTIME_MS=963770349 MESSAGE=uptimeMs=963770348 event=activity_on_start
+UTC_MS=1793458047853 PID=18380 THREAD=main UPTIME_MS=963770353 MESSAGE=uptimeMs=963770351 event=player_state_update_enter
+UTC_MS=1793458047853 PID=18380 THREAD=main UPTIME_MS=963770353 MESSAGE=uptimeMs=963770353 event=player_state_update_playing_flag=true
+UTC_MS=1793458047854 PID=18380 THREAD=main UPTIME_MS=963770354 MESSAGE=uptimeMs=963770354 event=player_state_update_reason=1
+UTC_MS=1793458047855 PID=18380 THREAD=main UPTIME_MS=963770355 MESSAGE=uptimeMs=963770354 event=player_state_update_extra=1
+UTC_MS=1793458047856 PID=18380 THREAD=main UPTIME_MS=963770356 MESSAGE=uptimeMs=963770355 event=player_state_update_playback_state=2
+UTC_MS=1793458047857 PID=18380 THREAD=main UPTIME_MS=963770357 MESSAGE=uptimeMs=963770356 event=player_state_update_position_us=0
+UTC_MS=1793458047863 PID=18380 THREAD=main UPTIME_MS=963770363 MESSAGE=uptimeMs=963770362 event=activity_on_resume
+UTC_MS=1793458047947 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963770447 MESSAGE=uptimeMs=963770443 event=renderer_surface_message_type=1
+UTC_MS=1793458047953 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963770453 MESSAGE=uptimeMs=963770448 event=renderer_output_message_payload_class=android.view.Surface
+UTC_MS=1793458047956 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963770456 MESSAGE=uptimeMs=963770454 event=renderer_surface_snapshot stage=output_message_surface_before surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458047960 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963770460 MESSAGE=uptimeMs=963770457 event=renderer_surface_snapshot stage=output_message_surface_after surfacePresent=true surfaceId=d84faf2 surfaceValid=true configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458047963 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963770463 MESSAGE=uptimeMs=963770460 event=renderer_surface_attached=true
+UTC_MS=1793458049462 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771962 MESSAGE=uptimeMs=963771958 event=decoder_policy_should_use_software_check=Format(1, null, null, video/avc, avc1.640015, -1, null, [426, 240, 29.970016], [-1, -1])
+UTC_MS=1793458049465 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771965 MESSAGE=uptimeMs=963771963 event=decoder_policy_software_false
+UTC_MS=1793458049466 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771966 MESSAGE=uptimeMs=963771965 event=decoder_policy_should_use_software_check=Format(1, null, null, video/avc, avc1.640015, -1, null, [426, 240, 29.970016], [-1, -1])
+UTC_MS=1793458049468 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771968 MESSAGE=uptimeMs=963771967 event=decoder_policy_software_false
+UTC_MS=1793458049469 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771969 MESSAGE=uptimeMs=963771968 event=decoder_policy_should_use_software_check=Format(1, null, null, video/avc, avc1.640015, -1, null, [426, 240, 29.970016], [-1, -1])
+UTC_MS=1793458049470 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771970 MESSAGE=uptimeMs=963771969 event=decoder_policy_software_false
+UTC_MS=1793458049471 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771971 MESSAGE=uptimeMs=963771970 event=decoder_policy_should_use_software_check=Format(1, null, null, video/avc, avc1.640015, -1, null, [426, 240, 29.970016], [-1, -1])
+UTC_MS=1793458049472 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771972 MESSAGE=uptimeMs=963771971 event=decoder_policy_software_false
+UTC_MS=1793458049474 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771974 MESSAGE=uptimeMs=963771972 event=decoder_policy_should_use_software_check=Format(2, null, null, audio/mp4a-latm, mp4a.40.2, -1, und, [-1, -1, -1.0], [2, 48000])
+UTC_MS=1793458049475 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771975 MESSAGE=uptimeMs=963771974 event=decoder_policy_software_false
+UTC_MS=1793458049477 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771977 MESSAGE=uptimeMs=963771975 event=decoder_policy_should_use_software_check=Format(2, null, null, audio/mp4a-latm, mp4a.40.2, -1, und, [-1, -1, -1.0], [2, 48000])
+UTC_MS=1793458049479 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771979 MESSAGE=uptimeMs=963771978 event=decoder_policy_software_false
+UTC_MS=1793458049480 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771980 MESSAGE=uptimeMs=963771979 event=decoder_policy_should_use_software_check=Format(2, null, null, audio/mp4a-latm, mp4a.40.2, -1, und, [-1, -1, -1.0], [2, 48000])
+UTC_MS=1793458049481 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771981 MESSAGE=uptimeMs=963771980 event=decoder_policy_software_false
+UTC_MS=1793458049482 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771982 MESSAGE=uptimeMs=963771981 event=decoder_policy_should_use_software_check=Format(2, null, null, audio/mp4a-latm, mp4a.40.2, -1, und, [-1, -1, -1.0], [2, 48000])
+UTC_MS=1793458049483 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771983 MESSAGE=uptimeMs=963771982 event=decoder_policy_software_false
+UTC_MS=1793458049484 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771984 MESSAGE=uptimeMs=963771983 event=decoder_policy_should_use_software_check=Format(null, null, null, application/x-subrip, null, -1, ar, [-1, -1, -1.0], [-1, -1])
+UTC_MS=1793458049485 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771985 MESSAGE=uptimeMs=963771984 event=decoder_policy_software_false
+UTC_MS=1793458049486 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771986 MESSAGE=uptimeMs=963771985 event=decoder_policy_should_use_software_check=Format(null, null, null, application/x-subrip, null, -1, ar, [-1, -1, -1.0], [-1, -1])
+UTC_MS=1793458049487 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771987 MESSAGE=uptimeMs=963771986 event=decoder_policy_software_false
+UTC_MS=1793458049488 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771988 MESSAGE=uptimeMs=963771987 event=decoder_policy_should_use_software_check=Format(null, null, null, application/x-subrip, null, -1, ar, [-1, -1, -1.0], [-1, -1])
+UTC_MS=1793458049489 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771989 MESSAGE=uptimeMs=963771988 event=decoder_policy_software_false
+UTC_MS=1793458049491 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771991 MESSAGE=uptimeMs=963771990 event=renderer_lifecycle_E_reset_enter
+UTC_MS=1793458049492 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771992 MESSAGE=uptimeMs=963771991 event=renderer_surface_snapshot stage=E_before_cleanup surfacePresent=true surfaceId=d84faf2 surfaceValid=true configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458049493 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771993 MESSAGE=uptimeMs=963771992 event=renderer_lifecycle_B_cleanup_enter
+UTC_MS=1793458049494 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771994 MESSAGE=uptimeMs=963771993 event=renderer_surface_snapshot stage=B_before_cleanup surfacePresent=true surfaceId=d84faf2 surfaceValid=true configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458049495 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771995 MESSAGE=uptimeMs=963771994 event=ffmpeg_decoder_release
+UTC_MS=1793458049495 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771995 MESSAGE=uptimeMs=963771995 event=renderer_surface_retained_by_B_cleanup
+UTC_MS=1793458049496 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771996 MESSAGE=uptimeMs=963771996 event=renderer_lifecycle_B_cleanup_complete
+UTC_MS=1793458049497 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963771997 MESSAGE=uptimeMs=963771997 event=renderer_surface_snapshot stage=B_cleanup_complete surfacePresent=true surfaceId=d84faf2 surfaceValid=true configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458050724 PID=18380 THREAD=main UPTIME_MS=963773224 MESSAGE=uptimeMs=963773219 event=player_playback_state=3
+UTC_MS=1793458050728 PID=18380 THREAD=main UPTIME_MS=963773228 MESSAGE=uptimeMs=963773225 event=player_is_loading=false
+UTC_MS=1793458050729 PID=18380 THREAD=main UPTIME_MS=963773229 MESSAGE=uptimeMs=963773228 event=player_state_position_us=1429
+UTC_MS=1793458050730 PID=18380 THREAD=main UPTIME_MS=963773230 MESSAGE=uptimeMs=963773229 event=player_duration_us=1389739
+UTC_MS=1793458050733 PID=18380 THREAD=main UPTIME_MS=963773233 MESSAGE=uptimeMs=963773231 event=player_play_when_ready=true
+UTC_MS=1793458050734 PID=18380 THREAD=main UPTIME_MS=963773234 MESSAGE=uptimeMs=963773233 event=player_loading_spinner_visible=false
+UTC_MS=1793458050740 PID=18380 THREAD=main UPTIME_MS=963773240 MESSAGE=uptimeMs=963773237 event=renderer_snapshot index=0 name=H264-High10-FFmpeg state=0 ready=false ended=false
+UTC_MS=1793458050744 PID=18380 THREAD=main UPTIME_MS=963773244 MESSAGE=uptimeMs=963773241 event=renderer_snapshot index=1 name=MediaCodecVideoRenderer state=2 ready=false ended=true
+UTC_MS=1793458050749 PID=18380 THREAD=main UPTIME_MS=963773249 MESSAGE=uptimeMs=963773246 event=renderer_snapshot index=2 name=MediaCodecAudioRenderer state=2 ready=false ended=true
+UTC_MS=1793458050752 PID=18380 THREAD=main UPTIME_MS=963773252 MESSAGE=uptimeMs=963773249 event=renderer_snapshot index=3 name=TextRenderer state=2 ready=false ended=true
+UTC_MS=1793458050754 PID=18380 THREAD=main UPTIME_MS=963773254 MESSAGE=uptimeMs=963773252 event=renderer_snapshot index=4 name=MetadataRenderer state=0 ready=false ended=true
+UTC_MS=1793458050757 PID=18380 THREAD=main UPTIME_MS=963773257 MESSAGE=uptimeMs=963773254 event=renderer_snapshot index=5 name=CameraMotionRenderer state=0 ready=true ended=true
+UTC_MS=1793458057588 PID=18380 THREAD=main UPTIME_MS=963780088 MESSAGE=uptimeMs=963780087 event=surface_detach_enter
+UTC_MS=1793458057590 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963780090 MESSAGE=uptimeMs=963780089 event=renderer_surface_message_type=1
+UTC_MS=1793458057592 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963780092 MESSAGE=uptimeMs=963780090 event=renderer_output_message_payload_class=null
+UTC_MS=1793458057593 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963780093 MESSAGE=uptimeMs=963780092 event=renderer_surface_snapshot stage=output_message_surface_before surfacePresent=true surfaceId=d84faf2 surfaceValid=true configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458057595 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963780095 MESSAGE=uptimeMs=963780094 event=renderer_surface_snapshot stage=output_message_surface_after surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458057596 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963780096 MESSAGE=uptimeMs=963780095 event=renderer_surface_attached=false
+UTC_MS=1793458057610 PID=18380 THREAD=main UPTIME_MS=963780110 MESSAGE=uptimeMs=963780109 event=surface_detach_complete
+UTC_MS=1793458057612 PID=18380 THREAD=main UPTIME_MS=963780112 MESSAGE=uptimeMs=963780111 event=player_state_update_enter
+UTC_MS=1793458057613 PID=18380 THREAD=main UPTIME_MS=963780113 MESSAGE=uptimeMs=963780112 event=player_state_update_playing_flag=false
+UTC_MS=1793458057614 PID=18380 THREAD=main UPTIME_MS=963780114 MESSAGE=uptimeMs=963780113 event=player_state_update_reason=-1
+UTC_MS=1793458057616 PID=18380 THREAD=main UPTIME_MS=963780116 MESSAGE=uptimeMs=963780115 event=player_state_update_extra=1
+UTC_MS=1793458057617 PID=18380 THREAD=main UPTIME_MS=963780117 MESSAGE=uptimeMs=963780116 event=player_state_update_playback_state=3
+UTC_MS=1793458057618 PID=18380 THREAD=main UPTIME_MS=963780118 MESSAGE=uptimeMs=963780117 event=player_state_update_position_us=8068
+UTC_MS=1793458057637 PID=18380 THREAD=main UPTIME_MS=963780137 MESSAGE=uptimeMs=963780134 event=activity_on_pause
+UTC_MS=1793458057644 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963780144 MESSAGE=uptimeMs=963780138 event=renderer_lifecycle_E_reset_enter
+UTC_MS=1793458057658 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963780158 MESSAGE=uptimeMs=963780149 event=renderer_surface_snapshot stage=E_before_cleanup surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458057660 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963780160 MESSAGE=uptimeMs=963780158 event=renderer_lifecycle_B_cleanup_enter
+UTC_MS=1793458057663 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963780163 MESSAGE=uptimeMs=963780161 event=renderer_surface_snapshot stage=B_before_cleanup surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458057664 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963780164 MESSAGE=uptimeMs=963780163 event=ffmpeg_decoder_release
+UTC_MS=1793458057667 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963780167 MESSAGE=uptimeMs=963780165 event=renderer_surface_retained_by_B_cleanup
+UTC_MS=1793458057669 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963780169 MESSAGE=uptimeMs=963780167 event=renderer_lifecycle_B_cleanup_complete
+UTC_MS=1793458057672 PID=18380 THREAD=ExoPlayer:Playback UPTIME_MS=963780172 MESSAGE=uptimeMs=963780169 event=renderer_surface_snapshot stage=B_cleanup_complete surfacePresent=false surfaceId=none surfaceValid=false configured=false ended=false baseRendererState=0 sampleStreamAttached=false currentFormat=null decodedFrames=0 failedFrames=0 noOutputSamples=0 firstFrameReported=false streamRefreshPendingPositionReset=false pendingFrame=false
+UTC_MS=1793458058610 PID=18380 THREAD=main UPTIME_MS=963781110 MESSAGE=uptimeMs=963781104 event=activity_on_stop
+UTC_MS=1793458058612 PID=18380 THREAD=main UPTIME_MS=963781112 MESSAGE=uptimeMs=963781110 event=player_state_update_enter
+UTC_MS=1793458058614 PID=18380 THREAD=main UPTIME_MS=963781114 MESSAGE=uptimeMs=963781112 event=player_state_update_playing_flag=false
+UTC_MS=1793458058618 PID=18380 THREAD=main UPTIME_MS=963781118 MESSAGE=uptimeMs=963781115 event=player_state_update_reason=-1
+UTC_MS=1793458058624 PID=18380 THREAD=main UPTIME_MS=963781124 MESSAGE=uptimeMs=963781119 event=player_state_update_extra=1
+UTC_MS=1793458058627 PID=18380 THREAD=main UPTIME_MS=963781127 MESSAGE=uptimeMs=963781125 event=player_state_update_playback_state=1
+UTC_MS=1793458058628 PID=18380 THREAD=main UPTIME_MS=963781128 MESSAGE=uptimeMs=963781127 event=player_state_update_position_us=8078
+UTC_MS=1793458058635 PID=18380 THREAD=main UPTIME_MS=963781135 MESSAGE=uptimeMs=963781133 event=activity_on_destroy

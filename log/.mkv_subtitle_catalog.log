@@ -95,3 +95,17 @@
 1793453913945 CATALOG128 empty path=
 1793453915023 CATALOG128 empty path=
 1793453915046 CATALOG128 empty path=
+1793457944547 CATALOG128 empty path=
+1793457944588 CATALOG128 empty path=
+1793457952290 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793457952292 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793457952304 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793457952305 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793457995451 CATALOG128 empty path=
+1793457995477 CATALOG128 empty path=
+1793458006402 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player,1:en/application/x-subrip@player]
+1793458006403 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player,1:en/application/x-subrip@player] exposed=2
+1793458006413 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player,1:en/application/x-subrip@player]
+1793458006414 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player,1:en/application/x-subrip@player] exposed=2
+1793458047783 CATALOG128 empty path=
+1793458047804 CATALOG128 empty path=

@@ -10,3 +10,15 @@
 1793450649249 delete video=ناروتو S01 E01 [cnm-qswl05curr9wm6bz9iev].mp4 result=true
 1793450649252 delete subtitle=arabic subtitle for ناروتو S01 E01 [cnm-qswl05curr9wm6bz9iev].srt result=true
 1793450649257 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E01.mkv
+1793458168278 SUBTITLE_POLICY=manifest-ready expected=1 completed=1 files=1 token=qswl05curr9wm6bz9iev
+1793458168854 ffmpeg=native:/data/app/~~ZE5dHJ_MrTD2MMgXFsNgTQ==/com.cinemana.pro-BV0Zu7dT4X_nnn1AM28ALA==/lib/arm64/libffmpeg.so
+1793458168910 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1793458168911 exec=[/data/app/~~ZE5dHJ_MrTD2MMgXFsNgTQ==/com.cinemana.pro-BV0Zu7dT4X_nnn1AM28ALA==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E01 [cnm-qswl05curr9wm6bz9iev].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E01 [cnm-qswl05curr9wm6bz9iev].srt] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو S01 E01] [-metadata:s:s:0] [language=ar] [-metadata] [title=ناروتو S01 E01] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو S01 E01 [cnm-qswl05curr9wm6bz9iev].mkv.cnm115-6acad731-cb97-4a98-87aa-8f0223d8ac93.part]
+1793458174959 exit=0 output=
+1793458174977 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو S01 E01 [cnm-qswl05curr9wm6bz9iev].mkv size=36759111
+1793458176243 DB_PROMOTE=true
+1793458176447 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E01.mkv work=ناروتو season=01 episode=01 noSub=false
+1793458176940 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E01.mkv
+1793458177655 delete video=ناروتو S01 E01 [cnm-qswl05curr9wm6bz9iev].mp4 result=true
+1793458177664 delete subtitle=arabic subtitle for ناروتو S01 E01 [cnm-qswl05curr9wm6bz9iev].srt result=true
+1793458177683 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E01.mkv
