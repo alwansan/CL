@@ -3,7 +3,7 @@
 ├── [5.4M 2026-10-31 18:05:37]  log h58.zip
 ├── [1.9M 2026-10-31 19:37:18]  log h59.zip
 ├── [2.1M 2026-10-31 19:39:46]  log h60.zip
-├── [108K 2026-10-31 23:46:44]  work
+├── [108K 2026-11-01 00:46:19]  work
 │   ├── [ 19K 2026-10-31 19:33:19]  arabic subtitle for ناروتو S01 E100 [cnm-o1xuiu3iso9px7p6ibmx].srt
 │   ├── [ 21K 2026-10-31 19:33:20]  arabic subtitle for ناروتو S01 E101 [cnm-54v09te2804qk3v55v2u].srt
 │   ├── [ 25K 2026-10-31 19:33:20]  arabic subtitle for ناروتو S01 E102 [cnm-1mqw6auw06mu1lfo7ank].srt
@@ -112,7 +112,6 @@
 │   ├── [ 17K 2026-10-31 19:33:55]  arabic subtitle for ناروتو S01 E205 [cnm-4p25kv7n8goxfmfdzh84].srt
 │   ├── [ 19K 2026-10-31 19:33:55]  arabic subtitle for ناروتو S01 E206 [cnm-157onifhvq6f18bmlkr0].srt
 │   ├── [ 19K 2026-10-31 19:33:55]  arabic subtitle for ناروتو S01 E207 [cnm-3ildrrimrjlk6x611v1a].srt
-│   ├── [ 19K 2026-10-31 19:33:09]  arabic subtitle for ناروتو S01 E22 [cnm-3qkzu8t5je9cqwvvd8kz].srt
 │   ├── [ 20K 2026-10-31 19:33:09]  arabic subtitle for ناروتو S01 E23 [cnm-24xxsqvc7qtlj1l0snux].srt
 │   ├── [ 18K 2026-10-31 19:33:09]  arabic subtitle for ناروتو S01 E24 [cnm-5lno9lx4cr8m5duchzot].srt
 │   ├── [ 19K 2026-10-31 19:33:09]  arabic subtitle for ناروتو S01 E25 [cnm-4myq1dqb3b47ca4v4kgj].srt
@@ -126,18 +125,13 @@
 │   ├── [ 13K 2026-10-31 19:33:12]  arabic subtitle for ناروتو S01 E47 [cnm-3ti717pjale5020ze7la].srt
 │   ├── [ 19K 2026-10-31 19:33:13]  arabic subtitle for ناروتو S01 E49 [cnm-hv53zx1vpaouv8sxaue3].srt
 │   ├── [ 15K 2026-10-31 19:33:14]  arabic subtitle for ناروتو S01 E59 [cnm-57jl7bqfdiyckiyardlz].srt
+│   ├── [ 13K 2026-11-01 00:46:18]  arabic subtitle for ناروتو S01 E60 [cnm-5f2jakti8sv0o11fkiyo].srt
 │   ├── [ 14K 2026-10-31 19:33:15]  arabic subtitle for ناروتو S01 E64 [cnm-3n99vdyy008mhmes0ogn].srt
 │   ├── [ 15K 2026-10-31 19:33:15]  arabic subtitle for ناروتو S01 E65 [cnm-5nie5cwhj1jag3n2leul].srt
 │   ├── [ 12K 2026-10-31 19:33:15]  arabic subtitle for ناروتو S01 E66 [cnm-29afczrqhnm909684j7o].srt
 │   ├── [ 11K 2026-10-31 19:33:15]  arabic subtitle for ناروتو S01 E67 [cnm-1b3vxmg701nyqguezdkk].srt
-│   ├── [ 14K 2026-10-31 19:33:16]  arabic subtitle for ناروتو S01 E74 [cnm-4dhuancnuy2qrs0cw2fm].srt
-│   ├── [ 12K 2026-10-31 19:33:16]  arabic subtitle for ناروتو S01 E75 [cnm-4ujqw9nezfffdhn95n8w].srt
-│   ├── [ 13K 2026-10-31 19:33:16]  arabic subtitle for ناروتو S01 E76 [cnm-58kfierqwf5lz7m331pu].srt
-│   ├── [ 18K 2026-10-31 19:33:16]  arabic subtitle for ناروتو S01 E77 [cnm-4gr4xkgz1id1biy5oqp3].srt
 │   ├── [ 16K 2026-10-31 19:33:17]  arabic subtitle for ناروتو S01 E78 [cnm-2a06boh2l31jwpxplbmr].srt
 │   ├── [ 15K 2026-10-31 19:33:17]  arabic subtitle for ناروتو S01 E79 [cnm-3hofm4xa5mxlbq55cimy].srt
-│   ├── [ 13K 2026-10-31 19:33:17]  arabic subtitle for ناروتو S01 E80 [cnm-696iz57j1bsvsnwm4xvi].srt
-│   ├── [ 18K 2026-10-31 19:33:17]  arabic subtitle for ناروتو S01 E81 [cnm-5u01thxc9nhde4d8g08e].srt
 │   ├── [ 19K 2026-10-31 19:33:17]  arabic subtitle for ناروتو S01 E82 [cnm-3533o18mr650urjk90c0].srt
 │   ├── [ 19K 2026-10-31 19:33:17]  arabic subtitle for ناروتو S01 E83 [cnm-221l9rlulut7wi9ugc30].srt
 │   ├── [ 11K 2026-10-31 19:33:17]  arabic subtitle for ناروتو S01 E84 [cnm-1pp39mds2srzbvj9c2mz].srt
@@ -156,19 +150,19 @@
 │   ├── [ 22K 2026-10-31 19:33:19]  arabic subtitle for ناروتو S01 E97 [cnm-xims7aj97pfx4q463t3h].srt
 │   ├── [ 18K 2026-10-31 19:33:19]  arabic subtitle for ناروتو S01 E98 [cnm-2b6g0e0w5defde99s2tl].srt
 │   ├── [ 19K 2026-10-31 19:33:19]  arabic subtitle for ناروتو S01 E99 [cnm-54jg31k0chgvy96cumxr].srt
-│   ├── [3.4K 2026-10-31 23:46:31]  data
-│   │   ├── [ 20K 2026-10-31 23:46:43]  cnm_recovery
+│   ├── [3.4K 2026-11-01 00:46:18]  data
+│   │   ├── [ 20K 2026-11-01 00:46:23]  cnm_recovery
 │   │   │   ├── [ 419 2026-10-31 19:33:26]  104zv0oq78v591etxzrk.json
-│   │   │   ├── [1.4K 2026-10-31 23:45:52]  11mdmt5c622ga4jc7wb7.json
+│   │   │   ├── [1.4K 2026-11-01 00:46:13]  11mdmt5c622ga4jc7wb7.json
 │   │   │   ├── [ 418 2026-10-31 19:33:35]  157onifhvq6f18bmlkr0.json
 │   │   │   ├── [1.4K 2026-10-31 22:01:19]  1b3vxmg701nyqguezdkk.json
 │   │   │   ├── [1.4K 2026-10-31 23:44:44]  1brptia3sbs3vg8we85s.json
 │   │   │   ├── [ 418 2026-10-31 19:33:33]  1e1h3nm18t53sgtoc0sp.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:51]  1fak6c5gj8vfv6yg9fdy.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:32]  1fak6c5gj8vfv6yg9fdy.json
 │   │   │   ├── [1.4K 2026-10-31 23:02:41]  1im1l81fhgkh34feh1mo.json
-│   │   │   ├── [1.4K 2026-10-31 23:45:45]  1lcc71b0bt2swj7hgwyg.json
+│   │   │   ├── [1.4K 2026-11-01 00:46:13]  1lcc71b0bt2swj7hgwyg.json
 │   │   │   ├── [1.4K 2026-10-31 22:58:17]  1mqw6auw06mu1lfo7ank.json
-│   │   │   ├── [1.4K 2026-10-31 23:46:05]  1nal9oxqe15dvx6au1y4.json
+│   │   │   ├── [1.4K 2026-11-01 00:46:18]  1nal9oxqe15dvx6au1y4.json
 │   │   │   ├── [1.4K 2026-10-31 23:44:41]  1niqtc8gw5w0yfrg6dm6.json
 │   │   │   ├── [1.4K 2026-10-31 23:44:42]  1p0qq4a333numnqsh3q7.json
 │   │   │   ├── [1.4K 2026-10-31 22:01:35]  1pp39mds2srzbvj9c2mz.json
@@ -179,145 +173,138 @@
 │   │   │   ├── [1.4K 2026-10-31 23:44:41]  1zuqnc8nd2khim22070i.json
 │   │   │   ├── [ 418 2026-10-31 19:33:32]  21ap8kjarbf91yoj0gci.json
 │   │   │   ├── [ 419 2026-10-31 19:33:28]  21ki3ccxcdt3jeomsi36.json
-│   │   │   ├── [1.4K 2026-10-31 22:01:34]  221l9rlulut7wi9ugc30.json
-│   │   │   ├── [ 418 2026-10-31 19:33:29]  22kysmd4zail682k5rje.json
-│   │   │   ├── [ 417 2026-10-31 19:33:30]  24qxm6wbr00p0zjo1f1i.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:23]  24xxsqvc7qtlj1l0snux.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:27]  25c45j5ymlnv9hka5m7y.json
+│   │   │   ├── [1.5K 2026-10-31 23:48:22]  221l9rlulut7wi9ugc30.json
+│   │   │   ├── [1.4K 2026-11-01 00:46:17]  22kysmd4zail682k5rje.json
+│   │   │   ├── [1.4K 2026-11-01 00:46:15]  24qxm6wbr00p0zjo1f1i.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:22]  24xxsqvc7qtlj1l0snux.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:23]  25c45j5ymlnv9hka5m7y.json
 │   │   │   ├── [1.4K 2026-10-31 23:44:43]  27t19f48ekim5hn74cbl.json
 │   │   │   ├── [1.4K 2026-10-31 23:02:40]  289r7qlmo9e6nhixh5b4.json
-│   │   │   ├── [1.4K 2026-10-31 23:45:22]  2958s5xlj6mv0c0f1yz3.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:26]  29afczrqhnm909684j7o.json
+│   │   │   ├── [1.4K 2026-11-01 00:46:21]  2958s5xlj6mv0c0f1yz3.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:27]  29afczrqhnm909684j7o.json
 │   │   │   ├── [1.4K 2026-10-31 22:58:17]  29j2uih1k4rdwkny82a7.json
 │   │   │   ├── [1.4K 2026-10-31 22:01:32]  2a06boh2l31jwpxplbmr.json
 │   │   │   ├── [1.4K 2026-10-31 23:03:03]  2b6g0e0w5defde99s2tl.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:27]  2biq5d90b85u5kfxpzb5.json
-│   │   │   ├── [ 419 2026-10-31 19:33:29]  2d1gt4092gkx3y08aa2f.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:24]  2biq5d90b85u5kfxpzb5.json
+│   │   │   ├── [1.4K 2026-11-01 00:46:18]  2d1gt4092gkx3y08aa2f.json
 │   │   │   ├── [ 418 2026-10-31 19:33:32]  2ffmjt4d3hkbf88lxwaj.json
-│   │   │   ├── [ 419 2026-10-31 19:33:31]  2jhkhbuhp12c9u8t5b6b.json
-│   │   │   ├── [ 418 2026-10-31 19:33:24]  2k8dbzgto6a2m46mgkw3.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:56]  2pkh70935d5qlmguqr7l.json
+│   │   │   ├── [1.4K 2026-11-01 00:46:16]  2jhkhbuhp12c9u8t5b6b.json
+│   │   │   ├── [1.4K 2026-11-01 00:46:05]  2k8dbzgto6a2m46mgkw3.json
+│   │   │   ├── [1.4K 2026-11-01 00:46:20]  2pkh70935d5qlmguqr7l.json
 │   │   │   ├── [1.4K 2026-10-31 23:44:42]  2qw16wiyoxv7v5dvahpt.json
 │   │   │   ├── [1.4K 2026-10-31 23:44:42]  2ra60du6x7o3wlc2lk7v.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:51]  2snr9yu5si2imbe774a8.json
+│   │   │   ├── [1.4K 2026-11-01 00:46:19]  2snr9yu5si2imbe774a8.json
 │   │   │   ├── [1.4K 2026-10-31 22:01:37]  2u6onbogwu99pi14hmou.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:49]  2v0d7psp854d6xj5qzq8.json
-│   │   │   ├── [1.4K 2026-10-31 23:46:28]  2xudkixqiac9tlkiwn2q.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:33]  2v0d7psp854d6xj5qzq8.json
+│   │   │   ├── [1.4K 2026-11-01 00:46:15]  2xudkixqiac9tlkiwn2q.json
 │   │   │   ├── [1.4K 2026-10-31 23:44:39]  322d0fg2hdg07cjmzxo0.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:48]  32fin0r8nc891omdepas.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:49]  34rzf02jblruxmdl8fb2.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:32]  32fin0r8nc891omdepas.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:33]  34rzf02jblruxmdl8fb2.json
 │   │   │   ├── [1.4K 2026-10-31 22:01:34]  3533o18mr650urjk90c0.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:28]  377ugy11x1zihy5sr219.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:30]  377ugy11x1zihy5sr219.json
 │   │   │   ├── [ 418 2026-10-31 19:33:24]  3arp8wxdasxdgi8uppo3.json
 │   │   │   ├── [1.4K 2026-10-31 23:44:46]  3avtkkm7o3hrfyge7yjc.json
 │   │   │   ├── [1.4K 2026-10-31 22:58:19]  3carvns6ubnutw97alnq.json
 │   │   │   ├── [1.4K 2026-10-31 23:44:45]  3d36mikh3z7k1jeg0or7.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:26]  3ejzok8mls8qrxhvjb9e.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:28]  3ejzok8mls8qrxhvjb9e.json
 │   │   │   ├── [1.4K 2026-10-31 22:01:33]  3hofm4xa5mxlbq55cimy.json
 │   │   │   ├── [ 417 2026-10-31 19:33:28]  3hs3bghx817e8pvdl2sz.json
 │   │   │   ├── [ 418 2026-10-31 19:33:26]  3i6as4prz5xz6n833lj8.json
 │   │   │   ├── [ 418 2026-10-31 19:33:36]  3ildrrimrjlk6x611v1a.json
 │   │   │   ├── [1.4K 2026-10-31 23:44:41]  3lts2hxq6hty31d7sqon.json
-│   │   │   ├── [ 417 2026-10-31 19:33:32]  3lz8uuir8zmuzinr1krn.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:54]  3lz8uuir8zmuzinr1krn.json
 │   │   │   ├── [1.4K 2026-10-31 22:01:17]  3n99vdyy008mhmes0ogn.json
 │   │   │   ├── [1.4K 2026-10-31 22:01:37]  3oq03et2mq4ppqtwfzoo.json
 │   │   │   ├── [1.4K 2026-10-31 20:50:35]  3pil2uzqvj6kd4jgorx1.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:23]  3qkzu8t5je9cqwvvd8kz.json
 │   │   │   ├── [1.4K 2026-10-31 20:50:36]  3ti717pjale5020ze7la.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:48]  3vd1j2we2uh5dnlo7y80.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:32]  3vd1j2we2uh5dnlo7y80.json
 │   │   │   ├── [ 419 2026-10-31 19:33:29]  3x18toth7axhajnhahfi.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:24]  3y8v4f1s2jwg0rotimo8.json
-│   │   │   ├── [1.4K 2026-10-31 23:45:33]  434s3ghbmsqv55liqjst.json
-│   │   │   ├── [ 418 2026-10-31 19:33:24]  43qyzj578b40os0yyd1k.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:28]  45i8gqoqr76qs8fdt4ak.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:23]  3y8v4f1s2jwg0rotimo8.json
+│   │   │   ├── [1.4K 2026-11-01 00:46:23]  434s3ghbmsqv55liqjst.json
+│   │   │   ├── [1.4K 2026-11-01 00:46:19]  43qyzj578b40os0yyd1k.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:30]  45i8gqoqr76qs8fdt4ak.json
 │   │   │   ├── [1.4K 2026-10-31 23:44:46]  4at8t9cnlo9o1zlrfrhj.json
 │   │   │   ├── [1.4K 2026-10-31 20:50:35]  4czb0enzcoet3c57gct4.json
-│   │   │   ├── [1.5K 2026-10-31 23:46:43]  4dhuancnuy2qrs0cw2fm.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:49]  4f99j7awon3tlchlzn08.json
-│   │   │   ├── [ 418 2026-10-31 19:33:31]  4g3la4rp1gk882j9gznd.json
-│   │   │   ├── [1.4K 2026-10-31 22:01:33]  4gr4xkgz1id1biy5oqp3.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:31]  4f99j7awon3tlchlzn08.json
+│   │   │   ├── [1.4K 2026-11-01 00:46:17]  4g3la4rp1gk882j9gznd.json
 │   │   │   ├── [ 419 2026-10-31 19:33:34]  4ig3zdj71kiml2oz0se3.json
-│   │   │   ├── [ 419 2026-10-31 19:33:24]  4js478jdnjzxwlnmnbw3.json
+│   │   │   ├── [1.4K 2026-11-01 00:46:16]  4js478jdnjzxwlnmnbw3.json
 │   │   │   ├── [ 418 2026-10-31 19:33:25]  4ms47tfpa3zurqlhyycw.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:27]  4myq1dqb3b47ca4v4kgj.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:25]  4myq1dqb3b47ca4v4kgj.json
 │   │   │   ├── [ 418 2026-10-31 19:33:27]  4nm1xicbtpbhrqpyp070.json
-│   │   │   ├── [ 418 2026-10-31 19:33:35]  4p25kv7n8goxfmfdzh84.json
+│   │   │   ├── [1.4K 2026-11-01 00:46:15]  4p25kv7n8goxfmfdzh84.json
 │   │   │   ├── [1.4K 2026-10-31 22:58:18]  4plsav7lmd2q4fxou167.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:27]  4qcz6xqz97kam7vf68rp.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:29]  4qcz6xqz97kam7vf68rp.json
 │   │   │   ├── [1.4K 2026-10-31 23:03:02]  4qmrgkebxlrtlulq5z6v.json
 │   │   │   ├── [ 418 2026-10-31 19:33:33]  4t7czvg8rl38gd1g87jm.json
-│   │   │   ├── [1.4K 2026-10-31 22:01:27]  4ujqw9nezfffdhn95n8w.json
 │   │   │   ├── [ 418 2026-10-31 19:33:26]  4voye5dwc3jxqe4vqmb5.json
 │   │   │   ├── [ 417 2026-10-31 19:33:31]  4wp9wsdrmze0v87v8g3j.json
 │   │   │   ├── [ 419 2026-10-31 19:33:31]  4yqarky14earor5nvp9q.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:47]  4z7pw934jkrqz0073wg0.json
+│   │   │   ├── [1.4K 2026-11-01 00:46:20]  4z7pw934jkrqz0073wg0.json
 │   │   │   ├── [ 418 2026-10-31 19:33:33]  50jku2o5fgdz60i2p656.json
 │   │   │   ├── [1.4K 2026-10-31 23:02:40]  52otmh01hta09hfwwnow.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:29]  5376rk7vgexn8wu7kuxv.json
-│   │   │   ├── [1.4K 2026-10-31 23:46:13]  547fi8jj6jefbxrsf8pd.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:30]  5376rk7vgexn8wu7kuxv.json
+│   │   │   ├── [1.4K 2026-11-01 00:46:14]  547fi8jj6jefbxrsf8pd.json
 │   │   │   ├── [1.4K 2026-10-31 23:03:03]  54jg31k0chgvy96cumxr.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:28]  54v09te2804qk3v55v2u.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:28]  56hv59uxts0csyf8t6ks.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:29]  54v09te2804qk3v55v2u.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:28]  56hv59uxts0csyf8t6ks.json
 │   │   │   ├── [1.4K 2026-10-31 23:02:39]  57jl7bqfdiyckiyardlz.json
 │   │   │   ├── [1.4K 2026-10-31 23:44:45]  583v0zb6cqulnrzvertj.json
-│   │   │   ├── [1.4K 2026-10-31 22:01:30]  58kfierqwf5lz7m331pu.json
 │   │   │   ├── [ 418 2026-10-31 19:33:34]  5fvfc5fncojtowhggk50.json
 │   │   │   ├── [1.4K 2026-10-31 23:02:40]  5lhl8jb1hrx9v38p9gqa.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:23]  5lno9lx4cr8m5duchzot.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:23]  5lno9lx4cr8m5duchzot.json
 │   │   │   ├── [ 418 2026-10-31 19:33:28]  5lpvmdjdi4p1vac9me61.json
 │   │   │   ├── [ 417 2026-10-31 19:33:35]  5lu8y3vfrq3s4sureunn.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:26]  5nie5cwhj1jag3n2leul.json
-│   │   │   ├── [1.4K 2026-10-31 22:01:39]  5u01thxc9nhde4d8g08e.json
-│   │   │   ├── [1.5K 2026-10-31 23:44:25]  5u1azyzopfwp6l7t38v4.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:26]  5nie5cwhj1jag3n2leul.json
+│   │   │   ├── [1.5K 2026-11-01 00:45:26]  5u1azyzopfwp6l7t38v4.json
 │   │   │   ├── [ 418 2026-10-31 19:33:33]  5vte2hho86jjgpu66yzu.json
 │   │   │   ├── [ 418 2026-10-31 19:33:35]  5wk5zfkmwmpgefe6ioy1.json
 │   │   │   ├── [ 419 2026-10-31 19:33:26]  5xruy4d4lstlovjxix35.json
 │   │   │   ├── [1.4K 2026-10-31 22:58:18]  5z2ihmsziz2wk7j46ajn.json
 │   │   │   ├── [ 417 2026-10-31 19:33:25]  6042lqn79m6x2lw5rh23.json
-│   │   │   ├── [2.1K 2026-10-31 23:44:52]  60nacsy0svbejqkha5n7.json
+│   │   │   ├── [2.1K 2026-11-01 00:45:33]  60nacsy0svbejqkha5n7.json
 │   │   │   ├── [1.4K 2026-10-31 23:44:41]  63ffo8aelik0yz5cmw0z.json
 │   │   │   ├── [ 418 2026-10-31 19:33:30]  63ni61xnmbqzzmeeesbs.json
-│   │   │   ├── [ 418 2026-10-31 19:33:28]  648ot54kxpkednf3arcx.json
+│   │   │   ├── [1.4K 2026-11-01 00:46:17]  648ot54kxpkednf3arcx.json
 │   │   │   ├── [1.4K 2026-10-31 23:00:49]  65a08x5x279ty9e68pky.json
 │   │   │   ├── [1.4K 2026-10-31 23:03:06]  65neq4aaxvu6brpy5ro8.json
 │   │   │   ├── [ 418 2026-10-31 19:33:34]  65u5vqxe2l1l2r7qbx3u.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:47]  6641pxo1c3y4o57ssok4.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:31]  6641pxo1c3y4o57ssok4.json
 │   │   │   ├── [1.4K 2026-10-31 22:58:18]  66o6whdktvabi8z72dqr.json
-│   │   │   ├── [2.1K 2026-10-31 23:44:29]  680unu62q5914m78cfcf.json
-│   │   │   ├── [1.4K 2026-10-31 23:02:39]  696iz57j1bsvsnwm4xvi.json
+│   │   │   ├── [2.1K 2026-11-01 00:45:31]  680unu62q5914m78cfcf.json
 │   │   │   ├── [ 417 2026-10-31 19:33:29]  6cn4uotcmlitkbb6nwap.json
 │   │   │   ├── [1.4K 2026-10-31 23:44:43]  6djdb5om2i66utj5xtvt.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:29]  7jnk2i6f8cpa8tcq2vaj.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:30]  7jnk2i6f8cpa8tcq2vaj.json
 │   │   │   ├── [ 418 2026-10-31 19:33:34]  dvcfh79psr3o2vw3pumn.json
 │   │   │   ├── [1.4K 2026-10-31 23:02:42]  fep3h7aj4vlzzelhdylw.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:46]  fjtlmvb1nnwdje51jme2.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:26]  fui891js0ap9rp8pyy6p.json
+│   │   │   ├── [1.4K 2026-11-01 00:46:16]  fjtlmvb1nnwdje51jme2.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:28]  fui891js0ap9rp8pyy6p.json
 │   │   │   ├── [ 418 2026-10-31 19:33:25]  gbv9jcgfw4392hlbme8w.json
 │   │   │   ├── [1.5K 2026-10-31 22:02:03]  hv53zx1vpaouv8sxaue3.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:48]  j9l0cm9ypmpoqkyzgaui.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:28]  nl3jjkifmvzhpp4jvfto.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:31]  j9l0cm9ypmpoqkyzgaui.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:29]  nl3jjkifmvzhpp4jvfto.json
 │   │   │   ├── [1.4K 2026-10-31 22:01:37]  o1xuiu3iso9px7p6ibmx.json
 │   │   │   ├── [ 418 2026-10-31 19:33:27]  o38mwja1lwbaazn3jym5.json
-│   │   │   ├── [2.1K 2026-10-31 23:44:47]  od2n15qre9jajujr1miw.json
+│   │   │   ├── [2.1K 2026-11-01 00:46:19]  od2n15qre9jajujr1miw.json
 │   │   │   ├── [ 419 2026-10-31 19:33:30]  ohzrg2fa6soybnvozeh2.json
 │   │   │   ├── [ 418 2026-10-31 19:33:28]  p1kv8lex67j2bf340tvc.json
 │   │   │   ├── [ 417 2026-10-31 19:33:30]  tpvaj6de4eh5805gizoo.json
-│   │   │   ├── [2.1K 2026-10-31 23:45:12]  vubmzqtg4z4ngqeq9otj.json
+│   │   │   ├── [2.1K 2026-11-01 00:46:20]  vubmzqtg4z4ngqeq9otj.json
 │   │   │   ├── [ 418 2026-10-31 19:33:26]  vuwzo44zl4yl3oxj5gqp.json
-│   │   │   ├── [2.1K 2026-10-31 23:46:29]  wlnbjye8rack04vis8f2.json
+│   │   │   ├── [2.1K 2026-11-01 00:46:15]  wlnbjye8rack04vis8f2.json
 │   │   │   ├── [ 418 2026-10-31 19:33:28]  x0gd1edn1w0jmllpce48.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:28]  xims7aj97pfx4q463t3h.json
-│   │   │   ├── [ 419 2026-10-31 19:33:29]  xtvtybytp0b5mn20ziw7.json
-│   │   │   ├── [1.4K 2026-10-31 23:44:47]  ydw2o0a4zi1pr3bc883s.json
-│   │   │   ├── [ 418 2026-10-31 19:33:25]  yjitc5abynmak3ksh50y.json
-│   │   │   └── [2.0K 2026-10-31 23:44:23]  zo6htr40gntpwmt93ztf.json
-│   │   ├── [1018K 2026-10-31 23:44:14]  episodes.v1.bin
-│   │   ├── [1018K 2026-10-31 23:44:14]  episodes.v1.bin.previous
-│   │   ├── [101K 2026-10-31 23:46:31]  library.v1.bin
-│   │   ├── [100K 2026-10-31 23:46:31]  library.v1.bin.previous
+│   │   │   ├── [1.4K 2026-11-01 00:45:29]  xims7aj97pfx4q463t3h.json
+│   │   │   ├── [1.4K 2026-11-01 00:46:15]  xtvtybytp0b5mn20ziw7.json
+│   │   │   ├── [1.4K 2026-11-01 00:45:31]  ydw2o0a4zi1pr3bc883s.json
+│   │   │   ├── [1.4K 2026-11-01 00:46:17]  yjitc5abynmak3ksh50y.json
+│   │   │   └── [2.0K 2026-11-01 00:45:26]  zo6htr40gntpwmt93ztf.json
+│   │   ├── [1018K 2026-11-01 00:45:11]  episodes.v1.bin
+│   │   ├── [1018K 2026-11-01 00:45:11]  episodes.v1.bin.previous
+│   │   ├── [110K 2026-11-01 00:46:18]  library.v1.bin
+│   │   ├── [110K 2026-11-01 00:46:18]  library.v1.bin.previous
 │   │   ├── [3.4K 2026-10-31 20:14:47]  local-account
 │   │   │   └── [ 12K 2026-10-31 20:14:47]  account.bin
-│   │   ├── [8.0K 2026-10-31 23:46:31]  mkv-proofs
+│   │   ├── [8.0K 2026-11-01 00:45:28]  mkv-proofs
 │   │   │   ├── [ 103 2026-10-31 21:03:45]  143hat9uc5e9b2dkaq9c.path
 │   │   │   ├── [ 103 2026-10-31 21:02:41]  14l1qqyjy97c67bjzhe1.path
 │   │   │   ├── [ 103 2026-10-31 19:35:26]  19i7bzwdte3chbs5qin1.path
@@ -342,29 +329,36 @@
 │   │   │   ├── [ 103 2026-10-31 23:44:27]  38qn9vfkyffwdxhq47c5.path
 │   │   │   ├── [ 103 2026-10-31 21:59:58]  3jtfupyemh8w6mi5t9nt.path
 │   │   │   ├── [ 103 2026-10-31 23:02:14]  3khxx1vtmu18ya3kles6.path
+│   │   │   ├── [ 103 2026-11-01 00:45:28]  3qkzu8t5je9cqwvvd8kz.path
 │   │   │   ├── [ 103 2026-10-31 23:01:08]  3tapddkgjj64o7aggpm3.path
 │   │   │   ├── [ 103 2026-10-31 21:02:26]  3wbm8nkmpj8a7sbl245z.path
 │   │   │   ├── [ 103 2026-10-31 23:46:07]  3z2opzpqg8uubfshmh2h.path
 │   │   │   ├── [ 103 2026-10-31 23:03:07]  3z6qygpiheatztx5hq3f.path
 │   │   │   ├── [ 103 2026-10-31 23:04:06]  46a1d9jck1j94ll37lkz.path
 │   │   │   ├── [ 103 2026-10-31 23:46:31]  47bci6vb2q4rmo63risl.path
+│   │   │   ├── [ 103 2026-10-31 23:46:52]  4dhuancnuy2qrs0cw2fm.path
+│   │   │   ├── [ 103 2026-10-31 23:47:39]  4gr4xkgz1id1biy5oqp3.path
 │   │   │   ├── [ 103 2026-10-31 20:49:54]  4lz4z6zunxs2uc01iyho.path
 │   │   │   ├── [ 103 2026-10-31 19:46:55]  4n21lfuhfh1eop9ptgvv.path
 │   │   │   ├── [ 103 2026-10-31 22:59:09]  4n5e2mp2as8wfo835f1k.path
 │   │   │   ├── [ 103 2026-10-31 19:47:11]  4oc3mycpr9bko8hqyywh.path
 │   │   │   ├── [ 103 2026-10-31 19:34:34]  4pa3cu0sil1vsly4s318.path
+│   │   │   ├── [ 103 2026-10-31 23:47:25]  4ujqw9nezfffdhn95n8w.path
 │   │   │   ├── [ 103 2026-10-31 23:01:28]  53s89v7ncs5jog9bnx8z.path
 │   │   │   ├── [ 103 2026-10-31 20:14:34]  56csus3yw2ijsd7kswrp.path
 │   │   │   ├── [ 103 2026-10-31 23:03:39]  57ttawa9is7rz2bw677w.path
+│   │   │   ├── [ 103 2026-10-31 23:47:10]  58kfierqwf5lz7m331pu.path
 │   │   │   ├── [ 103 2026-10-31 23:01:45]  5f2jakti8sv0o11fkiyo.path
 │   │   │   ├── [ 103 2026-10-31 19:35:57]  5gt0ljxjloj2t6istgvd.path
 │   │   │   ├── [ 103 2026-10-31 22:01:19]  5hdytbz5szo9gmteyqc7.path
 │   │   │   ├── [ 103 2026-10-31 20:50:39]  5hx3jeupgjo7i154vp97.path
 │   │   │   ├── [ 103 2026-10-31 23:02:00]  5s2yimny6dxvblo0864z.path
+│   │   │   ├── [ 103 2026-10-31 23:48:11]  5u01thxc9nhde4d8g08e.path
 │   │   │   ├── [ 103 2026-10-31 20:14:34]  65rp6gci1xkh8y4m8sku.path
 │   │   │   ├── [ 103 2026-10-31 21:04:19]  66cuj1265fq8mg8jszdk.path
 │   │   │   ├── [ 103 2026-10-31 21:03:28]  66edngl46eppth9aai9h.path
 │   │   │   ├── [ 103 2026-10-31 21:02:10]  66ovresyrjoqna2gf4ak.path
+│   │   │   ├── [ 103 2026-10-31 23:47:57]  696iz57j1bsvsnwm4xvi.path
 │   │   │   ├── [ 103 2026-10-31 22:01:55]  69me5bmcs1a0k2q1o48n.path
 │   │   │   ├── [ 103 2026-10-31 19:35:04]  6c99uno95wdddkvgb1t7.path
 │   │   │   ├── [ 103 2026-10-31 23:00:45]  buym1hn4r86jc6ar3ztv.path
@@ -373,11 +367,11 @@
 │   │   │   ├── [ 103 2026-10-31 23:45:24]  ienb97nlzt4oqtdny08u.path
 │   │   │   ├── [ 103 2026-10-31 23:45:47]  l84e2i31fibwpzk6rky2.path
 │   │   │   └── [ 103 2026-10-31 19:33:38]  qswl05curr9wm6bz9iev.path
-│   │   ├── [ 43K 2026-10-31 23:46:45]  mkv_repair_pending.properties
-│   │   ├── [2.9K 2026-10-31 23:44:14]  watch.v1.bin
-│   │   └── [2.9K 2026-10-31 23:44:14]  watch.v1.bin.previous
-│   ├── [ 20K 2026-10-31 23:46:42]  log
-│   │   ├── [5.0M 2026-10-31 23:46:43]  .mkv_export.log
+│   │   ├── [ 44K 2026-11-01 00:46:22]  mkv_repair_pending.properties
+│   │   ├── [2.9K 2026-11-01 00:45:11]  watch.v1.bin
+│   │   └── [2.9K 2026-11-01 00:45:11]  watch.v1.bin.previous
+│   ├── [ 20K 2026-11-01 00:45:17]  log
+│   │   ├── [5.0M 2026-11-01 00:46:12]  .mkv_export.log
 │   │   ├── [6.0K 2026-10-31 20:14:42]  .mkv_player_resolver.log
 │   │   ├── [9.2K 2026-10-31 20:14:42]  .mkv_subtitle_catalog.log
 │   │   ├── [3.7K 2026-10-31 19:33:38]  .ناروتو S01 E01 [cnm-qswl05curr9wm6bz9iev].mkv.log
@@ -401,6 +395,7 @@
 │   │   ├── [1.4K 2026-10-31 19:47:48]  .ناروتو S01 E19 [cnm-1rokx42v4p1noa8qsq9j].mkv.log
 │   │   ├── [1.9K 2026-10-31 20:14:34]  .ناروتو S01 E20 [cnm-56csus3yw2ijsd7kswrp].mkv.log
 │   │   ├── [1.9K 2026-10-31 20:14:34]  .ناروتو S01 E21 [cnm-65rp6gci1xkh8y4m8sku].mkv.log
+│   │   ├── [1.9K 2026-11-01 00:45:28]  .ناروتو S01 E22 [cnm-3qkzu8t5je9cqwvvd8kz].mkv.log
 │   │   ├── [1.9K 2026-10-31 21:01:36]  .ناروتو S01 E29 [cnm-1uw8i69ycqmrbwcaloax].mkv.log
 │   │   ├── [1.9K 2026-10-31 21:01:54]  .ناروتو S01 E30 [cnm-2swe0zopz45ktjhtc4gt].mkv.log
 │   │   ├── [1.9K 2026-10-31 21:02:25]  .ناروتو S01 E31 [cnm-3wbm8nkmpj8a7sbl245z].mkv.log
@@ -437,7 +432,13 @@
 │   │   ├── [1.9K 2026-10-31 23:04:06]  .ناروتو S01 E71 [cnm-46a1d9jck1j94ll37lkz].mkv.log
 │   │   ├── [1.9K 2026-10-31 23:45:47]  .ناروتو S01 E72 [cnm-l84e2i31fibwpzk6rky2].mkv.log
 │   │   ├── [1.9K 2026-10-31 23:46:31]  .ناروتو S01 E73 [cnm-47bci6vb2q4rmo63risl].mkv.log
-│   │   ├── [1.1K 2026-10-31 23:46:43]  .ناروتو S01 E74 [cnm-4dhuancnuy2qrs0cw2fm].mkv.log
+│   │   ├── [1.9K 2026-10-31 23:46:52]  .ناروتو S01 E74 [cnm-4dhuancnuy2qrs0cw2fm].mkv.log
+│   │   ├── [1.9K 2026-10-31 23:47:25]  .ناروتو S01 E75 [cnm-4ujqw9nezfffdhn95n8w].mkv.log
+│   │   ├── [1.9K 2026-10-31 23:47:10]  .ناروتو S01 E76 [cnm-58kfierqwf5lz7m331pu].mkv.log
+│   │   ├── [1.9K 2026-10-31 23:47:39]  .ناروتو S01 E77 [cnm-4gr4xkgz1id1biy5oqp3].mkv.log
+│   │   ├── [1.9K 2026-10-31 23:47:57]  .ناروتو S01 E80 [cnm-696iz57j1bsvsnwm4xvi].mkv.log
+│   │   ├── [1.9K 2026-10-31 23:48:11]  .ناروتو S01 E81 [cnm-5u01thxc9nhde4d8g08e].mkv.log
+│   │   ├── [1.1K 2026-10-31 23:48:22]  .ناروتو S01 E83 [cnm-221l9rlulut7wi9ugc30].mkv.log
 │   │   ├── [2.5K 2026-10-31 18:35:16]  .ناروتو شيبودن S01 E01 [cnm-65xg33mhw5liny3p7665].mkv.log
 │   │   ├── [2.5K 2026-10-31 18:35:33]  .ناروتو شيبودن S01 E02 [cnm-3fyt3wutmyj65wpi7fs6].mkv.log
 │   │   ├── [2.6K 2026-10-31 18:35:41]  .ناروتو شيبودن S01 E03 [cnm-4nayc3en98ybnoj7v801].mkv.log
@@ -453,19 +454,19 @@
 │   │   ├── [5.2K 2026-10-31 19:06:34]  .ناروتو شيبودن S01 E13 [cnm-11upn2dnr898easc1lmo].mkv.log
 │   │   ├── [5.2K 2026-10-31 19:06:34]  .ناروتو شيبودن S01 E14 [cnm-590wzx40u2rykj8vm3zu].mkv.log
 │   │   ├── [2.5K 2026-10-31 19:06:50]  .ناروتو شيبودن S01 E15 [cnm-15okwzjpmwbnemqxajhz].mkv.log
-│   │   ├── [2.4M 2026-10-31 23:46:45]  ca1_batch.jsonl
-│   │   ├── [ 18M 2026-10-31 23:46:45]  diagnostics.log
-│   │   ├── [ 486 2026-10-31 23:46:42]  download_repair_actions.log
-│   │   ├── [ 12M 2026-10-31 23:46:45]  downloads.log
-│   │   ├── [285K 2026-10-31 23:46:33]  load_diagnostics.filedownloader.jsonl
-│   │   ├── [417K 2026-10-31 23:46:44]  load_diagnostics.main.jsonl
-│   │   ├── [3.6K 2026-10-31 23:44:22]  logo_sources.log
-│   │   ├── [ 30K 2026-10-31 23:46:30]  mkv_identity.map
+│   │   ├── [2.5M 2026-11-01 00:46:22]  ca1_batch.jsonl
+│   │   ├── [ 20M 2026-11-01 00:46:23]  diagnostics.log
+│   │   ├── [ 654 2026-11-01 00:45:19]  download_repair_actions.log
+│   │   ├── [ 13M 2026-11-01 00:46:23]  downloads.log
+│   │   ├── [298K 2026-11-01 00:46:17]  load_diagnostics.filedownloader.jsonl
+│   │   ├── [430K 2026-11-01 00:46:09]  load_diagnostics.main.jsonl
+│   │   ├── [3.9K 2026-11-01 00:45:22]  logo_sources.log
+│   │   ├── [ 31K 2026-11-01 00:45:27]  mkv_identity.map
 │   │   ├── [605K 2026-10-31 20:14:48]  player_diagnostics.log
-│   │   ├── [ 482 2026-10-31 23:04:02]  storage_maintenance.log
-│   │   ├── [ 34K 2026-10-31 23:46:45]  tree.txt
-│   │   ├── [930K 2026-10-31 23:46:45]  ui95.log
-│   │   └── [1.2M 2026-10-31 23:46:45]  ui_performance.jsonl
+│   │   ├── [1.2K 2026-11-01 00:45:58]  storage_maintenance.log
+│   │   ├── [ 32K 2026-11-01 00:46:32]  tree.txt
+│   │   ├── [989K 2026-11-01 00:46:19]  ui95.log
+│   │   └── [1.3M 2026-11-01 00:46:21]  ui_performance.jsonl
 │   ├── [ 19K 2026-10-31 19:33:22]  special subtitle for ناروتو S01 E116 [cnm-680unu62q5914m78cfcf].ass
 │   ├── [ 28K 2026-10-31 19:33:27]  special subtitle for ناروتو S01 E142 [cnm-60nacsy0svbejqkha5n7].ass
 │   ├── [ 33K 2026-10-31 19:33:27]  special subtitle for ناروتو S01 E143 [cnm-od2n15qre9jajujr1miw].ass
@@ -528,14 +529,27 @@
 │   ├── [ 42M 2026-10-31 23:45:32]  ناروتو S01 E149 [cnm-434s3ghbmsqv55liqjst].mp4
 │   ├── [ 41M 2026-10-31 23:45:45]  ناروتو S01 E150 [cnm-1lcc71b0bt2swj7hgwyg].mp4
 │   ├── [ 40M 2026-10-31 23:45:51]  ناروتو S01 E151 [cnm-11mdmt5c622ga4jc7wb7].mp4
+│   ├── [ 40M 2026-11-01 00:46:04]  ناروتو S01 E152 [cnm-2k8dbzgto6a2m46mgkw3].mp4
+│   ├── [ 37M 2026-11-01 00:45:38]  ناروتو S01 E154 [cnm-43qyzj578b40os0yyd1k].mp4
+│   ├── [ 39M 2026-10-31 23:47:32]  ناروتو S01 E155 [cnm-4js478jdnjzxwlnmnbw3].mp4
 │   ├── [ 37M 2026-10-31 23:46:12]  ناروتو S01 E156 [cnm-547fi8jj6jefbxrsf8pd].mp4
+│   ├── [ 40M 2026-10-31 23:48:01]  ناروتو S01 E158 [cnm-yjitc5abynmak3ksh50y].mp4
 │   ├── [ 38M 2026-10-31 23:46:28]  ناروتو S01 E168 [cnm-wlnbjye8rack04vis8f2].mp4
 │   ├── [ 41M 2026-10-31 23:44:44]  ناروتو S01 E169 [cnm-fjtlmvb1nnwdje51jme2].mp4
 │   ├── [ 34M 2026-10-31 23:46:05]  ناروتو S01 E170 [cnm-1nal9oxqe15dvx6au1y4].mp4
+│   ├── [ 34M 2026-10-31 23:47:50]  ناروتو S01 E171 [cnm-648ot54kxpkednf3arcx].mp4
+│   ├── [ 46M 2026-11-01 00:45:33]  ناروتو S01 E177 [cnm-2d1gt4092gkx3y08aa2f].mp4
+│   ├── [ 34M 2026-10-31 23:47:36]  ناروتو S01 E179 [cnm-22kysmd4zail682k5rje].mp4
 │   ├── [ 36M 2026-10-31 23:46:28]  ناروتو S01 E181 [cnm-2xudkixqiac9tlkiwn2q].mp4
-│   ├── [ 38M 2026-10-31 23:46:45]  ناروتو S01 E182 [cnm-xtvtybytp0b5mn20ziw7].mp4.temp
-│   ├── [ 38M 2026-10-31 23:46:45]  ناروتو S01 E186 [cnm-24qxm6wbr00p0zjo1f1i].mp4.temp
-│   ├── [ 34M 2026-10-31 19:37:26]  ناروتو S01 E22 [cnm-3qkzu8t5je9cqwvvd8kz].mp4
+│   ├── [ 38M 2026-10-31 23:46:48]  ناروتو S01 E182 [cnm-xtvtybytp0b5mn20ziw7].mp4
+│   ├── [ 38M 2026-10-31 23:46:55]  ناروتو S01 E186 [cnm-24qxm6wbr00p0zjo1f1i].mp4
+│   ├── [ 42M 2026-11-01 00:46:23]  ناروتو S01 E187 [cnm-4wp9wsdrmze0v87v8g3j].mp4.temp
+│   ├── [ 34M 2026-10-31 23:47:21]  ناروتو S01 E188 [cnm-2jhkhbuhp12c9u8t5b6b].mp4
+│   ├── [ 39M 2026-10-31 23:48:12]  ناروتو S01 E190 [cnm-4g3la4rp1gk882j9gznd].mp4
+│   ├── [ 38M 2026-11-01 00:45:53]  ناروتو S01 E192 [cnm-3lz8uuir8zmuzinr1krn].mp4
+│   ├── [ 36M 2026-11-01 00:46:18]  ناروتو S01 E197 [cnm-4t7czvg8rl38gd1g87jm].mp4
+│   ├── [ 39M 2026-11-01 00:46:23]  ناروتو S01 E199 [cnm-dvcfh79psr3o2vw3pumn].mp4.temp
+│   ├── [ 41M 2026-10-31 23:47:13]  ناروتو S01 E205 [cnm-4p25kv7n8goxfmfdzh84].mp4
 │   ├── [ 33M 2026-10-31 19:37:38]  ناروتو S01 E23 [cnm-24xxsqvc7qtlj1l0snux].mp4
 │   ├── [ 35M 2026-10-31 19:37:45]  ناروتو S01 E24 [cnm-5lno9lx4cr8m5duchzot].mp4
 │   ├── [ 34M 2026-10-31 19:37:59]  ناروتو S01 E25 [cnm-4myq1dqb3b47ca4v4kgj].mp4
@@ -555,15 +569,8 @@
 │   ├── [ 32M 2026-10-31 19:45:37]  ناروتو S01 E65 [cnm-5nie5cwhj1jag3n2leul].mp4
 │   ├── [ 37M 2026-10-31 20:50:53]  ناروتو S01 E66 [cnm-29afczrqhnm909684j7o].mp4
 │   ├── [ 45M 2026-10-31 20:51:07]  ناروتو S01 E67 [cnm-1b3vxmg701nyqguezdkk].mp4
-│   ├── [ 12M 2026-10-31 23:46:45]  ناروتو S01 E74 [cnm-4dhuancnuy2qrs0cw2fm].mkv.cnm115-8b0e2bb9-d2bb-4543-ae21-fdcb98643c3e.part
-│   ├── [ 44M 2026-10-31 21:02:14]  ناروتو S01 E74 [cnm-4dhuancnuy2qrs0cw2fm].mp4
-│   ├── [ 43M 2026-10-31 21:02:32]  ناروتو S01 E75 [cnm-4ujqw9nezfffdhn95n8w].mp4
-│   ├── [ 35M 2026-10-31 21:02:31]  ناروتو S01 E76 [cnm-58kfierqwf5lz7m331pu].mp4
-│   ├── [ 38M 2026-10-31 21:02:50]  ناروتو S01 E77 [cnm-4gr4xkgz1id1biy5oqp3].mp4
 │   ├── [ 44M 2026-10-31 21:02:59]  ناروتو S01 E78 [cnm-2a06boh2l31jwpxplbmr].mp4
 │   ├── [ 40M 2026-10-31 21:03:09]  ناروتو S01 E79 [cnm-3hofm4xa5mxlbq55cimy].mp4
-│   ├── [ 32M 2026-10-31 21:03:21]  ناروتو S01 E80 [cnm-696iz57j1bsvsnwm4xvi].mp4
-│   ├── [ 35M 2026-10-31 21:03:22]  ناروتو S01 E81 [cnm-5u01thxc9nhde4d8g08e].mp4
 │   ├── [ 34M 2026-10-31 21:03:36]  ناروتو S01 E82 [cnm-3533o18mr650urjk90c0].mp4
 │   ├── [ 36M 2026-10-31 21:03:33]  ناروتو S01 E83 [cnm-221l9rlulut7wi9ugc30].mp4
 │   ├── [ 32M 2026-10-31 21:03:51]  ناروتو S01 E84 [cnm-1pp39mds2srzbvj9c2mz].mp4
@@ -583,7 +590,7 @@
 │   ├── [ 35M 2026-10-31 22:00:01]  ناروتو S01 E98 [cnm-2b6g0e0w5defde99s2tl].mp4
 │   └── [ 33M 2026-10-31 22:00:09]  ناروتو S01 E99 [cnm-54jg31k0chgvy96cumxr].mp4
 └── [3.4K 2026-10-31 19:33:36]  ناروتو
-    └── [8.0K 2026-10-31 23:46:30]  Season 1 ناروتو
+    └── [8.0K 2026-11-01 00:45:27]  Season 1 ناروتو
         ├── [ 35M 2026-10-31 19:33:35]  ناروتو S01 E01.mkv
         ├── [ 34M 2026-10-31 19:34:05]  ناروتو S01 E02.mkv
         ├── [ 34M 2026-10-31 19:34:05]  ناروتو S01 E03.mkv
@@ -605,6 +612,7 @@
         ├── [ 31M 2026-10-31 19:47:44]  ناروتو S01 E19.mkv
         ├── [ 37M 2026-10-31 20:14:32]  ناروتو S01 E20.mkv
         ├── [ 30M 2026-10-31 20:14:32]  ناروتو S01 E21.mkv
+        ├── [ 34M 2026-11-01 00:45:26]  ناروتو S01 E22.mkv
         ├── [ 35M 2026-10-31 21:01:34]  ناروتو S01 E29.mkv
         ├── [ 31M 2026-10-31 21:01:53]  ناروتو S01 E30.mkv
         ├── [ 33M 2026-10-31 21:02:23]  ناروتو S01 E31.mkv
@@ -638,6 +646,12 @@
         ├── [ 49M 2026-10-31 23:46:05]  ناروتو S01 E70.mkv
         ├── [ 36M 2026-10-31 23:04:03]  ناروتو S01 E71.mkv
         ├── [ 35M 2026-10-31 23:45:45]  ناروتو S01 E72.mkv
-        └── [ 40M 2026-10-31 23:46:29]  ناروتو S01 E73.mkv
+        ├── [ 40M 2026-10-31 23:46:29]  ناروتو S01 E73.mkv
+        ├── [ 43M 2026-10-31 23:46:51]  ناروتو S01 E74.mkv
+        ├── [ 42M 2026-10-31 23:47:24]  ناروتو S01 E75.mkv
+        ├── [ 34M 2026-10-31 23:47:08]  ناروتو S01 E76.mkv
+        ├── [ 37M 2026-10-31 23:47:38]  ناروتو S01 E77.mkv
+        ├── [ 31M 2026-10-31 23:47:55]  ناروتو S01 E80.mkv
+        └── [ 34M 2026-10-31 23:48:10]  ناروتو S01 E81.mkv
 
-9 directories, 632 files
+9 directories, 646 files
