@@ -1,0 +1,37 @@
+SDK: 35
+PRODUCT_NAME: mondrian_global
+DEVICE_NAME: mondrian
+BOARD_NAME: taro
+SUPPORTED_ABIS: arm64-v8a, armeabi-v7a, armeabi
+MANUFACTURER: Xiaomi
+BRAND: POCO
+MODEL: 23013PC75G
+
+APP_NAME: سينمانا برو
+PACKAGE: com.cinemana.pro
+VERSION_NAME: 6.0.0
+VERSION_CODE: 50382
+
+1793455854.194 13013 18398 18398 E AndroidRuntime: FATAL EXCEPTION: main
+1793455854.194 13013 18398 18398 E AndroidRuntime: Process: com.cinemana.pro, PID: 18398
+1793455854.194 13013 18398 18398 E AndroidRuntime: java.lang.VerifyError: Rejecting class com.shabakaty.cinemana.ui.home_activity.HomeActivity that attempts to sub-type erroneous class com.shabakaty.downloader.hx2 (declaration of 'com.shabakaty.cinemana.ui.home_activity.HomeActivity' appears in /data/app/~~0yhTula8h3ImTK3JWv4HJQ==/com.cinemana.pro-zqcXXPLWR-FmgSunji_VKA==/base.apk)
+1793455854.194 13013 18398 18398 E AndroidRuntime: 	at java.lang.Class.newInstance(Native Method)
+1793455854.194 13013 18398 18398 E AndroidRuntime: 	at android.app.AppComponentFactory.instantiateActivity(AppComponentFactory.java:95)
+1793455854.194 13013 18398 18398 E AndroidRuntime: 	at androidx.core.app.CoreComponentFactory.instantiateActivity(CoreComponentFactory.java:1)
+1793455854.194 13013 18398 18398 E AndroidRuntime: 	at android.app.Instrumentation.newActivity(Instrumentation.java:1457)
+1793455854.194 13013 18398 18398 E AndroidRuntime: 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:4345)
+1793455854.194 13013 18398 18398 E AndroidRuntime: 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:4686)
+1793455854.194 13013 18398 18398 E AndroidRuntime: 	at android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:112)
+1793455854.194 13013 18398 18398 E AndroidRuntime: 	at android.app.servertransaction.TransactionExecutor.executeNonLifecycleItem(TransactionExecutor.java:186)
+1793455854.194 13013 18398 18398 E AndroidRuntime: 	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:112)
+1793455854.194 13013 18398 18398 E AndroidRuntime: 	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:84)
+1793455854.194 13013 18398 18398 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2918)
+1793455854.194 13013 18398 18398 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:107)
+1793455854.194 13013 18398 18398 E AndroidRuntime: 	at android.os.Looper.loopOnce(Looper.java:249)
+1793455854.194 13013 18398 18398 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:337)
+1793455854.194 13013 18398 18398 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:9682)
+1793455854.194 13013 18398 18398 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+1793455854.194 13013 18398 18398 E AndroidRuntime: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:625)
+1793455854.194 13013 18398 18398 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:944)
+1793455854.194 13013 18398 18398 E AndroidRuntime: Caused by: java.lang.VerifyError: Verifier rejected class com.shabakaty.downloader.hx2: void com.shabakaty.downloader.hx2.onCreate(android.os.Bundle) failed to verify: void com.shabakaty.downloader.hx2.onCreate(android.os.Bundle): [0xEE] register v0 has type Undefined but expected Integer (declaration of 'com.shabakaty.downloader.hx2' appears in /data/app/~~0yhTula8h3ImTK3JWv4HJQ==/com.cinemana.pro-zqcXXPLWR-FmgSunji_VKA==/base.apk)
+1793455854.194 13013 18398 18398 E AndroidRuntime: 	... 18 more
