@@ -32,3 +32,66 @@
 1793453077883 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
 1793453077893 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
 1793453077894 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793453711744 CATALOG128 empty path=
+1793453711773 CATALOG128 empty path=
+1793453716239 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793453716240 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793453716253 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793453716254 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793453719133 CATALOG128 empty path=
+1793453719151 CATALOG128 empty path=
+1793453722973 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793453722974 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793453722988 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793453722989 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793453725850 CATALOG128 empty path=
+1793453725865 CATALOG128 empty path=
+1793453728538 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793453728540 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793453728567 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793453728568 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793453731718 CATALOG128 empty path=
+1793453731744 CATALOG128 empty path=
+1793453735132 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793453735133 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793453735152 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793453735153 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793453748603 CATALOG128 empty path=
+1793453748622 CATALOG128 empty path=
+1793453754788 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793453754792 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793453754836 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793453754851 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793453786817 CATALOG128 empty path=
+1793453786869 CATALOG128 empty path=
+1793453816941 CATALOG128 empty path=
+1793453816971 CATALOG128 empty path=
+1793453833295 CATALOG128 empty path=
+1793453844709 CATALOG128 empty path=
+1793453844753 CATALOG128 empty path=
+1793453851954 CATALOG128 empty path=
+1793453852016 CATALOG128 empty path=
+1793453871488 CATALOG128 empty path=
+1793453871514 CATALOG128 empty path=
+1793453874946 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player,1:en/application/x-subrip@player]
+1793453874948 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player,1:en/application/x-subrip@player] exposed=2
+1793453894680 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player,1:en/application/x-subrip@player]
+1793453894681 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player,1:en/application/x-subrip@player] exposed=2
+1793453894692 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player,1:en/application/x-subrip@player]
+1793453894693 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player,1:en/application/x-subrip@player] exposed=2
+1793453899807 CATALOG128 empty path=
+1793453899850 CATALOG128 empty path=
+1793453904639 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793453904640 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793453904655 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793453904656 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793453907479 CATALOG128 empty path=
+1793453907504 CATALOG128 empty path=
+1793453911404 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793453911406 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793453911418 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1793453911419 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1793453913921 CATALOG128 empty path=
+1793453913945 CATALOG128 empty path=
+1793453915023 CATALOG128 empty path=
+1793453915046 CATALOG128 empty path=
