@@ -4,10 +4,10 @@
 ├── [8.0K 2026-10-31 19:06:50]  work
 │   ├── [3.4K 2026-10-31 19:08:16]  data
 │   │   ├── [3.4K 2026-10-31 19:06:50]  cnm_recovery
-│   │   ├── [1.0M 2026-10-31 19:08:15]  episodes.v1.bin
-│   │   ├── [1.0M 2026-10-31 19:08:15]  episodes.v1.bin.previous
-│   │   ├── [ 73K 2026-10-31 19:08:16]  library.v1.bin
-│   │   ├── [ 73K 2026-10-31 19:08:16]  library.v1.bin.previous
+│   │   ├── [1.0M 2026-10-31 18:33:15]  episodes.v1.bin
+│   │   ├── [1.0M 2026-10-31 19:06:51]  episodes.v1.bin.previous
+│   │   ├── [ 73K 2026-10-31 18:33:15]  library.v1.bin
+│   │   ├── [ 73K 2026-10-31 19:07:40]  library.v1.bin.previous
 │   │   ├── [3.4K 2026-10-31 19:08:01]  local-account
 │   │   │   └── [ 80K 2026-10-31 19:08:01]  account.bin
 │   │   ├── [3.4K 2026-10-31 19:06:50]  mkv-proofs
@@ -41,10 +41,10 @@
 │   │   │   ├── [ 142 2026-10-31 19:04:18]  8fnj3d9pbh0tisiu7yog.path
 │   │   │   ├── [ 103 2026-10-31 19:02:40]  dat8g3c8b4djsvisoyrk.path
 │   │   │   └── [ 103 2026-10-31 18:34:28]  qswl05curr9wm6bz9iev.path
-│   │   ├── [ 44K 2026-10-31 19:08:15]  watch.v1.bin
-│   │   └── [ 43K 2026-10-31 19:08:15]  watch.v1.bin.previous
+│   │   ├── [ 44K 2026-10-31 18:33:15]  watch.v1.bin
+│   │   └── [ 43K 2026-10-31 19:07:38]  watch.v1.bin.previous
 │   └── [8.0K 2026-10-31 19:06:49]  log
-│       ├── [2.0M 2026-10-31 19:08:16]  .mkv_export.log
+│       ├── [2.1M 2026-10-31 19:28:58]  .mkv_export.log
 │       ├── [5.4K 2026-10-31 19:07:30]  .mkv_player_resolver.log
 │       ├── [8.6K 2026-10-31 19:07:30]  .mkv_subtitle_catalog.log
 │       ├── [1.9K 2026-10-31 18:34:28]  .ناروتو S01 E01 [cnm-qswl05curr9wm6bz9iev].mkv.log
@@ -78,14 +78,14 @@
 │       ├── [5.2K 2026-10-31 19:06:34]  .ناروتو شيبودن S01 E14 [cnm-590wzx40u2rykj8vm3zu].mkv.log
 │       ├── [2.5K 2026-10-31 19:06:50]  .ناروتو شيبودن S01 E15 [cnm-15okwzjpmwbnemqxajhz].mkv.log
 │       ├── [812K 2026-10-31 19:08:07]  ca1_batch.jsonl
-│       ├── [1.3M 2026-10-31 19:08:16]  diagnostics.log
-│       ├── [834K 2026-10-31 19:08:16]  downloads.log
+│       ├── [1.3M 2026-10-31 19:28:58]  diagnostics.log
+│       ├── [839K 2026-10-31 19:28:58]  downloads.log
 │       ├── [144K 2026-10-31 19:07:59]  load_diagnostics.filedownloader.jsonl
-│       ├── [157K 2026-10-31 19:08:15]  load_diagnostics.main.jsonl
+│       ├── [251K 2026-10-31 19:29:47]  load_diagnostics.main.jsonl
 │       ├── [1.5K 2026-10-31 19:08:06]  logo_sources.log
 │       ├── [ 12K 2026-10-31 19:06:50]  mkv_identity.map
 │       ├── [573K 2026-10-31 19:08:01]  player_diagnostics.log
-│       ├── [   0 2026-10-31 19:08:17]  tree.txt
+│       ├── [   0 2026-10-31 19:29:49]  tree.txt
 │       ├── [358K 2026-10-31 19:08:15]  ui95.log
 │       └── [406K 2026-10-31 19:08:12]  ui_performance.jsonl
 ├── [3.4K 2026-10-31 18:34:27]  ناروتو
