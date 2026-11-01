@@ -1,10 +1,264 @@
-[3.4K 2026-11-01 02:36:57]  /storage/emulated/0/Cinemana/
+[3.4K 2026-11-01 18:00:11]  /storage/emulated/0/Cinemana/
+├── [3.4K 2026-11-01 18:00:11]  data
+│   ├── [ 24K 2026-11-01 02:39:20]  cnm_recovery
+│   │   ├── [ 419 2026-11-01 02:36:53]  104zv0oq78v591etxzrk.json
+│   │   ├── [ 417 2026-11-01 02:36:51]  11mdmt5c622ga4jc7wb7.json
+│   │   ├── [ 417 2026-11-01 02:36:37]  143hat9uc5e9b2dkaq9c.json
+│   │   ├── [ 417 2026-11-01 02:36:37]  14l1qqyjy97c67bjzhe1.json
+│   │   ├── [ 418 2026-11-01 02:37:00]  157onifhvq6f18bmlkr0.json
+│   │   ├── [1.4K 2026-11-01 02:36:17]  19i7bzwdte3chbs5qin1.json
+│   │   ├── [ 416 2026-11-01 02:36:38]  1azwgjegero634cbxl6a.json
+│   │   ├── [ 416 2026-11-01 02:36:40]  1b3vxmg701nyqguezdkk.json
+│   │   ├── [ 418 2026-11-01 02:36:47]  1brptia3sbs3vg8we85s.json
+│   │   ├── [ 419 2026-11-01 02:37:03]  1dcstvutwl86aj9y4wu5.json
+│   │   ├── [ 418 2026-11-01 02:36:59]  1e1h3nm18t53sgtoc0sp.json
+│   │   ├── [ 418 2026-11-01 02:37:02]  1etdm2k7riykq87fxjcb.json
+│   │   ├── [ 417 2026-11-01 02:36:49]  1fak6c5gj8vfv6yg9fdy.json
+│   │   ├── [ 417 2026-11-01 02:36:43]  1im1l81fhgkh34feh1mo.json
+│   │   ├── [ 418 2026-11-01 02:36:38]  1k0tq61u5fg3a5g4a7oo.json
+│   │   ├── [ 418 2026-11-01 02:36:51]  1lcc71b0bt2swj7hgwyg.json
+│   │   ├── [ 417 2026-11-01 02:36:44]  1mqw6auw06mu1lfo7ank.json
+│   │   ├── [ 418 2026-11-01 02:36:54]  1nal9oxqe15dvx6au1y4.json
+│   │   ├── [ 417 2026-11-01 02:36:46]  1niqtc8gw5w0yfrg6dm6.json
+│   │   ├── [ 419 2026-11-01 02:36:47]  1p0qq4a333numnqsh3q7.json
+│   │   ├── [ 417 2026-11-01 02:36:41]  1pp39mds2srzbvj9c2mz.json
+│   │   ├── [ 416 2026-11-01 02:36:36]  1rokx42v4p1noa8qsq9j.json
+│   │   ├── [ 417 2026-11-01 02:36:43]  1snld38m0j4hc3bx6nsm.json
+│   │   ├── [ 418 2026-11-01 02:36:48]  1uj7kqr01ou6foulq3ot.json
+│   │   ├── [ 417 2026-11-01 02:36:36]  1uw8i69ycqmrbwcaloax.json
+│   │   ├── [ 417 2026-11-01 02:36:58]  1wl5emvdj68zfqjnr1x2.json
+│   │   ├── [ 417 2026-11-01 02:36:46]  1zuqnc8nd2khim22070i.json
+│   │   ├── [ 418 2026-11-01 02:36:39]  20o6x6khycmoawui3n8u.json
+│   │   ├── [ 418 2026-11-01 02:36:58]  21ap8kjarbf91yoj0gci.json
+│   │   ├── [ 419 2026-11-01 02:36:54]  21ki3ccxcdt3jeomsi36.json
+│   │   ├── [ 416 2026-11-01 02:36:41]  221l9rlulut7wi9ugc30.json
+│   │   ├── [ 417 2026-11-01 02:36:37]  22ede24fvynwus308wun.json
+│   │   ├── [ 418 2026-11-01 02:36:56]  22kysmd4zail682k5rje.json
+│   │   ├── [ 417 2026-11-01 02:36:57]  24qxm6wbr00p0zjo1f1i.json
+│   │   ├── [ 417 2026-11-01 02:36:36]  24xxsqvc7qtlj1l0snux.json
+│   │   ├── [1.4K 2026-11-01 02:39:08]  255bi0t57ooygecpyyor.json
+│   │   ├── [ 418 2026-11-01 02:36:36]  25c45j5ymlnv9hka5m7y.json
+│   │   ├── [ 418 2026-11-01 02:36:47]  27t19f48ekim5hn74cbl.json
+│   │   ├── [ 417 2026-11-01 02:36:43]  289r7qlmo9e6nhixh5b4.json
+│   │   ├── [ 417 2026-11-01 02:36:38]  28ovimbq0vc1z99bv5r6.json
+│   │   ├── [ 418 2026-11-01 02:36:51]  2958s5xlj6mv0c0f1yz3.json
+│   │   ├── [ 418 2026-11-01 02:36:40]  29afczrqhnm909684j7o.json
+│   │   ├── [ 418 2026-11-01 02:36:44]  29j2uih1k4rdwkny82a7.json
+│   │   ├── [ 416 2026-11-01 02:36:39]  29uw7u1t7t4rkq8jkumk.json
+│   │   ├── [ 416 2026-11-01 02:36:41]  2a06boh2l31jwpxplbmr.json
+│   │   ├── [ 416 2026-11-01 02:36:44]  2b6g0e0w5defde99s2tl.json
+│   │   ├── [ 416 2026-11-01 02:36:37]  2biq5d90b85u5kfxpzb5.json
+│   │   ├── [ 419 2026-11-01 02:36:55]  2d1gt4092gkx3y08aa2f.json
+│   │   ├── [ 418 2026-11-01 02:36:58]  2ffmjt4d3hkbf88lxwaj.json
+│   │   ├── [ 417 2026-11-01 02:36:38]  2h8r3orgph1xxs4yxku0.json
+│   │   ├── [ 418 2026-11-01 02:36:38]  2hmxr1s2v5kqgeim5hpf.json
+│   │   ├── [ 419 2026-11-01 02:36:57]  2jhkhbuhp12c9u8t5b6b.json
+│   │   ├── [ 418 2026-11-01 02:36:51]  2k8dbzgto6a2m46mgkw3.json
+│   │   ├── [ 419 2026-11-01 02:37:01]  2mi0qycoavvcnosgxgwk.json
+│   │   ├── [1.4K 2026-11-01 02:38:29]  2nv62q4696dzy644n05w.json
+│   │   ├── [ 418 2026-11-01 02:36:50]  2pkh70935d5qlmguqr7l.json
+│   │   ├── [ 418 2026-11-01 02:36:47]  2qw16wiyoxv7v5dvahpt.json
+│   │   ├── [ 417 2026-11-01 02:36:47]  2ra60du6x7o3wlc2lk7v.json
+│   │   ├── [1.4K 2026-11-01 02:38:46]  2s2lm3r8j79nnnneacdh.json
+│   │   ├── [ 418 2026-11-01 02:36:49]  2snr9yu5si2imbe774a8.json
+│   │   ├── [ 416 2026-11-01 02:36:37]  2swe0zopz45ktjhtc4gt.json
+│   │   ├── [ 417 2026-11-01 02:36:42]  2u6onbogwu99pi14hmou.json
+│   │   ├── [ 416 2026-11-01 02:36:37]  2umrmxubddrrgih7r9e6.json
+│   │   ├── [ 418 2026-11-01 02:36:49]  2v0d7psp854d6xj5qzq8.json
+│   │   ├── [ 415 2026-11-01 02:36:37]  2xjnbx6ggtqpjhkvvgpd.json
+│   │   ├── [ 419 2026-11-01 02:36:56]  2xudkixqiac9tlkiwn2q.json
+│   │   ├── [ 417 2026-11-01 02:37:02]  2z35eso40aqws2twzxk0.json
+│   │   ├── [ 418 2026-11-01 02:36:45]  322d0fg2hdg07cjmzxo0.json
+│   │   ├── [ 418 2026-11-01 02:36:49]  32fin0r8nc891omdepas.json
+│   │   ├── [ 419 2026-11-01 02:36:49]  34rzf02jblruxmdl8fb2.json
+│   │   ├── [ 417 2026-11-01 02:36:41]  3533o18mr650urjk90c0.json
+│   │   ├── [ 417 2026-11-01 02:37:01]  35k2v1akgv29d6vw3yzz.json
+│   │   ├── [ 416 2026-11-01 02:36:46]  377ugy11x1zihy5sr219.json
+│   │   ├── [ 415 2026-11-01 02:36:36]  38qn9vfkyffwdxhq47c5.json
+│   │   ├── [ 418 2026-11-01 02:36:51]  3arp8wxdasxdgi8uppo3.json
+│   │   ├── [ 419 2026-11-01 02:36:48]  3avtkkm7o3hrfyge7yjc.json
+│   │   ├── [ 417 2026-11-01 02:36:45]  3carvns6ubnutw97alnq.json
+│   │   ├── [ 419 2026-11-01 02:36:48]  3d36mikh3z7k1jeg0or7.json
+│   │   ├── [ 417 2026-11-01 02:36:42]  3ejzok8mls8qrxhvjb9e.json
+│   │   ├── [ 418 2026-11-01 02:37:02]  3fcvlw28en0lbispu3ur.json
+│   │   ├── [ 418 2026-11-01 02:37:02]  3hfmfr2cii44mnmq862r.json
+│   │   ├── [ 418 2026-11-01 02:36:41]  3hofm4xa5mxlbq55cimy.json
+│   │   ├── [ 417 2026-11-01 02:36:54]  3hs3bghx817e8pvdl2sz.json
+│   │   ├── [ 418 2026-11-01 02:36:53]  3i6as4prz5xz6n833lj8.json
+│   │   ├── [ 418 2026-11-01 02:37:00]  3ildrrimrjlk6x611v1a.json
+│   │   ├── [1.4K 2026-11-01 02:38:38]  3jtfupyemh8w6mi5t9nt.json
+│   │   ├── [ 417 2026-11-01 02:36:39]  3khxx1vtmu18ya3kles6.json
+│   │   ├── [ 419 2026-11-01 02:36:46]  3lts2hxq6hty31d7sqon.json
+│   │   ├── [ 417 2026-11-01 02:36:58]  3lz8uuir8zmuzinr1krn.json
+│   │   ├── [ 417 2026-11-01 02:36:39]  3n99vdyy008mhmes0ogn.json
+│   │   ├── [ 417 2026-11-01 02:36:42]  3oq03et2mq4ppqtwfzoo.json
+│   │   ├── [ 417 2026-11-01 02:36:38]  3pil2uzqvj6kd4jgorx1.json
+│   │   ├── [ 416 2026-11-01 02:36:36]  3qkzu8t5je9cqwvvd8kz.json
+│   │   ├── [ 416 2026-11-01 02:36:39]  3tapddkgjj64o7aggpm3.json
+│   │   ├── [ 418 2026-11-01 02:36:38]  3ti717pjale5020ze7la.json
+│   │   ├── [ 417 2026-11-01 02:36:49]  3vd1j2we2uh5dnlo7y80.json
+│   │   ├── [ 417 2026-11-01 02:36:37]  3wbm8nkmpj8a7sbl245z.json
+│   │   ├── [ 419 2026-11-01 02:36:56]  3x18toth7axhajnhahfi.json
+│   │   ├── [ 417 2026-11-01 02:36:36]  3y8v4f1s2jwg0rotimo8.json
+│   │   ├── [ 417 2026-11-01 02:36:40]  3z2opzpqg8uubfshmh2h.json
+│   │   ├── [ 417 2026-11-01 02:36:40]  3z6qygpiheatztx5hq3f.json
+│   │   ├── [ 417 2026-11-01 02:36:51]  434s3ghbmsqv55liqjst.json
+│   │   ├── [ 418 2026-11-01 02:36:51]  43qyzj578b40os0yyd1k.json
+│   │   ├── [ 418 2026-11-01 02:36:45]  45i8gqoqr76qs8fdt4ak.json
+│   │   ├── [ 417 2026-11-01 02:36:40]  46a1d9jck1j94ll37lkz.json
+│   │   ├── [ 417 2026-11-01 02:36:40]  47bci6vb2q4rmo63risl.json
+│   │   ├── [ 417 2026-11-01 02:36:48]  4at8t9cnlo9o1zlrfrhj.json
+│   │   ├── [ 416 2026-11-01 02:37:01]  4c11p4goj3188gm44exe.json
+│   │   ├── [ 417 2026-11-01 02:37:02]  4cqj5l1rcy674uv9d3nb.json
+│   │   ├── [ 417 2026-11-01 02:36:38]  4czb0enzcoet3c57gct4.json
+│   │   ├── [ 418 2026-11-01 02:36:40]  4dhuancnuy2qrs0cw2fm.json
+│   │   ├── [ 418 2026-11-01 02:36:49]  4f99j7awon3tlchlzn08.json
+│   │   ├── [ 418 2026-11-01 02:36:57]  4g3la4rp1gk882j9gznd.json
+│   │   ├── [ 416 2026-11-01 02:36:41]  4gr4xkgz1id1biy5oqp3.json
+│   │   ├── [ 419 2026-11-01 02:36:59]  4ig3zdj71kiml2oz0se3.json
+│   │   ├── [ 419 2026-11-01 02:36:52]  4js478jdnjzxwlnmnbw3.json
+│   │   ├── [ 417 2026-11-01 02:37:02]  4kt9cy8cxs1wwkduoep5.json
+│   │   ├── [1.4K 2026-11-01 02:38:08]  4lz4z6zunxs2uc01iyho.json
+│   │   ├── [ 418 2026-11-01 02:36:52]  4ms47tfpa3zurqlhyycw.json
+│   │   ├── [ 416 2026-11-01 02:36:36]  4myq1dqb3b47ca4v4kgj.json
+│   │   ├── [1.4K 2026-11-01 02:39:15]  4n21lfuhfh1eop9ptgvv.json
+│   │   ├── [ 417 2026-11-01 02:36:38]  4n5e2mp2as8wfo835f1k.json
+│   │   ├── [ 418 2026-11-01 02:36:53]  4nm1xicbtpbhrqpyp070.json
+│   │   ├── [1.4K 2026-11-01 02:38:55]  4oc3mycpr9bko8hqyywh.json
+│   │   ├── [ 418 2026-11-01 02:37:00]  4p25kv7n8goxfmfdzh84.json
+│   │   ├── [1.4K 2026-11-01 02:37:47]  4pa3cu0sil1vsly4s318.json
+│   │   ├── [ 417 2026-11-01 02:36:44]  4plsav7lmd2q4fxou167.json
+│   │   ├── [ 416 2026-11-01 02:36:42]  4qcz6xqz97kam7vf68rp.json
+│   │   ├── [ 417 2026-11-01 02:36:43]  4qmrgkebxlrtlulq5z6v.json
+│   │   ├── [ 418 2026-11-01 02:36:59]  4t7czvg8rl38gd1g87jm.json
+│   │   ├── [ 418 2026-11-01 02:36:40]  4ujqw9nezfffdhn95n8w.json
+│   │   ├── [ 418 2026-11-01 02:36:53]  4voye5dwc3jxqe4vqmb5.json
+│   │   ├── [ 417 2026-11-01 02:36:57]  4wp9wsdrmze0v87v8g3j.json
+│   │   ├── [ 419 2026-11-01 02:36:57]  4yqarky14earor5nvp9q.json
+│   │   ├── [ 418 2026-11-01 02:36:50]  4z7pw934jkrqz0073wg0.json
+│   │   ├── [ 418 2026-11-01 02:36:58]  50jku2o5fgdz60i2p656.json
+│   │   ├── [ 414 2026-11-01 02:36:43]  52otmh01hta09hfwwnow.json
+│   │   ├── [ 419 2026-11-01 02:36:46]  5376rk7vgexn8wu7kuxv.json
+│   │   ├── [ 417 2026-11-01 02:36:39]  53s89v7ncs5jog9bnx8z.json
+│   │   ├── [ 418 2026-11-01 02:36:52]  547fi8jj6jefbxrsf8pd.json
+│   │   ├── [ 416 2026-11-01 02:36:44]  54jg31k0chgvy96cumxr.json
+│   │   ├── [ 418 2026-11-01 02:37:01]  54t6sgz0vdcrxo28jhk0.json
+│   │   ├── [ 417 2026-11-01 02:36:44]  54v09te2804qk3v55v2u.json
+│   │   ├── [ 416 2026-11-01 02:36:36]  56csus3yw2ijsd7kswrp.json
+│   │   ├── [ 418 2026-11-01 02:36:42]  56hv59uxts0csyf8t6ks.json
+│   │   ├── [ 417 2026-11-01 02:36:39]  57jl7bqfdiyckiyardlz.json
+│   │   ├── [ 417 2026-11-01 02:36:40]  57ttawa9is7rz2bw677w.json
+│   │   ├── [ 418 2026-11-01 02:36:47]  583v0zb6cqulnrzvertj.json
+│   │   ├── [ 417 2026-11-01 02:36:41]  58kfierqwf5lz7m331pu.json
+│   │   ├── [ 417 2026-11-01 02:36:39]  5f2jakti8sv0o11fkiyo.json
+│   │   ├── [ 418 2026-11-01 02:37:00]  5fvfc5fncojtowhggk50.json
+│   │   ├── [ 417 2026-11-01 02:36:38]  5hdytbz5szo9gmteyqc7.json
+│   │   ├── [1.4K 2026-11-01 02:38:18]  5hx3jeupgjo7i154vp97.json
+│   │   ├── [ 418 2026-11-01 02:36:43]  5lhl8jb1hrx9v38p9gqa.json
+│   │   ├── [ 418 2026-11-01 02:36:36]  5lno9lx4cr8m5duchzot.json
+│   │   ├── [ 418 2026-11-01 02:36:55]  5lpvmdjdi4p1vac9me61.json
+│   │   ├── [ 417 2026-11-01 02:37:00]  5lu8y3vfrq3s4sureunn.json
+│   │   ├── [ 418 2026-11-01 02:36:39]  5nie5cwhj1jag3n2leul.json
+│   │   ├── [ 417 2026-11-01 02:37:01]  5q2f0zef64evciyiwyo7.json
+│   │   ├── [ 418 2026-11-01 02:36:39]  5s2yimny6dxvblo0864z.json
+│   │   ├── [ 416 2026-11-01 02:36:41]  5u01thxc9nhde4d8g08e.json
+│   │   ├── [ 412 2026-11-01 02:36:38]  5u1azyzopfwp6l7t38v4.json
+│   │   ├── [ 418 2026-11-01 02:36:59]  5vte2hho86jjgpu66yzu.json
+│   │   ├── [ 418 2026-11-01 02:37:00]  5wk5zfkmwmpgefe6ioy1.json
+│   │   ├── [ 419 2026-11-01 02:36:53]  5xruy4d4lstlovjxix35.json
+│   │   ├── [ 419 2026-11-01 02:36:45]  5z2ihmsziz2wk7j46ajn.json
+│   │   ├── [ 417 2026-11-01 02:36:52]  6042lqn79m6x2lw5rh23.json
+│   │   ├── [ 417 2026-11-01 02:36:50]  60nacsy0svbejqkha5n7.json
+│   │   ├── [ 418 2026-11-01 02:36:47]  63ffo8aelik0yz5cmw0z.json
+│   │   ├── [ 418 2026-11-01 02:36:56]  63ni61xnmbqzzmeeesbs.json
+│   │   ├── [ 418 2026-11-01 02:36:54]  648ot54kxpkednf3arcx.json
+│   │   ├── [ 418 2026-11-01 02:36:45]  65a08x5x279ty9e68pky.json
+│   │   ├── [ 418 2026-11-01 02:36:50]  65neq4aaxvu6brpy5ro8.json
+│   │   ├── [ 416 2026-11-01 02:36:36]  65rp6gci1xkh8y4m8sku.json
+│   │   ├── [ 418 2026-11-01 02:36:59]  65u5vqxe2l1l2r7qbx3u.json
+│   │   ├── [ 418 2026-11-01 02:36:48]  6641pxo1c3y4o57ssok4.json
+│   │   ├── [ 416 2026-11-01 02:36:37]  66cuj1265fq8mg8jszdk.json
+│   │   ├── [ 416 2026-11-01 02:36:37]  66edngl46eppth9aai9h.json
+│   │   ├── [ 417 2026-11-01 02:36:45]  66o6whdktvabi8z72dqr.json
+│   │   ├── [ 418 2026-11-01 02:36:37]  66ovresyrjoqna2gf4ak.json
+│   │   ├── [ 418 2026-11-01 02:36:46]  680unu62q5914m78cfcf.json
+│   │   ├── [ 417 2026-11-01 02:36:41]  696iz57j1bsvsnwm4xvi.json
+│   │   ├── [ 417 2026-11-01 02:36:38]  69me5bmcs1a0k2q1o48n.json
+│   │   ├── [ 417 2026-11-01 02:36:55]  6cn4uotcmlitkbb6nwap.json
+│   │   ├── [ 418 2026-11-01 02:36:47]  6djdb5om2i66utj5xtvt.json
+│   │   ├── [ 418 2026-11-01 02:36:46]  7jnk2i6f8cpa8tcq2vaj.json
+│   │   ├── [ 418 2026-11-01 02:36:39]  buym1hn4r86jc6ar3ztv.json
+│   │   ├── [ 418 2026-11-01 02:36:36]  cd5unnlsmjwlj3uuqapg.json
+│   │   ├── [1.4K 2026-11-01 02:37:59]  dat8g3c8b4djsvisoyrk.json
+│   │   ├── [ 418 2026-11-01 02:36:59]  dvcfh79psr3o2vw3pumn.json
+│   │   ├── [ 418 2026-11-01 02:36:45]  fep3h7aj4vlzzelhdylw.json
+│   │   ├── [ 419 2026-11-01 02:36:54]  fjtlmvb1nnwdje51jme2.json
+│   │   ├── [ 418 2026-11-01 02:36:42]  fui891js0ap9rp8pyy6p.json
+│   │   ├── [ 418 2026-11-01 02:36:52]  gbv9jcgfw4392hlbme8w.json
+│   │   ├── [ 417 2026-11-01 02:36:38]  hv53zx1vpaouv8sxaue3.json
+│   │   ├── [ 416 2026-11-01 02:36:39]  ienb97nlzt4oqtdny08u.json
+│   │   ├── [ 417 2026-11-01 02:36:48]  j9l0cm9ypmpoqkyzgaui.json
+│   │   ├── [ 417 2026-11-01 02:36:40]  l84e2i31fibwpzk6rky2.json
+│   │   ├── [ 418 2026-11-01 02:36:44]  nl3jjkifmvzhpp4jvfto.json
+│   │   ├── [ 419 2026-11-01 02:36:44]  o1xuiu3iso9px7p6ibmx.json
+│   │   ├── [ 418 2026-11-01 02:36:54]  o38mwja1lwbaazn3jym5.json
+│   │   ├── [ 418 2026-11-01 02:36:50]  od2n15qre9jajujr1miw.json
+│   │   ├── [ 419 2026-11-01 02:36:56]  ohzrg2fa6soybnvozeh2.json
+│   │   ├── [ 418 2026-11-01 02:36:55]  p1kv8lex67j2bf340tvc.json
+│   │   ├── [ 417 2026-11-01 02:36:57]  tpvaj6de4eh5805gizoo.json
+│   │   ├── [ 418 2026-11-01 02:36:50]  vubmzqtg4z4ngqeq9otj.json
+│   │   ├── [ 418 2026-11-01 02:36:53]  vuwzo44zl4yl3oxj5gqp.json
+│   │   ├── [ 418 2026-11-01 02:36:54]  wlnbjye8rack04vis8f2.json
+│   │   ├── [ 417 2026-11-01 02:37:01]  wx54hgdk8hf57o6osgz2.json
+│   │   ├── [ 418 2026-11-01 02:36:55]  x0gd1edn1w0jmllpce48.json
+│   │   ├── [ 418 2026-11-01 02:36:43]  xims7aj97pfx4q463t3h.json
+│   │   ├── [ 419 2026-11-01 02:36:56]  xtvtybytp0b5mn20ziw7.json
+│   │   ├── [ 419 2026-11-01 02:36:48]  ydw2o0a4zi1pr3bc883s.json
+│   │   ├── [ 418 2026-11-01 02:36:52]  yjitc5abynmak3ksh50y.json
+│   │   └── [ 418 2026-11-01 02:36:36]  zo6htr40gntpwmt93ztf.json
+│   ├── [ 36K 2026-11-01 02:32:16]  episodes.v1.bin
+│   ├── [ 23K 2026-11-01 02:38:12]  episodes.v1.bin.previous
+│   ├── [ 63K 2026-11-01 02:32:16]  library.v1.bin
+│   ├── [ 63K 2026-11-01 02:39:23]  library.v1.bin.previous
+│   ├── [3.4K 2026-11-01 02:39:12]  local-account
+│   │   ├── [185K 2026-11-01 02:39:12]  account.bin
+│   │   └── [ 30K 2026-11-01 02:32:46]  avatar-8aec41f5b54420c0.jpg
+│   ├── [3.4K 2026-11-01 02:39:20]  mkv-proofs
+│   │   ├── [ 103 2026-11-01 02:37:07]  20tzn89ttrw0uyi2iute.path
+│   │   ├── [ 103 2026-11-01 02:38:49]  26zkr1ys99ogl998r2x4.path
+│   │   ├── [ 103 2026-11-01 02:39:20]  5gt0ljxjloj2t6istgvd.path
+│   │   ├── [ 103 2026-11-01 02:38:21]  6c99uno95wdddkvgb1t7.path
+│   │   └── [ 103 2026-11-01 02:36:58]  qswl05curr9wm6bz9iev.path
+│   ├── [2.6K 2026-11-01 02:39:29]  mkv_repair_pending.properties
+│   ├── [ 61K 2026-11-01 02:32:16]  watch.v1.bin
+│   └── [ 61K 2026-11-01 02:38:15]  watch.v1.bin.previous
+├── [3.4K 2026-11-01 18:00:11]  log
+│   ├── [ 34K 2026-11-01 02:39:30]  .mkv_export.log
+│   ├── [1.8K 2026-11-01 02:38:59]  .mkv_player_resolver.log
+│   ├── [2.3K 2026-11-01 02:38:59]  .mkv_subtitle_catalog.log
+│   ├── [1.9K 2026-11-01 02:36:58]  .ناروتو S01 E01 [cnm-qswl05curr9wm6bz9iev].mkv.log
+│   ├── [3.7K 2026-11-01 02:37:07]  .ناروتو S01 E02 [cnm-20tzn89ttrw0uyi2iute].mkv.log
+│   ├── [3.7K 2026-11-01 02:38:49]  .ناروتو S01 E03 [cnm-26zkr1ys99ogl998r2x4].mkv.log
+│   ├── [1.9K 2026-11-01 02:38:21]  .ناروتو S01 E04 [cnm-6c99uno95wdddkvgb1t7].mkv.log
+│   ├── [1.9K 2026-11-01 02:39:20]  .ناروتو S01 E06 [cnm-5gt0ljxjloj2t6istgvd].mkv.log
+│   ├── [1.1M 2026-11-01 02:39:18]  ca1_batch.jsonl
+│   ├── [2.4M 2026-11-01 02:39:30]  diagnostics.log
+│   ├── [ 792 2026-11-01 02:35:48]  download_repair_actions.log
+│   ├── [1.6M 2026-11-01 02:39:30]  downloads.log
+│   ├── [ 19K 2026-11-01 02:39:25]  load_diagnostics.filedownloader.jsonl
+│   ├── [ 38K 2026-11-01 02:39:26]  load_diagnostics.main.jsonl
+│   ├── [ 168 2026-11-01 02:32:23]  logo_sources.log
+│   ├── [2.1K 2026-11-01 02:39:19]  mkv_identity.map
+│   ├── [275K 2026-11-01 02:39:03]  player_diagnostics.log
+│   ├── [ 50K 2026-11-01 17:57:40]  tree.txt
+│   ├── [314K 2026-11-01 02:39:22]  ui95.log
+│   └── [315K 2026-11-01 02:39:28]  ui_performance.jsonl
 ├── [4.3M 2026-10-31 18:00:24]  log h57.zip
 ├── [5.4M 2026-10-31 18:05:37]  log h58.zip
 ├── [1.9M 2026-10-31 19:37:18]  log h59.zip
 ├── [2.1M 2026-10-31 19:39:46]  log h60.zip
 ├── [6.9M 2026-11-01 02:31:48]  log h61.zip
-├── [ 56K 2026-11-01 02:39:30]  work
+├── [ 56K 2026-11-01 18:00:23]  work
 │   ├── [ 19K 2026-11-01 02:39:13]  arabic subtitle for ناروتو S01 E03 [cnm-26zkr1ys99ogl998r2x4].srt
 │   ├── [ 20K 2026-11-01 02:35:26]  arabic subtitle for ناروتو S01 E05 [cnm-4pa3cu0sil1vsly4s318].srt
 │   ├── [ 17K 2026-11-01 02:35:25]  arabic subtitle for ناروتو S01 E07 [cnm-19i7bzwdte3chbs5qin1].srt
@@ -221,260 +475,9 @@
 │   ├── [ 22K 2026-11-01 02:36:54]  arabic subtitle for ناروتو S01 E97 [cnm-xims7aj97pfx4q463t3h].srt
 │   ├── [ 18K 2026-11-01 02:36:54]  arabic subtitle for ناروتو S01 E98 [cnm-2b6g0e0w5defde99s2tl].srt
 │   ├── [ 19K 2026-11-01 02:36:54]  arabic subtitle for ناروتو S01 E99 [cnm-54jg31k0chgvy96cumxr].srt
-│   ├── [3.4K 2026-11-01 02:39:29]  data
-│   │   ├── [ 24K 2026-11-01 02:39:20]  cnm_recovery
-│   │   │   ├── [ 419 2026-11-01 02:36:53]  104zv0oq78v591etxzrk.json
-│   │   │   ├── [ 417 2026-11-01 02:36:51]  11mdmt5c622ga4jc7wb7.json
-│   │   │   ├── [ 417 2026-11-01 02:36:37]  143hat9uc5e9b2dkaq9c.json
-│   │   │   ├── [ 417 2026-11-01 02:36:37]  14l1qqyjy97c67bjzhe1.json
-│   │   │   ├── [ 418 2026-11-01 02:37:00]  157onifhvq6f18bmlkr0.json
-│   │   │   ├── [1.4K 2026-11-01 02:36:17]  19i7bzwdte3chbs5qin1.json
-│   │   │   ├── [ 416 2026-11-01 02:36:38]  1azwgjegero634cbxl6a.json
-│   │   │   ├── [ 416 2026-11-01 02:36:40]  1b3vxmg701nyqguezdkk.json
-│   │   │   ├── [ 418 2026-11-01 02:36:47]  1brptia3sbs3vg8we85s.json
-│   │   │   ├── [ 419 2026-11-01 02:37:03]  1dcstvutwl86aj9y4wu5.json
-│   │   │   ├── [ 418 2026-11-01 02:36:59]  1e1h3nm18t53sgtoc0sp.json
-│   │   │   ├── [ 418 2026-11-01 02:37:02]  1etdm2k7riykq87fxjcb.json
-│   │   │   ├── [ 417 2026-11-01 02:36:49]  1fak6c5gj8vfv6yg9fdy.json
-│   │   │   ├── [ 417 2026-11-01 02:36:43]  1im1l81fhgkh34feh1mo.json
-│   │   │   ├── [ 418 2026-11-01 02:36:38]  1k0tq61u5fg3a5g4a7oo.json
-│   │   │   ├── [ 418 2026-11-01 02:36:51]  1lcc71b0bt2swj7hgwyg.json
-│   │   │   ├── [ 417 2026-11-01 02:36:44]  1mqw6auw06mu1lfo7ank.json
-│   │   │   ├── [ 418 2026-11-01 02:36:54]  1nal9oxqe15dvx6au1y4.json
-│   │   │   ├── [ 417 2026-11-01 02:36:46]  1niqtc8gw5w0yfrg6dm6.json
-│   │   │   ├── [ 419 2026-11-01 02:36:47]  1p0qq4a333numnqsh3q7.json
-│   │   │   ├── [ 417 2026-11-01 02:36:41]  1pp39mds2srzbvj9c2mz.json
-│   │   │   ├── [ 416 2026-11-01 02:36:36]  1rokx42v4p1noa8qsq9j.json
-│   │   │   ├── [ 417 2026-11-01 02:36:43]  1snld38m0j4hc3bx6nsm.json
-│   │   │   ├── [ 418 2026-11-01 02:36:48]  1uj7kqr01ou6foulq3ot.json
-│   │   │   ├── [ 417 2026-11-01 02:36:36]  1uw8i69ycqmrbwcaloax.json
-│   │   │   ├── [ 417 2026-11-01 02:36:58]  1wl5emvdj68zfqjnr1x2.json
-│   │   │   ├── [ 417 2026-11-01 02:36:46]  1zuqnc8nd2khim22070i.json
-│   │   │   ├── [ 418 2026-11-01 02:36:39]  20o6x6khycmoawui3n8u.json
-│   │   │   ├── [ 418 2026-11-01 02:36:58]  21ap8kjarbf91yoj0gci.json
-│   │   │   ├── [ 419 2026-11-01 02:36:54]  21ki3ccxcdt3jeomsi36.json
-│   │   │   ├── [ 416 2026-11-01 02:36:41]  221l9rlulut7wi9ugc30.json
-│   │   │   ├── [ 417 2026-11-01 02:36:37]  22ede24fvynwus308wun.json
-│   │   │   ├── [ 418 2026-11-01 02:36:56]  22kysmd4zail682k5rje.json
-│   │   │   ├── [ 417 2026-11-01 02:36:57]  24qxm6wbr00p0zjo1f1i.json
-│   │   │   ├── [ 417 2026-11-01 02:36:36]  24xxsqvc7qtlj1l0snux.json
-│   │   │   ├── [1.4K 2026-11-01 02:39:08]  255bi0t57ooygecpyyor.json
-│   │   │   ├── [ 418 2026-11-01 02:36:36]  25c45j5ymlnv9hka5m7y.json
-│   │   │   ├── [ 418 2026-11-01 02:36:47]  27t19f48ekim5hn74cbl.json
-│   │   │   ├── [ 417 2026-11-01 02:36:43]  289r7qlmo9e6nhixh5b4.json
-│   │   │   ├── [ 417 2026-11-01 02:36:38]  28ovimbq0vc1z99bv5r6.json
-│   │   │   ├── [ 418 2026-11-01 02:36:51]  2958s5xlj6mv0c0f1yz3.json
-│   │   │   ├── [ 418 2026-11-01 02:36:40]  29afczrqhnm909684j7o.json
-│   │   │   ├── [ 418 2026-11-01 02:36:44]  29j2uih1k4rdwkny82a7.json
-│   │   │   ├── [ 416 2026-11-01 02:36:39]  29uw7u1t7t4rkq8jkumk.json
-│   │   │   ├── [ 416 2026-11-01 02:36:41]  2a06boh2l31jwpxplbmr.json
-│   │   │   ├── [ 416 2026-11-01 02:36:44]  2b6g0e0w5defde99s2tl.json
-│   │   │   ├── [ 416 2026-11-01 02:36:37]  2biq5d90b85u5kfxpzb5.json
-│   │   │   ├── [ 419 2026-11-01 02:36:55]  2d1gt4092gkx3y08aa2f.json
-│   │   │   ├── [ 418 2026-11-01 02:36:58]  2ffmjt4d3hkbf88lxwaj.json
-│   │   │   ├── [ 417 2026-11-01 02:36:38]  2h8r3orgph1xxs4yxku0.json
-│   │   │   ├── [ 418 2026-11-01 02:36:38]  2hmxr1s2v5kqgeim5hpf.json
-│   │   │   ├── [ 419 2026-11-01 02:36:57]  2jhkhbuhp12c9u8t5b6b.json
-│   │   │   ├── [ 418 2026-11-01 02:36:51]  2k8dbzgto6a2m46mgkw3.json
-│   │   │   ├── [ 419 2026-11-01 02:37:01]  2mi0qycoavvcnosgxgwk.json
-│   │   │   ├── [1.4K 2026-11-01 02:38:29]  2nv62q4696dzy644n05w.json
-│   │   │   ├── [ 418 2026-11-01 02:36:50]  2pkh70935d5qlmguqr7l.json
-│   │   │   ├── [ 418 2026-11-01 02:36:47]  2qw16wiyoxv7v5dvahpt.json
-│   │   │   ├── [ 417 2026-11-01 02:36:47]  2ra60du6x7o3wlc2lk7v.json
-│   │   │   ├── [1.4K 2026-11-01 02:38:46]  2s2lm3r8j79nnnneacdh.json
-│   │   │   ├── [ 418 2026-11-01 02:36:49]  2snr9yu5si2imbe774a8.json
-│   │   │   ├── [ 416 2026-11-01 02:36:37]  2swe0zopz45ktjhtc4gt.json
-│   │   │   ├── [ 417 2026-11-01 02:36:42]  2u6onbogwu99pi14hmou.json
-│   │   │   ├── [ 416 2026-11-01 02:36:37]  2umrmxubddrrgih7r9e6.json
-│   │   │   ├── [ 418 2026-11-01 02:36:49]  2v0d7psp854d6xj5qzq8.json
-│   │   │   ├── [ 415 2026-11-01 02:36:37]  2xjnbx6ggtqpjhkvvgpd.json
-│   │   │   ├── [ 419 2026-11-01 02:36:56]  2xudkixqiac9tlkiwn2q.json
-│   │   │   ├── [ 417 2026-11-01 02:37:02]  2z35eso40aqws2twzxk0.json
-│   │   │   ├── [ 418 2026-11-01 02:36:45]  322d0fg2hdg07cjmzxo0.json
-│   │   │   ├── [ 418 2026-11-01 02:36:49]  32fin0r8nc891omdepas.json
-│   │   │   ├── [ 419 2026-11-01 02:36:49]  34rzf02jblruxmdl8fb2.json
-│   │   │   ├── [ 417 2026-11-01 02:36:41]  3533o18mr650urjk90c0.json
-│   │   │   ├── [ 417 2026-11-01 02:37:01]  35k2v1akgv29d6vw3yzz.json
-│   │   │   ├── [ 416 2026-11-01 02:36:46]  377ugy11x1zihy5sr219.json
-│   │   │   ├── [ 415 2026-11-01 02:36:36]  38qn9vfkyffwdxhq47c5.json
-│   │   │   ├── [ 418 2026-11-01 02:36:51]  3arp8wxdasxdgi8uppo3.json
-│   │   │   ├── [ 419 2026-11-01 02:36:48]  3avtkkm7o3hrfyge7yjc.json
-│   │   │   ├── [ 417 2026-11-01 02:36:45]  3carvns6ubnutw97alnq.json
-│   │   │   ├── [ 419 2026-11-01 02:36:48]  3d36mikh3z7k1jeg0or7.json
-│   │   │   ├── [ 417 2026-11-01 02:36:42]  3ejzok8mls8qrxhvjb9e.json
-│   │   │   ├── [ 418 2026-11-01 02:37:02]  3fcvlw28en0lbispu3ur.json
-│   │   │   ├── [ 418 2026-11-01 02:37:02]  3hfmfr2cii44mnmq862r.json
-│   │   │   ├── [ 418 2026-11-01 02:36:41]  3hofm4xa5mxlbq55cimy.json
-│   │   │   ├── [ 417 2026-11-01 02:36:54]  3hs3bghx817e8pvdl2sz.json
-│   │   │   ├── [ 418 2026-11-01 02:36:53]  3i6as4prz5xz6n833lj8.json
-│   │   │   ├── [ 418 2026-11-01 02:37:00]  3ildrrimrjlk6x611v1a.json
-│   │   │   ├── [1.4K 2026-11-01 02:38:38]  3jtfupyemh8w6mi5t9nt.json
-│   │   │   ├── [ 417 2026-11-01 02:36:39]  3khxx1vtmu18ya3kles6.json
-│   │   │   ├── [ 419 2026-11-01 02:36:46]  3lts2hxq6hty31d7sqon.json
-│   │   │   ├── [ 417 2026-11-01 02:36:58]  3lz8uuir8zmuzinr1krn.json
-│   │   │   ├── [ 417 2026-11-01 02:36:39]  3n99vdyy008mhmes0ogn.json
-│   │   │   ├── [ 417 2026-11-01 02:36:42]  3oq03et2mq4ppqtwfzoo.json
-│   │   │   ├── [ 417 2026-11-01 02:36:38]  3pil2uzqvj6kd4jgorx1.json
-│   │   │   ├── [ 416 2026-11-01 02:36:36]  3qkzu8t5je9cqwvvd8kz.json
-│   │   │   ├── [ 416 2026-11-01 02:36:39]  3tapddkgjj64o7aggpm3.json
-│   │   │   ├── [ 418 2026-11-01 02:36:38]  3ti717pjale5020ze7la.json
-│   │   │   ├── [ 417 2026-11-01 02:36:49]  3vd1j2we2uh5dnlo7y80.json
-│   │   │   ├── [ 417 2026-11-01 02:36:37]  3wbm8nkmpj8a7sbl245z.json
-│   │   │   ├── [ 419 2026-11-01 02:36:56]  3x18toth7axhajnhahfi.json
-│   │   │   ├── [ 417 2026-11-01 02:36:36]  3y8v4f1s2jwg0rotimo8.json
-│   │   │   ├── [ 417 2026-11-01 02:36:40]  3z2opzpqg8uubfshmh2h.json
-│   │   │   ├── [ 417 2026-11-01 02:36:40]  3z6qygpiheatztx5hq3f.json
-│   │   │   ├── [ 417 2026-11-01 02:36:51]  434s3ghbmsqv55liqjst.json
-│   │   │   ├── [ 418 2026-11-01 02:36:51]  43qyzj578b40os0yyd1k.json
-│   │   │   ├── [ 418 2026-11-01 02:36:45]  45i8gqoqr76qs8fdt4ak.json
-│   │   │   ├── [ 417 2026-11-01 02:36:40]  46a1d9jck1j94ll37lkz.json
-│   │   │   ├── [ 417 2026-11-01 02:36:40]  47bci6vb2q4rmo63risl.json
-│   │   │   ├── [ 417 2026-11-01 02:36:48]  4at8t9cnlo9o1zlrfrhj.json
-│   │   │   ├── [ 416 2026-11-01 02:37:01]  4c11p4goj3188gm44exe.json
-│   │   │   ├── [ 417 2026-11-01 02:37:02]  4cqj5l1rcy674uv9d3nb.json
-│   │   │   ├── [ 417 2026-11-01 02:36:38]  4czb0enzcoet3c57gct4.json
-│   │   │   ├── [ 418 2026-11-01 02:36:40]  4dhuancnuy2qrs0cw2fm.json
-│   │   │   ├── [ 418 2026-11-01 02:36:49]  4f99j7awon3tlchlzn08.json
-│   │   │   ├── [ 418 2026-11-01 02:36:57]  4g3la4rp1gk882j9gznd.json
-│   │   │   ├── [ 416 2026-11-01 02:36:41]  4gr4xkgz1id1biy5oqp3.json
-│   │   │   ├── [ 419 2026-11-01 02:36:59]  4ig3zdj71kiml2oz0se3.json
-│   │   │   ├── [ 419 2026-11-01 02:36:52]  4js478jdnjzxwlnmnbw3.json
-│   │   │   ├── [ 417 2026-11-01 02:37:02]  4kt9cy8cxs1wwkduoep5.json
-│   │   │   ├── [1.4K 2026-11-01 02:38:08]  4lz4z6zunxs2uc01iyho.json
-│   │   │   ├── [ 418 2026-11-01 02:36:52]  4ms47tfpa3zurqlhyycw.json
-│   │   │   ├── [ 416 2026-11-01 02:36:36]  4myq1dqb3b47ca4v4kgj.json
-│   │   │   ├── [1.4K 2026-11-01 02:39:15]  4n21lfuhfh1eop9ptgvv.json
-│   │   │   ├── [ 417 2026-11-01 02:36:38]  4n5e2mp2as8wfo835f1k.json
-│   │   │   ├── [ 418 2026-11-01 02:36:53]  4nm1xicbtpbhrqpyp070.json
-│   │   │   ├── [1.4K 2026-11-01 02:38:55]  4oc3mycpr9bko8hqyywh.json
-│   │   │   ├── [ 418 2026-11-01 02:37:00]  4p25kv7n8goxfmfdzh84.json
-│   │   │   ├── [1.4K 2026-11-01 02:37:47]  4pa3cu0sil1vsly4s318.json
-│   │   │   ├── [ 417 2026-11-01 02:36:44]  4plsav7lmd2q4fxou167.json
-│   │   │   ├── [ 416 2026-11-01 02:36:42]  4qcz6xqz97kam7vf68rp.json
-│   │   │   ├── [ 417 2026-11-01 02:36:43]  4qmrgkebxlrtlulq5z6v.json
-│   │   │   ├── [ 418 2026-11-01 02:36:59]  4t7czvg8rl38gd1g87jm.json
-│   │   │   ├── [ 418 2026-11-01 02:36:40]  4ujqw9nezfffdhn95n8w.json
-│   │   │   ├── [ 418 2026-11-01 02:36:53]  4voye5dwc3jxqe4vqmb5.json
-│   │   │   ├── [ 417 2026-11-01 02:36:57]  4wp9wsdrmze0v87v8g3j.json
-│   │   │   ├── [ 419 2026-11-01 02:36:57]  4yqarky14earor5nvp9q.json
-│   │   │   ├── [ 418 2026-11-01 02:36:50]  4z7pw934jkrqz0073wg0.json
-│   │   │   ├── [ 418 2026-11-01 02:36:58]  50jku2o5fgdz60i2p656.json
-│   │   │   ├── [ 414 2026-11-01 02:36:43]  52otmh01hta09hfwwnow.json
-│   │   │   ├── [ 419 2026-11-01 02:36:46]  5376rk7vgexn8wu7kuxv.json
-│   │   │   ├── [ 417 2026-11-01 02:36:39]  53s89v7ncs5jog9bnx8z.json
-│   │   │   ├── [ 418 2026-11-01 02:36:52]  547fi8jj6jefbxrsf8pd.json
-│   │   │   ├── [ 416 2026-11-01 02:36:44]  54jg31k0chgvy96cumxr.json
-│   │   │   ├── [ 418 2026-11-01 02:37:01]  54t6sgz0vdcrxo28jhk0.json
-│   │   │   ├── [ 417 2026-11-01 02:36:44]  54v09te2804qk3v55v2u.json
-│   │   │   ├── [ 416 2026-11-01 02:36:36]  56csus3yw2ijsd7kswrp.json
-│   │   │   ├── [ 418 2026-11-01 02:36:42]  56hv59uxts0csyf8t6ks.json
-│   │   │   ├── [ 417 2026-11-01 02:36:39]  57jl7bqfdiyckiyardlz.json
-│   │   │   ├── [ 417 2026-11-01 02:36:40]  57ttawa9is7rz2bw677w.json
-│   │   │   ├── [ 418 2026-11-01 02:36:47]  583v0zb6cqulnrzvertj.json
-│   │   │   ├── [ 417 2026-11-01 02:36:41]  58kfierqwf5lz7m331pu.json
-│   │   │   ├── [ 417 2026-11-01 02:36:39]  5f2jakti8sv0o11fkiyo.json
-│   │   │   ├── [ 418 2026-11-01 02:37:00]  5fvfc5fncojtowhggk50.json
-│   │   │   ├── [ 417 2026-11-01 02:36:38]  5hdytbz5szo9gmteyqc7.json
-│   │   │   ├── [1.4K 2026-11-01 02:38:18]  5hx3jeupgjo7i154vp97.json
-│   │   │   ├── [ 418 2026-11-01 02:36:43]  5lhl8jb1hrx9v38p9gqa.json
-│   │   │   ├── [ 418 2026-11-01 02:36:36]  5lno9lx4cr8m5duchzot.json
-│   │   │   ├── [ 418 2026-11-01 02:36:55]  5lpvmdjdi4p1vac9me61.json
-│   │   │   ├── [ 417 2026-11-01 02:37:00]  5lu8y3vfrq3s4sureunn.json
-│   │   │   ├── [ 418 2026-11-01 02:36:39]  5nie5cwhj1jag3n2leul.json
-│   │   │   ├── [ 417 2026-11-01 02:37:01]  5q2f0zef64evciyiwyo7.json
-│   │   │   ├── [ 418 2026-11-01 02:36:39]  5s2yimny6dxvblo0864z.json
-│   │   │   ├── [ 416 2026-11-01 02:36:41]  5u01thxc9nhde4d8g08e.json
-│   │   │   ├── [ 412 2026-11-01 02:36:38]  5u1azyzopfwp6l7t38v4.json
-│   │   │   ├── [ 418 2026-11-01 02:36:59]  5vte2hho86jjgpu66yzu.json
-│   │   │   ├── [ 418 2026-11-01 02:37:00]  5wk5zfkmwmpgefe6ioy1.json
-│   │   │   ├── [ 419 2026-11-01 02:36:53]  5xruy4d4lstlovjxix35.json
-│   │   │   ├── [ 419 2026-11-01 02:36:45]  5z2ihmsziz2wk7j46ajn.json
-│   │   │   ├── [ 417 2026-11-01 02:36:52]  6042lqn79m6x2lw5rh23.json
-│   │   │   ├── [ 417 2026-11-01 02:36:50]  60nacsy0svbejqkha5n7.json
-│   │   │   ├── [ 418 2026-11-01 02:36:47]  63ffo8aelik0yz5cmw0z.json
-│   │   │   ├── [ 418 2026-11-01 02:36:56]  63ni61xnmbqzzmeeesbs.json
-│   │   │   ├── [ 418 2026-11-01 02:36:54]  648ot54kxpkednf3arcx.json
-│   │   │   ├── [ 418 2026-11-01 02:36:45]  65a08x5x279ty9e68pky.json
-│   │   │   ├── [ 418 2026-11-01 02:36:50]  65neq4aaxvu6brpy5ro8.json
-│   │   │   ├── [ 416 2026-11-01 02:36:36]  65rp6gci1xkh8y4m8sku.json
-│   │   │   ├── [ 418 2026-11-01 02:36:59]  65u5vqxe2l1l2r7qbx3u.json
-│   │   │   ├── [ 418 2026-11-01 02:36:48]  6641pxo1c3y4o57ssok4.json
-│   │   │   ├── [ 416 2026-11-01 02:36:37]  66cuj1265fq8mg8jszdk.json
-│   │   │   ├── [ 416 2026-11-01 02:36:37]  66edngl46eppth9aai9h.json
-│   │   │   ├── [ 417 2026-11-01 02:36:45]  66o6whdktvabi8z72dqr.json
-│   │   │   ├── [ 418 2026-11-01 02:36:37]  66ovresyrjoqna2gf4ak.json
-│   │   │   ├── [ 418 2026-11-01 02:36:46]  680unu62q5914m78cfcf.json
-│   │   │   ├── [ 417 2026-11-01 02:36:41]  696iz57j1bsvsnwm4xvi.json
-│   │   │   ├── [ 417 2026-11-01 02:36:38]  69me5bmcs1a0k2q1o48n.json
-│   │   │   ├── [ 417 2026-11-01 02:36:55]  6cn4uotcmlitkbb6nwap.json
-│   │   │   ├── [ 418 2026-11-01 02:36:47]  6djdb5om2i66utj5xtvt.json
-│   │   │   ├── [ 418 2026-11-01 02:36:46]  7jnk2i6f8cpa8tcq2vaj.json
-│   │   │   ├── [ 418 2026-11-01 02:36:39]  buym1hn4r86jc6ar3ztv.json
-│   │   │   ├── [ 418 2026-11-01 02:36:36]  cd5unnlsmjwlj3uuqapg.json
-│   │   │   ├── [1.4K 2026-11-01 02:37:59]  dat8g3c8b4djsvisoyrk.json
-│   │   │   ├── [ 418 2026-11-01 02:36:59]  dvcfh79psr3o2vw3pumn.json
-│   │   │   ├── [ 418 2026-11-01 02:36:45]  fep3h7aj4vlzzelhdylw.json
-│   │   │   ├── [ 419 2026-11-01 02:36:54]  fjtlmvb1nnwdje51jme2.json
-│   │   │   ├── [ 418 2026-11-01 02:36:42]  fui891js0ap9rp8pyy6p.json
-│   │   │   ├── [ 418 2026-11-01 02:36:52]  gbv9jcgfw4392hlbme8w.json
-│   │   │   ├── [ 417 2026-11-01 02:36:38]  hv53zx1vpaouv8sxaue3.json
-│   │   │   ├── [ 416 2026-11-01 02:36:39]  ienb97nlzt4oqtdny08u.json
-│   │   │   ├── [ 417 2026-11-01 02:36:48]  j9l0cm9ypmpoqkyzgaui.json
-│   │   │   ├── [ 417 2026-11-01 02:36:40]  l84e2i31fibwpzk6rky2.json
-│   │   │   ├── [ 418 2026-11-01 02:36:44]  nl3jjkifmvzhpp4jvfto.json
-│   │   │   ├── [ 419 2026-11-01 02:36:44]  o1xuiu3iso9px7p6ibmx.json
-│   │   │   ├── [ 418 2026-11-01 02:36:54]  o38mwja1lwbaazn3jym5.json
-│   │   │   ├── [ 418 2026-11-01 02:36:50]  od2n15qre9jajujr1miw.json
-│   │   │   ├── [ 419 2026-11-01 02:36:56]  ohzrg2fa6soybnvozeh2.json
-│   │   │   ├── [ 418 2026-11-01 02:36:55]  p1kv8lex67j2bf340tvc.json
-│   │   │   ├── [ 417 2026-11-01 02:36:57]  tpvaj6de4eh5805gizoo.json
-│   │   │   ├── [ 418 2026-11-01 02:36:50]  vubmzqtg4z4ngqeq9otj.json
-│   │   │   ├── [ 418 2026-11-01 02:36:53]  vuwzo44zl4yl3oxj5gqp.json
-│   │   │   ├── [ 418 2026-11-01 02:36:54]  wlnbjye8rack04vis8f2.json
-│   │   │   ├── [ 417 2026-11-01 02:37:01]  wx54hgdk8hf57o6osgz2.json
-│   │   │   ├── [ 418 2026-11-01 02:36:55]  x0gd1edn1w0jmllpce48.json
-│   │   │   ├── [ 418 2026-11-01 02:36:43]  xims7aj97pfx4q463t3h.json
-│   │   │   ├── [ 419 2026-11-01 02:36:56]  xtvtybytp0b5mn20ziw7.json
-│   │   │   ├── [ 419 2026-11-01 02:36:48]  ydw2o0a4zi1pr3bc883s.json
-│   │   │   ├── [ 418 2026-11-01 02:36:52]  yjitc5abynmak3ksh50y.json
-│   │   │   └── [ 418 2026-11-01 02:36:36]  zo6htr40gntpwmt93ztf.json
-│   │   ├── [ 36K 2026-11-01 02:32:16]  episodes.v1.bin
-│   │   ├── [ 23K 2026-11-01 02:38:12]  episodes.v1.bin.previous
-│   │   ├── [ 63K 2026-11-01 02:32:16]  library.v1.bin
-│   │   ├── [ 63K 2026-11-01 02:39:23]  library.v1.bin.previous
-│   │   ├── [3.4K 2026-11-01 02:39:12]  local-account
-│   │   │   ├── [185K 2026-11-01 02:39:12]  account.bin
-│   │   │   └── [ 30K 2026-11-01 02:32:46]  avatar-8aec41f5b54420c0.jpg
-│   │   ├── [3.4K 2026-11-01 02:39:20]  mkv-proofs
-│   │   │   ├── [ 103 2026-11-01 02:37:07]  20tzn89ttrw0uyi2iute.path
-│   │   │   ├── [ 103 2026-11-01 02:38:49]  26zkr1ys99ogl998r2x4.path
-│   │   │   ├── [ 103 2026-11-01 02:39:20]  5gt0ljxjloj2t6istgvd.path
-│   │   │   ├── [ 103 2026-11-01 02:38:21]  6c99uno95wdddkvgb1t7.path
-│   │   │   └── [ 103 2026-11-01 02:36:58]  qswl05curr9wm6bz9iev.path
-│   │   ├── [2.6K 2026-11-01 02:39:29]  mkv_repair_pending.properties
-│   │   ├── [ 61K 2026-11-01 02:32:16]  watch.v1.bin
-│   │   └── [ 61K 2026-11-01 02:38:15]  watch.v1.bin.previous
-│   ├── [3.4K 2026-11-01 02:41:35]  log
-│   │   ├── [ 34K 2026-11-01 02:39:30]  .mkv_export.log
-│   │   ├── [1.8K 2026-11-01 02:38:59]  .mkv_player_resolver.log
-│   │   ├── [2.3K 2026-11-01 02:38:59]  .mkv_subtitle_catalog.log
-│   │   ├── [1.9K 2026-11-01 02:36:58]  .ناروتو S01 E01 [cnm-qswl05curr9wm6bz9iev].mkv.log
-│   │   ├── [3.7K 2026-11-01 02:37:07]  .ناروتو S01 E02 [cnm-20tzn89ttrw0uyi2iute].mkv.log
-│   │   ├── [3.7K 2026-11-01 02:38:49]  .ناروتو S01 E03 [cnm-26zkr1ys99ogl998r2x4].mkv.log
-│   │   ├── [1.9K 2026-11-01 02:38:21]  .ناروتو S01 E04 [cnm-6c99uno95wdddkvgb1t7].mkv.log
-│   │   ├── [1.9K 2026-11-01 02:39:20]  .ناروتو S01 E06 [cnm-5gt0ljxjloj2t6istgvd].mkv.log
-│   │   ├── [1.1M 2026-11-01 02:39:18]  ca1_batch.jsonl
-│   │   ├── [2.4M 2026-11-01 02:39:30]  diagnostics.log
-│   │   ├── [ 792 2026-11-01 02:35:48]  download_repair_actions.log
-│   │   ├── [1.6M 2026-11-01 02:39:30]  downloads.log
-│   │   ├── [ 19K 2026-11-01 02:39:25]  load_diagnostics.filedownloader.jsonl
-│   │   ├── [ 38K 2026-11-01 02:39:26]  load_diagnostics.main.jsonl
-│   │   ├── [ 168 2026-11-01 02:32:23]  logo_sources.log
-│   │   ├── [2.1K 2026-11-01 02:39:19]  mkv_identity.map
-│   │   ├── [275K 2026-11-01 02:39:03]  player_diagnostics.log
-│   │   ├── [ 29K 2026-11-01 17:57:40]  tree.txt
-│   │   ├── [314K 2026-11-01 02:39:22]  ui95.log
-│   │   └── [315K 2026-11-01 02:39:28]  ui_performance.jsonl
+│   ├── [3.4K 2026-11-01 18:00:23]  data
+│   ├── [3.4K 2026-11-01 18:00:34]  log
+│   │   └── [ 34K 2026-11-01 18:00:34]  tree.txt
 │   ├── [ 19K 2026-11-01 02:36:55]  special subtitle for ناروتو S01 E116 [cnm-680unu62q5914m78cfcf].ass
 │   ├── [ 28K 2026-11-01 02:36:57]  special subtitle for ناروتو S01 E142 [cnm-60nacsy0svbejqkha5n7].ass
 │   ├── [ 33K 2026-11-01 02:36:58]  special subtitle for ناروتو S01 E143 [cnm-od2n15qre9jajujr1miw].ass
@@ -509,4 +512,4 @@
         ├── [ 35M 2026-11-01 02:38:19]  ناروتو S01 E04.mkv
         └── [ 36M 2026-11-01 02:39:18]  ناروتو S01 E06.mkv
 
-9 directories, 501 files
+11 directories, 502 files
