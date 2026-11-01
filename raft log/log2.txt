@@ -1,0 +1,1208 @@
+Raft Android early device test
+Unity 2021.3.45f2; scene MainMenuScene
+Xiaomi 23013PC75G; Android OS 15 / API-35 (AQ3A.250226.002/OS3.0.5.0.VMNMIXM)
+Adreno (TM) 730; Vulkan
+Logs: /storage/emulated/0/Android/data/com.alwansan.raft.androidtest/files/raft-logs
+Storage: ready
+This report does not verify gameplay, sound or save/load.
+2026-11-01T10:02:18.6119010Z Error Trying to access pass 4, but material 'Sandbox/VolumetricLight' subshader (0) has only 1 valid passes.
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade04bfe0 (libunity.so) ? 0x0
+ #3 0x7adddc79c0 (libunity.so) ? 0x0
+ #4 0x7ad73bc0bc (libil2cpp.so) ? 0x0
+ #5 0x7ad73ba510 (libil2cpp.so) ? 0x0
+ #6 0x7ad73bec80 (libil2cpp.so) ? 0x0
+ #7 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #8 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #9 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #10 0x7ade1cda20 (libunity.so) ? 0x0
+ #11 0x7ade1dd678 (libunity.so) ? 0x0
+ #12 0x7addfbd0d4 (libunity.so) ? 0x0
+ #13 0x7ade6f9420 (libunity.so) ? 0x0
+ #14 0x7ade70fe04 (libunity.so) ? 0x0
+ #15 0x7ade0b1024 (libunity.so) ? 0x0
+ #16 0x7ade0b2704 (libunity.so) ? 0x0
+ #17 0x7ade0b2744 (libunity.so) ? 0x0
+ #18 0x7ade0b297c (libunity.so) ? 0x0
+ #19 0x7ade253c84 (libunity.so) ? 0x0
+ #20 0x7ade26cc18 (libunity.so) ? 0x0
+ #21 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.6195320Z Error Invalid pass number (4) for Graphics.Blit (Material "(Unknown material)" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade0672e8 (libunity.so) ? 0x0
+ #4 0x7ade0631bc (libunity.so) ? 0x0
+ #5 0x7ade068fbc (libunity.so) ? 0x0
+ #6 0x7ade72f918 (libunity.so) ? 0x0
+ #7 0x7ade732ac0 (libunity.so) ? 0x0
+ #8 0x7ade738a30 (libunity.so) ? 0x0
+ #9 0x7ade6f9810 (libunity.so) ? 0x0
+ #10 0x7ade70fe04 (libunity.so) ? 0x0
+ #11 0x7ade0b1024 (libunity.so) ? 0x0
+ #12 0x7ade0b2704 (libunity.so) ? 0x0
+ #13 0x7ade0b2744 (libunity.so) ? 0x0
+ #14 0x7ade0b297c (libunity.so) ? 0x0
+ #15 0x7ade253c84 (libunity.so) ? 0x0
+ #16 0x7ade26cc18 (libunity.so) ? 0x0
+ #17 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.6214960Z Error Invalid pass number (4) for Graphics.Blit (Material "(Unknown material)" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade0672e8 (libunity.so) ? 0x0
+ #4 0x7ade0631bc (libunity.so) ? 0x0
+ #5 0x7ade068fbc (libunity.so) ? 0x0
+ #6 0x7ade6be4ec (libunity.so) ? 0x0
+ #7 0x7ade730098 (libunity.so) ? 0x0
+ #8 0x7ade72f9d4 (libunity.so) ? 0x0
+ #9 0x7ade732ac0 (libunity.so) ? 0x0
+ #10 0x7ade738a30 (libunity.so) ? 0x0
+ #11 0x7ade6f9810 (libunity.so) ? 0x0
+ #12 0x7ade70fe04 (libunity.so) ? 0x0
+ #13 0x7ade0b1024 (libunity.so) ? 0x0
+ #14 0x7ade0b2704 (libunity.so) ? 0x0
+ #15 0x7ade0b2744 (libunity.so) ? 0x0
+ #16 0x7ade0b297c (libunity.so) ? 0x0
+ #17 0x7ade253c84 (libunity.so) ? 0x0
+ #18 0x7ade26cc18 (libunity.so) ? 0x0
+ #19 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.6273730Z Error Invalid pass number (1) for Graphics.Blit (Material "(Unknown material)" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade0672e8 (libunity.so) ? 0x0
+ #4 0x7ade0631bc (libunity.so) ? 0x0
+ #5 0x7ade068fbc (libunity.so) ? 0x0
+ #6 0x7ade6f4a60 (libunity.so) ? 0x0
+ #7 0x7ade738b00 (libunity.so) ? 0x0
+ #8 0x7ade6f9810 (libunity.so) ? 0x0
+ #9 0x7ade70fe04 (libunity.so) ? 0x0
+ #10 0x7ade0b1024 (libunity.so) ? 0x0
+ #11 0x7ade0b2704 (libunity.so) ? 0x0
+ #12 0x7ade0b2744 (libunity.so) ? 0x0
+ #13 0x7ade0b297c (libunity.so) ? 0x0
+ #14 0x7ade253c84 (libunity.so) ? 0x0
+ #15 0x7ade26cc18 (libunity.so) ? 0x0
+ #16 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.6297930Z Error Invalid pass number (3) for Graphics.Blit (Material "(Unknown material)" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade0672e8 (libunity.so) ? 0x0
+ #4 0x7ade0631bc (libunity.so) ? 0x0
+ #5 0x7ade068fbc (libunity.so) ? 0x0
+ #6 0x7ade6f4a60 (libunity.so) ? 0x0
+ #7 0x7ade738b00 (libunity.so) ? 0x0
+ #8 0x7ade6f9810 (libunity.so) ? 0x0
+ #9 0x7ade70fe04 (libunity.so) ? 0x0
+ #10 0x7ade0b1024 (libunity.so) ? 0x0
+ #11 0x7ade0b2704 (libunity.so) ? 0x0
+ #12 0x7ade0b2744 (libunity.so) ? 0x0
+ #13 0x7ade0b297c (libunity.so) ? 0x0
+ #14 0x7ade253c84 (libunity.so) ? 0x0
+ #15 0x7ade26cc18 (libunity.so) ? 0x0
+ #16 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.6310390Z Error Invalid pass number (5) for Graphics.Blit (Material "(Unknown material)" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade0672e8 (libunity.so) ? 0x0
+ #4 0x7ade0631bc (libunity.so) ? 0x0
+ #5 0x7ade068fbc (libunity.so) ? 0x0
+ #6 0x7ade6f4a60 (libunity.so) ? 0x0
+ #7 0x7ade738b00 (libunity.so) ? 0x0
+ #8 0x7ade6f9810 (libunity.so) ? 0x0
+ #9 0x7ade70fe04 (libunity.so) ? 0x0
+ #10 0x7ade0b1024 (libunity.so) ? 0x0
+ #11 0x7ade0b2704 (libunity.so) ? 0x0
+ #12 0x7ade0b2744 (libunity.so) ? 0x0
+ #13 0x7ade0b297c (libunity.so) ? 0x0
+ #14 0x7ade253c84 (libunity.so) ? 0x0
+ #15 0x7ade26cc18 (libunity.so) ? 0x0
+ #16 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.6324020Z Error Invalid pass number (6) for Graphics.Blit (Material "(Unknown material)" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade0672e8 (libunity.so) ? 0x0
+ #4 0x7ade0631bc (libunity.so) ? 0x0
+ #5 0x7ade068fbc (libunity.so) ? 0x0
+ #6 0x7ade6f4a60 (libunity.so) ? 0x0
+ #7 0x7ade738b00 (libunity.so) ? 0x0
+ #8 0x7ade6f9810 (libunity.so) ? 0x0
+ #9 0x7ade70fe04 (libunity.so) ? 0x0
+ #10 0x7ade0b1024 (libunity.so) ? 0x0
+ #11 0x7ade0b2704 (libunity.so) ? 0x0
+ #12 0x7ade0b2744 (libunity.so) ? 0x0
+ #13 0x7ade0b297c (libunity.so) ? 0x0
+ #14 0x7ade253c84 (libunity.so) ? 0x0
+ #15 0x7ade26cc18 (libunity.so) ? 0x0
+ #16 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.6343140Z Error Invalid pass number (2) for Graphics.Blit (Material "Hidden/BilateralBlur" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad73bef70 (libil2cpp.so) ? 0x0
+ #7 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #8 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #9 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #10 0x7ade1cda20 (libunity.so) ? 0x0
+ #11 0x7ade1dbd58 (libunity.so) ? 0x0
+ #12 0x7ade70cc60 (libunity.so) ? 0x0
+ #13 0x7ade70d190 (libunity.so) ? 0x0
+ #14 0x7ade7380bc (libunity.so) ? 0x0
+ #15 0x7ade6f98e0 (libunity.so) ? 0x0
+ #16 0x7ade70fe04 (libunity.so) ? 0x0
+ #17 0x7ade0b1024 (libunity.so) ? 0x0
+ #18 0x7ade0b2704 (libunity.so) ? 0x0
+ #19 0x7ade0b2744 (libunity.so) ? 0x0
+ #20 0x7ade0b297c (libunity.so) ? 0x0
+ #21 0x7ade253c84 (libunity.so) ? 0x0
+ #22 0x7ade26cc18 (libunity.so) ? 0x0
+ #23 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.6351350Z Error Invalid pass number (3) for Graphics.Blit (Material "Hidden/BilateralBlur" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad73bef88 (libil2cpp.so) ? 0x0
+ #7 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #8 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #9 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #10 0x7ade1cda20 (libunity.so) ? 0x0
+ #11 0x7ade1dbd58 (libunity.so) ? 0x0
+ #12 0x7ade70cc60 (libunity.so) ? 0x0
+ #13 0x7ade70d190 (libunity.so) ? 0x0
+ #14 0x7ade7380bc (libunity.so) ? 0x0
+ #15 0x7ade6f98e0 (libunity.so) ? 0x0
+ #16 0x7ade70fe04 (libunity.so) ? 0x0
+ #17 0x7ade0b1024 (libunity.so) ? 0x0
+ #18 0x7ade0b2704 (libunity.so) ? 0x0
+ #19 0x7ade0b2744 (libunity.so) ? 0x0
+ #20 0x7ade0b297c (libunity.so) ? 0x0
+ #21 0x7ade253c84 (libunity.so) ? 0x0
+ #22 0x7ade26cc18 (libunity.so) ? 0x0
+ #23 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.6361930Z Error Invalid pass number (12) for Graphics.Blit (Material "Hidden/BilateralBlur" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #7 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #8 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #9 0x7ade1cda20 (libunity.so) ? 0x0
+ #10 0x7ade1dbd58 (libunity.so) ? 0x0
+ #11 0x7ade70cc60 (libunity.so) ? 0x0
+ #12 0x7ade70d190 (libunity.so) ? 0x0
+ #13 0x7ade7380bc (libunity.so) ? 0x0
+ #14 0x7ade6f98e0 (libunity.so) ? 0x0
+ #15 0x7ade70fe04 (libunity.so) ? 0x0
+ #16 0x7ade0b1024 (libunity.so) ? 0x0
+ #17 0x7ade0b2704 (libunity.so) ? 0x0
+ #18 0x7ade0b2744 (libunity.so) ? 0x0
+ #19 0x7ade0b297c (libunity.so) ? 0x0
+ #20 0x7ade253c84 (libunity.so) ? 0x0
+ #21 0x7ade26cc18 (libunity.so) ? 0x0
+ #22 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.6383390Z Error Invalid pass number (1) for Graphics.Blit (Material "PostFX - Bloom" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad855515c (libil2cpp.so) ? 0x0
+ #7 0x7ad7cc4084 (libil2cpp.so) ? 0x0
+ #8 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #9 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #10 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #11 0x7ade1cda20 (libunity.so) ? 0x0
+ #12 0x7ade1dbd58 (libunity.so) ? 0x0
+ #13 0x7ade70cf10 (libunity.so) ? 0x0
+ #14 0x7ade70d190 (libunity.so) ? 0x0
+ #15 0x7ade7380bc (libunity.so) ? 0x0
+ #16 0x7ade6f98e0 (libunity.so) ? 0x0
+ #17 0x7ade70fe04 (libunity.so) ? 0x0
+ #18 0x7ade0b1024 (libunity.so) ? 0x0
+ #19 0x7ade0b2704 (libunity.so) ? 0x0
+ #20 0x7ade0b2744 (libunity.so) ? 0x0
+ #21 0x7ade0b297c (libunity.so) ? 0x0
+ #22 0x7ade253c84 (libunity.so) ? 0x0
+ #23 0x7ade26cc18 (libunity.so) ? 0x0
+ #24 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.6396680Z Error Invalid pass number (2) for Graphics.Blit (Material "PostFX - Bloom" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad855515c (libil2cpp.so) ? 0x0
+ #7 0x7ad7cc4084 (libil2cpp.so) ? 0x0
+ #8 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #9 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #10 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #11 0x7ade1cda20 (libunity.so) ? 0x0
+ #12 0x7ade1dbd58 (libunity.so) ? 0x0
+ #13 0x7ade70cf10 (libunity.so) ? 0x0
+ #14 0x7ade70d190 (libunity.so) ? 0x0
+ #15 0x7ade7380bc (libunity.so) ? 0x0
+ #16 0x7ade6f98e0 (libunity.so) ? 0x0
+ #17 0x7ade70fe04 (libunity.so) ? 0x0
+ #18 0x7ade0b1024 (libunity.so) ? 0x0
+ #19 0x7ade0b2704 (libunity.so) ? 0x0
+ #20 0x7ade0b2744 (libunity.so) ? 0x0
+ #21 0x7ade0b297c (libunity.so) ? 0x0
+ #22 0x7ade253c84 (libunity.so) ? 0x0
+ #23 0x7ade26cc18 (libunity.so) ? 0x0
+ #24 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.6407600Z Error Invalid pass number (2) for Graphics.Blit (Material "PostFX - Bloom" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad855515c (libil2cpp.so) ? 0x0
+ #7 0x7ad7cc4084 (libil2cpp.so) ? 0x0
+ #8 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #9 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #10 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #11 0x7ade1cda20 (libunity.so) ? 0x0
+ #12 0x7ade1dbd58 (libunity.so) ? 0x0
+ #13 0x7ade70cf10 (libunity.so) ? 0x0
+ #14 0x7ade70d190 (libunity.so) ? 0x0
+ #15 0x7ade7380bc (libunity.so) ? 0x0
+ #16 0x7ade6f98e0 (libunity.so) ? 0x0
+ #17 0x7ade70fe04 (libunity.so) ? 0x0
+ #18 0x7ade0b1024 (libunity.so) ? 0x0
+ #19 0x7ade0b2704 (libunity.so) ? 0x0
+ #20 0x7ade0b2744 (libunity.so) ? 0x0
+ #21 0x7ade0b297c (libunity.so) ? 0x0
+ #22 0x7ade253c84 (libunity.so) ? 0x0
+ #23 0x7ade26cc18 (libunity.so) ? 0x0
+ #24 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.6413780Z Error Invalid pass number (2) for Graphics.Blit (Material "PostFX - Bloom" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad855515c (libil2cpp.so) ? 0x0
+ #7 0x7ad7cc4084 (libil2cpp.so) ? 0x0
+ #8 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #9 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #10 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #11 0x7ade1cda20 (libunity.so) ? 0x0
+ #12 0x7ade1dbd58 (libunity.so) ? 0x0
+ #13 0x7ade70cf10 (libunity.so) ? 0x0
+ #14 0x7ade70d190 (libunity.so) ? 0x0
+ #15 0x7ade7380bc (libunity.so) ? 0x0
+ #16 0x7ade6f98e0 (libunity.so) ? 0x0
+ #17 0x7ade70fe04 (libunity.so) ? 0x0
+ #18 0x7ade0b1024 (libunity.so) ? 0x0
+ #19 0x7ade0b2704 (libunity.so) ? 0x0
+ #20 0x7ade0b2744 (libunity.so) ? 0x0
+ #21 0x7ade0b297c (libunity.so) ? 0x0
+ #22 0x7ade253c84 (libunity.so) ? 0x0
+ #23 0x7ade26cc18 (libunity.so) ? 0x0
+ #24 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.6439550Z Error Invalid pass number (2) for Graphics.Blit (Material "PostFX - Bloom" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad855515c (libil2cpp.so) ? 0x0
+ #7 0x7ad7cc4084 (libil2cpp.so) ? 0x0
+ #8 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #9 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #10 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #11 0x7ade1cda20 (libunity.so) ? 0x0
+ #12 0x7ade1dbd58 (libunity.so) ? 0x0
+ #13 0x7ade70cf10 (libunity.so) ? 0x0
+ #14 0x7ade70d190 (libunity.so) ? 0x0
+ #15 0x7ade7380bc (libunity.so) ? 0x0
+ #16 0x7ade6f98e0 (libunity.so) ? 0x0
+ #17 0x7ade70fe04 (libunity.so) ? 0x0
+ #18 0x7ade0b1024 (libunity.so) ? 0x0
+ #19 0x7ade0b2704 (libunity.so) ? 0x0
+ #20 0x7ade0b2744 (libunity.so) ? 0x0
+ #21 0x7ade0b297c (libunity.so) ? 0x0
+ #22 0x7ade253c84 (libunity.so) ? 0x0
+ #23 0x7ade26cc18 (libunity.so) ? 0x0
+ #24 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.6448770Z Error Invalid pass number (3) for Graphics.Blit (Material "PostFX - Bloom" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad85552cc (libil2cpp.so) ? 0x0
+ #7 0x7ad7cc4084 (libil2cpp.so) ? 0x0
+ #8 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #9 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #10 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #11 0x7ade1cda20 (libunity.so) ? 0x0
+ #12 0x7ade1dbd58 (libunity.so) ? 0x0
+ #13 0x7ade70cf10 (libunity.so) ? 0x0
+ #14 0x7ade70d190 (libunity.so) ? 0x0
+ #15 0x7ade7380bc (libunity.so) ? 0x0
+ #16 0x7ade6f98e0 (libunity.so) ? 0x0
+ #17 0x7ade70fe04 (libunity.so) ? 0x0
+ #18 0x7ade0b1024 (libunity.so) ? 0x0
+ #19 0x7ade0b2704 (libunity.so) ? 0x0
+ #20 0x7ade0b2744 (libunity.so) ? 0x0
+ #21 0x7ade0b297c (libunity.so) ? 0x0
+ #22 0x7ade253c84 (libunity.so) ? 0x0
+ #23 0x7ade26cc18 (libunity.so) ? 0x0
+ #24 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.6458140Z Error Invalid pass number (3) for Graphics.Blit (Material "PostFX - Bloom" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad85552cc (libil2cpp.so) ? 0x0
+ #7 0x7ad7cc4084 (libil2cpp.so) ? 0x0
+ #8 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #9 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #10 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #11 0x7ade1cda20 (libunity.so) ? 0x0
+ #12 0x7ade1dbd58 (libunity.so) ? 0x0
+ #13 0x7ade70cf10 (libunity.so) ? 0x0
+ #14 0x7ade70d190 (libunity.so) ? 0x0
+ #15 0x7ade7380bc (libunity.so) ? 0x0
+ #16 0x7ade6f98e0 (libunity.so) ? 0x0
+ #17 0x7ade70fe04 (libunity.so) ? 0x0
+ #18 0x7ade0b1024 (libunity.so) ? 0x0
+ #19 0x7ade0b2704 (libunity.so) ? 0x0
+ #20 0x7ade0b2744 (libunity.so) ? 0x0
+ #21 0x7ade0b297c (libunity.so) ? 0x0
+ #22 0x7ade253c84 (libunity.so) ? 0x0
+ #23 0x7ade26cc18 (libunity.so) ? 0x0
+ #24 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.6469950Z Error Invalid pass number (3) for Graphics.Blit (Material "PostFX - Bloom" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad85552cc (libil2cpp.so) ? 0x0
+ #7 0x7ad7cc4084 (libil2cpp.so) ? 0x0
+ #8 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #9 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #10 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #11 0x7ade1cda20 (libunity.so) ? 0x0
+ #12 0x7ade1dbd58 (libunity.so) ? 0x0
+ #13 0x7ade70cf10 (libunity.so) ? 0x0
+ #14 0x7ade70d190 (libunity.so) ? 0x0
+ #15 0x7ade7380bc (libunity.so) ? 0x0
+ #16 0x7ade6f98e0 (libunity.so) ? 0x0
+ #17 0x7ade70fe04 (libunity.so) ? 0x0
+ #18 0x7ade0b1024 (libunity.so) ? 0x0
+ #19 0x7ade0b2704 (libunity.so) ? 0x0
+ #20 0x7ade0b2744 (libunity.so) ? 0x0
+ #21 0x7ade0b297c (libunity.so) ? 0x0
+ #22 0x7ade253c84 (libunity.so) ? 0x0
+ #23 0x7ade26cc18 (libunity.so) ? 0x0
+ #24 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.6477500Z Error Invalid pass number (3) for Graphics.Blit (Material "PostFX - Bloom" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad85552cc (libil2cpp.so) ? 0x0
+ #7 0x7ad7cc4084 (libil2cpp.so) ? 0x0
+ #8 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #9 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #10 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #11 0x7ade1cda20 (libunity.so) ? 0x0
+ #12 0x7ade1dbd58 (libunity.so) ? 0x0
+ #13 0x7ade70cf10 (libunity.so) ? 0x0
+ #14 0x7ade70d190 (libunity.so) ? 0x0
+ #15 0x7ade7380bc (libunity.so) ? 0x0
+ #16 0x7ade6f98e0 (libunity.so) ? 0x0
+ #17 0x7ade70fe04 (libunity.so) ? 0x0
+ #18 0x7ade0b1024 (libunity.so) ? 0x0
+ #19 0x7ade0b2704 (libunity.so) ? 0x0
+ #20 0x7ade0b2744 (libunity.so) ? 0x0
+ #21 0x7ade0b297c (libunity.so) ? 0x0
+ #22 0x7ade253c84 (libunity.so) ? 0x0
+ #23 0x7ade26cc18 (libunity.so) ? 0x0
+ #24 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.6711140Z Exception NullReferenceException: Object reference not set to an instance of an object.
+FMODUnity.RuntimeManager.Initialize () (at <00000000000000000000000000000000>:0)
+FMODUnity.RuntimeManager.get_Instance () (at <00000000000000000000000000000000>:0)
+FMODUnity.RuntimeManager.GetEventDescription (FMOD.GUID guid) (at <00000000000000000000000000000000>:0)
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+Rethrow as SystemNotInitializedException: [FMOD] Initialization failed
+FMODUnity.RuntimeManager.get_Instance () (at <00000000000000000000000000000000>:0)
+FMODUnity.RuntimeManager.get_CoreSystem () (at <00000000000000000000000000000000>:0)
+HapticManager.Update () (at <00000000000000000000000000000000>:0)
+
+2026-11-01T10:02:18.6730910Z Exception NullReferenceException: Object reference not set to an instance of an object.
+FMODUnity.RuntimeManager.Initialize () (at <00000000000000000000000000000000>:0)
+FMODUnity.RuntimeManager.get_Instance () (at <00000000000000000000000000000000>:0)
+FMODUnity.RuntimeManager.GetEventDescription (FMOD.GUID guid) (at <00000000000000000000000000000000>:0)
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+Rethrow as SystemNotInitializedException: [FMOD] Initialization failed
+FMODUnity.RuntimeManager.get_Instance () (at <00000000000000000000000000000000>:0)
+FMODUnity.RuntimeManager.SetListenerLocation (System.Int32 listenerIndex, UnityEngine.GameObject gameObject, UnityEngine.GameObject attenuationObject) (at <00000000000000000000000000000000>:0)
+
+2026-11-01T10:02:18.6830920Z Error Invalid pass number (3) for Graphics.Blit (Material "UltimateWater/Spectrum/Water Spectrum" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad86a30b0 (libil2cpp.so) ? 0x0
+ #7 0x7ad86a24a4 (libil2cpp.so) ? 0x0
+ #8 0x7ad86a2664 (libil2cpp.so) ? 0x0
+ #9 0x7ad908dbec (libil2cpp.so) ? 0x0
+ #10 0x7ad90928f0 (libil2cpp.so) ? 0x0
+ #11 0x7ad8ae35ac (libil2cpp.so) ? 0x0
+ #12 0x7ad8ae79a4 (libil2cpp.so) ? 0x0
+ #13 0x7ad8ae68a4 (libil2cpp.so) ? 0x0
+ #14 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #15 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #16 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #17 0x7ade1cda20 (libunity.so) ? 0x0
+ #18 0x7ade1dd678 (libunity.so) ? 0x0
+ #19 0x7addfbd0d4 (libunity.so) ? 0x0
+ #20 0x7ade6f6d38 (libunity.so) ? 0x0
+ #21 0x7ade6f60dc (libunity.so) ? 0x0
+ #22 0x7ade6f8b54 (libunity.so) ? 0x0
+ #23 0x7ade705a20 (libunity.so) ? 0x0
+ #24 0x7adde1f4c0 (libunity.so) ? 0x0
+ #25 0x7ad9083f3c (libil2cpp.so) ? 0x0
+ #26 0x7ad8ae35ac (libil2cpp.so) ? 0x0
+ #27 0x7ad8ae79a4 (libil2cpp.so) ? 0x0
+ #28 0x7ad8ae68a4 (libil2cpp.so) ? 0x0
+ #29 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #30 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #31 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #32 0x7ade1cda20 (libunity.so) ? 0x0
+ #33 0x7ade1dd678 (libunity.so) ? 0x0
+ #34 0x7addfbd0d4 (libunity.so) ? 0x0
+ #35 0x7ade6f6d38 (libunity.so) ? 0x0
+ #36 0x7ade6f60dc (libunity.so) ? 0x0
+ #37 0x7ade710078 (libunity.so) ? 0x0
+ #38 0x7ade0b1024 (libunity.so) ? 0x0
+ #39 0x7ade0b2704 (libunity.so) ? 0x0
+ #40 0x7ade0b2744 (libunity.so) ? 0x0
+ #41 0x7ade0b297c (libunity.so) ? 0x0
+ #42 0x7ade253c84 (libunity.so) ? 0x0
+ #43 0x7ade26cc18 (libunity.so) ? 0x0
+ #44 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.6848800Z Error Invalid pass number (5) for Graphics.Blit (Material "UltimateWater/Spectrum/Water Spectrum" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad86a2700 (libil2cpp.so) ? 0x0
+ #7 0x7ad908dbec (libil2cpp.so) ? 0x0
+ #8 0x7ad90928f0 (libil2cpp.so) ? 0x0
+ #9 0x7ad8ae35ac (libil2cpp.so) ? 0x0
+ #10 0x7ad8ae79a4 (libil2cpp.so) ? 0x0
+ #11 0x7ad8ae68a4 (libil2cpp.so) ? 0x0
+ #12 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #13 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #14 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #15 0x7ade1cda20 (libunity.so) ? 0x0
+ #16 0x7ade1dd678 (libunity.so) ? 0x0
+ #17 0x7addfbd0d4 (libunity.so) ? 0x0
+ #18 0x7ade6f6d38 (libunity.so) ? 0x0
+ #19 0x7ade6f60dc (libunity.so) ? 0x0
+ #20 0x7ade6f8b54 (libunity.so) ? 0x0
+ #21 0x7ade705a20 (libunity.so) ? 0x0
+ #22 0x7adde1f4c0 (libunity.so) ? 0x0
+ #23 0x7ad9083f3c (libil2cpp.so) ? 0x0
+ #24 0x7ad8ae35ac (libil2cpp.so) ? 0x0
+ #25 0x7ad8ae79a4 (libil2cpp.so) ? 0x0
+ #26 0x7ad8ae68a4 (libil2cpp.so) ? 0x0
+ #27 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #28 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #29 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #30 0x7ade1cda20 (libunity.so) ? 0x0
+ #31 0x7ade1dd678 (libunity.so) ? 0x0
+ #32 0x7addfbd0d4 (libunity.so) ? 0x0
+ #33 0x7ade6f6d38 (libunity.so) ? 0x0
+ #34 0x7ade6f60dc (libunity.so) ? 0x0
+ #35 0x7ade710078 (libunity.so) ? 0x0
+ #36 0x7ade0b1024 (libunity.so) ? 0x0
+ #37 0x7ade0b2704 (libunity.so) ? 0x0
+ #38 0x7ade0b2744 (libunity.so) ? 0x0
+ #39 0x7ade0b297c (libunity.so) ? 0x0
+ #40 0x7ade253c84 (libunity.so) ? 0x0
+ #41 0x7ade26cc18 (libunity.so) ? 0x0
+ #42 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.6954330Z Exception IndexOutOfRangeException: Invalid kernelIndex (6) passed, must be non-negative less than 0.
+UltimateWater.Internal.Dx11FFT.ComputeFFT (UnityEngine.Texture tex, UnityEngine.RenderTexture target) (at <00000000000000000000000000000000>:0)
+UltimateWater.WavesRendererFFT.RenderMaps (System.Single time, UnityEngine.RenderTexture[] displacementMaps, UnityEngine.RenderTexture[] normalMaps) (at <00000000000000000000000000000000>:0)
+UltimateWater.WindWaves.OnWaterRender (UltimateWater.WaterCamera waterCamera) (at <00000000000000000000000000000000>:0)
+UltimateWater.Water.OnWaterRender (UltimateWater.WaterCamera waterCamera) (at <00000000000000000000000000000000>:0)
+UltimateWater.WaterCamera.RenderWaterEffects () (at <00000000000000000000000000000000>:0)
+UltimateWater.WaterCamera.OnPreCull () (at <00000000000000000000000000000000>:0)
+UltimateWater.WaterSubsurfaceScattering.OnWaterRender (UltimateWater.WaterCamera waterCamera) (at <00000000000000000000000000000000>:0)
+UltimateWater.Water.OnWaterRender (UltimateWater.WaterCamera waterCamera) (at <00000000000000000000000000000000>:0)
+UltimateWater.WaterCamera.RenderWaterEffects () (at <00000000000000000000000000000000>:0)
+UltimateWater.WaterCamera.OnPreCull () (at <00000000000000000000000000000000>:0)
+UltimateWater.WaterSubsurfaceScattering:OnWaterRender(WaterCamera)
+UltimateWater.Water:OnWaterRender(WaterCamera)
+UltimateWater.WaterCamera:RenderWaterEffects()
+UltimateWater.WaterCamera:OnPreCull()
+
+2026-11-01T10:02:18.6977130Z Error Invalid pass number (1) for Graphics.Blit (Material "UltimateWater/Utilities/Blur (Subsurface Scattering)" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad90840e4 (libil2cpp.so) ? 0x0
+ #7 0x7ad8ae35ac (libil2cpp.so) ? 0x0
+ #8 0x7ad8ae79a4 (libil2cpp.so) ? 0x0
+ #9 0x7ad8ae68a4 (libil2cpp.so) ? 0x0
+ #10 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #11 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #12 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #13 0x7ade1cda20 (libunity.so) ? 0x0
+ #14 0x7ade1dd678 (libunity.so) ? 0x0
+ #15 0x7addfbd0d4 (libunity.so) ? 0x0
+ #16 0x7ade6f6d38 (libunity.so) ? 0x0
+ #17 0x7ade6f60dc (libunity.so) ? 0x0
+ #18 0x7ade710078 (libunity.so) ? 0x0
+ #19 0x7ade0b1024 (libunity.so) ? 0x0
+ #20 0x7ade0b2704 (libunity.so) ? 0x0
+ #21 0x7ade0b2744 (libunity.so) ? 0x0
+ #22 0x7ade0b297c (libunity.so) ? 0x0
+ #23 0x7ade253c84 (libunity.so) ? 0x0
+ #24 0x7ade26cc18 (libunity.so) ? 0x0
+ #25 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.6997320Z Error Invalid pass number (1) for Graphics.Blit (Material "UltimateWater/Foam/Global" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad869d280 (libil2cpp.so) ? 0x0
+ #7 0x7ad7f5b574 (libil2cpp.so) ? 0x0
+ #8 0x7ad8ae35ac (libil2cpp.so) ? 0x0
+ #9 0x7ad8ae79a4 (libil2cpp.so) ? 0x0
+ #10 0x7ad8ae68a4 (libil2cpp.so) ? 0x0
+ #11 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #12 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #13 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #14 0x7ade1cda20 (libunity.so) ? 0x0
+ #15 0x7ade1dd678 (libunity.so) ? 0x0
+ #16 0x7addfbd0d4 (libunity.so) ? 0x0
+ #17 0x7ade6f6d38 (libunity.so) ? 0x0
+ #18 0x7ade6f60dc (libunity.so) ? 0x0
+ #19 0x7ade710078 (libunity.so) ? 0x0
+ #20 0x7ade0b1024 (libunity.so) ? 0x0
+ #21 0x7ade0b2704 (libunity.so) ? 0x0
+ #22 0x7ade0b2744 (libunity.so) ? 0x0
+ #23 0x7ade0b297c (libunity.so) ? 0x0
+ #24 0x7ade253c84 (libunity.so) ? 0x0
+ #25 0x7ade26cc18 (libunity.so) ? 0x0
+ #26 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.7006770Z Error Invalid pass number (1) for Graphics.Blit (Material "UltimateWater/Foam/Global" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad869d280 (libil2cpp.so) ? 0x0
+ #7 0x7ad7f5b574 (libil2cpp.so) ? 0x0
+ #8 0x7ad8ae35ac (libil2cpp.so) ? 0x0
+ #9 0x7ad8ae79a4 (libil2cpp.so) ? 0x0
+ #10 0x7ad8ae68a4 (libil2cpp.so) ? 0x0
+ #11 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #12 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #13 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #14 0x7ade1cda20 (libunity.so) ? 0x0
+ #15 0x7ade1dd678 (libunity.so) ? 0x0
+ #16 0x7addfbd0d4 (libunity.so) ? 0x0
+ #17 0x7ade6f6d38 (libunity.so) ? 0x0
+ #18 0x7ade6f60dc (libunity.so) ? 0x0
+ #19 0x7ade710078 (libunity.so) ? 0x0
+ #20 0x7ade0b1024 (libunity.so) ? 0x0
+ #21 0x7ade0b2704 (libunity.so) ? 0x0
+ #22 0x7ade0b2744 (libunity.so) ? 0x0
+ #23 0x7ade0b297c (libunity.so) ? 0x0
+ #24 0x7ade253c84 (libunity.so) ? 0x0
+ #25 0x7ade26cc18 (libunity.so) ? 0x0
+ #26 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.7016380Z Error Invalid pass number (1) for Graphics.Blit (Material "UltimateWater/Foam/Global" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad869d280 (libil2cpp.so) ? 0x0
+ #7 0x7ad7f5b574 (libil2cpp.so) ? 0x0
+ #8 0x7ad8ae35ac (libil2cpp.so) ? 0x0
+ #9 0x7ad8ae79a4 (libil2cpp.so) ? 0x0
+ #10 0x7ad8ae68a4 (libil2cpp.so) ? 0x0
+ #11 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #12 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #13 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #14 0x7ade1cda20 (libunity.so) ? 0x0
+ #15 0x7ade1dd678 (libunity.so) ? 0x0
+ #16 0x7addfbd0d4 (libunity.so) ? 0x0
+ #17 0x7ade6f6d38 (libunity.so) ? 0x0
+ #18 0x7ade6f60dc (libunity.so) ? 0x0
+ #19 0x7ade710078 (libunity.so) ? 0x0
+ #20 0x7ade0b1024 (libunity.so) ? 0x0
+ #21 0x7ade0b2704 (libunity.so) ? 0x0
+ #22 0x7ade0b2744 (libunity.so) ? 0x0
+ #23 0x7ade0b297c (libunity.so) ? 0x0
+ #24 0x7ade253c84 (libunity.so) ? 0x0
+ #25 0x7ade26cc18 (libunity.so) ? 0x0
+ #26 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.7026370Z Error Invalid pass number (1) for Graphics.Blit (Material "UltimateWater/Foam/Global" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad869d280 (libil2cpp.so) ? 0x0
+ #7 0x7ad7f5b574 (libil2cpp.so) ? 0x0
+ #8 0x7ad8ae35ac (libil2cpp.so) ? 0x0
+ #9 0x7ad8ae79a4 (libil2cpp.so) ? 0x0
+ #10 0x7ad8ae68a4 (libil2cpp.so) ? 0x0
+ #11 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #12 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #13 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #14 0x7ade1cda20 (libunity.so) ? 0x0
+ #15 0x7ade1dd678 (libunity.so) ? 0x0
+ #16 0x7addfbd0d4 (libunity.so) ? 0x0
+ #17 0x7ade6f6d38 (libunity.so) ? 0x0
+ #18 0x7ade6f60dc (libunity.so) ? 0x0
+ #19 0x7ade710078 (libunity.so) ? 0x0
+ #20 0x7ade0b1024 (libunity.so) ? 0x0
+ #21 0x7ade0b2704 (libunity.so) ? 0x0
+ #22 0x7ade0b2744 (libunity.so) ? 0x0
+ #23 0x7ade0b297c (libunity.so) ? 0x0
+ #24 0x7ade253c84 (libunity.so) ? 0x0
+ #25 0x7ade26cc18 (libunity.so) ? 0x0
+ #26 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.7052450Z Error Trying to access pass 4, but material 'Sandbox/VolumetricLight' subshader (0) has only 1 valid passes.
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade04bfe0 (libunity.so) ? 0x0
+ #3 0x7adddc79c0 (libunity.so) ? 0x0
+ #4 0x7ad73bc0bc (libil2cpp.so) ? 0x0
+ #5 0x7ad73ba510 (libil2cpp.so) ? 0x0
+ #6 0x7ad73bec80 (libil2cpp.so) ? 0x0
+ #7 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #8 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #9 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #10 0x7ade1cda20 (libunity.so) ? 0x0
+ #11 0x7ade1dd678 (libunity.so) ? 0x0
+ #12 0x7addfbd0d4 (libunity.so) ? 0x0
+ #13 0x7ade6f9420 (libunity.so) ? 0x0
+ #14 0x7ade70fe04 (libunity.so) ? 0x0
+ #15 0x7ade0b1024 (libunity.so) ? 0x0
+ #16 0x7ade0b2704 (libunity.so) ? 0x0
+ #17 0x7ade0b2744 (libunity.so) ? 0x0
+ #18 0x7ade0b297c (libunity.so) ? 0x0
+ #19 0x7ade253c84 (libunity.so) ? 0x0
+ #20 0x7ade26cc18 (libunity.so) ? 0x0
+ #21 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.7112990Z Error Invalid pass number (4) for Graphics.Blit (Material "(Unknown material)" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade0672e8 (libunity.so) ? 0x0
+ #4 0x7ade0631bc (libunity.so) ? 0x0
+ #5 0x7ade068fbc (libunity.so) ? 0x0
+ #6 0x7ade72f918 (libunity.so) ? 0x0
+ #7 0x7ade732ac0 (libunity.so) ? 0x0
+ #8 0x7ade738a30 (libunity.so) ? 0x0
+ #9 0x7ade6f9810 (libunity.so) ? 0x0
+ #10 0x7ade70fe04 (libunity.so) ? 0x0
+ #11 0x7ade0b1024 (libunity.so) ? 0x0
+ #12 0x7ade0b2704 (libunity.so) ? 0x0
+ #13 0x7ade0b2744 (libunity.so) ? 0x0
+ #14 0x7ade0b297c (libunity.so) ? 0x0
+ #15 0x7ade253c84 (libunity.so) ? 0x0
+ #16 0x7ade26cc18 (libunity.so) ? 0x0
+ #17 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.7131120Z Error Invalid pass number (4) for Graphics.Blit (Material "(Unknown material)" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade0672e8 (libunity.so) ? 0x0
+ #4 0x7ade0631bc (libunity.so) ? 0x0
+ #5 0x7ade068fbc (libunity.so) ? 0x0
+ #6 0x7ade6be4ec (libunity.so) ? 0x0
+ #7 0x7ade730098 (libunity.so) ? 0x0
+ #8 0x7ade72f9d4 (libunity.so) ? 0x0
+ #9 0x7ade732ac0 (libunity.so) ? 0x0
+ #10 0x7ade738a30 (libunity.so) ? 0x0
+ #11 0x7ade6f9810 (libunity.so) ? 0x0
+ #12 0x7ade70fe04 (libunity.so) ? 0x0
+ #13 0x7ade0b1024 (libunity.so) ? 0x0
+ #14 0x7ade0b2704 (libunity.so) ? 0x0
+ #15 0x7ade0b2744 (libunity.so) ? 0x0
+ #16 0x7ade0b297c (libunity.so) ? 0x0
+ #17 0x7ade253c84 (libunity.so) ? 0x0
+ #18 0x7ade26cc18 (libunity.so) ? 0x0
+ #19 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.7172920Z Error Invalid pass number (1) for Graphics.Blit (Material "(Unknown material)" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade0672e8 (libunity.so) ? 0x0
+ #4 0x7ade0631bc (libunity.so) ? 0x0
+ #5 0x7ade068fbc (libunity.so) ? 0x0
+ #6 0x7ade6f4a60 (libunity.so) ? 0x0
+ #7 0x7ade738b00 (libunity.so) ? 0x0
+ #8 0x7ade6f9810 (libunity.so) ? 0x0
+ #9 0x7ade70fe04 (libunity.so) ? 0x0
+ #10 0x7ade0b1024 (libunity.so) ? 0x0
+ #11 0x7ade0b2704 (libunity.so) ? 0x0
+ #12 0x7ade0b2744 (libunity.so) ? 0x0
+ #13 0x7ade0b297c (libunity.so) ? 0x0
+ #14 0x7ade253c84 (libunity.so) ? 0x0
+ #15 0x7ade26cc18 (libunity.so) ? 0x0
+ #16 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.7180510Z Error Invalid pass number (3) for Graphics.Blit (Material "(Unknown material)" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade0672e8 (libunity.so) ? 0x0
+ #4 0x7ade0631bc (libunity.so) ? 0x0
+ #5 0x7ade068fbc (libunity.so) ? 0x0
+ #6 0x7ade6f4a60 (libunity.so) ? 0x0
+ #7 0x7ade738b00 (libunity.so) ? 0x0
+ #8 0x7ade6f9810 (libunity.so) ? 0x0
+ #9 0x7ade70fe04 (libunity.so) ? 0x0
+ #10 0x7ade0b1024 (libunity.so) ? 0x0
+ #11 0x7ade0b2704 (libunity.so) ? 0x0
+ #12 0x7ade0b2744 (libunity.so) ? 0x0
+ #13 0x7ade0b297c (libunity.so) ? 0x0
+ #14 0x7ade253c84 (libunity.so) ? 0x0
+ #15 0x7ade26cc18 (libunity.so) ? 0x0
+ #16 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.7189760Z Error Invalid pass number (5) for Graphics.Blit (Material "(Unknown material)" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade0672e8 (libunity.so) ? 0x0
+ #4 0x7ade0631bc (libunity.so) ? 0x0
+ #5 0x7ade068fbc (libunity.so) ? 0x0
+ #6 0x7ade6f4a60 (libunity.so) ? 0x0
+ #7 0x7ade738b00 (libunity.so) ? 0x0
+ #8 0x7ade6f9810 (libunity.so) ? 0x0
+ #9 0x7ade70fe04 (libunity.so) ? 0x0
+ #10 0x7ade0b1024 (libunity.so) ? 0x0
+ #11 0x7ade0b2704 (libunity.so) ? 0x0
+ #12 0x7ade0b2744 (libunity.so) ? 0x0
+ #13 0x7ade0b297c (libunity.so) ? 0x0
+ #14 0x7ade253c84 (libunity.so) ? 0x0
+ #15 0x7ade26cc18 (libunity.so) ? 0x0
+ #16 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.7200900Z Error Invalid pass number (6) for Graphics.Blit (Material "(Unknown material)" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade0672e8 (libunity.so) ? 0x0
+ #4 0x7ade0631bc (libunity.so) ? 0x0
+ #5 0x7ade068fbc (libunity.so) ? 0x0
+ #6 0x7ade6f4a60 (libunity.so) ? 0x0
+ #7 0x7ade738b00 (libunity.so) ? 0x0
+ #8 0x7ade6f9810 (libunity.so) ? 0x0
+ #9 0x7ade70fe04 (libunity.so) ? 0x0
+ #10 0x7ade0b1024 (libunity.so) ? 0x0
+ #11 0x7ade0b2704 (libunity.so) ? 0x0
+ #12 0x7ade0b2744 (libunity.so) ? 0x0
+ #13 0x7ade0b297c (libunity.so) ? 0x0
+ #14 0x7ade253c84 (libunity.so) ? 0x0
+ #15 0x7ade26cc18 (libunity.so) ? 0x0
+ #16 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.7218250Z Error Invalid pass number (2) for Graphics.Blit (Material "Hidden/BilateralBlur" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad73bef70 (libil2cpp.so) ? 0x0
+ #7 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #8 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #9 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #10 0x7ade1cda20 (libunity.so) ? 0x0
+ #11 0x7ade1dbd58 (libunity.so) ? 0x0
+ #12 0x7ade70cc60 (libunity.so) ? 0x0
+ #13 0x7ade70d190 (libunity.so) ? 0x0
+ #14 0x7ade7380bc (libunity.so) ? 0x0
+ #15 0x7ade6f98e0 (libunity.so) ? 0x0
+ #16 0x7ade70fe04 (libunity.so) ? 0x0
+ #17 0x7ade0b1024 (libunity.so) ? 0x0
+ #18 0x7ade0b2704 (libunity.so) ? 0x0
+ #19 0x7ade0b2744 (libunity.so) ? 0x0
+ #20 0x7ade0b297c (libunity.so) ? 0x0
+ #21 0x7ade253c84 (libunity.so) ? 0x0
+ #22 0x7ade26cc18 (libunity.so) ? 0x0
+ #23 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.7226660Z Error Invalid pass number (3) for Graphics.Blit (Material "Hidden/BilateralBlur" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad73bef88 (libil2cpp.so) ? 0x0
+ #7 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #8 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #9 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #10 0x7ade1cda20 (libunity.so) ? 0x0
+ #11 0x7ade1dbd58 (libunity.so) ? 0x0
+ #12 0x7ade70cc60 (libunity.so) ? 0x0
+ #13 0x7ade70d190 (libunity.so) ? 0x0
+ #14 0x7ade7380bc (libunity.so) ? 0x0
+ #15 0x7ade6f98e0 (libunity.so) ? 0x0
+ #16 0x7ade70fe04 (libunity.so) ? 0x0
+ #17 0x7ade0b1024 (libunity.so) ? 0x0
+ #18 0x7ade0b2704 (libunity.so) ? 0x0
+ #19 0x7ade0b2744 (libunity.so) ? 0x0
+ #20 0x7ade0b297c (libunity.so) ? 0x0
+ #21 0x7ade253c84 (libunity.so) ? 0x0
+ #22 0x7ade26cc18 (libunity.so) ? 0x0
+ #23 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.7241900Z Error Invalid pass number (12) for Graphics.Blit (Material "Hidden/BilateralBlur" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #7 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #8 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #9 0x7ade1cda20 (libunity.so) ? 0x0
+ #10 0x7ade1dbd58 (libunity.so) ? 0x0
+ #11 0x7ade70cc60 (libunity.so) ? 0x0
+ #12 0x7ade70d190 (libunity.so) ? 0x0
+ #13 0x7ade7380bc (libunity.so) ? 0x0
+ #14 0x7ade6f98e0 (libunity.so) ? 0x0
+ #15 0x7ade70fe04 (libunity.so) ? 0x0
+ #16 0x7ade0b1024 (libunity.so) ? 0x0
+ #17 0x7ade0b2704 (libunity.so) ? 0x0
+ #18 0x7ade0b2744 (libunity.so) ? 0x0
+ #19 0x7ade0b297c (libunity.so) ? 0x0
+ #20 0x7ade253c84 (libunity.so) ? 0x0
+ #21 0x7ade26cc18 (libunity.so) ? 0x0
+ #22 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.7255670Z Error Invalid pass number (1) for Graphics.Blit (Material "PostFX - Bloom" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad855515c (libil2cpp.so) ? 0x0
+ #7 0x7ad7cc4084 (libil2cpp.so) ? 0x0
+ #8 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #9 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #10 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #11 0x7ade1cda20 (libunity.so) ? 0x0
+ #12 0x7ade1dbd58 (libunity.so) ? 0x0
+ #13 0x7ade70cf10 (libunity.so) ? 0x0
+ #14 0x7ade70d190 (libunity.so) ? 0x0
+ #15 0x7ade7380bc (libunity.so) ? 0x0
+ #16 0x7ade6f98e0 (libunity.so) ? 0x0
+ #17 0x7ade70fe04 (libunity.so) ? 0x0
+ #18 0x7ade0b1024 (libunity.so) ? 0x0
+ #19 0x7ade0b2704 (libunity.so) ? 0x0
+ #20 0x7ade0b2744 (libunity.so) ? 0x0
+ #21 0x7ade0b297c (libunity.so) ? 0x0
+ #22 0x7ade253c84 (libunity.so) ? 0x0
+ #23 0x7ade26cc18 (libunity.so) ? 0x0
+ #24 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.7264800Z Error Invalid pass number (2) for Graphics.Blit (Material "PostFX - Bloom" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad855515c (libil2cpp.so) ? 0x0
+ #7 0x7ad7cc4084 (libil2cpp.so) ? 0x0
+ #8 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #9 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #10 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #11 0x7ade1cda20 (libunity.so) ? 0x0
+ #12 0x7ade1dbd58 (libunity.so) ? 0x0
+ #13 0x7ade70cf10 (libunity.so) ? 0x0
+ #14 0x7ade70d190 (libunity.so) ? 0x0
+ #15 0x7ade7380bc (libunity.so) ? 0x0
+ #16 0x7ade6f98e0 (libunity.so) ? 0x0
+ #17 0x7ade70fe04 (libunity.so) ? 0x0
+ #18 0x7ade0b1024 (libunity.so) ? 0x0
+ #19 0x7ade0b2704 (libunity.so) ? 0x0
+ #20 0x7ade0b2744 (libunity.so) ? 0x0
+ #21 0x7ade0b297c (libunity.so) ? 0x0
+ #22 0x7ade253c84 (libunity.so) ? 0x0
+ #23 0x7ade26cc18 (libunity.so) ? 0x0
+ #24 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.7275890Z Error Invalid pass number (2) for Graphics.Blit (Material "PostFX - Bloom" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad855515c (libil2cpp.so) ? 0x0
+ #7 0x7ad7cc4084 (libil2cpp.so) ? 0x0
+ #8 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #9 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #10 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #11 0x7ade1cda20 (libunity.so) ? 0x0
+ #12 0x7ade1dbd58 (libunity.so) ? 0x0
+ #13 0x7ade70cf10 (libunity.so) ? 0x0
+ #14 0x7ade70d190 (libunity.so) ? 0x0
+ #15 0x7ade7380bc (libunity.so) ? 0x0
+ #16 0x7ade6f98e0 (libunity.so) ? 0x0
+ #17 0x7ade70fe04 (libunity.so) ? 0x0
+ #18 0x7ade0b1024 (libunity.so) ? 0x0
+ #19 0x7ade0b2704 (libunity.so) ? 0x0
+ #20 0x7ade0b2744 (libunity.so) ? 0x0
+ #21 0x7ade0b297c (libunity.so) ? 0x0
+ #22 0x7ade253c84 (libunity.so) ? 0x0
+ #23 0x7ade26cc18 (libunity.so) ? 0x0
+ #24 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.7307960Z Error Invalid pass number (2) for Graphics.Blit (Material "PostFX - Bloom" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad855515c (libil2cpp.so) ? 0x0
+ #7 0x7ad7cc4084 (libil2cpp.so) ? 0x0
+ #8 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #9 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #10 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #11 0x7ade1cda20 (libunity.so) ? 0x0
+ #12 0x7ade1dbd58 (libunity.so) ? 0x0
+ #13 0x7ade70cf10 (libunity.so) ? 0x0
+ #14 0x7ade70d190 (libunity.so) ? 0x0
+ #15 0x7ade7380bc (libunity.so) ? 0x0
+ #16 0x7ade6f98e0 (libunity.so) ? 0x0
+ #17 0x7ade70fe04 (libunity.so) ? 0x0
+ #18 0x7ade0b1024 (libunity.so) ? 0x0
+ #19 0x7ade0b2704 (libunity.so) ? 0x0
+ #20 0x7ade0b2744 (libunity.so) ? 0x0
+ #21 0x7ade0b297c (libunity.so) ? 0x0
+ #22 0x7ade253c84 (libunity.so) ? 0x0
+ #23 0x7ade26cc18 (libunity.so) ? 0x0
+ #24 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.7325720Z Error Invalid pass number (2) for Graphics.Blit (Material "PostFX - Bloom" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad855515c (libil2cpp.so) ? 0x0
+ #7 0x7ad7cc4084 (libil2cpp.so) ? 0x0
+ #8 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #9 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #10 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #11 0x7ade1cda20 (libunity.so) ? 0x0
+ #12 0x7ade1dbd58 (libunity.so) ? 0x0
+ #13 0x7ade70cf10 (libunity.so) ? 0x0
+ #14 0x7ade70d190 (libunity.so) ? 0x0
+ #15 0x7ade7380bc (libunity.so) ? 0x0
+ #16 0x7ade6f98e0 (libunity.so) ? 0x0
+ #17 0x7ade70fe04 (libunity.so) ? 0x0
+ #18 0x7ade0b1024 (libunity.so) ? 0x0
+ #19 0x7ade0b2704 (libunity.so) ? 0x0
+ #20 0x7ade0b2744 (libunity.so) ? 0x0
+ #21 0x7ade0b297c (libunity.so) ? 0x0
+ #22 0x7ade253c84 (libunity.so) ? 0x0
+ #23 0x7ade26cc18 (libunity.so) ? 0x0
+ #24 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.7343820Z Error Invalid pass number (3) for Graphics.Blit (Material "PostFX - Bloom" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad85552cc (libil2cpp.so) ? 0x0
+ #7 0x7ad7cc4084 (libil2cpp.so) ? 0x0
+ #8 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #9 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #10 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #11 0x7ade1cda20 (libunity.so) ? 0x0
+ #12 0x7ade1dbd58 (libunity.so) ? 0x0
+ #13 0x7ade70cf10 (libunity.so) ? 0x0
+ #14 0x7ade70d190 (libunity.so) ? 0x0
+ #15 0x7ade7380bc (libunity.so) ? 0x0
+ #16 0x7ade6f98e0 (libunity.so) ? 0x0
+ #17 0x7ade70fe04 (libunity.so) ? 0x0
+ #18 0x7ade0b1024 (libunity.so) ? 0x0
+ #19 0x7ade0b2704 (libunity.so) ? 0x0
+ #20 0x7ade0b2744 (libunity.so) ? 0x0
+ #21 0x7ade0b297c (libunity.so) ? 0x0
+ #22 0x7ade253c84 (libunity.so) ? 0x0
+ #23 0x7ade26cc18 (libunity.so) ? 0x0
+ #24 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.7353710Z Error Invalid pass number (3) for Graphics.Blit (Material "PostFX - Bloom" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad85552cc (libil2cpp.so) ? 0x0
+ #7 0x7ad7cc4084 (libil2cpp.so) ? 0x0
+ #8 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #9 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #10 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #11 0x7ade1cda20 (libunity.so) ? 0x0
+ #12 0x7ade1dbd58 (libunity.so) ? 0x0
+ #13 0x7ade70cf10 (libunity.so) ? 0x0
+ #14 0x7ade70d190 (libunity.so) ? 0x0
+ #15 0x7ade7380bc (libunity.so) ? 0x0
+ #16 0x7ade6f98e0 (libunity.so) ? 0x0
+ #17 0x7ade70fe04 (libunity.so) ? 0x0
+ #18 0x7ade0b1024 (libunity.so) ? 0x0
+ #19 0x7ade0b2704 (libunity.so) ? 0x0
+ #20 0x7ade0b2744 (libunity.so) ? 0x0
+ #21 0x7ade0b297c (libunity.so) ? 0x0
+ #22 0x7ade253c84 (libunity.so) ? 0x0
+ #23 0x7ade26cc18 (libunity.so) ? 0x0
+ #24 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.7364480Z Error Invalid pass number (3) for Graphics.Blit (Material "PostFX - Bloom" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad85552cc (libil2cpp.so) ? 0x0
+ #7 0x7ad7cc4084 (libil2cpp.so) ? 0x0
+ #8 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #9 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #10 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #11 0x7ade1cda20 (libunity.so) ? 0x0
+ #12 0x7ade1dbd58 (libunity.so) ? 0x0
+ #13 0x7ade70cf10 (libunity.so) ? 0x0
+ #14 0x7ade70d190 (libunity.so) ? 0x0
+ #15 0x7ade7380bc (libunity.so) ? 0x0
+ #16 0x7ade6f98e0 (libunity.so) ? 0x0
+ #17 0x7ade70fe04 (libunity.so) ? 0x0
+ #18 0x7ade0b1024 (libunity.so) ? 0x0
+ #19 0x7ade0b2704 (libunity.so) ? 0x0
+ #20 0x7ade0b2744 (libunity.so) ? 0x0
+ #21 0x7ade0b297c (libunity.so) ? 0x0
+ #22 0x7ade253c84 (libunity.so) ? 0x0
+ #23 0x7ade26cc18 (libunity.so) ? 0x0
+ #24 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-01T10:02:18.7375330Z Error Invalid pass number (3) for Graphics.Blit (Material "PostFX - Bloom" with 1 passes)
+ #0 0x7ade2b1b68 (libunity.so) ? 0x0
+ #1 0x7ade95d724 (libunity.so) ? 0x0
+ #2 0x7ade70d720 (libunity.so) ? 0x0
+ #3 0x7ade6fb268 (libunity.so) ? 0x0
+ #4 0x7ade046500 (libunity.so) ? 0x0
+ #5 0x7adddf7e98 (libunity.so) ? 0x0
+ #6 0x7ad85552cc (libil2cpp.so) ? 0x0
+ #7 0x7ad7cc4084 (libil2cpp.so) ? 0x0
+ #8 0x7ad72b24d4 (libil2cpp.so) ? 0x0
+ #9 0x7ad72b2348 (libil2cpp.so) ? 0x0
+ #10 0x7ade1bf0e4 (libunity.so) ? 0x0
+ #11 0x7ade1cda20 (libunity.so) ? 0x0
+ #12 0x7ade1dbd58 (libunity.so) ? 0x0
+ #13 0x7ade70cf10 (libunity.so) ? 0x0
+ #14 0x7ade70d190 (libunity.so) ? 0x0
+ #15 0x7ade7380bc (libunity.so) ? 0x0
+ #16 0x7ade6f98e0 (libunity.so) ? 0x0
+ #17 0x7ade70fe04 (libunity.so) ? 0x0
+ #18 0x7ade0b1024 (libunity.so) ? 0x0
+ #19 0x7ade0b2704 (libunity.so) ? 0x0
+ #20 0x7ade0b2744 (libunity.so) ? 0x0
+ #21 0x7ade0b297c (libunity.so) ? 0x0
+ #22 0x7ade253c84 (libunity.so) ? 0x0
+ #23 0x7ade26cc18 (libunity.so) ? 0x0
+ #24 0x71b03360 (boot.oat) ? 0x0
+
