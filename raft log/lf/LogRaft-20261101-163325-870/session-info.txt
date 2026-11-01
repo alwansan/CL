@@ -1,0 +1,8 @@
+LogRaft 0.1.0
+Target=com.alwansan.raft.androidtest
+Start=Sun Nov 01 16:33:26 GMT+03:00 2026
+Build=Xiaomi 23013PC75G
+Android=15 API=35
+Collector=Shizuku shell/root UID; no root required
+Capture=Raft UID plus Raft-associated system/crash events
+Note=Logs only when emitted; cannot capture internal unlogged state

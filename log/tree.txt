@@ -472,7 +472,7 @@
 │   │   ├── [ 168 2026-11-01 02:32:23]  logo_sources.log
 │   │   ├── [2.1K 2026-11-01 02:39:19]  mkv_identity.map
 │   │   ├── [275K 2026-11-01 02:39:03]  player_diagnostics.log
-│   │   ├── [ 41K 2026-11-01 16:11:13]  tree.txt
+│   │   ├── [ 29K 2026-11-01 17:57:40]  tree.txt
 │   │   ├── [314K 2026-11-01 02:39:22]  ui95.log
 │   │   └── [315K 2026-11-01 02:39:28]  ui_performance.jsonl
 │   ├── [ 19K 2026-11-01 02:36:55]  special subtitle for ناروتو S01 E116 [cnm-680unu62q5914m78cfcf].ass
