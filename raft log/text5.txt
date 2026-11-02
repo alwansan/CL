@@ -1,0 +1,397 @@
+Raft Android early device test
+Unity 2021.3.45f2; scene MainMenuScene
+Xiaomi 23013PC75G; Android OS 15 / API-35 (AQ3A.250226.002/OS3.0.5.0.VMNMIXM)
+Adreno (TM) 730; Vulkan
+Logs: /storage/emulated/0/Android/data/com.alwansan.raft.androidtest/files/raft-logs
+Storage: ready
+This report does not verify gameplay, sound or save/load.
+2026-11-02T17:19:21.1968520Z Log RAFT_FMOD_ANDROID_BOOTSTRAP javaInitialized=true nativeVersion=00020215
+
+2026-11-02T17:19:30.2962460Z Log RAFT_ANDROID_DEVICE_TEST earlyStartupCandidate=true gameplayVerified=false
+
+2026-11-02T17:19:30.8263440Z Exception EventNotFoundException: [FMOD] Event not found: {615b7ec9-5406-40a7-9ed4-01ec07b8a73e}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:19:31.4930690Z Error Unable to load GUID for '/storage/emulated/0/Android/obb/com.alwansan.raft.androidtest/patch.80.com.alwansan.raft.androidtest.obb'
+ #0 0x7adda9eb68 (libunity.so) ? 0x0
+ #1 0x7ade14a724 (libunity.so) ? 0x0
+ #2 0x7adda46728 (libunity.so) ? 0x0
+ #3 0x7adda40338 (libunity.so) ? 0x0
+ #4 0x7adda40e70 (libunity.so) ? 0x0
+ #5 0x7adda40a3c (libunity.so) ? 0x0
+ #6 0x7adda59c18 (libunity.so) ? 0x0
+ #7 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-02T17:19:31.5378680Z Exception EventNotFoundException: [FMOD] Event not found: {c496c436-9fef-4ca3-846b-a163283373d8}
+FMODUnity.RuntimeManager.CreateInstance (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+SoundManager.Start () (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:19:31.5539160Z Exception VCANotFoundException: [FMOD] VCA not found 'vca:/master'
+FMODUnity.RuntimeManager.GetVCA (System.String path) (at <00000000000000000000000000000000>:0)
+AudioSettingsBox.SettingStart () (at <00000000000000000000000000000000>:0)
+Settings.StartBoxes () (at <00000000000000000000000000000000>:0)
+Settings.Start () (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:19:31.5902260Z Exception EventNotFoundException: [FMOD] Event not found: {6855736f-2e16-4fec-b1b2-45d31010bcea}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+ExtensionMethods.SetActiveSafe (UnityEngine.GameObject gameObject, System.Boolean value) (at <00000000000000000000000000000000>:0)
+RandomizeMainMenuRaft.ApplyMenuRaft (MainMenuRaft raft) (at <00000000000000000000000000000000>:0)
+RandomizeMainMenuRaft.RandomizeMenuRaft () (at <00000000000000000000000000000000>:0)
+ExtensionMethods:SetActiveSafe(GameObject, Boolean)
+RandomizeMainMenuRaft:ApplyMenuRaft(MainMenuRaft)
+RandomizeMainMenuRaft:RandomizeMenuRaft()
+
+2026-11-02T17:19:35.4817720Z Error Invalid pass number (3) for Graphics.Blit (Material "UltimateWater/Spectrum/Water Spectrum" with 1 passes)
+ #0 0x7adda9eb68 (libunity.so) ? 0x0
+ #1 0x7ade14a724 (libunity.so) ? 0x0
+ #2 0x7addefa720 (libunity.so) ? 0x0
+ #3 0x7addee8268 (libunity.so) ? 0x0
+ #4 0x7add833500 (libunity.so) ? 0x0
+ #5 0x7add5e4e98 (libunity.so) ? 0x0
+ #6 0x7ada88b3e0 (libil2cpp.so) ? 0x0
+ #7 0x7ada88a7d4 (libil2cpp.so) ? 0x0
+ #8 0x7ada88a994 (libil2cpp.so) ? 0x0
+ #9 0x7adb27c52c (libil2cpp.so) ? 0x0
+ #10 0x7adb28148c (libil2cpp.so) ? 0x0
+ #11 0x7adacd92dc (libil2cpp.so) ? 0x0
+ #12 0x7adacdd6d4 (libil2cpp.so) ? 0x0
+ #13 0x7adacdc5d4 (libil2cpp.so) ? 0x0
+ #14 0x7ad94a51f8 (libil2cpp.so) ? 0x0
+ #15 0x7ad94a506c (libil2cpp.so) ? 0x0
+ #16 0x7add9ac0e4 (libunity.so) ? 0x0
+ #17 0x7add9baa20 (libunity.so) ? 0x0
+ #18 0x7add9ca678 (libunity.so) ? 0x0
+ #19 0x7add7aa0d4 (libunity.so) ? 0x0
+ #20 0x7addee3d38 (libunity.so) ? 0x0
+ #21 0x7addee30dc (libunity.so) ? 0x0
+ #22 0x7addee5b54 (libunity.so) ? 0x0
+ #23 0x7addef2a20 (libunity.so) ? 0x0
+ #24 0x7add60c4c0 (libunity.so) ? 0x0
+ #25 0x7adb27287c (libil2cpp.so) ? 0x0
+ #26 0x7adacd92dc (libil2cpp.so) ? 0x0
+ #27 0x7adacdd6d4 (libil2cpp.so) ? 0x0
+ #28 0x7adacdc5d4 (libil2cpp.so) ? 0x0
+ #29 0x7ad94a51f8 (libil2cpp.so) ? 0x0
+ #30 0x7ad94a506c (libil2cpp.so) ? 0x0
+ #31 0x7add9ac0e4 (libunity.so) ? 0x0
+ #32 0x7add9baa20 (libunity.so) ? 0x0
+ #33 0x7add9ca678 (libunity.so) ? 0x0
+ #34 0x7add7aa0d4 (libunity.so) ? 0x0
+ #35 0x7addee3d38 (libunity.so) ? 0x0
+ #36 0x7addee30dc (libunity.so) ? 0x0
+ #37 0x7addefd078 (libunity.so) ? 0x0
+ #38 0x7add89e024 (libunity.so) ? 0x0
+ #39 0x7add89f704 (libunity.so) ? 0x0
+ #40 0x7add89f744 (libunity.so) ? 0x0
+ #41 0x7add89f97c (libunity.so) ? 0x0
+ #42 0x7adda40c84 (libunity.so) ? 0x0
+ #43 0x7adda59c18 (libunity.so) ? 0x0
+ #44 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-02T17:19:35.4829340Z Error Invalid pass number (5) for Graphics.Blit (Material "UltimateWater/Spectrum/Water Spectrum" with 1 passes)
+ #0 0x7adda9eb68 (libunity.so) ? 0x0
+ #1 0x7ade14a724 (libunity.so) ? 0x0
+ #2 0x7addefa720 (libunity.so) ? 0x0
+ #3 0x7addee8268 (libunity.so) ? 0x0
+ #4 0x7add833500 (libunity.so) ? 0x0
+ #5 0x7add5e4e98 (libunity.so) ? 0x0
+ #6 0x7ada88aa30 (libil2cpp.so) ? 0x0
+ #7 0x7adb27c52c (libil2cpp.so) ? 0x0
+ #8 0x7adb28148c (libil2cpp.so) ? 0x0
+ #9 0x7adacd92dc (libil2cpp.so) ? 0x0
+ #10 0x7adacdd6d4 (libil2cpp.so) ? 0x0
+ #11 0x7adacdc5d4 (libil2cpp.so) ? 0x0
+ #12 0x7ad94a51f8 (libil2cpp.so) ? 0x0
+ #13 0x7ad94a506c (libil2cpp.so) ? 0x0
+ #14 0x7add9ac0e4 (libunity.so) ? 0x0
+ #15 0x7add9baa20 (libunity.so) ? 0x0
+ #16 0x7add9ca678 (libunity.so) ? 0x0
+ #17 0x7add7aa0d4 (libunity.so) ? 0x0
+ #18 0x7addee3d38 (libunity.so) ? 0x0
+ #19 0x7addee30dc (libunity.so) ? 0x0
+ #20 0x7addee5b54 (libunity.so) ? 0x0
+ #21 0x7addef2a20 (libunity.so) ? 0x0
+ #22 0x7add60c4c0 (libunity.so) ? 0x0
+ #23 0x7adb27287c (libil2cpp.so) ? 0x0
+ #24 0x7adacd92dc (libil2cpp.so) ? 0x0
+ #25 0x7adacdd6d4 (libil2cpp.so) ? 0x0
+ #26 0x7adacdc5d4 (libil2cpp.so) ? 0x0
+ #27 0x7ad94a51f8 (libil2cpp.so) ? 0x0
+ #28 0x7ad94a506c (libil2cpp.so) ? 0x0
+ #29 0x7add9ac0e4 (libunity.so) ? 0x0
+ #30 0x7add9baa20 (libunity.so) ? 0x0
+ #31 0x7add9ca678 (libunity.so) ? 0x0
+ #32 0x7add7aa0d4 (libunity.so) ? 0x0
+ #33 0x7addee3d38 (libunity.so) ? 0x0
+ #34 0x7addee30dc (libunity.so) ? 0x0
+ #35 0x7addefd078 (libunity.so) ? 0x0
+ #36 0x7add89e024 (libunity.so) ? 0x0
+ #37 0x7add89f704 (libunity.so) ? 0x0
+ #38 0x7add89f744 (libunity.so) ? 0x0
+ #39 0x7add89f97c (libunity.so) ? 0x0
+ #40 0x7adda40c84 (libunity.so) ? 0x0
+ #41 0x7adda59c18 (libunity.so) ? 0x0
+ #42 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-02T17:19:35.4876720Z Exception IndexOutOfRangeException: Invalid kernelIndex (6) passed, must be non-negative less than 0.
+UltimateWater.Internal.Dx11FFT.ComputeFFT (UnityEngine.Texture tex, UnityEngine.RenderTexture target) (at <00000000000000000000000000000000>:0)
+UltimateWater.WavesRendererFFT.RenderMaps (System.Single time, UnityEngine.RenderTexture[] displacementMaps, UnityEngine.RenderTexture[] normalMaps) (at <00000000000000000000000000000000>:0)
+UltimateWater.WindWaves.OnWaterRender (UltimateWater.WaterCamera waterCamera) (at <00000000000000000000000000000000>:0)
+UltimateWater.Water.OnWaterRender (UltimateWater.WaterCamera waterCamera) (at <00000000000000000000000000000000>:0)
+UltimateWater.WaterCamera.RenderWaterEffects () (at <00000000000000000000000000000000>:0)
+UltimateWater.WaterCamera.OnPreCull () (at <00000000000000000000000000000000>:0)
+UltimateWater.WaterSubsurfaceScattering.OnWaterRender (UltimateWater.WaterCamera waterCamera) (at <00000000000000000000000000000000>:0)
+UltimateWater.Water.OnWaterRender (UltimateWater.WaterCamera waterCamera) (at <00000000000000000000000000000000>:0)
+UltimateWater.WaterCamera.RenderWaterEffects () (at <00000000000000000000000000000000>:0)
+UltimateWater.WaterCamera.OnPreCull () (at <00000000000000000000000000000000>:0)
+UltimateWater.WaterSubsurfaceScattering:OnWaterRender(WaterCamera)
+UltimateWater.Water:OnWaterRender(WaterCamera)
+UltimateWater.WaterCamera:RenderWaterEffects()
+UltimateWater.WaterCamera:OnPreCull()
+
+2026-11-02T17:19:35.4903160Z Error Invalid pass number (1) for Graphics.Blit (Material "UltimateWater/Utilities/Blur (Subsurface Scattering)" with 1 passes)
+ #0 0x7adda9eb68 (libunity.so) ? 0x0
+ #1 0x7ade14a724 (libunity.so) ? 0x0
+ #2 0x7addefa720 (libunity.so) ? 0x0
+ #3 0x7addee8268 (libunity.so) ? 0x0
+ #4 0x7add833500 (libunity.so) ? 0x0
+ #5 0x7add5e4e98 (libunity.so) ? 0x0
+ #6 0x7adb272a24 (libil2cpp.so) ? 0x0
+ #7 0x7adacd92dc (libil2cpp.so) ? 0x0
+ #8 0x7adacdd6d4 (libil2cpp.so) ? 0x0
+ #9 0x7adacdc5d4 (libil2cpp.so) ? 0x0
+ #10 0x7ad94a51f8 (libil2cpp.so) ? 0x0
+ #11 0x7ad94a506c (libil2cpp.so) ? 0x0
+ #12 0x7add9ac0e4 (libunity.so) ? 0x0
+ #13 0x7add9baa20 (libunity.so) ? 0x0
+ #14 0x7add9ca678 (libunity.so) ? 0x0
+ #15 0x7add7aa0d4 (libunity.so) ? 0x0
+ #16 0x7addee3d38 (libunity.so) ? 0x0
+ #17 0x7addee30dc (libunity.so) ? 0x0
+ #18 0x7addefd078 (libunity.so) ? 0x0
+ #19 0x7add89e024 (libunity.so) ? 0x0
+ #20 0x7add89f704 (libunity.so) ? 0x0
+ #21 0x7add89f744 (libunity.so) ? 0x0
+ #22 0x7add89f97c (libunity.so) ? 0x0
+ #23 0x7adda40c84 (libunity.so) ? 0x0
+ #24 0x7adda59c18 (libunity.so) ? 0x0
+ #25 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-02T17:19:35.5060940Z Error Invalid pass number (1) for Graphics.Blit (Material "UltimateWater/Foam/Global" with 1 passes)
+ #0 0x7adda9eb68 (libunity.so) ? 0x0
+ #1 0x7ade14a724 (libunity.so) ? 0x0
+ #2 0x7addefa720 (libunity.so) ? 0x0
+ #3 0x7addee8268 (libunity.so) ? 0x0
+ #4 0x7add833500 (libunity.so) ? 0x0
+ #5 0x7add5e4e98 (libunity.so) ? 0x0
+ #6 0x7ada8855b0 (libil2cpp.so) ? 0x0
+ #7 0x7ada148eac (libil2cpp.so) ? 0x0
+ #8 0x7adacd92dc (libil2cpp.so) ? 0x0
+ #9 0x7adacdd6d4 (libil2cpp.so) ? 0x0
+ #10 0x7adacdc5d4 (libil2cpp.so) ? 0x0
+ #11 0x7ad94a51f8 (libil2cpp.so) ? 0x0
+ #12 0x7ad94a506c (libil2cpp.so) ? 0x0
+ #13 0x7add9ac0e4 (libunity.so) ? 0x0
+ #14 0x7add9baa20 (libunity.so) ? 0x0
+ #15 0x7add9ca678 (libunity.so) ? 0x0
+ #16 0x7add7aa0d4 (libunity.so) ? 0x0
+ #17 0x7addee3d38 (libunity.so) ? 0x0
+ #18 0x7addee30dc (libunity.so) ? 0x0
+ #19 0x7addefd078 (libunity.so) ? 0x0
+ #20 0x7add89e024 (libunity.so) ? 0x0
+ #21 0x7add89f704 (libunity.so) ? 0x0
+ #22 0x7add89f744 (libunity.so) ? 0x0
+ #23 0x7add89f97c (libunity.so) ? 0x0
+ #24 0x7adda40c84 (libunity.so) ? 0x0
+ #25 0x7adda59c18 (libunity.so) ? 0x0
+ #26 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-02T17:19:35.5320030Z Error Trying to access pass 4, but material 'Sandbox/VolumetricLight' subshader (0) has only 1 valid passes.
+ #0 0x7adda9eb68 (libunity.so) ? 0x0
+ #1 0x7ade14a724 (libunity.so) ? 0x0
+ #2 0x7add838fe0 (libunity.so) ? 0x0
+ #3 0x7add5b49c0 (libunity.so) ? 0x0
+ #4 0x7ad95aede0 (libil2cpp.so) ? 0x0
+ #5 0x7ad95ad234 (libil2cpp.so) ? 0x0
+ #6 0x7ad95b19a4 (libil2cpp.so) ? 0x0
+ #7 0x7ad94a51f8 (libil2cpp.so) ? 0x0
+ #8 0x7ad94a506c (libil2cpp.so) ? 0x0
+ #9 0x7add9ac0e4 (libunity.so) ? 0x0
+ #10 0x7add9baa20 (libunity.so) ? 0x0
+ #11 0x7add9ca678 (libunity.so) ? 0x0
+ #12 0x7add7aa0d4 (libunity.so) ? 0x0
+ #13 0x7addee6420 (libunity.so) ? 0x0
+ #14 0x7addefce04 (libunity.so) ? 0x0
+ #15 0x7add89e024 (libunity.so) ? 0x0
+ #16 0x7add89f704 (libunity.so) ? 0x0
+ #17 0x7add89f744 (libunity.so) ? 0x0
+ #18 0x7add89f97c (libunity.so) ? 0x0
+ #19 0x7adda40c84 (libunity.so) ? 0x0
+ #20 0x7adda59c18 (libunity.so) ? 0x0
+ #21 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-02T17:19:35.6069110Z Error Invalid pass number (4) for Graphics.Blit (Material "(Unknown material)" with 1 passes)
+ #0 0x7adda9eb68 (libunity.so) ? 0x0
+ #1 0x7ade14a724 (libunity.so) ? 0x0
+ #2 0x7addefa720 (libunity.so) ? 0x0
+ #3 0x7add8542e8 (libunity.so) ? 0x0
+ #4 0x7add8501bc (libunity.so) ? 0x0
+ #5 0x7add855fbc (libunity.so) ? 0x0
+ #6 0x7addf1c918 (libunity.so) ? 0x0
+ #7 0x7addf1fac0 (libunity.so) ? 0x0
+ #8 0x7addf25a30 (libunity.so) ? 0x0
+ #9 0x7addee6810 (libunity.so) ? 0x0
+ #10 0x7addefce04 (libunity.so) ? 0x0
+ #11 0x7add89e024 (libunity.so) ? 0x0
+ #12 0x7add89f704 (libunity.so) ? 0x0
+ #13 0x7add89f744 (libunity.so) ? 0x0
+ #14 0x7add89f97c (libunity.so) ? 0x0
+ #15 0x7adda40c84 (libunity.so) ? 0x0
+ #16 0x7adda59c18 (libunity.so) ? 0x0
+ #17 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-02T17:19:35.6316480Z Error RenderingCommandBuffer: shader UltimateWater/Depth/Depth Copy: invalid pass index 3 in DrawMesh
+ #0 0x7adda9eb68 (libunity.so) ? 0x0
+ #1 0x7ade14a724 (libunity.so) ? 0x0
+ #2 0x7add92e380 (libunity.so) ? 0x0
+ #3 0x7add853cb0 (libunity.so) ? 0x0
+ #4 0x7add8501bc (libunity.so) ? 0x0
+ #5 0x7add855fbc (libunity.so) ? 0x0
+ #6 0x7addf1c918 (libunity.so) ? 0x0
+ #7 0x7addf1fac0 (libunity.so) ? 0x0
+ #8 0x7addf25a30 (libunity.so) ? 0x0
+ #9 0x7addee6810 (libunity.so) ? 0x0
+ #10 0x7addefce04 (libunity.so) ? 0x0
+ #11 0x7add89e024 (libunity.so) ? 0x0
+ #12 0x7add89f704 (libunity.so) ? 0x0
+ #13 0x7add89f744 (libunity.so) ? 0x0
+ #14 0x7add89f97c (libunity.so) ? 0x0
+ #15 0x7adda40c84 (libunity.so) ? 0x0
+ #16 0x7adda59c18 (libunity.so) ? 0x0
+ #17 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-02T17:19:35.6427120Z Error RenderingCommandBuffer: shader UltimateWater/Depth/Depth Copy: invalid pass index 4 in DrawMesh
+ #0 0x7adda9eb68 (libunity.so) ? 0x0
+ #1 0x7ade14a724 (libunity.so) ? 0x0
+ #2 0x7add92e380 (libunity.so) ? 0x0
+ #3 0x7add853cb0 (libunity.so) ? 0x0
+ #4 0x7add8501bc (libunity.so) ? 0x0
+ #5 0x7add855fbc (libunity.so) ? 0x0
+ #6 0x7addf1c918 (libunity.so) ? 0x0
+ #7 0x7addf1fac0 (libunity.so) ? 0x0
+ #8 0x7addf25a30 (libunity.so) ? 0x0
+ #9 0x7addee6810 (libunity.so) ? 0x0
+ #10 0x7addefce04 (libunity.so) ? 0x0
+ #11 0x7add89e024 (libunity.so) ? 0x0
+ #12 0x7add89f704 (libunity.so) ? 0x0
+ #13 0x7add89f744 (libunity.so) ? 0x0
+ #14 0x7add89f97c (libunity.so) ? 0x0
+ #15 0x7adda40c84 (libunity.so) ? 0x0
+ #16 0x7adda59c18 (libunity.so) ? 0x0
+ #17 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-02T17:19:35.6539800Z Error Invalid pass number (4) for Graphics.Blit (Material "(Unknown material)" with 1 passes)
+ #0 0x7adda9eb68 (libunity.so) ? 0x0
+ #1 0x7ade14a724 (libunity.so) ? 0x0
+ #2 0x7addefa720 (libunity.so) ? 0x0
+ #3 0x7add8542e8 (libunity.so) ? 0x0
+ #4 0x7add8501bc (libunity.so) ? 0x0
+ #5 0x7add855fbc (libunity.so) ? 0x0
+ #6 0x7addeab4ec (libunity.so) ? 0x0
+ #7 0x7addf1d098 (libunity.so) ? 0x0
+ #8 0x7addf1c9d4 (libunity.so) ? 0x0
+ #9 0x7addf1fac0 (libunity.so) ? 0x0
+ #10 0x7addf25a30 (libunity.so) ? 0x0
+ #11 0x7addee6810 (libunity.so) ? 0x0
+ #12 0x7addefce04 (libunity.so) ? 0x0
+ #13 0x7add89e024 (libunity.so) ? 0x0
+ #14 0x7add89f704 (libunity.so) ? 0x0
+ #15 0x7add89f744 (libunity.so) ? 0x0
+ #16 0x7add89f97c (libunity.so) ? 0x0
+ #17 0x7adda40c84 (libunity.so) ? 0x0
+ #18 0x7adda59c18 (libunity.so) ? 0x0
+ #19 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-02T17:19:35.7165830Z Error Invalid pass number (2) for Graphics.Blit (Material "Hidden/BilateralBlur" with 1 passes)
+ #0 0x7adda9eb68 (libunity.so) ? 0x0
+ #1 0x7ade14a724 (libunity.so) ? 0x0
+ #2 0x7addefa720 (libunity.so) ? 0x0
+ #3 0x7addee8268 (libunity.so) ? 0x0
+ #4 0x7add833500 (libunity.so) ? 0x0
+ #5 0x7add5e4e98 (libunity.so) ? 0x0
+ #6 0x7ad95b1c94 (libil2cpp.so) ? 0x0
+ #7 0x7ad94a51f8 (libil2cpp.so) ? 0x0
+ #8 0x7ad94a506c (libil2cpp.so) ? 0x0
+ #9 0x7add9ac0e4 (libunity.so) ? 0x0
+ #10 0x7add9baa20 (libunity.so) ? 0x0
+ #11 0x7add9c8d58 (libunity.so) ? 0x0
+ #12 0x7addef9c60 (libunity.so) ? 0x0
+ #13 0x7addefa190 (libunity.so) ? 0x0
+ #14 0x7addf250bc (libunity.so) ? 0x0
+ #15 0x7addee68e0 (libunity.so) ? 0x0
+ #16 0x7addefce04 (libunity.so) ? 0x0
+ #17 0x7add89e024 (libunity.so) ? 0x0
+ #18 0x7add89f704 (libunity.so) ? 0x0
+ #19 0x7add89f744 (libunity.so) ? 0x0
+ #20 0x7add89f97c (libunity.so) ? 0x0
+ #21 0x7adda40c84 (libunity.so) ? 0x0
+ #22 0x7adda59c18 (libunity.so) ? 0x0
+ #23 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-02T17:19:35.7172730Z Error Invalid pass number (3) for Graphics.Blit (Material "Hidden/BilateralBlur" with 1 passes)
+ #0 0x7adda9eb68 (libunity.so) ? 0x0
+ #1 0x7ade14a724 (libunity.so) ? 0x0
+ #2 0x7addefa720 (libunity.so) ? 0x0
+ #3 0x7addee8268 (libunity.so) ? 0x0
+ #4 0x7add833500 (libunity.so) ? 0x0
+ #5 0x7add5e4e98 (libunity.so) ? 0x0
+ #6 0x7ad95b1cac (libil2cpp.so) ? 0x0
+ #7 0x7ad94a51f8 (libil2cpp.so) ? 0x0
+ #8 0x7ad94a506c (libil2cpp.so) ? 0x0
+ #9 0x7add9ac0e4 (libunity.so) ? 0x0
+ #10 0x7add9baa20 (libunity.so) ? 0x0
+ #11 0x7add9c8d58 (libunity.so) ? 0x0
+ #12 0x7addef9c60 (libunity.so) ? 0x0
+ #13 0x7addefa190 (libunity.so) ? 0x0
+ #14 0x7addf250bc (libunity.so) ? 0x0
+ #15 0x7addee68e0 (libunity.so) ? 0x0
+ #16 0x7addefce04 (libunity.so) ? 0x0
+ #17 0x7add89e024 (libunity.so) ? 0x0
+ #18 0x7add89f704 (libunity.so) ? 0x0
+ #19 0x7add89f744 (libunity.so) ? 0x0
+ #20 0x7add89f97c (libunity.so) ? 0x0
+ #21 0x7adda40c84 (libunity.so) ? 0x0
+ #22 0x7adda59c18 (libunity.so) ? 0x0
+ #23 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-02T17:19:35.7179800Z Error Invalid pass number (12) for Graphics.Blit (Material "Hidden/BilateralBlur" with 1 passes)
+ #0 0x7adda9eb68 (libunity.so) ? 0x0
+ #1 0x7ade14a724 (libunity.so) ? 0x0
+ #2 0x7addefa720 (libunity.so) ? 0x0
+ #3 0x7addee8268 (libunity.so) ? 0x0
+ #4 0x7add833500 (libunity.so) ? 0x0
+ #5 0x7add5e4e98 (libunity.so) ? 0x0
+ #6 0x7ad94a51f8 (libil2cpp.so) ? 0x0
+ #7 0x7ad94a506c (libil2cpp.so) ? 0x0
+ #8 0x7add9ac0e4 (libunity.so) ? 0x0
+ #9 0x7add9baa20 (libunity.so) ? 0x0
+ #10 0x7add9c8d58 (libunity.so) ? 0x0
+ #11 0x7addef9c60 (libunity.so) ? 0x0
+ #12 0x7addefa190 (libunity.so) ? 0x0
+ #13 0x7addf250bc (libunity.so) ? 0x0
+ #14 0x7addee68e0 (libunity.so) ? 0x0
+ #15 0x7addefce04 (libunity.so) ? 0x0
+ #16 0x7add89e024 (libunity.so) ? 0x0
+ #17 0x7add89f704 (libunity.so) ? 0x0
+ #18 0x7add89f744 (libunity.so) ? 0x0
+ #19 0x7add89f97c (libunity.so) ? 0x0
+ #20 0x7adda40c84 (libunity.so) ? 0x0
+ #21 0x7adda59c18 (libunity.so) ? 0x0
+ #22 0x71b03360 (boot.oat) ? 0x0
+

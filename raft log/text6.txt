@@ -1,0 +1,533 @@
+Raft Android early device test
+Unity 2021.3.45f2; scene MainMenuScene
+Xiaomi 23013PC75G; Android OS 15 / API-35 (AQ3A.250226.002/OS3.0.5.0.VMNMIXM)
+Adreno (TM) 730; Vulkan
+Logs: /storage/emulated/0/Android/data/com.alwansan.raft.androidtest/files/raft-logs
+Storage: ready
+This report does not verify gameplay, sound or save/load.
+2026-11-02T17:07:05.0729500Z Error RenderingCommandBuffer: shader UltimateWater/Depth/Depth Copy: invalid pass index 4 in DrawMesh
+ #0 0x7ade6e9b68 (libunity.so) ? 0x0
+ #1 0x7aded95724 (libunity.so) ? 0x0
+ #2 0x7ade579380 (libunity.so) ? 0x0
+ #3 0x7ade49ecb0 (libunity.so) ? 0x0
+ #4 0x7ade49b1bc (libunity.so) ? 0x0
+ #5 0x7ade4a0fbc (libunity.so) ? 0x0
+ #6 0x7adeb67918 (libunity.so) ? 0x0
+ #7 0x7adeb6aac0 (libunity.so) ? 0x0
+ #8 0x7adeb70a30 (libunity.so) ? 0x0
+ #9 0x7adeb31810 (libunity.so) ? 0x0
+ #10 0x7adeb47e04 (libunity.so) ? 0x0
+ #11 0x7ade4e9024 (libunity.so) ? 0x0
+ #12 0x7ade4ea704 (libunity.so) ? 0x0
+ #13 0x7ade4ea744 (libunity.so) ? 0x0
+ #14 0x7ade4ea97c (libunity.so) ? 0x0
+ #15 0x7ade68bc84 (libunity.so) ? 0x0
+ #16 0x7ade6a4c18 (libunity.so) ? 0x0
+ #17 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-02T17:07:05.0864260Z Error Invalid pass number (4) for Graphics.Blit (Material "(Unknown material)" with 1 passes)
+ #0 0x7ade6e9b68 (libunity.so) ? 0x0
+ #1 0x7aded95724 (libunity.so) ? 0x0
+ #2 0x7adeb45720 (libunity.so) ? 0x0
+ #3 0x7ade49f2e8 (libunity.so) ? 0x0
+ #4 0x7ade49b1bc (libunity.so) ? 0x0
+ #5 0x7ade4a0fbc (libunity.so) ? 0x0
+ #6 0x7adeaf64ec (libunity.so) ? 0x0
+ #7 0x7adeb68098 (libunity.so) ? 0x0
+ #8 0x7adeb679d4 (libunity.so) ? 0x0
+ #9 0x7adeb6aac0 (libunity.so) ? 0x0
+ #10 0x7adeb70a30 (libunity.so) ? 0x0
+ #11 0x7adeb31810 (libunity.so) ? 0x0
+ #12 0x7adeb47e04 (libunity.so) ? 0x0
+ #13 0x7ade4e9024 (libunity.so) ? 0x0
+ #14 0x7ade4ea704 (libunity.so) ? 0x0
+ #15 0x7ade4ea744 (libunity.so) ? 0x0
+ #16 0x7ade4ea97c (libunity.so) ? 0x0
+ #17 0x7ade68bc84 (libunity.so) ? 0x0
+ #18 0x7ade6a4c18 (libunity.so) ? 0x0
+ #19 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-02T17:07:05.2132370Z Error Invalid pass number (2) for Graphics.Blit (Material "Hidden/BilateralBlur" with 1 passes)
+ #0 0x7ade6e9b68 (libunity.so) ? 0x0
+ #1 0x7aded95724 (libunity.so) ? 0x0
+ #2 0x7adeb45720 (libunity.so) ? 0x0
+ #3 0x7adeb33268 (libunity.so) ? 0x0
+ #4 0x7ade47e500 (libunity.so) ? 0x0
+ #5 0x7ade22fe98 (libunity.so) ? 0x0
+ #6 0x7ad51b3c94 (libil2cpp.so) ? 0x0
+ #7 0x7ad50a71f8 (libil2cpp.so) ? 0x0
+ #8 0x7ad50a706c (libil2cpp.so) ? 0x0
+ #9 0x7ade5f70e4 (libunity.so) ? 0x0
+ #10 0x7ade605a20 (libunity.so) ? 0x0
+ #11 0x7ade613d58 (libunity.so) ? 0x0
+ #12 0x7adeb44c60 (libunity.so) ? 0x0
+ #13 0x7adeb45190 (libunity.so) ? 0x0
+ #14 0x7adeb700bc (libunity.so) ? 0x0
+ #15 0x7adeb318e0 (libunity.so) ? 0x0
+ #16 0x7adeb47e04 (libunity.so) ? 0x0
+ #17 0x7ade4e9024 (libunity.so) ? 0x0
+ #18 0x7ade4ea704 (libunity.so) ? 0x0
+ #19 0x7ade4ea744 (libunity.so) ? 0x0
+ #20 0x7ade4ea97c (libunity.so) ? 0x0
+ #21 0x7ade68bc84 (libunity.so) ? 0x0
+ #22 0x7ade6a4c18 (libunity.so) ? 0x0
+ #23 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-02T17:07:05.2144820Z Error Invalid pass number (3) for Graphics.Blit (Material "Hidden/BilateralBlur" with 1 passes)
+ #0 0x7ade6e9b68 (libunity.so) ? 0x0
+ #1 0x7aded95724 (libunity.so) ? 0x0
+ #2 0x7adeb45720 (libunity.so) ? 0x0
+ #3 0x7adeb33268 (libunity.so) ? 0x0
+ #4 0x7ade47e500 (libunity.so) ? 0x0
+ #5 0x7ade22fe98 (libunity.so) ? 0x0
+ #6 0x7ad51b3cac (libil2cpp.so) ? 0x0
+ #7 0x7ad50a71f8 (libil2cpp.so) ? 0x0
+ #8 0x7ad50a706c (libil2cpp.so) ? 0x0
+ #9 0x7ade5f70e4 (libunity.so) ? 0x0
+ #10 0x7ade605a20 (libunity.so) ? 0x0
+ #11 0x7ade613d58 (libunity.so) ? 0x0
+ #12 0x7adeb44c60 (libunity.so) ? 0x0
+ #13 0x7adeb45190 (libunity.so) ? 0x0
+ #14 0x7adeb700bc (libunity.so) ? 0x0
+ #15 0x7adeb318e0 (libunity.so) ? 0x0
+ #16 0x7adeb47e04 (libunity.so) ? 0x0
+ #17 0x7ade4e9024 (libunity.so) ? 0x0
+ #18 0x7ade4ea704 (libunity.so) ? 0x0
+ #19 0x7ade4ea744 (libunity.so) ? 0x0
+ #20 0x7ade4ea97c (libunity.so) ? 0x0
+ #21 0x7ade68bc84 (libunity.so) ? 0x0
+ #22 0x7ade6a4c18 (libunity.so) ? 0x0
+ #23 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-02T17:07:05.2153360Z Error Invalid pass number (12) for Graphics.Blit (Material "Hidden/BilateralBlur" with 1 passes)
+ #0 0x7ade6e9b68 (libunity.so) ? 0x0
+ #1 0x7aded95724 (libunity.so) ? 0x0
+ #2 0x7adeb45720 (libunity.so) ? 0x0
+ #3 0x7adeb33268 (libunity.so) ? 0x0
+ #4 0x7ade47e500 (libunity.so) ? 0x0
+ #5 0x7ade22fe98 (libunity.so) ? 0x0
+ #6 0x7ad50a71f8 (libil2cpp.so) ? 0x0
+ #7 0x7ad50a706c (libil2cpp.so) ? 0x0
+ #8 0x7ade5f70e4 (libunity.so) ? 0x0
+ #9 0x7ade605a20 (libunity.so) ? 0x0
+ #10 0x7ade613d58 (libunity.so) ? 0x0
+ #11 0x7adeb44c60 (libunity.so) ? 0x0
+ #12 0x7adeb45190 (libunity.so) ? 0x0
+ #13 0x7adeb700bc (libunity.so) ? 0x0
+ #14 0x7adeb318e0 (libunity.so) ? 0x0
+ #15 0x7adeb47e04 (libunity.so) ? 0x0
+ #16 0x7ade4e9024 (libunity.so) ? 0x0
+ #17 0x7ade4ea704 (libunity.so) ? 0x0
+ #18 0x7ade4ea744 (libunity.so) ? 0x0
+ #19 0x7ade4ea97c (libunity.so) ? 0x0
+ #20 0x7ade68bc84 (libunity.so) ? 0x0
+ #21 0x7ade6a4c18 (libunity.so) ? 0x0
+ #22 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-02T17:08:00.7870560Z Exception KeyNotFoundException: The given key 'Inventory' was not present in the dictionary.
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <00000000000000000000000000000000>:0)
+CanvasHelper.SetHotkeyElementsText () (at <00000000000000000000000000000000>:0)
+UnityEngine.Events.UnityEvent`1[T0].Invoke (T0 arg0) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.PlayerInput.OnEnable () (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:01.4197530Z Exception EventNotFoundException: [FMOD] Event not found: {4fa48f52-d1f4-4b13-8795-54995e575549}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+UnityEngine.Object.Internal_InstantiateSingle (UnityEngine.Object data, UnityEngine.Vector3 pos, UnityEngine.Quaternion rot) (at <00000000000000000000000000000000>:0)
+UnityEngine.Object.Instantiate (UnityEngine.Object original, UnityEngine.Vector3 position, UnityEngine.Quaternion rotation) (at <00000000000000000000000000000000>:0)
+UnityEngine.Object.Instantiate[T] (T original, UnityEngine.Vector3 position, UnityEngine.Quaternion rotation) (at <00000000000000000000000000000000>:0)
+Raft_Network.InternalAddPlayer (Network_UserId steamID, RGD_Settings_Character characterSettings) (at <00000000000000000000000000000000>:0)
+Raft_Network.AddPlayer (Network_UserId steamID, RGD_Settings_Character characterSettings) (at <00000000000000000000000000000000>:0)
+Raft_Network.OnSceneLoaded (UnityEngine.SceneManagement.Scene scene, UnityEngine.SceneManagement.LoadSceneMode sceneMode) (at <00000000000000000000000000000000>:0)
+UnityEngine.Object:Instantiate(T, Vector3, Quaternion)
+Raft_Network:InternalAddPlayer(Network_UserId, RGD_Settings_Character)
+Raft_Network:AddPlayer(Network_UserId, RGD_Settings_Character)
+Raft_Network:OnSceneLoaded(Scene, LoadSceneMode)
+
+2026-11-02T17:08:01.4643710Z Exception KeyNotFoundException: The given key 'Inventory' was not present in the dictionary.
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <00000000000000000000000000000000>:0)
+CanvasHelper.SetHotkeyElementsText () (at <00000000000000000000000000000000>:0)
+CanvasHelper.Start () (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:01.4675140Z Error KeyNotFoundException while executing 'InputUser.onChange' callbacks
+ #0 0x7ade6e9b68 (libunity.so) ? 0x0
+ #1 0x7aded95724 (libunity.so) ? 0x0
+ #2 0x7ade25c7c0 (libunity.so) ? 0x0
+ #3 0x7ade25c6b0 (libunity.so) ? 0x0
+ #4 0x7ad6a20b8c (libil2cpp.so) ? 0x0
+ #5 0x7ad6a2320c (libil2cpp.so) ? 0x0
+ #6 0x7ad5325870 (libil2cpp.so) ? 0x0
+ #7 0x7ad6065b2c (libil2cpp.so) ? 0x0
+ #8 0x7ad60651b4 (libil2cpp.so) ? 0x0
+ #9 0x7ad6064d04 (libil2cpp.so) ? 0x0
+ #10 0x7ad5631044 (libil2cpp.so) ? 0x0
+ #11 0x7ad5629988 (libil2cpp.so) ? 0x0
+ #12 0x7ad562bf9c (libil2cpp.so) ? 0x0
+ #13 0x7ad6a2286c (libil2cpp.so) ? 0x0
+ #14 0x7ad6a14ea4 (libil2cpp.so) ? 0x0
+ #15 0x7ad59de698 (libil2cpp.so) ? 0x0
+ #16 0x7ad50a71f8 (libil2cpp.so) ? 0x0
+ #17 0x7ad50a706c (libil2cpp.so) ? 0x0
+ #18 0x7ade5f70e4 (libunity.so) ? 0x0
+ #19 0x7ade605a20 (libunity.so) ? 0x0
+ #20 0x7ade614eb4 (libunity.so) ? 0x0
+ #21 0x7ade6150f0 (libunity.so) ? 0x0
+ #22 0x7ade61592c (libunity.so) ? 0x0
+ #23 0x7ade40e454 (libunity.so) ? 0x0
+ #24 0x7ade4ea704 (libunity.so) ? 0x0
+ #25 0x7ade4ea744 (libunity.so) ? 0x0
+ #26 0x7ade4ea97c (libunity.so) ? 0x0
+ #27 0x7ade68bc84 (libunity.so) ? 0x0
+ #28 0x7ade6a4c18 (libunity.so) ? 0x0
+ #29 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-02T17:08:01.4697090Z Exception KeyNotFoundException: The given key 'Inventory' was not present in the dictionary.
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <00000000000000000000000000000000>:0)
+CanvasHelper.SetHotkeyElementsText () (at <00000000000000000000000000000000>:0)
+UnityEngine.Events.UnityEvent`1[T0].Invoke (T0 arg0) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.PlayerInput.OnUserChange (UnityEngine.InputSystem.Users.InputUser user, UnityEngine.InputSystem.Users.InputUserChange change, UnityEngine.InputSystem.InputDevice device) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.Users.InputUser.Notify (System.Int32 userIndex, UnityEngine.InputSystem.Users.InputUserChange change, UnityEngine.InputSystem.InputDevice device) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.Users.InputUser.OnActionChange (System.Object obj, UnityEngine.InputSystem.InputActionChange change) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.Utilities.DelegateHelpers.InvokeCallbacksSafe[TValue1,TValue2] (UnityEngine.InputSystem.Utilities.CallbackArray`1[System.Action`2[TValue1,TValue2]]& callbacks, TValue1 argument1, TValue2 argument2, System.String callbackName, System.Object context) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.InputActionState.NotifyListenersOfActionChange (UnityEngine.InputSystem.InputActionChange change, System.Object actionOrMapOrAsset) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.InputActionState.RestoreActionStatesAfterReResolvingBindings (UnityEngine.InputSystem.InputActionState+UnmanagedMemory oldState, UnityEngine.InputSystem.InputControlList`1[TControl] activeControls, System.Boolean isFullResolve) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.InputActionState.FinishBindingResolution (System.Boolean hasEnabledActions, UnityEngine.InputSystem.InputActionState+UnmanagedMemory oldMemory, UnityEngine.InputSystem.InputControlList`1[TControl] activeControls, System.Boolean isFullResolve) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.InputActionMap.ResolveBindings () (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.InputActionMap.LazyResolveBindings (System.Boolean fullResolve) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.InputActionAsset.set_devices (System.Nullable`1[T] value) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.Users.InputUser.AddDeviceToUser (System.Int32 userIndex, UnityEngine.InputSystem.InputDevice device, System.Boolean asLostDevice, System.Boolean dontUpdateControlScheme) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.Users.InputUser.PerformPairingWithDevice (UnityEngine.InputSystem.InputDevice device, UnityEngine.InputSystem.Users.InputUser user, UnityEngine.InputSystem.Users.InputUserPairingOptions options) (at <00000000000000000000000000000000>:0)
+Gamepa
+2026-11-02T17:08:01.4738840Z Exception EventNotFoundException: [FMOD] Event not found: {0cad1ff2-667d-48ca-8abd-efc175fc2d7f}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:01.6564580Z Exception EventNotFoundException: [FMOD] Event not found: {db4d7da5-2017-4bef-90e0-91fbe0033e4c}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+Raft.Start () (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:01.9153140Z Error Invalid pass number (4) for Graphics.Blit (Material "UltimateWater/Spectrum/Water Spectrum" with 1 passes)
+ #0 0x7ade6e9b68 (libunity.so) ? 0x0
+ #1 0x7aded95724 (libunity.so) ? 0x0
+ #2 0x7adeb45720 (libunity.so) ? 0x0
+ #3 0x7adeb33268 (libunity.so) ? 0x0
+ #4 0x7ade47e500 (libunity.so) ? 0x0
+ #5 0x7ade22fe98 (libunity.so) ? 0x0
+ #6 0x7ad648d014 (libil2cpp.so) ? 0x0
+ #7 0x7ad6e82ff0 (libil2cpp.so) ? 0x0
+ #8 0x7ad55b9f78 (libil2cpp.so) ? 0x0
+ #9 0x7ad623cd6c (libil2cpp.so) ? 0x0
+ #10 0x7ad68dae84 (libil2cpp.so) ? 0x0
+ #11 0x7ad50a71f8 (libil2cpp.so) ? 0x0
+ #12 0x7ad50a706c (libil2cpp.so) ? 0x0
+ #13 0x7ade5f70e4 (libunity.so) ? 0x0
+ #14 0x7ade605a20 (libunity.so) ? 0x0
+ #15 0x7ade614010 (libunity.so) ? 0x0
+ #16 0x7ade41074c (libunity.so) ? 0x0
+ #17 0x7ade4ea704 (libunity.so) ? 0x0
+ #18 0x7ade4ea744 (libunity.so) ? 0x0
+ #19 0x7ade4ea97c (libunity.so) ? 0x0
+ #20 0x7ade68bc84 (libunity.so) ? 0x0
+ #21 0x7ade6a4c18 (libunity.so) ? 0x0
+ #22 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-02T17:08:03.9271000Z Exception EventNotFoundException: [FMOD] Event not found: {45070e16-5cd3-4dcc-8eb7-6d80e4754ece}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:08.2337330Z Exception EventNotFoundException: [FMOD] Event not found: {e58cd3c1-8cb5-444b-bfe7-8a884eeba77c}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:08.2355890Z Exception EventNotFoundException: [FMOD] Event not found: {6ff5afa6-8fcc-4715-93e8-0be8ac481da7}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:09.1718090Z Exception EventNotFoundException: [FMOD] Event not found: {9c868bf5-aedf-4d91-bd47-e38b5d05f009}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:10.2013670Z Exception EventNotFoundException: [FMOD] Event not found: {fa7cf890-d106-487c-ba06-dd0450946983}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:13.8183190Z Exception EventNotFoundException: [FMOD] Event not found: {98f50f06-6fc9-4897-8331-ad03c70fe2be}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:13.8213460Z Exception EventNotFoundException: [FMOD] Event not found: {a83ed290-e439-4f02-9d5c-c33372b7bb10}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:16.3066510Z Exception EventNotFoundException: [FMOD] Event not found: {7ae6e4de-967e-45dc-a5cf-318297ec6fcc}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:16.3097920Z Exception EventNotFoundException: [FMOD] Event not found: {7b5b12ed-2587-439d-8d92-e878a5d26ab4}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:16.3343450Z Exception EventNotFoundException: [FMOD] Event not found: {8e249053-5eb1-4858-936a-4df7df4fcfe6}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:18.4787890Z Exception EventNotFoundException: [FMOD] Event not found: {e84c1695-e908-4d8b-b8ac-a01b3f3806ee}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:18.4819320Z Exception EventNotFoundException: [FMOD] Event not found: {805a7e85-540c-4983-9935-ddb88bc575e5}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:18.4840260Z Exception EventNotFoundException: [FMOD] Event not found: {57db4f1c-84d9-4ff7-bcdf-3fd80c971269}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:18.4877830Z Exception EventNotFoundException: [FMOD] Event not found: {523df243-8b5e-4104-9cb6-282b94028dac}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:18.4899240Z Exception EventNotFoundException: [FMOD] Event not found: {00f9a1a4-1b1f-4043-9e2b-bf77cb13d616}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:18.4920010Z Exception EventNotFoundException: [FMOD] Event not found: {2823c4e7-f220-4e05-80ba-c74af98190a3}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:18.4947970Z Exception EventNotFoundException: [FMOD] Event not found: {1ea3154b-dcc0-4812-927a-86a273974b1f}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:18.4967370Z Exception EventNotFoundException: [FMOD] Event not found: {c333421b-54d8-4b5c-8521-d14dde1227f7}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:18.5028830Z Exception EventNotFoundException: [FMOD] Event not found: {cec90861-1bf9-48f1-97a0-3d20be70d1c8}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+MeshPathBase_Igloo.RefreshElectricityVisuals () (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:18.5096980Z Exception EventNotFoundException: [FMOD] Event not found: {59842284-2d4e-4caa-9a6c-216f43f88187}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:18.5242220Z Exception EventNotFoundException: [FMOD] Event not found: {faf6a75f-d828-4c89-b8e2-7a3d9124693d}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+UnityEngine.Object.Instantiate (UnityEngine.Object original, UnityEngine.Transform parent, System.Boolean instantiateInWorldSpace) (at <00000000000000000000000000000000>:0)
+UnityEngine.Object.Instantiate[T] (T original, UnityEngine.Transform parent, System.Boolean worldPositionStays) (at <00000000000000000000000000000000>:0)
+ReflectiveRaycast.Awake () (at <00000000000000000000000000000000>:0)
+UnityEngine.Object:Instantiate(T, Transform, Boolean)
+ReflectiveRaycast:Awake()
+
+2026-11-02T17:08:20.3599720Z Exception EventNotFoundException: [FMOD] Event not found: {802c2b33-094b-4580-bb4d-79f11c188ab7}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:20.3624770Z Exception EventNotFoundException: [FMOD] Event not found: {1373dec3-15d8-4aad-b82d-7bf4be4d9281}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:20.3663430Z Exception EventNotFoundException: [FMOD] Event not found: {0165f595-ec92-4dee-a236-43130f722c40}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:20.3708960Z Exception EventNotFoundException: [FMOD] Event not found: {0b68ac1a-2379-418d-bc3e-cee8611661d0}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:20.3722360Z Exception EventNotFoundException: [FMOD] Event not found: {6855736f-2e16-4fec-b1b2-45d31010bcea}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:20.3763050Z Exception EventNotFoundException: [FMOD] Event not found: {36da65fe-945b-4059-8303-daa7f0ade528}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.HandleGameEvent (FMODUnity.EmitterGameEvent gameEvent) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:20.9068240Z Exception EventNotFoundException: [FMOD] Event not found: {615b7ec9-5406-40a7-9ed4-01ec07b8a73e}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+SoundManager.OnSceneEvent (SceneEvent sceneEvent) (at <00000000000000000000000000000000>:0)
+Helper.BroadCastToScene (SceneEvent sceneEvent) (at <00000000000000000000000000000000>:0)
+Raft_Network+<WorldHasBeenLoaded>d__115.MoveNext () (at <00000000000000000000000000000000>:0)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:21.5927030Z Exception EventNotFoundException: [FMOD] Event not found: {e19fe847-5a22-4242-94fc-5be7da3af8f7}
+FMODUnity.RuntimeManager.GetEventDescription (FMODUnity.EventReference eventReference) (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Lookup () (at <00000000000000000000000000000000>:0)
+FMODUnity.StudioEventEmitter.Play () (at <00000000000000000000000000000000>:0)
+PersonController.Start () (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:08:21.6271670Z Exception NullReferenceException: Object reference not set to an instance of an object.
+PersonController.GroundControll (UnityEngine.RaycastHit groundHit) (at <00000000000000000000000000000000>:0)
+PersonController.Update () (at <00000000000000000000000000000000>:0)
+
+2026-11-02T17:09:40.2244230Z Error KeyNotFoundException while executing 'InputUser.onChange' callbacks
+ #0 0x7ade6e9b68 (libunity.so) ? 0x0
+ #1 0x7aded95724 (libunity.so) ? 0x0
+ #2 0x7ade25c7c0 (libunity.so) ? 0x0
+ #3 0x7ade25c6b0 (libunity.so) ? 0x0
+ #4 0x7ad6a20b8c (libil2cpp.so) ? 0x0
+ #5 0x7ad6a2320c (libil2cpp.so) ? 0x0
+ #6 0x7ad5325870 (libil2cpp.so) ? 0x0
+ #7 0x7ad6065b2c (libil2cpp.so) ? 0x0
+ #8 0x7ad60651b4 (libil2cpp.so) ? 0x0
+ #9 0x7ad6064d04 (libil2cpp.so) ? 0x0
+ #10 0x7ad5631044 (libil2cpp.so) ? 0x0
+ #11 0x7ad5629988 (libil2cpp.so) ? 0x0
+ #12 0x7ad6069e90 (libil2cpp.so) ? 0x0
+ #13 0x7ad6a77fa8 (libil2cpp.so) ? 0x0
+ #14 0x7ad59de950 (libil2cpp.so) ? 0x0
+ #15 0x7ad50a71f8 (libil2cpp.so) ? 0x0
+ #16 0x7ad50a706c (libil2cpp.so) ? 0x0
+ #17 0x7ade5f70e4 (libunity.so) ? 0x0
+ #18 0x7ade605a20 (libunity.so) ? 0x0
+ #19 0x7ade6089a4 (libunity.so) ? 0x0
+ #20 0x7ade653118 (libunity.so) ? 0x0
+ #21 0x7ade613bc8 (libunity.so) ? 0x0
+ #22 0x7ade3f4364 (libunity.so) ? 0x0
+ #23 0x7ade3f42ec (libunity.so) ? 0x0
+ #24 0x7ade3f4404 (libunity.so) ? 0x0
+ #25 0x7ade4e56a8 (libunity.so) ? 0x0
+ #26 0x7ade4d7394 (libunity.so) ? 0x0
+ #27 0x7ade4f5070 (libunity.so) ? 0x0
+ #28 0x7ade4f4e24 (libunity.so) ? 0x0
+ #29 0x7ade4f5fc0 (libunity.so) ? 0x0
+ #30 0x7ade4f6930 (libunity.so) ? 0x0
+ #31 0x7ade4ea704 (libunity.so) ? 0x0
+ #32 0x7ade4ea744 (libunity.so) ? 0x0
+ #33 0x7ade4ea97c (libunity.so) ? 0x0
+ #34 0x7ade68bc84 (libunity.so) ? 0x0
+ #35 0x7ade6a4c18 (libunity.so) ? 0x0
+ #36 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-02T17:09:40.2298780Z Exception KeyNotFoundException: The given key 'Inventory' was not present in the dictionary.
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <00000000000000000000000000000000>:0)
+CanvasHelper.SetHotkeyElementsText () (at <00000000000000000000000000000000>:0)
+UnityEngine.Events.UnityEvent`1[T0].Invoke (T0 arg0) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.PlayerInput.OnUserChange (UnityEngine.InputSystem.Users.InputUser user, UnityEngine.InputSystem.Users.InputUserChange change, UnityEngine.InputSystem.InputDevice device) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.Users.InputUser.Notify (System.Int32 userIndex, UnityEngine.InputSystem.Users.InputUserChange change, UnityEngine.InputSystem.InputDevice device) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.Users.InputUser.OnActionChange (System.Object obj, UnityEngine.InputSystem.InputActionChange change) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.Utilities.DelegateHelpers.InvokeCallbacksSafe[TValue1,TValue2] (UnityEngine.InputSystem.Utilities.CallbackArray`1[System.Action`2[TValue1,TValue2]]& callbacks, TValue1 argument1, TValue2 argument2, System.String callbackName, System.Object context) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.InputActionState.NotifyListenersOfActionChange (UnityEngine.InputSystem.InputActionChange change, System.Object actionOrMapOrAsset) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.InputActionState.RestoreActionStatesAfterReResolvingBindings (UnityEngine.InputSystem.InputActionState+UnmanagedMemory oldState, UnityEngine.InputSystem.InputControlList`1[TControl] activeControls, System.Boolean isFullResolve) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.InputActionState.FinishBindingResolution (System.Boolean hasEnabledActions, UnityEngine.InputSystem.InputActionState+UnmanagedMemory oldMemory, UnityEngine.InputSystem.InputControlList`1[TControl] activeControls, System.Boolean isFullResolve) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.InputActionMap.ResolveBindings () (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.InputActionMap.LazyResolveBindings (System.Boolean fullResolve) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.InputActionState.OnDeviceChange (UnityEngine.InputSystem.InputDevice device, UnityEngine.InputSystem.InputDeviceChange change) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.InputManager.RemoveDevice (UnityEngine.InputSystem.InputDevice device, System.Boolean keepOnListOfAvailableDevices) (at <00000000000000000000000000000000>:0)
+GamepadCursor.OnDisable () (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.InputManager:RemoveDevice(InputDevice, Boolean)
+GamepadCursor:OnDisable()
+
+2026-11-02T17:12:42.2665350Z Error KeyNotFoundException while executing 'InputUser.onChange' callbacks
+ #0 0x7ade6e9b68 (libunity.so) ? 0x0
+ #1 0x7aded95724 (libunity.so) ? 0x0
+ #2 0x7ade25c7c0 (libunity.so) ? 0x0
+ #3 0x7ade25c6b0 (libunity.so) ? 0x0
+ #4 0x7ad6a20b8c (libil2cpp.so) ? 0x0
+ #5 0x7ad6a2320c (libil2cpp.so) ? 0x0
+ #6 0x7ad5325870 (libil2cpp.so) ? 0x0
+ #7 0x7ad6065b2c (libil2cpp.so) ? 0x0
+ #8 0x7ad60651b4 (libil2cpp.so) ? 0x0
+ #9 0x7ad6064d04 (libil2cpp.so) ? 0x0
+ #10 0x7ad5631044 (libil2cpp.so) ? 0x0
+ #11 0x7ad5629ab4 (libil2cpp.so) ? 0x0
+ #12 0x7ad605d67c (libil2cpp.so) ? 0x0
+ #13 0x7ad6a17758 (libil2cpp.so) ? 0x0
+ #14 0x7ad6a239f4 (libil2cpp.so) ? 0x0
+ #15 0x7ad5325378 (libil2cpp.so) ? 0x0
+ #16 0x7ad6a86650 (libil2cpp.so) ? 0x0
+ #17 0x7ad6861b70 (libil2cpp.so) ? 0x0
+ #18 0x7ad50a71f8 (libil2cpp.so) ? 0x0
+ #19 0x7ad50a706c (libil2cpp.so) ? 0x0
+ #20 0x7ade5f70e4 (libunity.so) ? 0x0
+ #21 0x7ade605a20 (libunity.so) ? 0x0
+ #22 0x7ade6cbc50 (libunity.so) ? 0x0
+ #23 0x7ade7ffc40 (libunity.so) ? 0x0
+ #24 0x7ade4ea704 (libunity.so) ? 0x0
+ #25 0x7ade4ea744 (libunity.so) ? 0x0
+ #26 0x7ade4ea97c (libunity.so) ? 0x0
+ #27 0x7ade68bc84 (libunity.so) ? 0x0
+ #28 0x7ade6a4c18 (libunity.so) ? 0x0
+ #29 0x71b03360 (boot.oat) ? 0x0
+
+2026-11-02T17:12:42.2883420Z Exception KeyNotFoundException: The given key 'Inventory' was not present in the dictionary.
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <00000000000000000000000000000000>:0)
+CanvasHelper.SetHotkeyElementsText () (at <00000000000000000000000000000000>:0)
+UnityEngine.Events.UnityEvent`1[T0].Invoke (T0 arg0) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.PlayerInput.OnUserChange (UnityEngine.InputSystem.Users.InputUser user, UnityEngine.InputSystem.Users.InputUserChange change, UnityEngine.InputSystem.InputDevice device) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.Users.InputUser.Notify (System.Int32 userIndex, UnityEngine.InputSystem.Users.InputUserChange change, UnityEngine.InputSystem.InputDevice device) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.Users.InputUser.OnActionChange (System.Object obj, UnityEngine.InputSystem.InputActionChange change) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.Utilities.DelegateHelpers.InvokeCallbacksSafe[TValue1,TValue2] (UnityEngine.InputSystem.Utilities.CallbackArray`1[System.Action`2[TValue1,TValue2]]& callbacks, TValue1 argument1, TValue2 argument2, System.String callbackName, System.Object context) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.InputActionState.NotifyListenersOfActionChange (UnityEngine.InputSystem.InputActionChange change, System.Object actionOrMapOrAsset) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.InputActionState.RestoreActionStatesAfterReResolvingBindings (UnityEngine.InputSystem.InputActionState+UnmanagedMemory oldState, UnityEngine.InputSystem.InputControlList`1[TControl] activeControls, System.Boolean isFullResolve) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.InputActionState.FinishBindingResolution (System.Boolean hasEnabledActions, UnityEngine.InputSystem.InputActionState+UnmanagedMemory oldMemory, UnityEngine.InputSystem.InputControlList`1[TControl] activeControls, System.Boolean isFullResolve) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.InputActionMap.ResolveBindings () (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.InputActionMap.ResolveBindingsIfNecessary () (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.InputActionState.DeferredResolutionOfBindings () (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.PlayerInput.OnUnpairedDeviceUsed (UnityEngine.InputSystem.InputControl control, UnityEngine.InputSystem.LowLevel.InputEventPtr eventPtr) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.Users.InputUser.OnEvent (UnityEngine.InputSystem.LowLevel.InputEventPtr eventPtr, UnityEngine.InputSystem.InputDevice device) (at <00000000000000000000000000000000>:0)
+UnityEngine.InputSystem.Utilities.DelegateHelpers.InvokeCallbacksSafe[TValue1,TValue2] (UnityEngine.InputSystem.Utilities.CallbackArray`
+2026-11-02T17:16:15.0966740Z Exception NullReferenceException: Object reference not set to an instance of an object.
+HapticAudio.Update (System.Single& intensity) (at <00000000000000000000000000000000>:0)
+HapticManager.Update () (at <00000000000000000000000000000000>:0)
+
