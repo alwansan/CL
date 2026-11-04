@@ -1,4 +1,4 @@
-[3.4K 2026-11-01 18:00:11]  /storage/emulated/0/Cinemana/
+[3.4K 2026-11-04 19:16:50]  /storage/emulated/0/Cinemana/
 ├── [3.4K 2026-11-01 18:00:11]  data
 │   ├── [ 24K 2026-11-01 02:39:20]  cnm_recovery
 │   │   ├── [ 419 2026-11-01 02:36:53]  104zv0oq78v591etxzrk.json
@@ -253,6 +253,9 @@
 │   ├── [ 50K 2026-11-01 17:57:40]  tree.txt
 │   ├── [314K 2026-11-01 02:39:22]  ui95.log
 │   └── [315K 2026-11-01 02:39:28]  ui_performance.jsonl
+├── [1.2M 2026-10-29 09:53:57]  log h54.zip
+├── [1.2M 2026-10-29 10:22:56]  log h55.zip
+├── [1.3M 2026-10-29 10:44:50]  log h56.zip
 ├── [4.3M 2026-10-31 18:00:24]  log h57.zip
 ├── [5.4M 2026-10-31 18:05:37]  log h58.zip
 ├── [1.9M 2026-10-31 19:37:18]  log h59.zip
@@ -477,7 +480,7 @@
 │   ├── [ 19K 2026-11-01 02:36:54]  arabic subtitle for ناروتو S01 E99 [cnm-54jg31k0chgvy96cumxr].srt
 │   ├── [3.4K 2026-11-01 18:00:23]  data
 │   ├── [3.4K 2026-11-01 18:00:34]  log
-│   │   └── [ 34K 2026-11-02 21:12:25]  tree.txt
+│   │   └── [ 34K 2026-11-04 23:08:10]  tree.txt
 │   ├── [ 19K 2026-11-01 02:36:55]  special subtitle for ناروتو S01 E116 [cnm-680unu62q5914m78cfcf].ass
 │   ├── [ 28K 2026-11-01 02:36:57]  special subtitle for ناروتو S01 E142 [cnm-60nacsy0svbejqkha5n7].ass
 │   ├── [ 33K 2026-11-01 02:36:58]  special subtitle for ناروتو S01 E143 [cnm-od2n15qre9jajujr1miw].ass
@@ -512,4 +515,4 @@
         ├── [ 35M 2026-11-01 02:38:19]  ناروتو S01 E04.mkv
         └── [ 36M 2026-11-01 02:39:18]  ناروتو S01 E06.mkv
 
-11 directories, 502 files
+11 directories, 505 files

@@ -1,0 +1,13 @@
+LogRaft 0.6.88
+Target=com.alwansan.raft.androidtest
+RecoveryRestart=false
+Start=Wed Nov 04 22:58:02 GMT+03:00 2026
+Build=Xiaomi 23013PC75G
+VersionCode=1088
+Android=15 API=35
+Collector=Shizuku shell/root UID; no root required
+Capture=Raft UID plus Raft-associated system/crash events
+Note=Logs only when emitted; cannot capture internal unlogged state
+Telemetry=3s sampling CPU process, process/system memory, KGSL GPU, thermal, battery, SurfaceFlinger displayed frames
+Missing metrics are null, not measured zeros. Game-internal FPS needs Unity logging.
+Warnings=Low available RAM, raw log flood, and suspected presented-frame stalls are heuristic indicators.

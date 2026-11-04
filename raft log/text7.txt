@@ -1,0 +1,248 @@
+Raft Android early device test
+Unity 2021.3.45f2; scene MainMenuScene
+Xiaomi 23013PC75G; Android OS 15 / API-35 (AQ3A.250226.002/OS3.0.5.0.VMNMIXM)
+Adreno (TM) 730; Vulkan
+Logs: /storage/emulated/0/Android/data/com.alwansan.raft.androidtest/files/raft-logs
+Storage: ready
+This report does not verify gameplay, sound or save/load.
+2026-11-04T14:39:00.3133830Z Log RAFT_FMOD_ANDROID_BOOTSTRAP javaInitialized=true nativeVersion=00020215
+
+2026-11-04T14:39:09.8107950Z Log RAFT_ANDROID_DEVICE_TEST earlyStartupCandidate=true gameplayVerified=false
+
+2026-11-04T14:39:10.8740840Z Error Unable to load GUID for '/storage/emulated/0/Android/obb/com.alwansan.raft.androidtest/patch.86.com.alwansan.raft.androidtest.obb'
+ #0 0x717a8cab68 (libunity.so) ? 0x0
+ #1 0x717af76724 (libunity.so) ? 0x0
+ #2 0x717a872728 (libunity.so) ? 0x0
+ #3 0x717a86c338 (libunity.so) ? 0x0
+ #4 0x717a86ce70 (libunity.so) ? 0x0
+ #5 0x717a86ca3c (libunity.so) ? 0x0
+ #6 0x717a885c18 (libunity.so) ? 0x0
+ #7 0x72af7360 (boot.oat) ? 0x0
+
+2026-11-04T14:39:17.1277750Z Error Invalid pass number (3) for Graphics.Blit (Material "UltimateWater/Spectrum/Water Spectrum" with 1 passes)
+ #0 0x717a8cab68 (libunity.so) ? 0x0
+ #1 0x717af76724 (libunity.so) ? 0x0
+ #2 0x717ad26720 (libunity.so) ? 0x0
+ #3 0x717ad14268 (libunity.so) ? 0x0
+ #4 0x717a65f500 (libunity.so) ? 0x0
+ #5 0x717a410e98 (libunity.so) ? 0x0
+ #6 0x7174533084 (libil2cpp.so) ? 0x0
+ #7 0x7174532478 (libil2cpp.so) ? 0x0
+ #8 0x7174532638 (libil2cpp.so) ? 0x0
+ #9 0x7174f3add0 (libil2cpp.so) ? 0x0
+ #10 0x7174f3fd30 (libil2cpp.so) ? 0x0
+ #11 0x7174995d4c (libil2cpp.so) ? 0x0
+ #12 0x717499a144 (libil2cpp.so) ? 0x0
+ #13 0x7174999044 (libil2cpp.so) ? 0x0
+ #14 0x717312e7bc (libil2cpp.so) ? 0x0
+ #15 0x717312e630 (libil2cpp.so) ? 0x0
+ #16 0x717a7d80e4 (libunity.so) ? 0x0
+ #17 0x717a7e6a20 (libunity.so) ? 0x0
+ #18 0x717a7f6678 (libunity.so) ? 0x0
+ #19 0x717a5d60d4 (libunity.so) ? 0x0
+ #20 0x717ad0fd38 (libunity.so) ? 0x0
+ #21 0x717ad0f0dc (libunity.so) ? 0x0
+ #22 0x717ad11b54 (libunity.so) ? 0x0
+ #23 0x717ad1ea20 (libunity.so) ? 0x0
+ #24 0x717a4384c0 (libunity.so) ? 0x0
+ #25 0x7174f31120 (libil2cpp.so) ? 0x0
+ #26 0x7174995d4c (libil2cpp.so) ? 0x0
+ #27 0x717499a144 (libil2cpp.so) ? 0x0
+ #28 0x7174999044 (libil2cpp.so) ? 0x0
+ #29 0x717312e7bc (libil2cpp.so) ? 0x0
+ #30 0x717312e630 (libil2cpp.so) ? 0x0
+ #31 0x717a7d80e4 (libunity.so) ? 0x0
+ #32 0x717a7e6a20 (libunity.so) ? 0x0
+ #33 0x717a7f6678 (libunity.so) ? 0x0
+ #34 0x717a5d60d4 (libunity.so) ? 0x0
+ #35 0x717ad0fd38 (libunity.so) ? 0x0
+ #36 0x717ad0f0dc (libunity.so) ? 0x0
+ #37 0x717ad29078 (libunity.so) ? 0x0
+ #38 0x717a6ca024 (libunity.so) ? 0x0
+ #39 0x717a6cb704 (libunity.so) ? 0x0
+ #40 0x717a6cb744 (libunity.so) ? 0x0
+ #41 0x717a6cb97c (libunity.so) ? 0x0
+ #42 0x717a86cc84 (libunity.so) ? 0x0
+ #43 0x717a885c18 (libunity.so) ? 0x0
+ #44 0x72af7360 (boot.oat) ? 0x0
+
+2026-11-04T14:39:17.1289090Z Error Invalid pass number (5) for Graphics.Blit (Material "UltimateWater/Spectrum/Water Spectrum" with 1 passes)
+ #0 0x717a8cab68 (libunity.so) ? 0x0
+ #1 0x717af76724 (libunity.so) ? 0x0
+ #2 0x717ad26720 (libunity.so) ? 0x0
+ #3 0x717ad14268 (libunity.so) ? 0x0
+ #4 0x717a65f500 (libunity.so) ? 0x0
+ #5 0x717a410e98 (libunity.so) ? 0x0
+ #6 0x71745326d4 (libil2cpp.so) ? 0x0
+ #7 0x7174f3add0 (libil2cpp.so) ? 0x0
+ #8 0x7174f3fd30 (libil2cpp.so) ? 0x0
+ #9 0x7174995d4c (libil2cpp.so) ? 0x0
+ #10 0x717499a144 (libil2cpp.so) ? 0x0
+ #11 0x7174999044 (libil2cpp.so) ? 0x0
+ #12 0x717312e7bc (libil2cpp.so) ? 0x0
+ #13 0x717312e630 (libil2cpp.so) ? 0x0
+ #14 0x717a7d80e4 (libunity.so) ? 0x0
+ #15 0x717a7e6a20 (libunity.so) ? 0x0
+ #16 0x717a7f6678 (libunity.so) ? 0x0
+ #17 0x717a5d60d4 (libunity.so) ? 0x0
+ #18 0x717ad0fd38 (libunity.so) ? 0x0
+ #19 0x717ad0f0dc (libunity.so) ? 0x0
+ #20 0x717ad11b54 (libunity.so) ? 0x0
+ #21 0x717ad1ea20 (libunity.so) ? 0x0
+ #22 0x717a4384c0 (libunity.so) ? 0x0
+ #23 0x7174f31120 (libil2cpp.so) ? 0x0
+ #24 0x7174995d4c (libil2cpp.so) ? 0x0
+ #25 0x717499a144 (libil2cpp.so) ? 0x0
+ #26 0x7174999044 (libil2cpp.so) ? 0x0
+ #27 0x717312e7bc (libil2cpp.so) ? 0x0
+ #28 0x717312e630 (libil2cpp.so) ? 0x0
+ #29 0x717a7d80e4 (libunity.so) ? 0x0
+ #30 0x717a7e6a20 (libunity.so) ? 0x0
+ #31 0x717a7f6678 (libunity.so) ? 0x0
+ #32 0x717a5d60d4 (libunity.so) ? 0x0
+ #33 0x717ad0fd38 (libunity.so) ? 0x0
+ #34 0x717ad0f0dc (libunity.so) ? 0x0
+ #35 0x717ad29078 (libunity.so) ? 0x0
+ #36 0x717a6ca024 (libunity.so) ? 0x0
+ #37 0x717a6cb704 (libunity.so) ? 0x0
+ #38 0x717a6cb744 (libunity.so) ? 0x0
+ #39 0x717a6cb97c (libunity.so) ? 0x0
+ #40 0x717a86cc84 (libunity.so) ? 0x0
+ #41 0x717a885c18 (libunity.so) ? 0x0
+ #42 0x72af7360 (boot.oat) ? 0x0
+
+2026-11-04T14:39:17.1435500Z Exception IndexOutOfRangeException: Invalid kernelIndex (6) passed, must be non-negative less than 0.
+UltimateWater.Internal.Dx11FFT.ComputeFFT (UnityEngine.Texture tex, UnityEngine.RenderTexture target) (at <00000000000000000000000000000000>:0)
+UltimateWater.WavesRendererFFT.RenderMaps (System.Single time, UnityEngine.RenderTexture[] displacementMaps, UnityEngine.RenderTexture[] normalMaps) (at <00000000000000000000000000000000>:0)
+UltimateWater.WindWaves.OnWaterRender (UltimateWater.WaterCamera waterCamera) (at <00000000000000000000000000000000>:0)
+UltimateWater.Water.OnWaterRender (UltimateWater.WaterCamera waterCamera) (at <00000000000000000000000000000000>:0)
+UltimateWater.WaterCamera.RenderWaterEffects () (at <00000000000000000000000000000000>:0)
+UltimateWater.WaterCamera.OnPreCull () (at <00000000000000000000000000000000>:0)
+UltimateWater.WaterSubsurfaceScattering.OnWaterRender (UltimateWater.WaterCamera waterCamera) (at <00000000000000000000000000000000>:0)
+UltimateWater.Water.OnWaterRender (UltimateWater.WaterCamera waterCamera) (at <00000000000000000000000000000000>:0)
+UltimateWater.WaterCamera.RenderWaterEffects () (at <00000000000000000000000000000000>:0)
+UltimateWater.WaterCamera.OnPreCull () (at <00000000000000000000000000000000>:0)
+UltimateWater.WaterSubsurfaceScattering:OnWaterRender(WaterCamera)
+UltimateWater.Water:OnWaterRender(WaterCamera)
+UltimateWater.WaterCamera:RenderWaterEffects()
+UltimateWater.WaterCamera:OnPreCull()
+
+2026-11-04T14:39:17.1465230Z Error Invalid pass number (1) for Graphics.Blit (Material "UltimateWater/Utilities/Blur (Subsurface Scattering)" with 1 passes)
+ #0 0x717a8cab68 (libunity.so) ? 0x0
+ #1 0x717af76724 (libunity.so) ? 0x0
+ #2 0x717ad26720 (libunity.so) ? 0x0
+ #3 0x717ad14268 (libunity.so) ? 0x0
+ #4 0x717a65f500 (libunity.so) ? 0x0
+ #5 0x717a410e98 (libunity.so) ? 0x0
+ #6 0x7174f312c8 (libil2cpp.so) ? 0x0
+ #7 0x7174995d4c (libil2cpp.so) ? 0x0
+ #8 0x717499a144 (libil2cpp.so) ? 0x0
+ #9 0x7174999044 (libil2cpp.so) ? 0x0
+ #10 0x717312e7bc (libil2cpp.so) ? 0x0
+ #11 0x717312e630 (libil2cpp.so) ? 0x0
+ #12 0x717a7d80e4 (libunity.so) ? 0x0
+ #13 0x717a7e6a20 (libunity.so) ? 0x0
+ #14 0x717a7f6678 (libunity.so) ? 0x0
+ #15 0x717a5d60d4 (libunity.so) ? 0x0
+ #16 0x717ad0fd38 (libunity.so) ? 0x0
+ #17 0x717ad0f0dc (libunity.so) ? 0x0
+ #18 0x717ad29078 (libunity.so) ? 0x0
+ #19 0x717a6ca024 (libunity.so) ? 0x0
+ #20 0x717a6cb704 (libunity.so) ? 0x0
+ #21 0x717a6cb744 (libunity.so) ? 0x0
+ #22 0x717a6cb97c (libunity.so) ? 0x0
+ #23 0x717a86cc84 (libunity.so) ? 0x0
+ #24 0x717a885c18 (libunity.so) ? 0x0
+ #25 0x72af7360 (boot.oat) ? 0x0
+
+2026-11-04T14:39:17.1969490Z Error Invalid pass number (1) for Graphics.Blit (Material "UltimateWater/Foam/Global" with 1 passes)
+ #0 0x717a8cab68 (libunity.so) ? 0x0
+ #1 0x717af76724 (libunity.so) ? 0x0
+ #2 0x717ad26720 (libunity.so) ? 0x0
+ #3 0x717ad14268 (libunity.so) ? 0x0
+ #4 0x717a65f500 (libunity.so) ? 0x0
+ #5 0x717a410e98 (libunity.so) ? 0x0
+ #6 0x717452d254 (libil2cpp.so) ? 0x0
+ #7 0x7173df36e8 (libil2cpp.so) ? 0x0
+ #8 0x7174995d4c (libil2cpp.so) ? 0x0
+ #9 0x717499a144 (libil2cpp.so) ? 0x0
+ #10 0x7174999044 (libil2cpp.so) ? 0x0
+ #11 0x717312e7bc (libil2cpp.so) ? 0x0
+ #12 0x717312e630 (libil2cpp.so) ? 0x0
+ #13 0x717a7d80e4 (libunity.so) ? 0x0
+ #14 0x717a7e6a20 (libunity.so) ? 0x0
+ #15 0x717a7f6678 (libunity.so) ? 0x0
+ #16 0x717a5d60d4 (libunity.so) ? 0x0
+ #17 0x717ad0fd38 (libunity.so) ? 0x0
+ #18 0x717ad0f0dc (libunity.so) ? 0x0
+ #19 0x717ad29078 (libunity.so) ? 0x0
+ #20 0x717a6ca024 (libunity.so) ? 0x0
+ #21 0x717a6cb704 (libunity.so) ? 0x0
+ #22 0x717a6cb744 (libunity.so) ? 0x0
+ #23 0x717a6cb97c (libunity.so) ? 0x0
+ #24 0x717a86cc84 (libunity.so) ? 0x0
+ #25 0x717a885c18 (libunity.so) ? 0x0
+ #26 0x72af7360 (boot.oat) ? 0x0
+
+2026-11-04T14:42:33.8627900Z Exception IndexOutOfRangeException: Invalid kernelIndex (0) passed, must be non-negative less than 0.
+UltimateWater.Internal.Dx11FFT.ComputeFFT (UnityEngine.Texture tex, UnityEngine.RenderTexture target) (at <00000000000000000000000000000000>:0)
+UltimateWater.WavesRendererFFT.RenderMaps (System.Single time, UnityEngine.RenderTexture[] displacementMaps, UnityEngine.RenderTexture[] normalMaps) (at <00000000000000000000000000000000>:0)
+UltimateWater.WindWaves.OnWaterRender (UltimateWater.WaterCamera waterCamera) (at <00000000000000000000000000000000>:0)
+UltimateWater.Water.OnWaterRender (UltimateWater.WaterCamera waterCamera) (at <00000000000000000000000000000000>:0)
+UltimateWater.WaterCamera.RenderWaterEffects () (at <00000000000000000000000000000000>:0)
+UltimateWater.WaterCamera.OnPreCull () (at <00000000000000000000000000000000>:0)
+UltimateWater.WaterSubsurfaceScattering.OnWaterRender (UltimateWater.WaterCamera waterCamera) (at <00000000000000000000000000000000>:0)
+UltimateWater.Water.OnWaterRender (UltimateWater.WaterCamera waterCamera) (at <00000000000000000000000000000000>:0)
+UltimateWater.WaterCamera.RenderWaterEffects () (at <00000000000000000000000000000000>:0)
+UltimateWater.WaterCamera.OnPreCull () (at <00000000000000000000000000000000>:0)
+UltimateWater.WaterSubsurfaceScattering:OnWaterRender(WaterCamera)
+UltimateWater.Water:OnWaterRender(WaterCamera)
+UltimateWater.WaterCamera:RenderWaterEffects()
+UltimateWater.WaterCamera:OnPreCull()
+
+2026-11-04T14:44:06.9251300Z Error Invalid pass number (4) for Graphics.Blit (Material "UltimateWater/Spectrum/Water Spectrum" with 1 passes)
+ #0 0x717a8cab68 (libunity.so) ? 0x0
+ #1 0x717af76724 (libunity.so) ? 0x0
+ #2 0x717ad26720 (libunity.so) ? 0x0
+ #3 0x717ad14268 (libunity.so) ? 0x0
+ #4 0x717a65f500 (libunity.so) ? 0x0
+ #5 0x717a410e98 (libunity.so) ? 0x0
+ #6 0x7174532cb8 (libil2cpp.so) ? 0x0
+ #7 0x7174f3f894 (libil2cpp.so) ? 0x0
+ #8 0x7173642414 (libil2cpp.so) ? 0x0
+ #9 0x71742e2368 (libil2cpp.so) ? 0x0
+ #10 0x71749958f4 (libil2cpp.so) ? 0x0
+ #11 0x717312e7bc (libil2cpp.so) ? 0x0
+ #12 0x717312e630 (libil2cpp.so) ? 0x0
+ #13 0x717a7d80e4 (libunity.so) ? 0x0
+ #14 0x717a7e6a20 (libunity.so) ? 0x0
+ #15 0x717a7f5010 (libunity.so) ? 0x0
+ #16 0x717a5f174c (libunity.so) ? 0x0
+ #17 0x717a6cb704 (libunity.so) ? 0x0
+ #18 0x717a6cb744 (libunity.so) ? 0x0
+ #19 0x717a6cb97c (libunity.so) ? 0x0
+ #20 0x717a86cc84 (libunity.so) ? 0x0
+ #21 0x717a885c18 (libunity.so) ? 0x0
+ #22 0x72af7360 (boot.oat) ? 0x0
+
+2026-11-04T14:44:31.0681250Z Exception DllNotFoundException: Unable to load DLL 'steam_api64'. Tried the load the following dynamic libraries: Unable to load dynamic library 'steam_api64' because of 'Failed to open the requested dynamic library (0x06000000) dlerror() = dlopen failed: library "steam_api64" not found
+Steamworks.NativeMethods.SteamAPI_GetHSteamUser () (at <00000000000000000000000000000000>:0)
+Steamworks.CSteamAPIContext.Init () (at <00000000000000000000000000000000>:0)
+Steamworks.InteropHelp.TestIfAvailableClient () (at <00000000000000000000000000000000>:0)
+Steamworks.SteamUserStats.StoreStats () (at <00000000000000000000000000000000>:0)
+SaveAndLoad.SaveGame (System.Boolean sendRemoteMessage) (at <00000000000000000000000000000000>:0)
+GameManager.OnWorldRecieved () (at <00000000000000000000000000000000>:0)
+Raft_Network+<WorldHasBeenLoaded>d__115.MoveNext () (at <00000000000000000000000000000000>:0)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <00000000000000000000000000000000>:0)
+
+2026-11-04T14:46:43.7050480Z Exception DllNotFoundException: Unable to load DLL 'steam_api64'. Tried the load the following dynamic libraries: Unable to load dynamic library 'steam_api64' because of 'Failed to open the requested dynamic library (0x06000000) dlerror() = dlopen failed: library "steam_api64" not found
+Steamworks.NativeMethods.SteamAPI_GetHSteamUser () (at <00000000000000000000000000000000>:0)
+Steamworks.CSteamAPIContext.Init () (at <00000000000000000000000000000000>:0)
+Steamworks.InteropHelp.TestIfAvailableClient () (at <00000000000000000000000000000000>:0)
+Steamworks.SteamUser.GetSteamID () (at <00000000000000000000000000000000>:0)
+Cheat.AllowCheatsForLocalPlayer () (at <00000000000000000000000000000000>:0)
+Cheat.Initialize () (at <00000000000000000000000000000000>:0)
+ChatTextFieldController.OnWorldRecieved () (at <00000000000000000000000000000000>:0)
+Raft_Network+<WorldHasBeenLoaded>d__115.MoveNext () (at <00000000000000000000000000000000>:0)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <00000000000000000000000000000000>:0)
+
