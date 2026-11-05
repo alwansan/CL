@@ -1,0 +1,3 @@
+(s)|{"appid":"a2cd9f35-5c61-4695-8928-b8ac1d61935f","userid":"7df598f304ffdea79bd95dd54607dc03","sessionid":8045962537888625187,"platform":"AndroidPlayer","platformid":11,"sdk_ver":"u2021.3.45f2","sdk_rev":"88f88f591b2e","session_count":3,"localprojectid":"258cb53facd4356e9a5a8f34aec0e4be","build_guid":"f8547a382c3373654b6df94d7773534c","deviceid":"52e8ac89fee825febaac5c5b2767800c","identity_token":"7df598f304ffdea79bd95dd54607dc03"}
+(g)|2
+(1){"type":"perf.startupTime.v1","msg":{"ts":1793908914859,"t_since_start":17206962,"gfx_before_init":1359134,"gfx_initialized":1714190,"gfx_done":1890365,"first_scene":5854223,"scene_init":14924829,"scene_done":17206938,"splash_begin":5854301,"splash_fading_out":14872564}}

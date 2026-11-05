@@ -1,0 +1,5 @@
+(s)|{"appid":"a2cd9f35-5c61-4695-8928-b8ac1d61935f","userid":"7df598f304ffdea79bd95dd54607dc03","sessionid":8045962537888625187,"platform":"AndroidPlayer","platformid":11,"sdk_ver":"u2021.3.45f2","sdk_rev":"88f88f591b2e","session_count":3,"localprojectid":"258cb53facd4356e9a5a8f34aec0e4be","build_guid":"f8547a382c3373654b6df94d7773534c","deviceid":"52e8ac89fee825febaac5c5b2767800c","identity_token":"7df598f304ffdea79bd95dd54607dc03"}
+(g)|2
+{"type":"analytics.custom.v1","msg":{"custom_params":{"Difficulty":"Normal"},"ts":1793909108160,"t_since_start":210508927,"name":"LAUNCHGAME_UPDATE_1_09"}}
+{"type":"analytics.appRunning.v1","msg":{"duration":314,"local_time_offset":-10800000,"ts":1793909226708,"t_since_start":329056883}}
+{"type":"analytics.custom.v1","msg":{"custom_params":{"Difficulty":"Normal"},"ts":1793909344912,"t_since_start":447260830,"name":"LAUNCHGAME_UPDATE_1_09"}}
