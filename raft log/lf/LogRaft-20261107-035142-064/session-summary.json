@@ -1,0 +1,365 @@
+{
+  "schema": 1,
+  "session": "20261107-035142-064",
+  "target_package": "com.alwansan.raft.androidtest",
+  "end_unix_ms": 1794012984548,
+  "stop_reason": "Shizuku disconnected; capture ended. Reconnect and restart.",
+  "total_recorded_bytes": 128785519,
+  "raw_log_segments": 4,
+  "metric_segments": 1,
+  "raw_log_policy": "preserve all segments; never delete",
+  "writer_received_batches": 4160,
+  "writer_written_batches": 4160,
+  "writer_failed_batches": 0,
+  "user_markers_enqueued": 1,
+  "user_markers_written": 1,
+  "user_marker_delivery_note": "Accepted markers share the FIFO with Logcat batches; remote batches can arrive after a marker with older event timestamps",
+  "writer_pending_bytes_at_stop": 0,
+  "writer_peak_pending_bytes": 164140,
+  "writer_max_queue_delay_ms": 262,
+  "writer_failure": null,
+  "session_startup_phase": "remote_started",
+  "session_remote_startup_duration_ms": 6776,
+  "startup_duration_scope": "elapsed from app foreground-service request to Shizuku remote.start reply; null if unconfirmed",
+  "backpressure_notice": "Logcat ring buffer losses cannot be detected perfectly; zero dropped local batches does not prove zero OS buffer loss",
+  "performance_statistics": {
+    "total_samples": 86,
+    "unreadable_samples": 0,
+    "game_running_samples": 73,
+    "game_absent_samples": 12,
+    "game_process_state_unknown_samples": 1,
+    "android_meminfo_pss_above_proc_rss_samples": 43,
+    "frame_telemetry_stale_samples": 30,
+    "render_error_flood_warning_samples": 60,
+    "last_fps_tracking_status": "insufficient_presentation_samples",
+    "last_fps_unavailable_duration_ms": 106862,
+    "max_fps_unavailable_duration_ms": 106862,
+    "first_sample_unix_ms": 1794012708840,
+    "last_sample_unix_ms": 1794012981056,
+    "first_readable_fps_unix_ms": 1794012755098,
+    "last_readable_fps_unix_ms": 1794012874194,
+    "shader_pass_errors_total_at_last_sample": 45693,
+    "compute_kernel_errors_total_at_last_sample": 6869,
+    "missing_asset_errors_total_at_last_sample": 0,
+    "metrics": {
+      "presented_fps_estimate": {
+        "readable_samples": 36,
+        "min": 6.51,
+        "max": 120.77,
+        "mean": 37.8
+      },
+      "presented_frame_p95_ms": {
+        "readable_samples": 36,
+        "min": 8.28,
+        "max": 1051.64,
+        "mean": 104.65
+      },
+      "presented_frame_worst_ms": {
+        "readable_samples": 36,
+        "min": 8.28,
+        "max": 1192.19,
+        "mean": 235.97
+      },
+      "process_cpu_percent_one_core": {
+        "readable_samples": 72,
+        "min": 19.6,
+        "max": 385.01,
+        "mean": 279.53
+      },
+      "process_cpu_percent_all_cores": {
+        "readable_samples": 72,
+        "min": 2.45,
+        "max": 48.13,
+        "mean": 34.94
+      },
+      "process_rss_kb": {
+        "readable_samples": 73,
+        "min": 395224,
+        "max": 2259776,
+        "mean": 1560215.12
+      },
+      "process_pss_kb": {
+        "readable_samples": 73,
+        "min": 330499,
+        "max": 2700007,
+        "mean": 2037465.49
+      },
+      "process_threads": {
+        "readable_samples": 73,
+        "min": 69,
+        "max": 78,
+        "mean": 75.56
+      },
+      "gpu_busy_percent": {
+        "readable_samples": 81,
+        "min": 1.88,
+        "max": 96.34,
+        "mean": 51.48
+      },
+      "gpu_clock_hz": {
+        "readable_samples": 0,
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "device_mem_available_kb": {
+        "readable_samples": 86,
+        "min": 1110992,
+        "max": 5328008,
+        "mean": 2472824.19
+      },
+      "battery_temp_c": {
+        "readable_samples": 86,
+        "min": 39.1,
+        "max": 41.6,
+        "mean": 40.03
+      },
+      "game_log_lines_per_second": {
+        "readable_samples": 85,
+        "min": 0,
+        "max": 8538.88,
+        "mean": 4609.87
+      },
+      "game_log_lines_session_average_per_second": {
+        "readable_samples": 86,
+        "min": 0,
+        "max": 4648.38,
+        "mean": 2613.27
+      },
+      "render_error_roots_per_second": {
+        "readable_samples": 85,
+        "min": 0,
+        "max": 364.48,
+        "mean": 191.26
+      },
+      "last_present_progress_age_ms": {
+        "readable_samples": 39,
+        "min": 0,
+        "max": 6440,
+        "mean": 245
+      }
+    },
+    "error_category_breakdown": {
+      "ultimate_water_invalid_pass": {
+        "count": 45693,
+        "first_observed_unix_ms": 1794012768308,
+        "last_observed_unix_ms": 1794012981339
+      },
+      "water_fft_invalid_compute_kernel": {
+        "count": 6869,
+        "first_observed_unix_ms": 1794012768311,
+        "last_observed_unix_ms": 1794012981338
+      },
+      "obb_guid_load_failed": {
+        "count": 2,
+        "first_observed_unix_ms": 1794012745935,
+        "last_observed_unix_ms": 1794012759836
+      },
+      "unity_cursor_rgba32_required": {
+        "count": 4475,
+        "first_observed_unix_ms": 1794012746431,
+        "last_observed_unix_ms": 1794012981336
+      },
+      "unity_missing_mono_script": {
+        "count": 1,
+        "first_observed_unix_ms": 1794012840392,
+        "last_observed_unix_ms": 1794012840392
+      },
+      "unity_duplicate_event_system": {
+        "count": 1,
+        "first_observed_unix_ms": 1794012828264,
+        "last_observed_unix_ms": 1794012828264
+      },
+      "unity_convex_mesh_polygon_limit": {
+        "count": 4,
+        "first_observed_unix_ms": 1794012852082,
+        "last_observed_unix_ms": 1794012856411
+      }
+    },
+    "fps_caveat": "External SurfaceFlinger presented frames; not Unity engine FPS"
+  },
+  "game_process_exit_cause": "unknown unless explicitly supported by exit evidence",
+  "last_sample": {
+    "schema": 1,
+    "source": "lograf_shell",
+    "timestamp_unix_ms": 1794012981056,
+    "elapsed_ms": 311351288,
+    "sample": 86,
+    "package": "com.alwansan.raft.androidtest",
+    "pid": 4482,
+    "cpu_cores_online": 8,
+    "state": "game_running",
+    "process_cpu_percent_one_core": 256.98,
+    "process_cpu_percent_all_cores": 32.12,
+    "process_cpu_source": "\/proc\/pid\/stat utime+stime \/ elapsed wall time",
+    "process_rss_kb": 1513724,
+    "process_rss_peak_kb": 2265012,
+    "process_threads": 76,
+    "process_pss_kb": 2692367,
+    "process_pss_candidate_kb": 2692367,
+    "process_pss_quality": "android_meminfo_reported_above_proc_rss",
+    "process_pss_note": "Android dumpsys meminfo TOTAL PSS may include GPU memtrack or other accounting not represented in \/proc VmRSS; source mismatch is not proof of corrupt PSS",
+    "pss_validated_against_rss": false,
+    "process_pss_source": "Android dumpsys meminfo <verified main pid> TOTAL PSS",
+    "android_meminfo_total_pss_kb": 2692367,
+    "pss_reference_rss_kb": 1543804,
+    "pss_collected_unix_ms": 1794012974717,
+    "pss_sample_age_ms": 6341,
+    "pss_rss_comparison_note": "not directly comparable; Android meminfo PSS can include graphics allocations excluded from \/proc VmRSS",
+    "memory_sources": "\/proc\/pid\/status; dumpsys meminfo pid when available",
+    "process_io_read_bytes": null,
+    "process_io_write_bytes": null,
+    "device_storage_free_bytes": 51194642432,
+    "device_mem_available_kb": 1330260,
+    "device_mem_total_kb": 11427800,
+    "system_load_1min": 7.51,
+    "cpu_frequency_khz_by_core": [
+      1228800,
+      940800,
+      940800,
+      940800,
+      1440000,
+      1440000,
+      1440000,
+      1401600
+    ],
+    "gpu_busy_percent": 60.51,
+    "gpu_clock_hz": null,
+    "gpu_utilization_source": "KGSL system-wide busy\/total, if shell-readable",
+    "gpu_model": "Adreno730v3",
+    "battery_level_percent": 86,
+    "battery_temp_c": 41.6,
+    "battery_status_code": 2,
+    "thermal_status_code": 0,
+    "presented_fps_estimate": null,
+    "fps_valid_sample_count": 36,
+    "fps_consecutive_unavailable_samples": 33,
+    "fps_unavailable_duration_ms": 106862,
+    "fps_has_ever_been_readable": true,
+    "fps_tracking_status": "insufficient_presentation_samples",
+    "fps_quality": "unavailable",
+    "presented_frame_p95_ms": null,
+    "presented_frame_worst_ms": null,
+    "presented_frame_window_count": 0,
+    "surface_latency_valid_timestamp_count": 0,
+    "last_present_progress_age_ms": null,
+    "frame_telemetry_stale": true,
+    "frame_telemetry_status": "FRAME_TELEMETRY_STALE; insufficient_presentation_samples; not evidence of a freeze",
+    "frame_telemetry_gap_kind": "fps_lost_after_valid_samples",
+    "suspected_present_stall": false,
+    "stall_warning_caveat": "Still or background scenes may intentionally stop presenting; neither indicator proves Unity freeze",
+    "available_ram_under_1gib_watch": false,
+    "fps_method": "SurfaceFlinger --latency game SurfaceView (NOT Unity Update FPS)",
+    "fps_surface": "SurfaceView[com.alwansan.raft.androidtest\/com.unity3d.player.UnityPlayerActivity]#129858",
+    "unity_frame_cpu_ms": null,
+    "unity_frame_gpu_ms": null,
+    "unity_frame_timing_reason": "Requires game-side Unity FrameTimingManager diagnostics",
+    "game_log_lines_per_second": 6078.63,
+    "error_flood_warning": false,
+    "render_error_roots_per_second": 249.4,
+    "render_error_flood_warning": true,
+    "system_context_lines_per_second": 0.6,
+    "game_log_lines": 1266907,
+    "game_log_lines_per_second_scope": "previous_telemetry_interval",
+    "game_log_lines_session_average_per_second": 4648.38,
+    "game_log_lines_session_elapsed_ms": 272548,
+    "pid_probe_status": "main_pid_verified",
+    "pid_probe_failure_reason": "none",
+    "pid_probe_failures_total": 0,
+    "pid_probe_successes_total": 301,
+    "main_process_pid_verified": true,
+    "system_context_lines": 337,
+    "logcat_reconnects": 0,
+    "shader_pass_errors_total": 45693,
+    "invalid_compute_kernel_total": 6869,
+    "missing_asset_path_errors_total": 0,
+    "java_fatal_markers_total": 0,
+    "native_fatal_markers_total": 0,
+    "game_process_death_events_total": 0,
+    "process_exit_reason": "unknown; process death alone is not a crash",
+    "error_groups": {
+      "ultimate_water_invalid_pass": {
+        "count": 45693,
+        "first_observed_unix_ms": 1794012768308,
+        "last_observed_unix_ms": 1794012981339
+      },
+      "water_fft_invalid_compute_kernel": {
+        "count": 6869,
+        "first_observed_unix_ms": 1794012768311,
+        "last_observed_unix_ms": 1794012981338
+      },
+      "obb_guid_load_failed": {
+        "count": 2,
+        "first_observed_unix_ms": 1794012745935,
+        "last_observed_unix_ms": 1794012759836
+      },
+      "unity_cursor_rgba32_required": {
+        "count": 4475,
+        "first_observed_unix_ms": 1794012746431,
+        "last_observed_unix_ms": 1794012981336
+      },
+      "unity_missing_mono_script": {
+        "count": 1,
+        "first_observed_unix_ms": 1794012840392,
+        "last_observed_unix_ms": 1794012840392
+      },
+      "unity_duplicate_event_system": {
+        "count": 1,
+        "first_observed_unix_ms": 1794012828264,
+        "last_observed_unix_ms": 1794012828264
+      },
+      "unity_convex_mesh_polygon_limit": {
+        "count": 4,
+        "first_observed_unix_ms": 1794012852082,
+        "last_observed_unix_ms": 1794012856411
+      }
+    },
+    "game_milestones": {
+      "fmod_bootstrap_log_observed": {
+        "count": 1,
+        "first_observed_unix_ms": 1794012749570,
+        "last_observed_unix_ms": 1794012749570
+      },
+      "raft_android_early_startup_log_observed": {
+        "count": 1,
+        "first_observed_unix_ms": 1794012758750,
+        "last_observed_unix_ms": 1794012758750
+      },
+      "unity_scene_callback_log_observed": {
+        "count": 3,
+        "first_observed_unix_ms": 1794012829355,
+        "last_observed_unix_ms": 1794012829599
+      },
+      "player_add_callback_log_observed": {
+        "count": 1,
+        "first_observed_unix_ms": 1794012829539,
+        "last_observed_unix_ms": 1794012829539
+      },
+      "world_loaded_message_observed": {
+        "count": 1,
+        "first_observed_unix_ms": 1794012829599,
+        "last_observed_unix_ms": 1794012829599
+      }
+    },
+    "render_failure_breakdown": {
+      "ultimate_water_invalid_pass_by_material": {
+        "spectrum": 18213,
+        "foam_global": 27480,
+        "subsurface_blur": 0,
+        "utility_noise": 0,
+        "other_ultimate_water": 0
+      },
+      "invalid_kernel_index_root_lines": {
+        "index_6": 6869,
+        "other_index": 0
+      },
+      "scope": "game-UID raw Logcat root messages; kernel index alone does not prove water origin"
+    },
+    "render_error_flood_scope": "rate from previous telemetry interval; 100 render error root lines\/s is a heuristic, not a GPU crash",
+    "game_milestones_scope": "observed game UID Logcat messages only; not proof of successful runtime operations",
+    "error_groups_note": "fixed categories only; original messages remain in raw Logcat",
+    "logcat_unobserved_losses": "unknown",
+    "remote_sink_failed_batches": 0,
+    "remote_sink_failed_bytes": 0
+  }
+}
