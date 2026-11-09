@@ -1,0 +1,458 @@
+{
+  "session": "20261109-225506-552476830",
+  "pack_id": "raft-shared-t1-t5-v1",
+  "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6",
+  "app_source": "2d7c268248b505e4dd9ad1daa9491787df07665c",
+  "results": [
+    {
+      "case_id": "T1-01",
+      "worker": "T1",
+      "revision": 1,
+      "result": {
+        "id": "T1-01",
+        "worker": "T1",
+        "status": "PASS",
+        "fingerprint": "b4aa5146a9c9110a69b8b607ce8e2a4a7d888e7ae95e14de00e6577a0a571d4c",
+        "observed": "PASS version=OpenGL ES 3.2 V@0615.95 (GIT@c1fe339905, Id5fe42143e, 1737637074) (Date:01\/23\/25) max_count_x=65535 max_size_x=1024 max_invocations=1024 shared_memory=32768 preexisting_errors=0 gl_error=0x0",
+        "image_uri": "",
+        "utc_ms": 1794254125291,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T1-02",
+      "worker": "T1",
+      "revision": 1,
+      "result": {
+        "id": "T1-02",
+        "worker": "T1",
+        "status": "PASS",
+        "fingerprint": "4fd83d96e4c38f1c6d8c84ca00b4a30939d3207b3cce195ea687f44b0372e598",
+        "observed": "PASS matched=16 unmap=true gl_error=0x0 checked_words=16",
+        "image_uri": "",
+        "utc_ms": 1794254126441,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T1-03",
+      "worker": "T1",
+      "revision": 1,
+      "result": {
+        "id": "T1-03",
+        "worker": "T1",
+        "status": "PASS",
+        "fingerprint": "047824c7253328163f5c625841ccf87565098656a5f1f7d56eb87c9070443171",
+        "observed": "PASS matched=16 unmap=true gl_error=0x0 checked_words=16",
+        "image_uri": "",
+        "utc_ms": 1794254127600,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T1-04",
+      "worker": "T1",
+      "revision": 1,
+      "result": {
+        "id": "T1-04",
+        "worker": "T1",
+        "status": "PASS",
+        "fingerprint": "e659153e7a4699e4af8adfc2ef851641066f099cd264e45e4f6e67dce9ddd3bf",
+        "observed": "PASS invalid_shader_compiled=0 gl_error=0x0 diagnostic_chars=134",
+        "image_uri": "",
+        "utc_ms": 1794254128737,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T1-05",
+      "worker": "T1",
+      "revision": 1,
+      "result": {
+        "id": "T1-05",
+        "worker": "T1",
+        "status": "PASS",
+        "fingerprint": "40ecbaa1100793102a8d7e2caa49cc5fde9797200f2b80c300fbea183912ad22",
+        "observed": "PASS fft_synthetic_two_pass_local512 checked_floats=1024 max_abs_error=2.3841858E-7 tolerance=3.0E-5 first_mismatch=-1 unmap=true gl_error=0x0 original_raft_compute_executed=false",
+        "image_uri": "",
+        "utc_ms": 1794254129888,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T2-01",
+      "worker": "T2",
+      "revision": 1,
+      "result": {
+        "id": "T2-01",
+        "worker": "T2",
+        "status": "PASS",
+        "fingerprint": "e3b121b348e017af9d1f5b8bc4672f0a963f672bdc0b8e0f7a0f934c0b87e689",
+        "observed": "OK renderer=Adreno (TM) 730 version=OpenGL ES 3.2 V@0615.95 (GIT@c1fe339905, Id5fe42143e, 1737637074) (Date:01\/23\/25) maxTexture=16384",
+        "image_uri": "",
+        "utc_ms": 1794254209396,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T2-02",
+      "worker": "T2",
+      "revision": 1,
+      "result": {
+        "id": "T2-02",
+        "worker": "T2",
+        "status": "PASS",
+        "fingerprint": "b84ed6ce4f1c845627501162d738f732cda2ec25801ed338c30c02b8b9d10b87",
+        "observed": "OK 2-pass RGBA8 FBO; sourceLeft=[32, 96, 159, 255] sourceRight=[223, 32, 64, 255] finalBaseline=[32, 96, 159, 255] finalContrast=[223, 32, 64, 255] tolerance=2",
+        "image_uri": "",
+        "utc_ms": 1794254209706,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T2-03",
+      "worker": "T2",
+      "revision": 1,
+      "result": {
+        "id": "T2-03",
+        "worker": "T2",
+        "status": "PASS",
+        "fingerprint": "2e17b334e55cbc7dfb4a63f50fcf1363c594b6b1e5eb703ebdcae1d837f8891c",
+        "observed": "OK driver rejects unattached FBO: 0x8cd7",
+        "image_uri": "",
+        "utc_ms": 1794254209953,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T2-04",
+      "worker": "T2",
+      "revision": 1,
+      "result": {
+        "id": "T2-04",
+        "worker": "T2",
+        "status": "PASS",
+        "fingerprint": "bb90a043ebd1642d55cbb8f6c1908787ed7c17adebef6be6829b7d33d3470e6f",
+        "observed": "OK compile rejected invalid fragment shader",
+        "image_uri": "",
+        "utc_ms": 1794254210211,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T3-01",
+      "worker": "T3",
+      "revision": 1,
+      "result": {
+        "id": "T3-01",
+        "worker": "T3",
+        "status": "EVIDENCE_READY",
+        "fingerprint": "1bfa235da0bd30afaff173fb10cc50206a08b7f89fa12773c32b73d4d3960786",
+        "observed": "GLES synthetic frame; case=CASE01 frame=2 left=[255, 0, 0, 255] right=[0, 0, 255, 255] contract=true gl_error=0x0 viewport=1060x1083; png_bytes=156217 png_sha256=348ffa7c05b6d33d5d3926be6c1b3c0905d34abfb7f5560131b7a307508b2e8a capture=verified-GLSurfaceView-overlay-on-window verified_surface_pixels=true; human visual review still required",
+        "image_uri": "content:\/\/media\/external\/downloads\/1006531722",
+        "utc_ms": 1794254211695,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T3-02",
+      "worker": "T3",
+      "revision": 1,
+      "result": {
+        "id": "T3-02",
+        "worker": "T3",
+        "status": "EVIDENCE_READY",
+        "fingerprint": "f6342f4f74e212057c89da4ccbf40c51efb3b355594560e52910689df22763e3",
+        "observed": "GLES synthetic frame; case=CASE02 frame=2 left=[64, 64, 128, 255] right=[64, 191, 128, 255] contract=true gl_error=0x0 viewport=1060x1131; png_bytes=209814 png_sha256=73742c67227c9d079e82c77606daa62e8a820622830ccfb30022db47f5c99e09 capture=verified-GLSurfaceView-overlay-on-window verified_surface_pixels=true; human visual review still required",
+        "image_uri": "content:\/\/media\/external\/downloads\/1006531725",
+        "utc_ms": 1794254213176,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T3-03",
+      "worker": "T3",
+      "revision": 1,
+      "result": {
+        "id": "T3-03",
+        "worker": "T3",
+        "status": "EVIDENCE_READY",
+        "fingerprint": "274f2f6701c013b6c7fd67327a4854c20aa853452f838aa59ffad541b5d58292",
+        "observed": "GLES synthetic frame; case=CASE03 frame=2 left=[128, 33, 108, 255] right=[128, 33, 108, 255] contract=true gl_error=0x0 viewport=1060x1083; png_bytes=160800 png_sha256=37b89bf506d1648080a74696495a6b387c059316d0fbcd4bb30c7615e2b5f2a1 capture=verified-GLSurfaceView-overlay-on-window verified_surface_pixels=true; human visual review still required",
+        "image_uri": "content:\/\/media\/external\/downloads\/1006531728",
+        "utc_ms": 1794254214894,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T3-04",
+      "worker": "T3",
+      "revision": 1,
+      "result": {
+        "id": "T3-04",
+        "worker": "T3",
+        "status": "EVIDENCE_READY",
+        "fingerprint": "215390438466da3c1e191a050df50cf9bf00713bf6d99d0a2cfa560fb853cd57",
+        "observed": "GLES synthetic frame; case=CASE04 frame=2 left=[128, 26, 108, 255] right=[128, 26, 108, 255] contract=true gl_error=0x0 viewport=1060x1131; png_bytes=147858 png_sha256=c713a54652d40af83c91b1965da20832f9b95260d9e4900685cb4bbde8259383 capture=verified-GLSurfaceView-overlay-on-window verified_surface_pixels=true; human visual review still required",
+        "image_uri": "content:\/\/media\/external\/downloads\/1006531731",
+        "utc_ms": 1794254216382,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T3-05",
+      "worker": "T3",
+      "revision": 1,
+      "result": {
+        "id": "T3-05",
+        "worker": "T3",
+        "status": "EVIDENCE_READY",
+        "fingerprint": "f73d03e542c9c07cc80252741a303b83ad1fd0bba15be54ed8c638fc9c615050",
+        "observed": "GLES synthetic frame; case=CASE05 frame=2 left=[128, 128, 128, 255] right=[55, 55, 55, 255] contract=true gl_error=0x0 viewport=1060x1083; png_bytes=153224 png_sha256=cb7aba72139dac94d9c6e8278f667f3a97180b6c72068696e639489808af4d91 capture=verified-GLSurfaceView-overlay-on-window verified_surface_pixels=true; human visual review still required",
+        "image_uri": "content:\/\/media\/external\/downloads\/1006531734",
+        "utc_ms": 1794254217852,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T3-06",
+      "worker": "T3",
+      "revision": 1,
+      "result": {
+        "id": "T3-06",
+        "worker": "T3",
+        "status": "EVIDENCE_READY",
+        "fingerprint": "c0d9eeff06bda1adada3c865cd28858b3728e8eed71870936db67b985d64f6d4",
+        "observed": "GLES synthetic frame; case=CASE06 frame=2 left=[26, 115, 204, 255] right=[26, 115, 204, 255] contract=true gl_error=0x0 viewport=1060x1083; png_bytes=156807 png_sha256=ed216aa8b964cdf60ac3fc19cb06f01a3ac8dabd889888297da527dbcc446585 capture=verified-GLSurfaceView-overlay-on-window verified_surface_pixels=true; human visual review still required",
+        "image_uri": "content:\/\/media\/external\/downloads\/1006531737",
+        "utc_ms": 1794254219329,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T4-01",
+      "worker": "T4",
+      "revision": 1,
+      "result": {
+        "id": "T4-01",
+        "worker": "T4",
+        "status": "NEEDS_INPUT",
+        "fingerprint": "bd5cd8579fed1358a1cb2bcc42a04b1f8d7d04fb9e9bb1e1164008db521de908",
+        "observed": "User action, mouse\/file or judgment is required",
+        "image_uri": "",
+        "utc_ms": 1794254219355,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T4-02",
+      "worker": "T4",
+      "revision": 1,
+      "result": {
+        "id": "T4-02",
+        "worker": "T4",
+        "status": "NEEDS_INPUT",
+        "fingerprint": "87cac958d5856fdc79346b959c7d2778461355734069203fa21ad351c43e418c",
+        "observed": "User action, mouse\/file or judgment is required",
+        "image_uri": "",
+        "utc_ms": 1794254219384,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T4-03",
+      "worker": "T4",
+      "revision": 1,
+      "result": {
+        "id": "T4-03",
+        "worker": "T4",
+        "status": "NEEDS_INPUT",
+        "fingerprint": "308babb1721abdf96bc836d4dd6f85900e09f52ca26ed0142610b49f43082473",
+        "observed": "User action, mouse\/file or judgment is required",
+        "image_uri": "",
+        "utc_ms": 1794254219409,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T4-04",
+      "worker": "T4",
+      "revision": 1,
+      "result": {
+        "id": "T4-04",
+        "worker": "T4",
+        "status": "NEEDS_INPUT",
+        "fingerprint": "cb096d5530591cf4352651fd84af007c14097fa1d7300a7f35065e6dc705e810",
+        "observed": "User action, mouse\/file or judgment is required",
+        "image_uri": "",
+        "utc_ms": 1794254219440,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T4-05",
+      "worker": "T4",
+      "revision": 1,
+      "result": {
+        "id": "T4-05",
+        "worker": "T4",
+        "status": "NEEDS_INPUT",
+        "fingerprint": "66ad22ac03163ca5a179a8fabcff289d5547fc3ebf65204aa55be6a244ef10ef",
+        "observed": "User action, mouse\/file or judgment is required",
+        "image_uri": "",
+        "utc_ms": 1794254219478,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T4-06",
+      "worker": "T4",
+      "revision": 1,
+      "result": {
+        "id": "T4-06",
+        "worker": "T4",
+        "status": "NEEDS_INPUT",
+        "fingerprint": "e07eff95c1630079f37bf6684f573818f7e266a2e099433611c8f60a55d6c85a",
+        "observed": "User action, mouse\/file or judgment is required",
+        "image_uri": "",
+        "utc_ms": 1794254219510,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T4-07",
+      "worker": "T4",
+      "revision": 1,
+      "result": {
+        "id": "T4-07",
+        "worker": "T4",
+        "status": "NEEDS_INPUT",
+        "fingerprint": "2bcf5c3cb508dd13d53edefb59eac8b43edb3055565dcf8383b11faf53856c3c",
+        "observed": "User action, mouse\/file or judgment is required",
+        "image_uri": "",
+        "utc_ms": 1794254219544,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T4-08",
+      "worker": "T4",
+      "revision": 1,
+      "result": {
+        "id": "T4-08",
+        "worker": "T4",
+        "status": "NEEDS_INPUT",
+        "fingerprint": "f037f3b28c4259045cdccf808d63f87950280cec8a1a886b2b0e551b8e809a52",
+        "observed": "User action, mouse\/file or judgment is required",
+        "image_uri": "",
+        "utc_ms": 1794254219580,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T4-09",
+      "worker": "T4",
+      "revision": 1,
+      "result": {
+        "id": "T4-09",
+        "worker": "T4",
+        "status": "NEEDS_INPUT",
+        "fingerprint": "7a68becd211eb3c6ee11c5c89755cb02ed2667a2d86fa9c8d8af9119a94ab84f",
+        "observed": "User action, mouse\/file or judgment is required",
+        "image_uri": "",
+        "utc_ms": 1794254219608,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T5-01",
+      "worker": "T5",
+      "revision": 1,
+      "result": {
+        "id": "T5-01",
+        "worker": "T5",
+        "status": "PASS",
+        "fingerprint": "cba7209d074d3ee855fde0ab64f96b6f4e802fc8526ee112899618f8f82db076",
+        "observed": "package=com.alwansan.raft.lab.shared version=0.2.14-shared versionCode=14 signingCertSha256=a60c8608f3c79a40a074e191f1696700dd6bbe160cb9343b971091b114709927 api=35 abi=arm64-v8a",
+        "image_uri": "",
+        "utc_ms": 1794254219641,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T5-02",
+      "worker": "T5",
+      "revision": 1,
+      "result": {
+        "id": "T5-02",
+        "worker": "T5",
+        "status": "NEEDS_INPUT",
+        "fingerprint": "dfae594ae8216a44ee8bba61f33e98e76f2daf0b404b0ddc8ef5dbe6b1a604ae",
+        "observed": "User action, mouse\/file or judgment is required",
+        "image_uri": "",
+        "utc_ms": 1794254219664,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T5-03",
+      "worker": "T5",
+      "revision": 1,
+      "result": {
+        "id": "T5-03",
+        "worker": "T5",
+        "status": "NEEDS_INPUT",
+        "fingerprint": "1c058e68c587167a07e8d241208d937add594fa619c28c39a7caf1d1ecce5270",
+        "observed": "User action, mouse\/file or judgment is required",
+        "image_uri": "",
+        "utc_ms": 1794254219687,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T5-04",
+      "worker": "T5",
+      "revision": 1,
+      "result": {
+        "id": "T5-04",
+        "worker": "T5",
+        "status": "NEEDS_INPUT",
+        "fingerprint": "d6456865d5a2d9350eee9e3612b64c5ea467623ebe44a3eee50a805d40f20581",
+        "observed": "User action, mouse\/file or judgment is required",
+        "image_uri": "",
+        "utc_ms": 1794254219708,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T5-05",
+      "worker": "T5",
+      "revision": 1,
+      "result": {
+        "id": "T5-05",
+        "worker": "T5",
+        "status": "NEEDS_INPUT",
+        "fingerprint": "8b245ac03c7c4c02ec175c094ac0ff870a1b7493f04ab14780fd74028cfcc43f",
+        "observed": "User action, mouse\/file or judgment is required",
+        "image_uri": "",
+        "utc_ms": 1794254219729,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    },
+    {
+      "case_id": "T5-06",
+      "worker": "T5",
+      "revision": 1,
+      "result": {
+        "id": "T5-06",
+        "worker": "T5",
+        "status": "NEEDS_INPUT",
+        "fingerprint": "202003f349c0d962227ee80b73a0fedb87ff6ac6a12f7af5273996f4af25c1bb",
+        "observed": "User action, mouse\/file or judgment is required",
+        "image_uri": "",
+        "utc_ms": 1794254219755,
+        "pack_sha256": "9dd272a183548443813b5046f8a1f44115626ad8eca316df30692f35b12ec9f6"
+      }
+    }
+  ]
+}
