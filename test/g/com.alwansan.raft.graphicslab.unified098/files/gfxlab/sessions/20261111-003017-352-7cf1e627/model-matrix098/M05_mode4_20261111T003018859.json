@@ -1,0 +1,22 @@
+{
+    "experiment": "GFX-MULTI-098",
+    "model": "M05",
+    "materialMode": 4,
+    "captureKind": "STUDIO_CAMERA_RENDER_READBACK",
+    "pngFile": "M05_mode4_20261111T003018859.png",
+    "pngSha256": "3852c4d8ca37e6b853712d4ed0c7fbb347c158dcaa3a5a631b9727d6c4faead9",
+    "stateJson": "{\n    \"experiment\": \"GFX-MULTI-098\",\n    \"modelId\": \"M05\",\n    \"category\": \"generic\",\n    \"originalGeometryKind\": \"skinned\",\n    \"materialMode\": \"SOURCE_SAVED_STANDARD_CANDIDATE\",\n    \"deviceModel\": \"Xiaomi 23013PC75G\",\n    \"gfxDevice\": \"Adreno (TM) 730\",\n    \"gfxApi\": \"OpenGLES3\",\n    \"gfxVersion\": \"OpenGL ES 3.2 V@0615.95 (GIT@c1fe339905, Id5fe42143e, 1737637074) (Date:01/23/25)\",\n    \"unityVersion\": \"2021.3.45f2\",\n    \"colorSpace\": \"Linear\",\n    \"sourceGeometryVerified\": true,\n    \"sourceTextureChainVerified\": true,\n    \"originalShaderRestored\": false,\n    \"originalAnimationRestored\": false,\n    \"coloredPixelsAutomaticallyVerified\": false,\n    \"cameraYaw\": -30.0,\n    \"cameraPitch\": 15.0,\n    \"cameraDistance\": 3.5,\n    \"frameTimeMs\": 34.9290657043457,\n    \"approximateFps\": 28.62944984436035,\n    \"autoSpin\": false,\n    \"studioHelpersVisible\": false,\n    \"autoLogSession\": \"20261111-003017-352-7cf1e627\",\n    \"autoLogEnabled\": true,\n    \"diagnosticProbeStatus\": \"DIAGNOSTIC_SHADER_NOT_SOURCE_SHADER48\",\n    \"diagnosticRole\": \"BASECOLOR\",\n    \"diagnosticChannel\": \"RGB\",\n    \"diagnosticSampling\": \"SOURCE_TEXTURE_COLORSPACE_IMPORT\",\n    \"diagnosticTextureAssigned\": true,\n    \"diagnosticShaderSupported\": true,\n    \"diagnosticMaterialSurface\": 0,\n    \"diagnosticSurfaces\": 1,\n    \"availableModels\": 6,\n    \"sourceBones\": 2,\n    \"vertices\": 4452,\n    \"triangles\": 5759,\n    \"sourceMaterials\": 1,\n    \"sourceTextures\": 3,\n    \"errors\": 0,\n    \"firstError\": \"\",\n    \"utc\": \"2026-11-11T00:30:18.8606820Z\"\n}",
+    "width": 960,
+    "height": 540,
+    "actualRendererMaterialSlots": 1,
+    "actualShaderNames": [
+        "Standard"
+    ],
+    "actualShaderSupported": [
+        true
+    ],
+    "sourceSavedValuesCandidate": true,
+    "originalShaderRestored": false,
+    "originalRigRestored": false,
+    "originalPCPixelParity": false
+}

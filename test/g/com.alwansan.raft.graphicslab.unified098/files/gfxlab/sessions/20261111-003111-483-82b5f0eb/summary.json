@@ -1,0 +1,21 @@
+{
+    "schema": "gfxlab-session-v1",
+    "session": "20261111-003111-483-82b5f0eb",
+    "startUtc": "2026-11-11T00:31:11.483Z",
+    "lastUtc": "2026-11-11T00:33:04.670Z",
+    "unity": "2021.3.45f2",
+    "device": "Xiaomi 23013PC75G",
+    "graphicsApi": "OpenGLES3",
+    "graphicsDevice": "Adreno (TM) 730",
+    "colorSpace": "Linear",
+    "persistentDirectory": "/storage/emulated/0/Android/data/com.alwansan.raft.graphicslab.unified098/files/gfxlab",
+    "intendedExportDirectory": "/storage/emulated/0/Download/Games/cl/test/g/",
+    "originalShaderRestored": false,
+    "devicePixelParityVerified": false,
+    "eventsWritten": 149,
+    "snapshotsWritten": 99,
+    "unityErrors": 0,
+    "unityWarnings": 0,
+    "messagesDropped": 0,
+    "writeFailure": ""
+}

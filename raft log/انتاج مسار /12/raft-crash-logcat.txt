@@ -1,0 +1,697 @@
+--------- beginning of crash
+11-05 18:03:04.255 27992 28847 F libc    : Fatal signal 11 (SIGSEGV), code 1 (SEGV_MAPERR), fault addr 0x10 in tid 28847 (UnityMain), pid 27992 (aft.androidtest)
+11-05 18:03:06.192 29529 29529 F DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+11-05 18:03:06.192 29529 29529 F DEBUG   : Build fingerprint: 'POCO/mondrian_global/mondrian:15/AQ3A.250226.002/OS3.0.5.0.VMNMIXM:user/release-keys'
+11-05 18:03:06.192 29529 29529 F DEBUG   : Revision: '0'
+11-05 18:03:06.192 29529 29529 F DEBUG   : ABI: 'arm64'
+11-05 18:03:06.192 29529 29529 F DEBUG   : Timestamp: 2026-11-05 18:03:05.140803089+0300
+11-05 18:03:06.192 29529 29529 F DEBUG   : Process uptime: 71s
+11-05 18:03:06.192 29529 29529 F DEBUG   : Cmdline: com.alwansan.raft.androidtest
+11-05 18:03:06.192 29529 29529 F DEBUG   : pid: 27992, tid: 28847, name: UnityMain  >>> com.alwansan.raft.androidtest <<<
+11-05 18:03:06.192 29529 29529 F DEBUG   : uid: 13015
+11-05 18:03:06.193 29529 29529 F DEBUG   : tagged_addr_ctrl: 0000000000000001 (PR_TAGGED_ADDR_ENABLE)
+11-05 18:03:06.193 29529 29529 F DEBUG   : pac_enabled_keys: 000000000000000f (PR_PAC_APIAKEY, PR_PAC_APIBKEY, PR_PAC_APDAKEY, PR_PAC_APDBKEY)
+11-05 18:03:06.193 29529 29529 F DEBUG   : signal 11 (SIGSEGV), code 1 (SEGV_MAPERR), fault addr 0x0000000000000010
+11-05 18:03:06.193 29529 29529 F DEBUG   : Cause: null pointer dereference
+11-05 18:03:06.193 29529 29529 F DEBUG   :     x0  0000000000000000  x1  0000007204b029b8  x2  0000007204b028b0  x3  0000007204b028a8
+11-05 18:03:06.193 29529 29529 F DEBUG   :     x4  0000000000000030  x5  0000000000000000  x6  0000000000800000  x7  5f444f4d4600706f
+11-05 18:03:06.193 29529 29529 F DEBUG   :     x8  0000000000000000  x9  18a3172e8cfe2610  x10 000000000000000d  x11 0000000000030003
+11-05 18:03:06.193 29529 29529 F DEBUG   :     x12 0000007561fb7538  x13 f108ae2e6b8546c9  x14 0000000000000001  x15 00000075554012f8
+11-05 18:03:06.193 29529 29529 F DEBUG   :     x16 000000705c1502f8  x17 000000705c100c70  x18 000000717cbb7218  x19 0000000000000000
+11-05 18:03:06.193 29529 29529 F DEBUG   :     x20 0000000000000001  x21 000000000000001e  x22 b4000073a783f0c0  x23 0000000000000000
+11-05 18:03:06.193 29529 29529 F DEBUG   :     x24 0000007204b03a40  x25 00000071c006d930  x26 b4000074270afa90  x27 b4000073170a7a70
+11-05 18:03:06.193 29529 29529 F DEBUG   :     x28 0000000000000001  x29 0000007204b029e0
+11-05 18:03:06.193 29529 29529 F DEBUG   :     lr  000000705c100cb0  sp  0000007204b028b0  pc  000000705c105eac  pst 0000000060001000
+11-05 18:03:06.193 29529 29529 F DEBUG   : 1 total frames
+11-05 18:03:06.193 29529 29529 F DEBUG   : backtrace:
+11-05 18:03:06.193 29529 29529 F DEBUG   :       #00 pc 00000000000c3eac  /data/app/~~5snTsaC8l1C-XKjJbgCkJw==/com.alwansan.raft.androidtest-LpBZrrjIN1EBrFGPI4aKSA==/lib/arm64/libfmodstudio.so
+11-06 01:55:53.275 31041 31063 F DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+11-06 01:55:53.275 31041 31063 F DEBUG   : Build fingerprint: 'POCO/mondrian_global/mondrian:15/AQ3A.250226.002/OS3.0.5.0.VMNMIXM:user/release-keys'
+11-06 01:55:53.275 31041 31063 F DEBUG   : Revision: '0'
+11-06 01:55:53.275 31041 31063 F DEBUG   : ABI: 'arm64'
+11-06 01:55:53.275 31041 31063 F DEBUG   : Timestamp: 2026-11-06 01:55:52.605906011+0300
+11-06 01:55:53.275 31041 31063 F DEBUG   : Process uptime: 212s
+11-06 01:55:53.276 31041 31063 F DEBUG   : Cmdline: com.kiwibrowser.browser:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:33
+11-06 01:55:53.276 31041 31063 F DEBUG   : pid: 31041, tid: 31063, name: CrRendererMain  >>> com.kiwibrowser.browser:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:33 <<<
+11-06 01:55:53.276 31041 31063 F DEBUG   : uid: 90128
+11-06 01:55:53.277 31041 31063 F DEBUG   : tagged_addr_ctrl: 0000000000000001 (PR_TAGGED_ADDR_ENABLE)
+11-06 01:55:53.277 31041 31063 F DEBUG   : pac_enabled_keys: 000000000000000f (PR_PAC_APIAKEY, PR_PAC_APIBKEY, PR_PAC_APDAKEY, PR_PAC_APDBKEY)
+11-06 01:55:53.277 31041 31063 F DEBUG   : signal 5 (SIGTRAP), code 1 (TRAP_BRKPT), fault addr --------
+11-06 01:55:53.277 31041 31063 F DEBUG   :     x0  0000006b004ca9f8  x1  0000006b02b91c30  x2  0000000000000000  x3  00000071789f7e20
+11-06 01:55:53.277 31041 31063 F DEBUG   :     x4  0000000000000000  x5  0000000000000000  x6  00000071789f7f10  x7  0000000000000001
+11-06 01:55:53.277 31041 31063 F DEBUG   :     x8  0000000000000000  x9  0000000000200000  x10 0000007208f0cdc8  x11 000000000000004c
+11-06 01:55:53.277 31041 31063 F DEBUG   :     x12 0000006b022290c8  x13 00000071789f7e9c  x14 0000006b02b91c28  x15 0000000000000020
+11-06 01:55:53.277 31041 31063 F DEBUG   :     x16 000000720bac5d34  x17 0000000000000001  x18 0000007177348000  x19 0000006b004d9bf8
+11-06 01:55:53.277 31041 31063 F DEBUG   :     x20 0000000000000776  x21 000000720eff8000  x22 0000000000000001  x23 0000000000069008
+11-06 01:55:53.277 31041 31063 F DEBUG   :     x24 0000007206a0f050  x25 00000071789fca40  x26 000000720eff8000  x27 0000006b0023bd08
+11-06 01:55:53.277 31041 31063 F DEBUG   :     x28 0000000000000000  x29 00000071789f7d70
+11-06 01:55:53.277 31041 31063 F DEBUG   :     lr  0000007208f0cd94  sp  00000071789f7d70  pc  0000007208f0ce1c  pst 0000000040001000
+11-06 01:55:53.277 31041 31063 F DEBUG   : 50 total frames
+11-06 01:55:53.277 31041 31063 F DEBUG   : backtrace:
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #00 pc 0000000003af7e1c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #01 pc 0000000003af7de8  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #02 pc 0000000003af7ca8  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #03 pc 0000000003b308c4  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #04 pc 000000000326cf10  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #05 pc 000000000349b3a0  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #06 pc 0000000002eb4664  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #07 pc 0000000003a19820  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #08 pc 0000000008557c68  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #09 pc 00000000085417e4  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #10 pc 0000000002aae704  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #11 pc 0000000002aade0c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #12 pc 0000000002a0369c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #13 pc 0000000002a0352c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #14 pc 0000000002a02cb0  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #15 pc 0000000002a00f30  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #16 pc 0000000008721a0c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #17 pc 000000000872847c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #18 pc 00000000033e7200  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #19 pc 00000000033e6564  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #20 pc 0000000003797278  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #21 pc 00000000097ea778  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #22 pc 0000000004460c48  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #23 pc 00000000097e3418  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #24 pc 00000000097e0fe4  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #25 pc 0000000003e45280  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #26 pc 0000000002afb2f8  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #27 pc 0000000002afa9c0  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #28 pc 0000000002afa6a8  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #29 pc 0000000002f432ec  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #30 pc 0000000002f4314c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #31 pc 0000000002ae6c84  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #32 pc 0000000002ae5d54  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #33 pc 0000000002dc3a14  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #34 pc 00000000033ece10  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #35 pc 0000000003537208  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #36 pc 00000000097f030c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #37 pc 00000000064a2208  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #38 pc 00000000064a0a8c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #39 pc 00000000064a1494  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (Java_J_N_M1Y_1XVCN+160) (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #40 pc 0000000000288270  /apex/com.android.art/lib64/libart.so (art_quick_generic_jni_trampoline+144) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #41 pc 00000000006bf164  /apex/com.android.art/lib64/libart.so (nterp_helper+116) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #42 pc 00000000001e5906  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/oat/arm64/base.vdex
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #43 pc 00000000003199d0  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (java.lang.Thread.run+64)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #44 pc 0000000000270cf4  /apex/com.android.art/lib64/libart.so (art_quick_invoke_stub+612) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #45 pc 000000000023ba68  /apex/com.android.art/lib64/libart.so (art::ArtMethod::Invoke(art::Thread*, unsigned int*, unsigned int, art::JValue*, char const*)+224) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #46 pc 000000000055c204  /apex/com.android.art/lib64/libart.so (art::Thread::CreateCallback(void*)+1400) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #47 pc 000000000055bc78  /apex/com.android.art/lib64/libart.so (art::Thread::CreateCallbackWithUffdGc(void*)+12) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #48 pc 0000000000070294  /apex/com.android.runtime/lib64/bionic/libc.so (__pthread_start(void*)+196) (BuildId: 8db058ad276c2076beda792e0a15f378)
+11-06 01:55:53.277 31041 31063 F DEBUG   :       #49 pc 00000000000623b0  /apex/com.android.runtime/lib64/bionic/libc.so (__start_thread+68) (BuildId: 8db058ad276c2076beda792e0a15f378)
+11-06 01:55:53.278  1946  1972 F DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+11-06 01:55:53.278  1946  1972 F DEBUG   : Build fingerprint: 'POCO/mondrian_global/mondrian:15/AQ3A.250226.002/OS3.0.5.0.VMNMIXM:user/release-keys'
+11-06 01:55:53.278  1946  1972 F DEBUG   : Revision: '0'
+11-06 01:55:53.278  1946  1972 F DEBUG   : ABI: 'arm64'
+11-06 01:55:53.278  1946  1972 F DEBUG   : Timestamp: 2026-11-06 01:55:52.653208615+0300
+11-06 01:55:53.278  1946  1972 F DEBUG   : Process uptime: 42s
+11-06 01:55:53.278  1946  1972 F DEBUG   : Cmdline: com.kiwibrowser.browser:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:50
+11-06 01:55:53.278  1946  1972 F DEBUG   : pid: 1946, tid: 1972, name: CrRendererMain  >>> com.kiwibrowser.browser:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:50 <<<
+11-06 01:55:53.278  1946  1972 F DEBUG   : uid: 90145
+11-06 01:55:53.278  1946  1972 F DEBUG   : tagged_addr_ctrl: 0000000000000001 (PR_TAGGED_ADDR_ENABLE)
+11-06 01:55:53.278  1946  1972 F DEBUG   : pac_enabled_keys: 000000000000000f (PR_PAC_APIAKEY, PR_PAC_APIBKEY, PR_PAC_APDAKEY, PR_PAC_APDBKEY)
+11-06 01:55:53.278  1946  1972 F DEBUG   : signal 5 (SIGTRAP), code 1 (TRAP_BRKPT), fault addr --------
+11-06 01:55:53.278  1946  1972 F DEBUG   :     x0  0000006b0048f628  x1  0000006b003b56a0  x2  0000000000000000  x3  00000071789f7e20
+11-06 01:55:53.278  1946  1972 F DEBUG   :     x4  0000000000000000  x5  0000000000000000  x6  00000071789f7f10  x7  0000000000000001
+11-06 01:55:53.278  1946  1972 F DEBUG   :     x8  0000000000000000  x9  0000000000200000  x10 0000007208f0cdc8  x11 000000000000004c
+11-06 01:55:53.278  1946  1972 F DEBUG   :     x12 0000006b01b2cac0  x13 00000071789f7e9c  x14 00000002002b0428  x15 0000000000000050
+11-06 01:55:53.278  1946  1972 F DEBUG   :     x16 000000720bac5d34  x17 0000006b003a1593  x18 0000007177250000  x19 0000006b0049e828
+11-06 01:55:53.278  1946  1972 F DEBUG   :     x20 0000000000000776  x21 000000720eff8000  x22 0000000000000001  x23 0000000000069008
+11-06 01:55:53.278  1946  1972 F DEBUG   :     x24 0000007206a0f050  x25 00000071789fca40  x26 000000720eff8000  x27 0000006b00157400
+11-06 01:55:53.278  1946  1972 F DEBUG   :     x28 0000000000000000  x29 00000071789f7d70
+11-06 01:55:53.280  1946  1972 F DEBUG   :     lr  0000007208f0cd94  sp  00000071789f7d70  pc  0000007208f0ce1c  pst 0000000040001000
+11-06 01:55:53.280  1946  1972 F DEBUG   : 50 total frames
+11-06 01:55:53.280  1946  1972 F DEBUG   : backtrace:
+11-06 01:55:53.280  1946  1972 F DEBUG   :       #00 pc 0000000003af7e1c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.280  1946  1972 F DEBUG   :       #01 pc 0000000003af7de8  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.280  1946  1972 F DEBUG   :       #02 pc 0000000003af7ca8  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.280  1946  1972 F DEBUG   :       #03 pc 0000000003b308c4  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.280  1946  1972 F DEBUG   :       #04 pc 000000000326cf10  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.280  1946  1972 F DEBUG   :       #05 pc 000000000349b3a0  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.280  1946  1972 F DEBUG   :       #06 pc 0000000002eb4664  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.280  1946  1972 F DEBUG   :       #07 pc 0000000003a19820  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.280  1946  1972 F DEBUG   :       #08 pc 0000000008557c68  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #09 pc 00000000085417e4  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #10 pc 0000000002aae704  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #11 pc 0000000002aade0c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #12 pc 0000000002a0369c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #13 pc 0000000002a0352c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #14 pc 0000000002a02cb0  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #15 pc 0000000002a00f30  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #16 pc 0000000008721a0c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #17 pc 000000000872847c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #18 pc 00000000033e7200  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #19 pc 00000000033e6564  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #20 pc 0000000003797278  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #21 pc 00000000097ea778  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #22 pc 0000000004460c48  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #23 pc 00000000097e3418  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #24 pc 00000000097e0fe4  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #25 pc 0000000003e45280  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #26 pc 0000000002afb2f8  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #27 pc 0000000002afa9c0  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #28 pc 0000000002afa6a8  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #29 pc 0000000002f432ec  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #30 pc 0000000002f4314c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #31 pc 0000000002ae6c84  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #32 pc 0000000002ae5d54  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #33 pc 0000000002dc3a14  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #34 pc 00000000033ece10  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #35 pc 0000000003537208  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #36 pc 00000000097f030c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #37 pc 00000000064a2208  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #38 pc 00000000064a0a8c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #39 pc 00000000064a1494  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (Java_J_N_M1Y_1XVCN+160) (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #40 pc 0000000000288270  /apex/com.android.art/lib64/libart.so (art_quick_generic_jni_trampoline+144) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #41 pc 00000000006bf164  /apex/com.android.art/lib64/libart.so (nterp_helper+116) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #42 pc 00000000001e5906  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/oat/arm64/base.vdex
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #43 pc 00000000003199d0  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (java.lang.Thread.run+64)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #44 pc 0000000000270cf4  /apex/com.android.art/lib64/libart.so (art_quick_invoke_stub+612) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #45 pc 000000000023ba68  /apex/com.android.art/lib64/libart.so (art::ArtMethod::Invoke(art::Thread*, unsigned int*, unsigned int, art::JValue*, char const*)+224) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #46 pc 000000000055c204  /apex/com.android.art/lib64/libart.so (art::Thread::CreateCallback(void*)+1400) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #47 pc 000000000055bc78  /apex/com.android.art/lib64/libart.so (art::Thread::CreateCallbackWithUffdGc(void*)+12) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #48 pc 0000000000070294  /apex/com.android.runtime/lib64/bionic/libc.so (__pthread_start(void*)+196) (BuildId: 8db058ad276c2076beda792e0a15f378)
+11-06 01:55:53.281  1946  1972 F DEBUG   :       #49 pc 00000000000623b0  /apex/com.android.runtime/lib64/bionic/libc.so (__start_thread+68) (BuildId: 8db058ad276c2076beda792e0a15f378)
+11-06 01:55:53.297 31041 31063 F MiDebuggerdStub: cannot open libsavior.so, error msg : dlopen failed: library "/system_ext/lib64/libsavior.so" needed or dlopened by "(unknown)" is not accessible for the namespace "clns-8"
+11-06 01:55:53.306  1946  1972 F MiDebuggerdStub: cannot open libsavior.so, error msg : dlopen failed: library "/system_ext/lib64/libsavior.so" needed or dlopened by "(unknown)" is not accessible for the namespace "clns-8"
+11-06 01:59:23.413  6127  6144 F DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+11-06 01:59:23.413  6127  6144 F DEBUG   : Build fingerprint: 'POCO/mondrian_global/mondrian:15/AQ3A.250226.002/OS3.0.5.0.VMNMIXM:user/release-keys'
+11-06 01:59:23.413  6127  6144 F DEBUG   : Revision: '0'
+11-06 01:59:23.413  6127  6144 F DEBUG   : ABI: 'arm64'
+11-06 01:59:23.413  6127  6144 F DEBUG   : Timestamp: 2026-11-06 01:59:22.889528899+0300
+11-06 01:59:23.413  6127  6144 F DEBUG   : Process uptime: 122s
+11-06 01:59:23.415  6127  6144 F DEBUG   : Cmdline: com.kiwibrowser.browser:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:58
+11-06 01:59:23.415  6127  6144 F DEBUG   : pid: 6127, tid: 6144, name: CrRendererMain  >>> com.kiwibrowser.browser:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:58 <<<
+11-06 01:59:23.415  6127  6144 F DEBUG   : uid: 90153
+11-06 01:59:23.415  6127  6144 F DEBUG   : tagged_addr_ctrl: 0000000000000001 (PR_TAGGED_ADDR_ENABLE)
+11-06 01:59:23.415  6127  6144 F DEBUG   : pac_enabled_keys: 000000000000000f (PR_PAC_APIAKEY, PR_PAC_APIBKEY, PR_PAC_APDAKEY, PR_PAC_APDBKEY)
+11-06 01:59:23.415  6127  6144 F DEBUG   : signal 5 (SIGTRAP), code 1 (TRAP_BRKPT), fault addr --------
+11-06 01:59:23.415  6127  6144 F DEBUG   :     x0  0000006b002ef950  x1  0000006b00f620d0  x2  0000000000000000  x3  00000071789f7e20
+11-06 01:59:23.415  6127  6144 F DEBUG   :     x4  0000000000000000  x5  0000000000000000  x6  00000071789f7f10  x7  0000000000000001
+11-06 01:59:23.415  6127  6144 F DEBUG   :     x8  0000000000000000  x9  0000000000200000  x10 0000007208f0cdc8  x11 000000000000004c
+11-06 01:59:23.415  6127  6144 F DEBUG   :     x12 0000006b011278c0  x13 00000071789f7e9c  x14 0000006b00f620c8  x15 0000000000000002
+11-06 01:59:23.415  6127  6144 F DEBUG   :     x16 000000720bac5d34  x17 0000000000000001  x18 0000007177ae0000  x19 0000006b002feb50
+11-06 01:59:23.415  6127  6144 F DEBUG   :     x20 0000000000000776  x21 000000720eff8000  x22 0000000000000001  x23 0000000000069008
+11-06 01:59:23.415  6127  6144 F DEBUG   :     x24 0000007206a0f050  x25 00000071789fca40  x26 000000720eff8000  x27 0000006b00157400
+11-06 01:59:23.415  6127  6144 F DEBUG   :     x28 0000000000000000  x29 00000071789f7d70
+11-06 01:59:23.415  6127  6144 F DEBUG   :     lr  0000007208f0cd94  sp  00000071789f7d70  pc  0000007208f0ce1c  pst 0000000040001000
+11-06 01:59:23.415  6127  6144 F DEBUG   : 50 total frames
+11-06 01:59:23.415  6127  6144 F DEBUG   : backtrace:
+11-06 01:59:23.415  6127  6144 F DEBUG   :       #00 pc 0000000003af7e1c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.415  6127  6144 F DEBUG   :       #01 pc 0000000003af7de8  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.415  6127  6144 F DEBUG   :       #02 pc 0000000003af7ca8  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.415  6127  6144 F DEBUG   :       #03 pc 0000000003b308c4  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.415  6127  6144 F DEBUG   :       #04 pc 000000000326cf10  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.415  6127  6144 F DEBUG   :       #05 pc 000000000349b3a0  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.415  6127  6144 F DEBUG   :       #06 pc 0000000002eb4664  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.415  6127  6144 F DEBUG   :       #07 pc 0000000003a19820  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.415  6127  6144 F DEBUG   :       #08 pc 0000000008557c68  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.415  6127  6144 F DEBUG   :       #09 pc 00000000085417e4  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.415  6127  6144 F DEBUG   :       #10 pc 0000000002aae704  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.415  6127  6144 F DEBUG   :       #11 pc 0000000002aade0c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.415  6127  6144 F DEBUG   :       #12 pc 0000000002a0369c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.415  6127  6144 F DEBUG   :       #13 pc 0000000002a0352c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.415  6127  6144 F DEBUG   :       #14 pc 0000000002a02cb0  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.415  6127  6144 F DEBUG   :       #15 pc 0000000002a00f30  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.415  6127  6144 F DEBUG   :       #16 pc 0000000008721a0c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.415  6127  6144 F DEBUG   :       #17 pc 000000000872847c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.415  6127  6144 F DEBUG   :       #18 pc 00000000033e7200  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.415  6127  6144 F DEBUG   :       #19 pc 00000000033e6564  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.415  6127  6144 F DEBUG   :       #20 pc 0000000003797278  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.415  6127  6144 F DEBUG   :       #21 pc 00000000097ea778  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.415  6127  6144 F DEBUG   :       #22 pc 0000000004460c48  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.415  6127  6144 F DEBUG   :       #23 pc 00000000097e3418  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #24 pc 00000000097e0fe4  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #25 pc 0000000003e45280  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #26 pc 0000000002afb2f8  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #27 pc 0000000002afa9c0  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #28 pc 0000000002afa6a8  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #29 pc 0000000002f432ec  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #30 pc 0000000002f4314c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #31 pc 0000000002ae6c84  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #32 pc 0000000002ae5d54  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #33 pc 0000000002dc3a14  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #34 pc 00000000033ece10  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #35 pc 0000000003537208  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #36 pc 00000000097f030c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #37 pc 00000000064a2208  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #38 pc 00000000064a0a8c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #39 pc 00000000064a1494  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (Java_J_N_M1Y_1XVCN+160) (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #40 pc 0000000000288270  /apex/com.android.art/lib64/libart.so (art_quick_generic_jni_trampoline+144) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #41 pc 00000000006bf164  /apex/com.android.art/lib64/libart.so (nterp_helper+116) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #42 pc 00000000001e5906  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/oat/arm64/base.vdex
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #43 pc 00000000003199d0  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (java.lang.Thread.run+64)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #44 pc 0000000000270cf4  /apex/com.android.art/lib64/libart.so (art_quick_invoke_stub+612) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #45 pc 000000000023ba68  /apex/com.android.art/lib64/libart.so (art::ArtMethod::Invoke(art::Thread*, unsigned int*, unsigned int, art::JValue*, char const*)+224) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #46 pc 000000000055c204  /apex/com.android.art/lib64/libart.so (art::Thread::CreateCallback(void*)+1400) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #47 pc 000000000055bc78  /apex/com.android.art/lib64/libart.so (art::Thread::CreateCallbackWithUffdGc(void*)+12) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #48 pc 0000000000070294  /apex/com.android.runtime/lib64/bionic/libc.so (__pthread_start(void*)+196) (BuildId: 8db058ad276c2076beda792e0a15f378)
+11-06 01:59:23.416  6127  6144 F DEBUG   :       #49 pc 00000000000623b0  /apex/com.android.runtime/lib64/bionic/libc.so (__start_thread+68) (BuildId: 8db058ad276c2076beda792e0a15f378)
+11-06 01:59:23.425  6127  6144 F MiDebuggerdStub: cannot open libsavior.so, error msg : dlopen failed: library "/system_ext/lib64/libsavior.so" needed or dlopened by "(unknown)" is not accessible for the namespace "clns-8"
+11-06 02:05:26.282 14788 14824 F DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+11-06 02:05:26.282 14788 14824 F DEBUG   : Build fingerprint: 'POCO/mondrian_global/mondrian:15/AQ3A.250226.002/OS3.0.5.0.VMNMIXM:user/release-keys'
+11-06 02:05:26.282 14788 14824 F DEBUG   : Revision: '0'
+11-06 02:05:26.282 14788 14824 F DEBUG   : ABI: 'arm64'
+11-06 02:05:26.282 14788 14824 F DEBUG   : Timestamp: 2026-11-06 02:05:25.667062407+0300
+11-06 02:05:26.282 14788 14824 F DEBUG   : Process uptime: 19s
+11-06 02:05:26.284 14788 14824 F DEBUG   : Cmdline: com.kiwibrowser.browser:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:80
+11-06 02:05:26.284 14788 14824 F DEBUG   : pid: 14788, tid: 14824, name: CrRendererMain  >>> com.kiwibrowser.browser:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:80 <<<
+11-06 02:05:26.284 14788 14824 F DEBUG   : uid: 90175
+11-06 02:05:26.284 14788 14824 F DEBUG   : tagged_addr_ctrl: 0000000000000001 (PR_TAGGED_ADDR_ENABLE)
+11-06 02:05:26.284 14788 14824 F DEBUG   : pac_enabled_keys: 000000000000000f (PR_PAC_APIAKEY, PR_PAC_APIBKEY, PR_PAC_APDAKEY, PR_PAC_APDBKEY)
+11-06 02:05:26.284 14788 14824 F DEBUG   : signal 5 (SIGTRAP), code 1 (TRAP_BRKPT), fault addr --------
+11-06 02:05:26.284 14788 14824 F DEBUG   :     x0  0000006b002ed270  x1  0000006b00fb0e30  x2  0000000000000000  x3  00000071789f7e20
+11-06 02:05:26.284 14788 14824 F DEBUG   :     x4  0000000000000000  x5  0000000000000000  x6  00000071789f7f10  x7  0000000000000001
+11-06 02:05:26.284 14788 14824 F DEBUG   :     x8  0000000000000000  x9  0000000000200000  x10 0000007208f0cdc8  x11 000000000000004c
+11-06 02:05:26.284 14788 14824 F DEBUG   :     x12 0000006b01263760  x13 00000071789f7e9c  x14 0000006b00fb0e28  x15 0000000000000020
+11-06 02:05:26.284 14788 14824 F DEBUG   :     x16 000000720bac5d34  x17 0000000000000001  x18 00000071772bc000  x19 0000006b002fc470
+11-06 02:05:26.284 14788 14824 F DEBUG   :     x20 0000000000000776  x21 000000720eff8000  x22 0000000000000001  x23 0000000000069008
+11-06 02:05:26.284 14788 14824 F DEBUG   :     x24 0000007206a0f050  x25 00000071789fca40  x26 000000720eff8000  x27 0000006b00157400
+11-06 02:05:26.284 14788 14824 F DEBUG   :     x28 0000000000000000  x29 00000071789f7d70
+11-06 02:05:26.285 14788 14824 F DEBUG   :     lr  0000007208f0cd94  sp  00000071789f7d70  pc  0000007208f0ce1c  pst 0000000040001000
+11-06 02:05:26.285 14788 14824 F DEBUG   : 50 total frames
+11-06 02:05:26.285 14788 14824 F DEBUG   : backtrace:
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #00 pc 0000000003af7e1c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #01 pc 0000000003af7de8  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #02 pc 0000000003af7ca8  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #03 pc 0000000003b308c4  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #04 pc 000000000326cf10  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #05 pc 000000000349b3a0  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #06 pc 0000000002eb4664  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #07 pc 0000000003a19820  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #08 pc 0000000008557c68  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #09 pc 00000000085417e4  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #10 pc 0000000002aae704  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #11 pc 0000000002aade0c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #12 pc 0000000002a0369c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #13 pc 0000000002a0352c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #14 pc 0000000002a02cb0  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #15 pc 0000000002a00f30  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #16 pc 0000000008721a0c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #17 pc 000000000872847c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #18 pc 00000000033e7200  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #19 pc 00000000033e6564  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #20 pc 0000000003797278  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #21 pc 00000000097ea778  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #22 pc 0000000004460c48  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #23 pc 00000000097e3418  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #24 pc 00000000097e0fe4  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #25 pc 0000000003e45280  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #26 pc 0000000002afb2f8  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #27 pc 0000000002afa9c0  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #28 pc 0000000002afa6a8  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #29 pc 0000000002f432ec  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #30 pc 0000000002f4314c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #31 pc 0000000002ae6c84  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #32 pc 0000000002ae5d54  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #33 pc 0000000002dc3a14  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #34 pc 00000000033ece10  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #35 pc 0000000003537208  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #36 pc 00000000097f030c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #37 pc 00000000064a2208  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #38 pc 00000000064a0a8c  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #39 pc 00000000064a1494  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/lib/arm64/libchrome.so (Java_J_N_M1Y_1XVCN+160) (BuildId: c8eefc47897e312a05831ab4bdea66f14c94fc9c)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #40 pc 0000000000288270  /apex/com.android.art/lib64/libart.so (art_quick_generic_jni_trampoline+144) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #41 pc 00000000006bf164  /apex/com.android.art/lib64/libart.so (nterp_helper+116) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #42 pc 00000000001e5906  /data/app/~~CPgB3yNe1GRmP-EVBzcVFg==/com.kiwibrowser.browser-IfGpW3-FqE5tzybUjbEQkw==/oat/arm64/base.vdex
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #43 pc 00000000003199d0  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (java.lang.Thread.run+64)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #44 pc 0000000000270cf4  /apex/com.android.art/lib64/libart.so (art_quick_invoke_stub+612) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #45 pc 000000000023ba68  /apex/com.android.art/lib64/libart.so (art::ArtMethod::Invoke(art::Thread*, unsigned int*, unsigned int, art::JValue*, char const*)+224) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #46 pc 000000000055c204  /apex/com.android.art/lib64/libart.so (art::Thread::CreateCallback(void*)+1400) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #47 pc 000000000055bc78  /apex/com.android.art/lib64/libart.so (art::Thread::CreateCallbackWithUffdGc(void*)+12) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #48 pc 0000000000070294  /apex/com.android.runtime/lib64/bionic/libc.so (__pthread_start(void*)+196) (BuildId: 8db058ad276c2076beda792e0a15f378)
+11-06 02:05:26.285 14788 14824 F DEBUG   :       #49 pc 00000000000623b0  /apex/com.android.runtime/lib64/bionic/libc.so (__start_thread+68) (BuildId: 8db058ad276c2076beda792e0a15f378)
+11-06 02:05:26.294 14788 14824 F MiDebuggerdStub: cannot open libsavior.so, error msg : dlopen failed: library "/system_ext/lib64/libsavior.so" needed or dlopened by "(unknown)" is not accessible for the namespace "clns-8"
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: FATAL EXCEPTION: main
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: Process: com.openai.chatgpt, PID: 21776
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: androidx.compose.runtime.ComposeRuntimeError: Compose Runtime internal error. Unexpected or incorrect use of the Compose internal runtime API (Missed recording an endGroup). Please report to Google or use https://goo.gle/compose-feedback
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at y9p.a(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:11)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at vh30.s(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:1250)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at vh30.y(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:252)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at taz.e(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:96)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at m7p.invoke(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:228)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at dho.b(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:41)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at dho.invoke(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:9)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at vh30.q(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:93)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at bhp.m(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:37)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at a6r0.a(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:77)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at th30.a(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:5)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at bhp.A(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:47)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at uj90.n(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:280)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at oj90.t(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:163)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at io90.a(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:30)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at lco.u(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:14)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at op90.F(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:21)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at pp90.a(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:855)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at oas.invoke(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:208)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at rj90.b(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:68)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at er70.O(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:41)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at cix0.b(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:1)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at zi90.O(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:21)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at on90.b(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:1)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at zi90.O(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:21)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at e7a.b(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:1)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at zi90.O(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:21)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at ej8.invoke(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:1790)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at xi90.b(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:8)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at zi90.O(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:21)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at dz10.b(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:104)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at zi90.O(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:21)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at w131.b(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:16)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at o59.b(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:5)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at zi90.O(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:21)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at dz10.b(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:104)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at zi90.O(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:21)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at ce2.invoke(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:395)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at vny0.d(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:305)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at kj90.c(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:31)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at vxc0.s0(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:148)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at androidx.compose.ui.node.LayoutNode.Y(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:13)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at androidx.compose.ui.node.LayoutNode.Z(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:11)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at lsd0.c(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:14)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at lsd0.p(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:29)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at lsd0.l(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:157)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at androidx.compose.ui.platform.AndroidComposeView.t(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:35)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at androidx.compose.ui.platform.AndroidComposeView.dispatchDraw(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:17)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.View.draw(View.java:26256)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.View.updateDisplayListIfDirty(View.java:25045)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4610)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4583)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.View.updateDisplayListIfDirty(View.java:24977)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4610)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4583)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.View.updateDisplayListIfDirty(View.java:24977)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4610)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4583)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.View.updateDisplayListIfDirty(View.java:24977)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4610)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4583)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.View.updateDisplayListIfDirty(View.java:24977)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4610)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4583)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.View.updateDisplayListIfDirty(View.java:24977)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4610)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4583)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.View.updateDisplayListIfDirty(View.java:24977)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4610)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4583)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.View.updateDisplayListIfDirty(View.java:24977)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.ThreadedRenderer.updateRootDisplayList(ThreadedRenderer.java:783)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.ThreadedRenderer.draw(ThreadedRenderer.java:840)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.ViewRootImpl.draw(ViewRootImpl.java:6534)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.ViewRootImpl.performDraw(ViewRootImpl.java:6159)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:5083)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:3592)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:11667)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.Choreographer$CallbackRecord.run(Choreographer.java:1733)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.Choreographer$CallbackRecord.run(Choreographer.java:1742)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.Choreographer.doCallbacks(Choreographer.java:1258)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.Choreographer.doFrame(Choreographer.java:1156)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:1696)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.os.Handler.handleCallback(Handler.java:959)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.os.Looper.loopOnce(Looper.java:249)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:337)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:9682)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:625)
+11-07 02:39:12.469 21776 21776 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:944)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: FATAL EXCEPTION: main
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: Process: com.fesu.renjana, PID: 7262
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: java.lang.IllegalArgumentException: view must not be null
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.WindowManagerGlobal.updateViewLayout(WindowManagerGlobal.java:597)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.WindowManagerImpl.updateViewLayout(WindowManagerImpl.java:232)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at com.fesu.renjana.core.QuickSwitchBubbleService.buildBubbleTouchListener$lambda$6(QuickSwitchBubbleService.kt:213)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at com.fesu.renjana.core.QuickSwitchBubbleService.$r8$lambda$CrLOYgYLzbAbb4Ummn7BYKFpaMQ(QuickSwitchBubbleService.kt:0)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at com.fesu.renjana.core.QuickSwitchBubbleService$$ExternalSyntheticLambda0.onTouch(D8$$SyntheticClass:0)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.View.performOnTouchCallback(View.java:16800)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.View.dispatchTouchEvent(View.java:16764)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:3148)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:2811)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:3161)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:2829)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.View.dispatchPointerEvent(View.java:17104)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at com.xiaomi.mirror.MiuiMirrorImpl.isHandled(MiuiMirrorImpl.java:152)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.ViewRootImpl$ViewPostImeInputStage.processPointerEvent(ViewRootImpl.java:9099)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.ViewRootImpl$ViewPostImeInputStage.onProcess(ViewRootImpl.java:8841)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:8193)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:8250)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:8216)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:8382)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:8224)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:8439)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:8197)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:8250)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:8216)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:8224)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:8197)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.ViewRootImpl.deliverInputEvent(ViewRootImpl.java:11536)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.ViewRootImpl.doProcessInputEvents(ViewRootImpl.java:11472)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.ViewRootImpl.enqueueInputEvent(ViewRootImpl.java:11429)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.ViewRootImpl$WindowInputEventReceiver.onInputEvent(ViewRootImpl.java:11739)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.InputEventReceiver.dispatchInputEvent(InputEventReceiver.java:337)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.InputEventReceiver.nativeConsumeBatchedInputEvents(Native Method)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.InputEventReceiver.consumeBatchedInputEvents(InputEventReceiver.java:287)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.ViewRootImpl.doConsumeBatchedInput(ViewRootImpl.java:11640)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.ViewRootImpl$ConsumeBatchedInputRunnable.run(ViewRootImpl.java:11840)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.Choreographer$CallbackRecord.run(Choreographer.java:1733)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.Choreographer$CallbackRecord.run(Choreographer.java:1742)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.Choreographer.doCallbacks(Choreographer.java:1258)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.Choreographer.doFrame(Choreographer.java:1139)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:1696)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.os.Handler.handleCallback(Handler.java:959)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.os.Looper.loopOnce(Looper.java:249)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:337)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:9682)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:625)
+11-08 04:25:21.089  7262  7262 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:944)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: FATAL EXCEPTION: main
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: Process: com.alwansan.multiview, PID: 32391
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: java.lang.RuntimeException: Unable to start activity ComponentInfo{com.alwansan.multiview/com.alwansan.multiview.MainActivity}: java.lang.IllegalStateException: The specified child already has a parent. You must call removeView() on the child's parent first.
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:4461)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:4686)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:112)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at android.app.servertransaction.TransactionExecutor.executeNonLifecycleItem(TransactionExecutor.java:186)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:112)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:84)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2918)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:107)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at android.os.Looper.loopOnce(Looper.java:249)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:337)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:9682)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:625)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:944)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: Caused by: java.lang.IllegalStateException: The specified child already has a parent. You must call removeView() on the child's parent first.
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at android.view.ViewGroup.addViewInner(ViewGroup.java:5345)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at android.view.ViewGroup.addView(ViewGroup.java:5174)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at android.view.ViewGroup.addView(ViewGroup.java:5146)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at com.alwansan.multiview.MainActivity$Pane.styleCard(MainActivity.java:562)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at com.alwansan.multiview.MainActivity.renderLayout(MainActivity.java:297)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at com.alwansan.multiview.MainActivity.addPane(MainActivity.java:225)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at com.alwansan.multiview.MainActivity.onCreate(MainActivity.java:98)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at android.app.Activity.performCreate(Activity.java:9219)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at android.app.Activity.performCreate(Activity.java:9168)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1538)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:4443)
+11-08 19:18:44.731 32391 32391 E AndroidRuntime: 	... 13 more
+11-08 19:18:46.372   338   338 E AndroidRuntime: FATAL EXCEPTION: main
+11-08 19:18:46.372   338   338 E AndroidRuntime: Process: com.alwansan.multiview, PID: 338
+11-08 19:18:46.372   338   338 E AndroidRuntime: java.lang.RuntimeException: Unable to start activity ComponentInfo{com.alwansan.multiview/com.alwansan.multiview.MainActivity}: java.lang.IllegalStateException: The specified child already has a parent. You must call removeView() on the child's parent first.
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:4461)
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:4686)
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:112)
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at android.app.servertransaction.TransactionExecutor.executeNonLifecycleItem(TransactionExecutor.java:186)
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:112)
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:84)
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2918)
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:107)
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at android.os.Looper.loopOnce(Looper.java:249)
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:337)
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:9682)
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:625)
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:944)
+11-08 19:18:46.372   338   338 E AndroidRuntime: Caused by: java.lang.IllegalStateException: The specified child already has a parent. You must call removeView() on the child's parent first.
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at android.view.ViewGroup.addViewInner(ViewGroup.java:5345)
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at android.view.ViewGroup.addView(ViewGroup.java:5174)
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at android.view.ViewGroup.addView(ViewGroup.java:5146)
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at com.alwansan.multiview.MainActivity$Pane.styleCard(MainActivity.java:562)
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at com.alwansan.multiview.MainActivity.renderLayout(MainActivity.java:297)
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at com.alwansan.multiview.MainActivity.addPane(MainActivity.java:225)
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at com.alwansan.multiview.MainActivity.onCreate(MainActivity.java:98)
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at android.app.Activity.performCreate(Activity.java:9219)
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at android.app.Activity.performCreate(Activity.java:9168)
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1538)
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:4443)
+11-08 19:18:46.372   338   338 E AndroidRuntime: 	... 13 more
+11-10 05:41:52.701 22992 22992 E AndroidRuntime: FATAL EXCEPTION: main
+11-10 05:41:52.701 22992 22992 E AndroidRuntime: Process: com.openai.chatgpt, PID: 22992
+11-10 05:41:52.701 22992 22992 E AndroidRuntime: java.lang.IllegalArgumentException: Required value was null.
+11-10 05:41:52.701 22992 22992 E AndroidRuntime: 	at vo.h(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:3)
+11-10 05:41:52.701 22992 22992 E AndroidRuntime: 	at r6c1.f(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:188)
+11-10 05:41:52.701 22992 22992 E AndroidRuntime: 	at bgo0.J(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:68)
+11-10 05:41:52.701 22992 22992 E AndroidRuntime: 	at ago0.emit(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:22)
+11-10 05:41:52.701 22992 22992 E AndroidRuntime: 	at tiz0.a(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:171)
+11-10 05:41:52.701 22992 22992 E AndroidRuntime: 	at siz0.invokeSuspend(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:13)
+11-10 05:41:52.701 22992 22992 E AndroidRuntime: 	at ka9.resumeWith(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:5)
+11-10 05:41:52.701 22992 22992 E AndroidRuntime: 	at w7y.run(r8-map-id-50e9ee24d34847494f811629ce9bbd16bcea3f34a83c407878154c0af14f7ad6:112)
+11-10 05:41:52.701 22992 22992 E AndroidRuntime: 	at android.os.Handler.handleCallback(Handler.java:959)
+11-10 05:41:52.701 22992 22992 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+11-10 05:41:52.701 22992 22992 E AndroidRuntime: 	at android.os.Looper.loopOnce(Looper.java:249)
+11-10 05:41:52.701 22992 22992 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:337)
+11-10 05:41:52.701 22992 22992 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:9682)
+11-10 05:41:52.701 22992 22992 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+11-10 05:41:52.701 22992 22992 E AndroidRuntime: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:625)
+11-10 05:41:52.701 22992 22992 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:944)
+11-10 05:41:52.701 22992 22992 E AndroidRuntime: 	Suppressed: kotlinx.coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(ViewModel:bgo0), wdz0{Cancelling}@35e6c7d, Dispatchers.Main.immediate]
+11-10 05:43:27.183  8344  8344 E AndroidRuntime: FATAL EXCEPTION: main
+11-10 05:43:27.183  8344  8344 E AndroidRuntime: Process: com.openai.chatgpt, PID: 8344
+11-10 05:43:27.183  8344  8344 E AndroidRuntime: java.lang.IllegalArgumentException: Required value was null.
+11-10 05:43:27.183  8344  8344 E AndroidRuntime: 	at op.e(r8-map-id-1e639a11c28a7409441592133dc864b486207ca21227a5135a3a0611a2d5c404:3)
+11-10 05:43:27.183  8344  8344 E AndroidRuntime: 	at opd1.c(r8-map-id-1e639a11c28a7409441592133dc864b486207ca21227a5135a3a0611a2d5c404:188)
+11-10 05:43:27.183  8344  8344 E AndroidRuntime: 	at f4r0.J(r8-map-id-1e639a11c28a7409441592133dc864b486207ca21227a5135a3a0611a2d5c404:68)
+11-10 05:43:27.183  8344  8344 E AndroidRuntime: 	at e4r0.emit(r8-map-id-1e639a11c28a7409441592133dc864b486207ca21227a5135a3a0611a2d5c404:5)
+11-10 05:43:27.183  8344  8344 E AndroidRuntime: 	at gp21.a(r8-map-id-1e639a11c28a7409441592133dc864b486207ca21227a5135a3a0611a2d5c404:171)
+11-10 05:43:27.183  8344  8344 E AndroidRuntime: 	at fp21.invokeSuspend(r8-map-id-1e639a11c28a7409441592133dc864b486207ca21227a5135a3a0611a2d5c404:13)
+11-10 05:43:27.183  8344  8344 E AndroidRuntime: 	at mn9.resumeWith(r8-map-id-1e639a11c28a7409441592133dc864b486207ca21227a5135a3a0611a2d5c404:5)
+11-10 05:43:27.183  8344  8344 E AndroidRuntime: 	at alz.run(r8-map-id-1e639a11c28a7409441592133dc864b486207ca21227a5135a3a0611a2d5c404:112)
+11-10 05:43:27.183  8344  8344 E AndroidRuntime: 	at android.os.Handler.handleCallback(Handler.java:959)
+11-10 05:43:27.183  8344  8344 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+11-10 05:43:27.183  8344  8344 E AndroidRuntime: 	at android.os.Looper.loopOnce(Looper.java:249)
+11-10 05:43:27.183  8344  8344 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:337)
+11-10 05:43:27.183  8344  8344 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:9682)
+11-10 05:43:27.183  8344  8344 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+11-10 05:43:27.183  8344  8344 E AndroidRuntime: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:625)
+11-10 05:43:27.183  8344  8344 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:944)
+11-10 05:43:27.183  8344  8344 E AndroidRuntime: 	Suppressed: kotlinx.coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(ViewModel:f4r0), rk21{Cancelling}@f827569, Dispatchers.Main.immediate]
+11-11 05:11:23.603 30641  2104 F libc    : invalid pthread_t 0x6f783c46f0 passed to pthread_gettid_np
+11-11 05:11:23.649 30641  2104 F libc    : Fatal signal 6 (SIGABRT), code -1 (SI_QUEUE) in tid 2104 (SDLThread), pid 30641 (SDLActivity)
+11-11 05:11:24.509  8298  8298 F DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+11-11 05:11:24.509  8298  8298 F DEBUG   : Build fingerprint: 'POCO/mondrian_global/mondrian:15/AQ3A.250226.002/OS3.0.5.0.VMNMIXM:user/release-keys'
+11-11 05:11:24.509  8298  8298 F DEBUG   : Revision: '0'
+11-11 05:11:24.509  8298  8298 F DEBUG   : ABI: 'arm64'
+11-11 05:11:24.509  8298  8298 F DEBUG   : Timestamp: 2026-11-11 05:11:23.851457235+0300
+11-11 05:11:24.509  8298  8298 F DEBUG   : Process uptime: 629s
+11-11 05:11:24.509  8298  8298 F DEBUG   : Cmdline: org.brokenbond.port:game
+11-11 05:11:24.509  8298  8298 F DEBUG   : pid: 30641, tid: 2104, name: SDLThread  >>> org.brokenbond.port:game <<<
+11-11 05:11:24.509  8298  8298 F DEBUG   : uid: 13101
+11-11 05:11:24.509  8298  8298 F DEBUG   : tagged_addr_ctrl: 0000000000000001 (PR_TAGGED_ADDR_ENABLE)
+11-11 05:11:24.509  8298  8298 F DEBUG   : pac_enabled_keys: 000000000000000f (PR_PAC_APIAKEY, PR_PAC_APIBKEY, PR_PAC_APDAKEY, PR_PAC_APDBKEY)
+11-11 05:11:24.509  8298  8298 F DEBUG   : signal 6 (SIGABRT), code -1 (SI_QUEUE), fault addr --------
+11-11 05:11:24.509  8298  8298 F DEBUG   : Abort message: 'invalid pthread_t 0x6f783c46f0 passed to pthread_gettid_np'
+11-11 05:11:24.509  8298  8298 F DEBUG   :     x0  0000000000000000  x1  0000000000000838  x2  0000000000000006  x3  00000072003525e0
+11-11 05:11:24.509  8298  8298 F DEBUG   :     x4  6f1f2f6535336232  x5  6f1f2f6535336232  x6  6f1f2f6535336232  x7  7f7f7f7f7f7f7f7f
+11-11 05:11:24.509  8298  8298 F DEBUG   :     x8  00000000000000f0  x9  0000007555424708  x10 ffffff80bffffb97  x11 0000000000000001
+11-11 05:11:24.509  8298  8298 F DEBUG   :     x12 0000007561f9d020  x13 000000007fffffff  x14 000000000d4c003e  x15 00000b8cf34366c7
+11-11 05:11:24.509  8298  8298 F DEBUG   :     x16 00000075554d9018  x17 00000075554c4aa0  x18 0000007169fd4000  x19 00000000000077b1
+11-11 05:11:24.509  8298  8298 F DEBUG   :     x20 0000000000000838  x21 00000000ffffffff  x22 0000007200353a40  x23 0000007200353a40
+11-11 05:11:24.509  8298  8298 F DEBUG   :     x24 0000007200352830  x25 00000071709470d8  x26 0000000000000001  x27 0000007200353a40
+11-11 05:11:24.509  8298  8298 F DEBUG   :     x28 b4000073d72089d0  x29 0000007200352660
+11-11 05:11:24.509  8298  8298 F DEBUG   :     lr  000000755545f7a8  sp  00000072003525c0  pc  000000755545f7d8  pst 0000000000001000
+11-11 05:11:24.509  8298  8298 F DEBUG   : 31 total frames
+11-11 05:11:24.509  8298  8298 F DEBUG   : backtrace:
+11-11 05:11:24.509  8298  8298 F DEBUG   :       #00 pc 000000000005e7d8  /apex/com.android.runtime/lib64/bionic/libc.so (abort+172) (BuildId: 8db058ad276c2076beda792e0a15f378)
+11-11 05:11:24.509  8298  8298 F DEBUG   :       #01 pc 0000000000070838  /apex/com.android.runtime/lib64/bionic/libc.so (__pthread_internal_find(long, char const*)+196) (BuildId: 8db058ad276c2076beda792e0a15f378)
+11-11 05:11:24.509  8298  8298 F DEBUG   :       #02 pc 0000000000070754  /apex/com.android.runtime/lib64/bionic/libc.so (__pthread_internal_gettid(long, char const*)+12) (BuildId: 8db058ad276c2076beda792e0a15f378)
+11-11 05:11:24.509  8298  8298 F DEBUG   :       #03 pc 000000000035a7b0  /data/app/~~lswGUk6D0teQC3CpLgUFqw==/org.brokenbond.port-UWeQ5C2q8LV7oeSjcN8vTg==/lib/arm64/librexruntime.so (rex::thread::PosixCondition<rex::thread::Thread>::QueueUserCallback(std::__ndk1::function<void ()>)+404) (BuildId: cdc68a1662894cc531b20258c003aed994e6c41b)
+11-11 05:11:24.509  8298  8298 F DEBUG   :       #04 pc 0000000000359b6c  /data/app/~~lswGUk6D0teQC3CpLgUFqw==/org.brokenbond.port-UWeQ5C2q8LV7oeSjcN8vTg==/lib/arm64/librexruntime.so (rex::thread::PosixThread::QueueUserCallback(std::__ndk1::function<void ()>)+112) (BuildId: cdc68a1662894cc531b20258c003aed994e6c41b)
+11-11 05:11:24.509  8298  8298 F DEBUG   :       #05 pc 00000000004e9ebc  /data/app/~~lswGUk6D0teQC3CpLgUFqw==/org.brokenbond.port-UWeQ5C2q8LV7oeSjcN8vTg==/lib/arm64/librexruntime.so (rex::system::KernelState::TerminateTitle()+508) (BuildId: cdc68a1662894cc531b20258c003aed994e6c41b)
+11-11 05:11:24.509  8298  8298 F DEBUG   :       #06 pc 00000000044750a0  /data/app/~~lswGUk6D0teQC3CpLgUFqw==/org.brokenbond.port-UWeQ5C2q8LV7oeSjcN8vTg==/lib/arm64/libmain.so (rex::ReXApp::OnClosing(rex::ui::UIEvent&)+268) (BuildId: 46f09f911f37ba073c2efb245fcf8e83db4f5191)
+11-11 05:11:24.509  8298  8298 F DEBUG   :       #07 pc 0000000004475210  /data/app/~~lswGUk6D0teQC3CpLgUFqw==/org.brokenbond.port-UWeQ5C2q8LV7oeSjcN8vTg==/lib/arm64/libmain.so (non-virtual thunk to rex::ReXApp::OnClosing(rex::ui::UIEvent&)+12) (BuildId: 46f09f911f37ba073c2efb245fcf8e83db4f5191)
+11-11 05:11:24.509  8298  8298 F DEBUG   :       #08 pc 00000000003881f0  /data/app/~~lswGUk6D0teQC3CpLgUFqw==/org.brokenbond.port-UWeQ5C2q8LV7oeSjcN8vTg==/lib/arm64/librexruntime.so (rex::ui::Window::OnBeforeClose(rex::ui::Window::WindowDestructionReceiver&)+216) (BuildId: cdc68a1662894cc531b20258c003aed994e6c41b)
+11-11 05:11:24.509  8298  8298 F DEBUG   :       #09 pc 000000000038e908  /data/app/~~lswGUk6D0teQC3CpLgUFqw==/org.brokenbond.port-UWeQ5C2q8LV7oeSjcN8vTg==/lib/arm64/librexruntime.so (rex::ui::WindowSDL::PerformClose()+52) (BuildId: cdc68a1662894cc531b20258c003aed994e6c41b)
+11-11 05:11:24.509  8298  8298 F DEBUG   :       #10 pc 00000000043071e4  /data/app/~~lswGUk6D0teQC3CpLgUFqw==/org.brokenbond.port-UWeQ5C2q8LV7oeSjcN8vTg==/lib/arm64/libmain.so (OptionsMenu::HandleInput(OptionsMenu::Nav const&)+744) (BuildId: 46f09f911f37ba073c2efb245fcf8e83db4f5191)
+11-11 05:11:24.509  8298  8298 F DEBUG   :       #11 pc 0000000004307d20  /data/app/~~lswGUk6D0teQC3CpLgUFqw==/org.brokenbond.port-UWeQ5C2q8LV7oeSjcN8vTg==/lib/arm64/libmain.so (OptionsMenu::OnDraw(ImGuiIO&)+2180) (BuildId: 46f09f911f37ba073c2efb245fcf8e83db4f5191)
+11-11 05:11:24.510  8298  8298 F DEBUG   :       #12 pc 000000000037b0a0  /data/app/~~lswGUk6D0teQC3CpLgUFqw==/org.brokenbond.port-UWeQ5C2q8LV7oeSjcN8vTg==/lib/arm64/librexruntime.so (rex::ui::ImGuiDialog::Draw()+40) (BuildId: cdc68a1662894cc531b20258c003aed994e6c41b)
+11-11 05:11:24.510  8298  8298 F DEBUG   :       #13 pc 000000000037c734  /data/app/~~lswGUk6D0teQC3CpLgUFqw==/org.brokenbond.port-UWeQ5C2q8LV7oeSjcN8vTg==/lib/arm64/librexruntime.so (rex::ui::ImGuiDrawer::Draw(rex::ui::UIDrawContext&)+328) (BuildId: cdc68a1662894cc531b20258c003aed994e6c41b)
+11-11 05:11:24.510  8298  8298 F DEBUG   :       #14 pc 00000000042e9404  /data/app/~~lswGUk6D0teQC3CpLgUFqw==/org.brokenbond.port-UWeQ5C2q8LV7oeSjcN8vTg==/lib/arm64/libmain.so (BrokenBondApp::DrawOverlayFrame()+124) (BuildId: 46f09f911f37ba073c2efb245fcf8e83db4f5191)
+11-11 05:11:24.510  8298  8298 F DEBUG   :       #15 pc 0000000000390e38  /data/app/~~lswGUk6D0teQC3CpLgUFqw==/org.brokenbond.port-UWeQ5C2q8LV7oeSjcN8vTg==/lib/arm64/librexruntime.so (rex::ui::WindowedAppContext::ExecutePendingFunctionsFromUIThread(bool)+368) (BuildId: cdc68a1662894cc531b20258c003aed994e6c41b)
+11-11 05:11:24.510  8298  8298 F DEBUG   :       #16 pc 0000000000391c88  /data/app/~~lswGUk6D0teQC3CpLgUFqw==/org.brokenbond.port-UWeQ5C2q8LV7oeSjcN8vTg==/lib/arm64/librexruntime.so (rex::ui::SDLWindowedAppContext::RunMainMessageLoop()+60) (BuildId: cdc68a1662894cc531b20258c003aed994e6c41b)
+11-11 05:11:24.510  8298  8298 F DEBUG   :       #17 pc 0000000004470188  /data/app/~~lswGUk6D0teQC3CpLgUFqw==/org.brokenbond.port-UWeQ5C2q8LV7oeSjcN8vTg==/lib/arm64/libmain.so (SDL_main+640) (BuildId: 46f09f911f37ba073c2efb245fcf8e83db4f5191)
+11-11 05:11:24.510  8298  8298 F DEBUG   :       #18 pc 000000000013e5c8  /data/app/~~lswGUk6D0teQC3CpLgUFqw==/org.brokenbond.port-UWeQ5C2q8LV7oeSjcN8vTg==/lib/arm64/libSDL3.so (BuildId: 3b87d56a2faa201b6ea50f2aba45fa880539c73c)
+11-11 05:11:24.510  8298  8298 F DEBUG   :       #19 pc 0000000000cd1164  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (art_jni_trampoline+148)
+11-11 05:11:24.510  8298  8298 F DEBUG   :       #20 pc 00000000006bf164  /apex/com.android.art/lib64/libart.so (nterp_helper+116) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-11 05:11:24.510  8298  8298 F DEBUG   :       #21 pc 000000000002a116  /data/app/~~lswGUk6D0teQC3CpLgUFqw==/org.brokenbond.port-UWeQ5C2q8LV7oeSjcN8vTg==/oat/arm64/base.vdex (org.libsdl.app.SDLActivity.main+102)
+11-11 05:11:24.510  8298  8298 F DEBUG   :       #22 pc 00000000006bf8e4  /apex/com.android.art/lib64/libart.so (nterp_helper+2036) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-11 05:11:24.510  8298  8298 F DEBUG   :       #23 pc 000000000002cc46  /data/app/~~lswGUk6D0teQC3CpLgUFqw==/org.brokenbond.port-UWeQ5C2q8LV7oeSjcN8vTg==/oat/arm64/base.vdex (org.libsdl.app.SDLMain.run+70)
+11-11 05:11:24.510  8298  8298 F DEBUG   :       #24 pc 00000000003199d0  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (java.lang.Thread.run+64)
+11-11 05:11:24.510  8298  8298 F DEBUG   :       #25 pc 0000000000270cf4  /apex/com.android.art/lib64/libart.so (art_quick_invoke_stub+612) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-11 05:11:24.510  8298  8298 F DEBUG   :       #26 pc 000000000023ba68  /apex/com.android.art/lib64/libart.so (art::ArtMethod::Invoke(art::Thread*, unsigned int*, unsigned int, art::JValue*, char const*)+224) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-11 05:11:24.510  8298  8298 F DEBUG   :       #27 pc 000000000055c204  /apex/com.android.art/lib64/libart.so (art::Thread::CreateCallback(void*)+1400) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-11 05:11:24.510  8298  8298 F DEBUG   :       #28 pc 000000000055bc78  /apex/com.android.art/lib64/libart.so (art::Thread::CreateCallbackWithUffdGc(void*)+12) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-11 05:11:24.510  8298  8298 F DEBUG   :       #29 pc 0000000000070294  /apex/com.android.runtime/lib64/bionic/libc.so (__pthread_start(void*)+196) (BuildId: 8db058ad276c2076beda792e0a15f378)
+11-11 05:11:24.510  8298  8298 F DEBUG   :       #30 pc 00000000000623b0  /apex/com.android.runtime/lib64/bionic/libc.so (__start_thread+68) (BuildId: 8db058ad276c2076beda792e0a15f378)
+11-12 18:42:47.461 22738 25624 F libc    : Fatal signal 11 (SIGSEGV), code 1 (SEGV_MAPERR), fault addr 0x8 in tid 25624 (UnityMain), pid 22738 (aft.androidtest)
+11-12 18:42:48.726 25855 25855 F DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+11-12 18:42:48.727 25855 25855 F DEBUG   : Build fingerprint: 'POCO/mondrian_global/mondrian:15/AQ3A.250226.002/OS3.0.5.0.VMNMIXM:user/release-keys'
+11-12 18:42:48.727 25855 25855 F DEBUG   : Revision: '0'
+11-12 18:42:48.727 25855 25855 F DEBUG   : ABI: 'arm64'
+11-12 18:42:48.727 25855 25855 F DEBUG   : Timestamp: 2026-11-12 18:42:47.960577090+0300
+11-12 18:42:48.727 25855 25855 F DEBUG   : Process uptime: 164s
+11-12 18:42:48.727 25855 25855 F DEBUG   : Cmdline: com.alwansan.raft.androidtest
+11-12 18:42:48.727 25855 25855 F DEBUG   : pid: 22738, tid: 25624, name: UnityMain  >>> com.alwansan.raft.androidtest <<<
+11-12 18:42:48.727 25855 25855 F DEBUG   : uid: 13121
+11-12 18:42:48.727 25855 25855 F DEBUG   : tagged_addr_ctrl: 0000000000000001 (PR_TAGGED_ADDR_ENABLE)
+11-12 18:42:48.727 25855 25855 F DEBUG   : pac_enabled_keys: 000000000000000f (PR_PAC_APIAKEY, PR_PAC_APIBKEY, PR_PAC_APDAKEY, PR_PAC_APDBKEY)
+11-12 18:42:48.727 25855 25855 F DEBUG   : signal 11 (SIGSEGV), code 1 (SEGV_MAPERR), fault addr 0x0000000000000008
+11-12 18:42:48.727 25855 25855 F DEBUG   : Cause: null pointer dereference
+11-12 18:42:48.727 25855 25855 F DEBUG   :     x0  0000000000000000  x1  0000007204ae0120  x2  0000000000000000  x3  000000717ad19dba
+11-12 18:42:48.727 25855 25855 F DEBUG   :     x4  0000000000000424  x5  0000000000000000  x6  0000000000000000  x7  0000000000000000
+11-12 18:42:48.727 25855 25855 F DEBUG   :     x8  000000707357a3b8  x9  0000000000000000  x10 0000000000000472  x11 0000000000000000
+11-12 18:42:48.727 25855 25855 F DEBUG   :     x12 0000000000000040  x13 0000000000000040  x14 00000000ffffffff  x15 0000000000000000
+11-12 18:42:48.727 25855 25855 F DEBUG   :     x16 000000717b0d0600  x17 00000075554721f8  x18 0000000000000000  x19 0000007120d77a50
+11-12 18:42:48.727 25855 25855 F DEBUG   :     x20 0000007204ae0120  x21 0000000000000000  x22 00000071205de140  x23 0000007204ae0160
+11-12 18:42:48.728 25855 25855 F DEBUG   :     x24 0000007120393160  x25 0000007204ae0160  x26 0000000000000082  x27 0000007204ae07b8
+11-12 18:42:48.728 25855 25855 F DEBUG   :     x28 0000007120db74f0  x29 0000007204ae0010
+11-12 18:42:48.728 25855 25855 F DEBUG   :     lr  002b12717a4254c0  sp  0000007204adffc0  pc  000000707357a3e0  pst 0000000060001000
+11-12 18:42:48.728 25855 25855 F DEBUG   : 47 total frames
+11-12 18:42:48.728 25855 25855 F DEBUG   : backtrace:
+11-12 18:42:48.728 25855 25855 F DEBUG   :       #00 pc 00000000001673e0  /vendor/lib64/hw/vulkan.adreno.so (qglinternal::vkCmdBeginRenderPass(VkCommandBuffer_T*, VkRenderPassBeginInfo const*, VkSubpassContents)+40) (BuildId: b105e2d5cd6491027da82db1f25ae2ba)
+11-12 18:42:48.728 25855 25855 F DEBUG   :       #01 pc 0000000000bc84bc  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.728 25855 25855 F DEBUG   :       #02 pc 0000000000bea5b0  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.728 25855 25855 F DEBUG   :       #03 pc 0000000000bea7fc  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.728 25855 25855 F DEBUG   :       #04 pc 0000000000c1e3e8  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.728 25855 25855 F DEBUG   :       #05 pc 0000000000c15c9c  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.728 25855 25855 F DEBUG   :       #06 pc 0000000000c1fd00  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.728 25855 25855 F DEBUG   :       #07 pc 0000000000b07500  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.728 25855 25855 F DEBUG   :       #08 pc 0000000000c15b50  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.728 25855 25855 F DEBUG   :       #09 pc 0000000000b0922c  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.728 25855 25855 F DEBUG   :       #10 pc 0000000000ac89d0  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.728 25855 25855 F DEBUG   :       #11 pc 0000000000ab6268  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.728 25855 25855 F DEBUG   :       #12 pc 0000000000401500  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.730 25855 25855 F DEBUG   :       #13 pc 00000000001b2e98  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.730 25855 25855 F DEBUG   :       #14 pc 00000000016dec40  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libil2cpp.so (BuildId: a12f89a5fd26eb15e368436c45f85addd80c3577)
+11-12 18:42:48.730 25855 25855 F DEBUG   :       #15 pc 0000000000cb7ac4  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libil2cpp.so (BuildId: a12f89a5fd26eb15e368436c45f85addd80c3577)
+11-12 18:42:48.730 25855 25855 F DEBUG   :       #16 pc 0000000000cb7938  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libil2cpp.so (BuildId: a12f89a5fd26eb15e368436c45f85addd80c3577)
+11-12 18:42:48.731 25855 25855 F DEBUG   :       #17 pc 000000000057a0e4  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.731 25855 25855 F DEBUG   :       #18 pc 0000000000588a20  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.731 25855 25855 F DEBUG   :       #19 pc 0000000000596d58  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.731 25855 25855 F DEBUG   :       #20 pc 0000000000ac7f10  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.731 25855 25855 F DEBUG   :       #21 pc 0000000000ac8190  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.731 25855 25855 F DEBUG   :       #22 pc 0000000000af30bc  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.731 25855 25855 F DEBUG   :       #23 pc 0000000000ab48e0  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.731 25855 25855 F DEBUG   :       #24 pc 0000000000acae04  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.732 25855 25855 F DEBUG   :       #25 pc 000000000046c024  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.732 25855 25855 F DEBUG   :       #26 pc 000000000046d704  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.732 25855 25855 F DEBUG   :       #27 pc 000000000046d744  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.732 25855 25855 F DEBUG   :       #28 pc 000000000046d97c  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.732 25855 25855 F DEBUG   :       #29 pc 000000000060ec84  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.732 25855 25855 F DEBUG   :       #30 pc 0000000000627c18  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/lib/arm64/libunity.so (BuildId: bf7f2a416d2bd78fc444d43f7f2754ff29d9a69f)
+11-12 18:42:48.732 25855 25855 F DEBUG   :       #31 pc 0000000000cd3360  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (art_jni_trampoline+112)
+11-12 18:42:48.732 25855 25855 F DEBUG   :       #32 pc 00000000006bf93c  /apex/com.android.art/lib64/libart.so (nterp_helper+2124) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-12 18:42:48.732 25855 25855 F DEBUG   :       #33 pc 000000000000d75e  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/oat/arm64/base.vdex (com.unity3d.player.UnityPlayer.-$$Nest$mnativeRender+6)
+11-12 18:42:48.732 25855 25855 F DEBUG   :       #34 pc 00000000006b1c6c  /apex/com.android.art/lib64/libart.so (nterp1_op_invoke_static+44) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-12 18:42:48.732 25855 25855 F DEBUG   :       #35 pc 0000000000012ecc  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/oat/arm64/base.vdex (com.unity3d.player.x0.handleMessage+220)
+11-12 18:42:48.732 25855 25855 F DEBUG   :       #36 pc 00000000008c99dc  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (android.os.Handler.dispatchMessage+124)
+11-12 18:42:48.732 25855 25855 F DEBUG   :       #37 pc 00000000008cd154  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (android.os.Looper.loopOnce+980)
+11-12 18:42:48.732 25855 25855 F DEBUG   :       #38 pc 00000000008cccec  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (android.os.Looper.loop+540)
+11-12 18:42:48.732 25855 25855 F DEBUG   :       #39 pc 00000000006bf164  /apex/com.android.art/lib64/libart.so (nterp_helper+116) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-12 18:42:48.732 25855 25855 F DEBUG   :       #40 pc 000000000001333a  /data/app/~~snL-Z4FYPV4VyqmgdCYQxA==/com.alwansan.raft.androidtest-bfth3pAbXcR_sfs702GjfQ==/oat/arm64/base.vdex (com.unity3d.player.y0.run+46)
+11-12 18:42:48.732 25855 25855 F DEBUG   :       #41 pc 0000000000270cf4  /apex/com.android.art/lib64/libart.so (art_quick_invoke_stub+612) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-12 18:42:48.733 25855 25855 F DEBUG   :       #42 pc 000000000023ba68  /apex/com.android.art/lib64/libart.so (art::ArtMethod::Invoke(art::Thread*, unsigned int*, unsigned int, art::JValue*, char const*)+224) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-12 18:42:48.733 25855 25855 F DEBUG   :       #43 pc 000000000055c204  /apex/com.android.art/lib64/libart.so (art::Thread::CreateCallback(void*)+1400) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-12 18:42:48.733 25855 25855 F DEBUG   :       #44 pc 000000000055bc78  /apex/com.android.art/lib64/libart.so (art::Thread::CreateCallbackWithUffdGc(void*)+12) (BuildId: a47994c420371ffbd05d16fc9a15ac9f)
+11-12 18:42:48.733 25855 25855 F DEBUG   :       #45 pc 0000000000070294  /apex/com.android.runtime/lib64/bionic/libc.so (__pthread_start(void*)+196) (BuildId: 8db058ad276c2076beda792e0a15f378)
+11-12 18:42:48.733 25855 25855 F DEBUG   :       #46 pc 00000000000623b0  /apex/com.android.runtime/lib64/bionic/libc.so (__start_thread+68) (BuildId: 8db058ad276c2076beda792e0a15f378)
