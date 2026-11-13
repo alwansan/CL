@@ -478,26 +478,26 @@
 │   ├── [ 22K 2026-11-01 02:36:54]  arabic subtitle for ناروتو S01 E97 [cnm-xims7aj97pfx4q463t3h].srt
 │   ├── [ 18K 2026-11-01 02:36:54]  arabic subtitle for ناروتو S01 E98 [cnm-2b6g0e0w5defde99s2tl].srt
 │   ├── [ 19K 2026-11-01 02:36:54]  arabic subtitle for ناروتو S01 E99 [cnm-54jg31k0chgvy96cumxr].srt
-│   ├── [3.4K 2026-11-13 03:08:27]  data
-│   │   ├── [  94 2026-11-10 01:21:14]  episodes.v1.bin
-│   │   ├── [  94 2026-11-13 02:21:46]  episodes.v1.bin.previous
-│   │   ├── [2.5K 2026-11-10 01:21:14]  library.v1.bin
-│   │   ├── [2.5K 2026-11-13 02:21:46]  library.v1.bin.previous
+│   ├── [3.4K 2026-11-13 04:08:29]  data
+│   │   ├── [  94 2026-11-13 04:08:29]  episodes.v1.bin
+│   │   ├── [  94 2026-11-13 04:08:29]  episodes.v1.bin.previous
+│   │   ├── [2.5K 2026-11-13 04:08:29]  library.v1.bin
+│   │   ├── [2.5K 2026-11-13 04:08:29]  library.v1.bin.previous
 │   │   ├── [3.4K 2026-11-10 01:21:14]  local-account
 │   │   │   └── [  93 2026-11-10 01:21:14]  account.bin
 │   │   ├── [3.4K 2026-11-10 01:21:11]  mkv-proofs
 │   │   ├── [2.7K 2026-11-10 01:21:14]  mkv_repair_pending.properties
-│   │   ├── [  87 2026-11-11 23:10:33]  watch.v1.bin
-│   │   └── [  87 2026-11-13 02:21:46]  watch.v1.bin.previous
+│   │   ├── [  87 2026-11-13 04:08:29]  watch.v1.bin
+│   │   └── [  87 2026-11-13 04:08:29]  watch.v1.bin.previous
 │   ├── [3.4K 2026-11-13 02:06:23]  log
-│   │   ├── [ 33K 2026-11-13 03:08:27]  .mkv_export.log
-│   │   ├── [1.1M 2026-11-13 03:27:06]  diagnostics.log
-│   │   ├── [ 52K 2026-11-13 03:08:35]  download_repair_actions.log
-│   │   ├── [388K 2026-11-13 03:27:06]  downloads.log
-│   │   ├── [259K 2026-11-13 03:28:28]  load_diagnostics.main.jsonl
+│   │   ├── [ 33K 2026-11-13 04:08:29]  .mkv_export.log
+│   │   ├── [1.1M 2026-11-13 04:08:31]  diagnostics.log
+│   │   ├── [ 53K 2026-11-13 04:08:29]  download_repair_actions.log
+│   │   ├── [392K 2026-11-13 04:08:31]  downloads.log
+│   │   ├── [363K 2026-11-13 04:08:29]  load_diagnostics.main.jsonl
 │   │   ├── [513K 2026-11-13 02:06:08]  load_diagnostics.main.previous.jsonl
-│   │   ├── [ 44K 2026-11-13 03:31:04]  tree.txt
-│   │   └── [ 14K 2026-11-13 03:08:27]  ui95.log
+│   │   ├── [ 33K 2026-11-13 04:08:32]  tree.txt
+│   │   └── [ 14K 2026-11-13 04:08:29]  ui95.log
 │   ├── [ 19K 2026-11-01 02:36:55]  special subtitle for ناروتو S01 E116 [cnm-680unu62q5914m78cfcf].ass
 │   ├── [ 28K 2026-11-01 02:36:57]  special subtitle for ناروتو S01 E142 [cnm-60nacsy0svbejqkha5n7].ass
 │   ├── [ 33K 2026-11-01 02:36:58]  special subtitle for ناروتو S01 E143 [cnm-od2n15qre9jajujr1miw].ass
