@@ -533,3 +533,11 @@
 1794520486599 PATCH324_INTERRUPTED_PART_AUDIT candidates=0 accepted_or_owned=0 priority_promoted=0 cap=16; no_parts_deleted queue_depth=0 active_workers=0
 1794520494685 PATCH321_BOOT_DELAYED_RETRY
 1794520494865 PATCH324_INTERRUPTED_PART_AUDIT candidates=0 accepted_or_owned=0 priority_promoted=0 cap=16; no_parts_deleted queue_depth=0 active_workers=0
+1794525706101 PATCH321_BOOT_IMMEDIATE_AUDIT
+1794525706158 PATCH324_INTERRUPTED_PART_AUDIT candidates=0 accepted_or_owned=0 priority_promoted=0 cap=16; no_parts_deleted queue_depth=0 active_workers=0
+1794525714338 PATCH321_BOOT_DELAYED_RETRY
+1794525714487 PATCH324_INTERRUPTED_PART_AUDIT candidates=0 accepted_or_owned=0 priority_promoted=0 cap=16; no_parts_deleted queue_depth=0 active_workers=0
+1794528507550 PATCH321_BOOT_IMMEDIATE_AUDIT
+1794528507610 PATCH324_INTERRUPTED_PART_AUDIT candidates=0 accepted_or_owned=0 priority_promoted=0 cap=16; no_parts_deleted queue_depth=0 active_workers=0
+1794528515820 PATCH321_BOOT_DELAYED_RETRY
+1794528515969 PATCH324_INTERRUPTED_PART_AUDIT candidates=0 accepted_or_owned=0 priority_promoted=0 cap=16; no_parts_deleted queue_depth=0 active_workers=0
