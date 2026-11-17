@@ -1,0 +1,14 @@
+1794943985105 SUBTITLE_POLICY=manifest-ready expected=2 completed=2 files=2 token=40oohooxwejd3m2twn9m
+1794943985619 ffmpeg=native:/data/app/~~bX6kfrRJqhO-7uN-rDExbw==/com.cinemana.pro-f9pNNXgJvj8SomhAzWy55A==/lib/arm64/libffmpeg.so
+1794943985686 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794943985688 exec=[/data/app/~~bX6kfrRJqhO-7uN-rDExbw==/com.cinemana.pro-f9pNNXgJvj8SomhAzWy55A==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E04 [cnm-40oohooxwejd3m2twn9m].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو شيبودن S01 E04 [cnm-40oohooxwejd3m2twn9m].srt] [-i] [/storage/emulated/0/Cinemana/work/special subtitle for ناروتو شيبودن S01 E04 [cnm-40oohooxwejd3m2twn9m].ass] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-map] [2:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو شيبودن S01 E04] [-metadata:s:s:0] [language=ar] [-metadata:s:s:1] [title=special subtitle for ناروتو شيبودن S01 E04] [-metadata:s:s:1] [language=sp] [-metadata] [title=ناروتو شيبودن S01 E04] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E04 [cnm-40oohooxwejd3m2twn9m].mkv.cnm115-7c4e0785-47c3-4f5d-b8b2-0230a973349c.part]
+1794943987516 SUBTITLE_POLICY=manifest-ready expected=2 completed=2 files=2 token=40oohooxwejd3m2twn9m
+1794943988575 exit=0 output=
+1794943988591 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E04 [cnm-40oohooxwejd3m2twn9m].mkv size=37890230
+1794943989126 DB_PROMOTE=true
+1794943989144 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E04.mkv work=ناروتو شيبودن season=01 episode=04 noSub=false
+1794943989614 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E04.mkv
+1794943990126 delete video=ناروتو شيبودن S01 E04 [cnm-40oohooxwejd3m2twn9m].mp4 result=true
+1794943990132 delete subtitle=arabic subtitle for ناروتو شيبودن S01 E04 [cnm-40oohooxwejd3m2twn9m].srt result=true
+1794943990135 delete subtitle=special subtitle for ناروتو شيبودن S01 E04 [cnm-40oohooxwejd3m2twn9m].ass result=true
+1794943990142 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E04.mkv

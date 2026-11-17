@@ -1,0 +1,13 @@
+1794942261258 SUBTITLE_POLICY=manifest-ready expected=2 completed=2 files=2 token=od2n15qre9jajujr1miw
+1794942261890 ffmpeg=native:/data/app/~~bX6kfrRJqhO-7uN-rDExbw==/com.cinemana.pro-f9pNNXgJvj8SomhAzWy55A==/lib/arm64/libffmpeg.so
+1794942261939 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794942261941 exec=[/data/app/~~bX6kfrRJqhO-7uN-rDExbw==/com.cinemana.pro-f9pNNXgJvj8SomhAzWy55A==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E143 [cnm-od2n15qre9jajujr1miw].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E143 [cnm-od2n15qre9jajujr1miw].srt] [-i] [/storage/emulated/0/Cinemana/work/special subtitle for ناروتو S01 E143 [cnm-od2n15qre9jajujr1miw].ass] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-map] [2:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو S01 E143] [-metadata:s:s:0] [language=ar] [-metadata:s:s:1] [title=special subtitle for ناروتو S01 E143] [-metadata:s:s:1] [language=sp] [-metadata] [title=ناروتو S01 E143] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو S01 E143 [cnm-od2n15qre9jajujr1miw].mkv.cnm115-f8130318-6b05-4fd3-a006-b2efaca87591.part]
+1794942270567 exit=0 output=
+1794942270584 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو S01 E143 [cnm-od2n15qre9jajujr1miw].mkv size=37517504
+1794942271155 DB_PROMOTE=true
+1794942271188 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E143.mkv work=ناروتو season=01 episode=143 noSub=false
+1794942271404 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E143.mkv
+1794942271844 delete video=ناروتو S01 E143 [cnm-od2n15qre9jajujr1miw].mp4 result=true
+1794942271857 delete subtitle=arabic subtitle for ناروتو S01 E143 [cnm-od2n15qre9jajujr1miw].srt result=true
+1794942271871 delete subtitle=special subtitle for ناروتو S01 E143 [cnm-od2n15qre9jajujr1miw].ass result=true
+1794942271892 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E143.mkv

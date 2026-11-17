@@ -7271,3 +7271,236 @@
 1794943435840 TIMEOUT: CPDL_A2 source not ready in 15s; preserve MP4 for guarded audit
 1794943435853 QUEUE_SUCCESS_OR_ALREADY_PRIMARY key=item:5986
 1794943435856 QUEUE_FINISH key=item:5986
+1794943439683 MKV_MANIFEST_DEFER final MP4 missing
+1794943439687 MKV_MANIFEST_DEFER final MP4 missing
+1794943439692 MKV_MANIFEST_DEFER final MP4 missing
+1794943439695 QUEUE_START key=item:5991
+1794943439700 QUEUE_ATTEMPT=1/1 key=item:5991
+1794943439704 watcher started; waiting for final video filename (not .temp)
+1794943441667 TIMEOUT: CPDL_A2 source not ready in 15s; preserve MP4 for guarded audit
+1794943441676 QUEUE_SUCCESS_OR_ALREADY_PRIMARY key=item:5987
+1794943441678 QUEUE_FINISH key=item:5987
+1794943443967 MKV_MANIFEST_DEFER final MP4 missing
+1794943443970 QUEUE_START key=item:5993
+1794943443972 QUEUE_ATTEMPT=1/1 key=item:5993
+1794943443974 watcher started; waiting for final video filename (not .temp)
+1794943455141 TIMEOUT: CPDL_A2 source not ready in 15s; preserve MP4 for guarded audit
+1794943455161 QUEUE_SUCCESS_OR_ALREADY_PRIMARY key=item:5991
+1794943455163 QUEUE_FINISH key=item:5991
+1794943457891 QUEUE_START key=item:5994
+1794943457892 QUEUE_ATTEMPT=1/1 key=item:5994
+1794943457894 watcher started; waiting for final video filename (not .temp)
+1794943459370 TIMEOUT: CPDL_A2 source not ready in 15s; preserve MP4 for guarded audit
+1794943459381 QUEUE_SUCCESS_OR_ALREADY_PRIMARY key=item:5993
+1794943459383 QUEUE_FINISH key=item:5993
+1794943462278 QUEUE_START key=item:5995
+1794943462280 QUEUE_ATTEMPT=1/1 key=item:5995
+1794943462282 watcher started; waiting for final video filename (not .temp)
+1794943473154 TIMEOUT: CPDL_A2 source not ready in 15s; preserve MP4 for guarded audit
+1794943473175 QUEUE_SUCCESS_OR_ALREADY_PRIMARY key=item:5994
+1794943473179 QUEUE_FINISH key=item:5994
+1794943477661 TIMEOUT: CPDL_A2 source not ready in 15s; preserve MP4 for guarded audit
+1794943477743 QUEUE_SUCCESS_OR_ALREADY_PRIMARY key=item:5995
+1794943477766 QUEUE_FINISH key=item:5995
+1794943483517 MKV_MANIFEST_DEFER final MP4 missing
+1794943483524 MKV_MANIFEST_DEFER final MP4 missing
+1794943483531 QUEUE_START key=item:5998
+1794943483538 QUEUE_ATTEMPT=1/1 key=item:5998
+1794943483541 watcher started; waiting for final video filename (not .temp)
+1794943487647 QUEUE_START key=item:6000
+1794943487650 QUEUE_ATTEMPT=1/1 key=item:6000
+1794943487653 watcher started; waiting for final video filename (not .temp)
+1794943498625 TIMEOUT: CPDL_A2 source not ready in 15s; preserve MP4 for guarded audit
+1794943498645 QUEUE_SUCCESS_OR_ALREADY_PRIMARY key=item:5998
+1794943498648 QUEUE_FINISH key=item:5998
+1794943502716 QUEUE_START key=item:5999
+1794943502720 QUEUE_ATTEMPT=1/1 key=item:5999
+1794943502723 watcher started; waiting for final video filename (not .temp)
+1794943503146 TIMEOUT: CPDL_A2 source not ready in 15s; preserve MP4 for guarded audit
+1794943503165 QUEUE_SUCCESS_OR_ALREADY_PRIMARY key=item:6000
+1794943503168 QUEUE_FINISH key=item:6000
+1794943507402 MKV_MANIFEST_DEFER final MP4 missing
+1794943507406 QUEUE_START key=item:6002
+1794943507410 QUEUE_ATTEMPT=1/1 key=item:6002
+1794943507412 watcher started; waiting for final video filename (not .temp)
+1794943518220 TIMEOUT: CPDL_A2 source not ready in 15s; preserve MP4 for guarded audit
+1794943518236 QUEUE_SUCCESS_OR_ALREADY_PRIMARY key=item:5999
+1794943518239 QUEUE_FINISH key=item:5999
+1794943521814 QUEUE_START key=item:6004
+1794943521817 QUEUE_ATTEMPT=1/1 key=item:6004
+1794943521819 watcher started; waiting for final video filename (not .temp)
+1794943522863 TIMEOUT: CPDL_A2 source not ready in 15s; preserve MP4 for guarded audit
+1794943522878 QUEUE_SUCCESS_OR_ALREADY_PRIMARY key=item:6002
+1794943522881 QUEUE_FINISH key=item:6002
+1794943527068 QUEUE_START key=item:6003
+1794943527072 QUEUE_ATTEMPT=1/1 key=item:6003
+1794943527075 watcher started; waiting for final video filename (not .temp)
+1794943537287 TIMEOUT: CPDL_A2 source not ready in 15s; preserve MP4 for guarded audit
+1794943537302 QUEUE_SUCCESS_OR_ALREADY_PRIMARY key=item:6004
+1794943537304 QUEUE_FINISH key=item:6004
+1794943540849 MKV_MANIFEST_DEFER final MP4 missing
+1794943540854 MKV_MANIFEST_DEFER final MP4 missing
+1794943540858 QUEUE_START key=item:6007
+1794943540862 QUEUE_ATTEMPT=1/1 key=item:6007
+1794943540865 watcher started; waiting for final video filename (not .temp)
+1794943542577 TIMEOUT: CPDL_A2 source not ready in 15s; preserve MP4 for guarded audit
+1794943542593 QUEUE_SUCCESS_OR_ALREADY_PRIMARY key=item:6003
+1794943542596 QUEUE_FINISH key=item:6003
+1794943546841 MKV_MANIFEST_DEFER final MP4 missing
+1794943546846 MKV_MANIFEST_DEFER final MP4 missing
+1794943546851 MKV_MANIFEST_DEFER final MP4 missing
+1794943546858 MKV_MANIFEST_DEFER final MP4 missing
+1794943546863 MKV_MANIFEST_DEFER final MP4 missing
+1794943546870 MKV_MANIFEST_DEFER final MP4 missing
+1794943546875 MKV_MANIFEST_DEFER final MP4 missing
+1794943546880 MKV_MANIFEST_DEFER final MP4 missing
+1794943546885 MKV_MANIFEST_DEFER final MP4 missing
+1794943546889 QUEUE_START key=item:6017
+1794943546892 QUEUE_ATTEMPT=1/1 key=item:6017
+1794943546894 watcher started; waiting for final video filename (not .temp)
+1794943556326 TIMEOUT: CPDL_A2 source not ready in 15s; preserve MP4 for guarded audit
+1794943556336 QUEUE_SUCCESS_OR_ALREADY_PRIMARY key=item:6007
+1794943556338 QUEUE_FINISH key=item:6007
+1794943558603 QUEUE_START key=item:6018
+1794943558605 QUEUE_ATTEMPT=1/1 key=item:6018
+1794943558607 watcher started; waiting for final video filename (not .temp)
+1794943562322 TIMEOUT: CPDL_A2 source not ready in 15s; preserve MP4 for guarded audit
+1794943562334 QUEUE_SUCCESS_OR_ALREADY_PRIMARY key=item:6017
+1794943562336 QUEUE_FINISH key=item:6017
+1794943564705 MKV_MANIFEST_DEFER final MP4 missing
+1794943564709 MKV_MANIFEST_DEFER final MP4 missing
+1794943564712 QUEUE_START key=item:6021
+1794943564715 QUEUE_ATTEMPT=1/1 key=item:6021
+1794943564717 watcher started; waiting for final video filename (not .temp)
+1794943573969 TIMEOUT: CPDL_A2 source not ready in 15s; preserve MP4 for guarded audit
+1794943573981 QUEUE_SUCCESS_OR_ALREADY_PRIMARY key=item:6018
+1794943573984 QUEUE_FINISH key=item:6018
+1794943576693 MKV_MANIFEST_DEFER final MP4 missing
+1794943576698 MKV_MANIFEST_DEFER final MP4 missing
+1794943576704 MKV_MANIFEST_DEFER final MP4 missing
+1794943580142 TIMEOUT: CPDL_A2 source not ready in 15s; preserve MP4 for guarded audit
+1794943580152 QUEUE_SUCCESS_OR_ALREADY_PRIMARY key=item:6021
+1794943580154 QUEUE_FINISH key=item:6021
+1794943939170 MKV_FFMPEG_SLOT_ACQUIRED target=ناروتو شيبودن S01 E02 [cnm-3fyt3wutmyj65wpi7fs6].mkv
+1794943940293 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1794943940300 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1794943940304 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1794943942928 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1794943942953 DB_PROMOTE_DOWNLOADS_MATCH task_id=-1461784190 external_id=18396 score=6030 exactPath=true originalPath=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E02 [cnm-3fyt3wutmyj65wpi7fs6].mp4 title=ناروتو شيبودن season=1 episode=2
+1794943942973 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1794943942990 DB_PROMOTE_DOWNLOADS_VERIFIED path=ناروتو شيبودن S01 E02 [cnm-3fyt3wutmyj65wpi7fs6].mkv size=35032106
+1794943943000 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1794943943009 DB_PROMOTE_SUBTITLE_RESULT=kotlin.Unit
+1794943943018 DB_PROMOTE_SUBTITLE_RESULT=kotlin.Unit
+1794943943029 DB_PROMOTE_SUCCESS path=ناروتو شيبودن S01 E02 [cnm-3fyt3wutmyj65wpi7fs6].mkv task_id=-1461784190 external_id=18396 item_id=18396
+1794943943035 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:-1461784190;externalId:18396;itemId:18396;path:ناروتو شيبودن S01 E02 [cnm-3fyt3wutmyj65wpi7fs6].mkv
+1794943943112 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1794943943127 DB_PROMOTE_DOWNLOADS_MATCH task_id=-1461784190 external_id=18396 score=6030 exactPath=true originalPath=ناروتو شيبودن S01 E02 [cnm-3fyt3wutmyj65wpi7fs6].mkv title=ناروتو شيبودن season=1 episode=2
+1794943943137 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1794943943166 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E02.mkv size=35032106
+1794943943181 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1794943943207 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E02.mkv task_id=-1461784190 external_id=18396 item_id=18396
+1794943943217 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:-1461784190;externalId:18396;itemId:18396;path:/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E02.mkv
+1794943943258 MKV_INTERNAL_IDENTITY=18396@1794943943222 path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E02.mkv noSub=false
+1794943943321 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1794943943344 DB_PROMOTE_DOWNLOADS_MATCH task_id=-1461784190 external_id=18396 score=6030 exactPath=true originalPath=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E02.mkv title=ناروتو شيبودن season=1 episode=2
+1794943943357 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1794943943379 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E02.mkv size=35032106
+1794943943392 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1794943943421 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E02.mkv task_id=-1461784190 external_id=18396 item_id=18396
+1794943943448 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:-1461784190;externalId:18396;itemId:18396;path:/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E02.mkv
+1794943944654 MKV_FFMPEG_SLOT_RELEASED target=ناروتو شيبودن S01 E02 [cnm-3fyt3wutmyj65wpi7fs6].mkv
+1794943947085 MKV_FFMPEG_SLOT_ACQUIRED target=ناروتو شيبودن S01 E01 [cnm-65xg33mhw5liny3p7665].mkv
+1794943949393 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1794943949412 DB_PROMOTE_DOWNLOADS_MATCH task_id=-1596066027 external_id=18395 score=6030 exactPath=true originalPath=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E01 [cnm-65xg33mhw5liny3p7665].mp4 title=ناروتو شيبودن season=1 episode=1
+1794943949426 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1794943949467 DB_PROMOTE_DOWNLOADS_VERIFIED path=ناروتو شيبودن S01 E01 [cnm-65xg33mhw5liny3p7665].mkv size=37237161
+1794943949488 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1794943949506 DB_PROMOTE_SUBTITLE_RESULT=kotlin.Unit
+1794943949526 DB_PROMOTE_SUBTITLE_RESULT=kotlin.Unit
+1794943949536 DB_PROMOTE_SUCCESS path=ناروتو شيبودن S01 E01 [cnm-65xg33mhw5liny3p7665].mkv task_id=-1596066027 external_id=18395 item_id=18395
+1794943949542 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:-1596066027;externalId:18395;itemId:18395;path:ناروتو شيبودن S01 E01 [cnm-65xg33mhw5liny3p7665].mkv
+1794943949561 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1794943949578 DB_PROMOTE_DOWNLOADS_MATCH task_id=-1596066027 external_id=18395 score=6030 exactPath=true originalPath=ناروتو شيبودن S01 E01 [cnm-65xg33mhw5liny3p7665].mkv title=ناروتو شيبودن season=1 episode=1
+1794943949592 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1794943949602 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E01.mkv size=37237161
+1794943949611 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1794943949623 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E01.mkv task_id=-1596066027 external_id=18395 item_id=18395
+1794943949636 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:-1596066027;externalId:18395;itemId:18395;path:/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E01.mkv
+1794943949661 MKV_INTERNAL_IDENTITY=18395@1794943949638 path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E01.mkv noSub=false
+1794943949719 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1794943949761 DB_PROMOTE_DOWNLOADS_MATCH task_id=-1596066027 external_id=18395 score=6030 exactPath=true originalPath=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E01.mkv title=ناروتو شيبودن season=1 episode=1
+1794943949784 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1794943949805 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E01.mkv size=37237161
+1794943949815 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1794943949838 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E01.mkv task_id=-1596066027 external_id=18395 item_id=18395
+1794943949859 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:-1596066027;externalId:18395;itemId:18395;path:/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E01.mkv
+1794943950722 MKV_FFMPEG_SLOT_RELEASED target=ناروتو شيبودن S01 E01 [cnm-65xg33mhw5liny3p7665].mkv
+1794943955500 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1794943955527 DB_PROMOTE_DOWNLOADS_MATCH task_id=-1461784190 external_id=18396 score=6030 exactPath=true originalPath=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E02.mkv title=ناروتو شيبودن season=1 episode=2
+1794943955554 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1794943955586 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E02.mkv size=35032106
+1794943955615 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1794943955646 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E02.mkv task_id=-1461784190 external_id=18396 item_id=18396
+1794943955664 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:-1461784190;externalId:18396;itemId:18396;path:/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E02.mkv
+1794943955696 MKV_INTERNAL_IDENTITY=18396@1794943955667 path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E02.mkv noSub=false
+1794943985734 MKV_FFMPEG_SLOT_ACQUIRED target=ناروتو شيبودن S01 E04 [cnm-40oohooxwejd3m2twn9m].mkv
+1794943988747 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1794943988835 DB_PROMOTE_DOWNLOADS_MATCH task_id=1939452675 external_id=18398 score=6280 exactPath=true originalPath=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E04 [cnm-40oohooxwejd3m2twn9m].mp4 title=ناروتو شيبودن season=1 episode=4
+1794943988881 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1794943988918 DB_PROMOTE_DOWNLOADS_VERIFIED path=ناروتو شيبودن S01 E04 [cnm-40oohooxwejd3m2twn9m].mkv size=37890230
+1794943988964 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1794943989004 DB_PROMOTE_SUBTITLE_RESULT=kotlin.Unit
+1794943989039 DB_PROMOTE_SUBTITLE_RESULT=kotlin.Unit
+1794943989086 DB_PROMOTE_SUCCESS path=ناروتو شيبودن S01 E04 [cnm-40oohooxwejd3m2twn9m].mkv task_id=1939452675 external_id=18398 item_id=18398
+1794943989125 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:1939452675;externalId:18398;itemId:18398;path:ناروتو شيبودن S01 E04 [cnm-40oohooxwejd3m2twn9m].mkv
+1794943989193 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1794943989279 DB_PROMOTE_DOWNLOADS_MATCH task_id=1939452675 external_id=18398 score=6280 exactPath=true originalPath=ناروتو شيبودن S01 E04 [cnm-40oohooxwejd3m2twn9m].mkv title=ناروتو شيبودن season=1 episode=4
+1794943989350 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1794943989393 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E04.mkv size=37890230
+1794943989422 onVideoCompleted path=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E04 [cnm-40oohooxwejd3m2twn9m].mp4 title=ناروتو شيبودن season=1 episode=4
+1794943989430 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1794943989492 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E04.mkv task_id=1939452675 external_id=18398 item_id=18398
+1794943989535 QUEUE_ENQUEUED key=item:18398
+1794943989610 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:1939452675;externalId:18398;itemId:18398;path:/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E04.mkv
+1794943989673 QUEUE_START key=item:18398
+1794943989703 MKV_INTERNAL_IDENTITY=18398@1794943989627 path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E04.mkv noSub=false
+1794943989756 QUEUE_ATTEMPT=1/1 key=item:18398
+1794943989818 watcher started; waiting for final video filename (not .temp)
+1794943989824 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1794943989898 DB_PROMOTE_DOWNLOADS_MATCH task_id=1939452675 external_id=18398 score=6280 exactPath=true originalPath=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E04.mkv title=ناروتو شيبودن season=1 episode=4
+1794943989947 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1794943989962 candidate video observed: /storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E04 [cnm-40oohooxwejd3m2twn9m].mp4 size=38124930
+1794943989985 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E04.mkv size=37890230
+1794943990035 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1794943990070 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E04.mkv task_id=1939452675 external_id=18398 item_id=18398
+1794943990106 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:1939452675;externalId:18398;itemId:18398;path:/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E04.mkv
+1794944000915 MKV_FFMPEG_SLOT_ACQUIRED target=ناروتو شيبودن S01 E03 [cnm-4nayc3en98ybnoj7v801].mkv
+1794944005215 TIMEOUT: CPDL_A2 source not ready in 15s; preserve MP4 for guarded audit
+1794944005354 QUEUE_SUCCESS_OR_ALREADY_PRIMARY key=item:18398
+1794944005435 QUEUE_FINISH key=item:18398
+1794944006427 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1794944006481 DB_PROMOTE_DOWNLOADS_MATCH task_id=1496634669 external_id=18397 score=6280 exactPath=true originalPath=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E03 [cnm-4nayc3en98ybnoj7v801].mp4 title=ناروتو شيبودن season=1 episode=3
+1794944006525 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1794944006591 DB_PROMOTE_DOWNLOADS_VERIFIED path=ناروتو شيبودن S01 E03 [cnm-4nayc3en98ybnoj7v801].mkv size=43766585
+1794944006655 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1794944006714 DB_PROMOTE_SUBTITLE_RESULT=kotlin.Unit
+1794944006770 DB_PROMOTE_SUBTITLE_RESULT=kotlin.Unit
+1794944006835 DB_PROMOTE_SUCCESS path=ناروتو شيبودن S01 E03 [cnm-4nayc3en98ybnoj7v801].mkv task_id=1496634669 external_id=18397 item_id=18397
+1794944006867 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:1496634669;externalId:18397;itemId:18397;path:ناروتو شيبودن S01 E03 [cnm-4nayc3en98ybnoj7v801].mkv
+1794944006952 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1794944007002 DB_PROMOTE_DOWNLOADS_MATCH task_id=1496634669 external_id=18397 score=6280 exactPath=true originalPath=ناروتو شيبودن S01 E03 [cnm-4nayc3en98ybnoj7v801].mkv title=ناروتو شيبودن season=1 episode=3
+1794944007052 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1794944007119 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E03.mkv size=43766585
+1794944007155 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1794944007225 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E03.mkv task_id=1496634669 external_id=18397 item_id=18397
+1794944007263 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:1496634669;externalId:18397;itemId:18397;path:/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E03.mkv
+1794944007311 MKV_INTERNAL_IDENTITY=18397@1794944007268 path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E03.mkv noSub=false
+1794944007436 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1794944007496 DB_PROMOTE_DOWNLOADS_MATCH task_id=1496634669 external_id=18397 score=6280 exactPath=true originalPath=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E03.mkv title=ناروتو شيبودن season=1 episode=3
+1794944007559 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1794944007616 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E03.mkv size=43766585
+1794944007672 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1794944007739 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E03.mkv task_id=1496634669 external_id=18397 item_id=18397
+1794944007799 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:1496634669;externalId:18397;itemId:18397;path:/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E03.mkv
+1794944010831 MKV_FFMPEG_SLOT_RELEASED target=ناروتو شيبودن S01 E04 [cnm-40oohooxwejd3m2twn9m].mkv
