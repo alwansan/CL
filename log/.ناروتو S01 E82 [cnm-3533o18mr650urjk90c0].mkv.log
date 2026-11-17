@@ -1,0 +1,12 @@
+1794941844266 SUBTITLE_POLICY=manifest-ready expected=1 completed=1 files=1 token=3533o18mr650urjk90c0
+1794941844992 ffmpeg=native:/data/app/~~bX6kfrRJqhO-7uN-rDExbw==/com.cinemana.pro-f9pNNXgJvj8SomhAzWy55A==/lib/arm64/libffmpeg.so
+1794941845101 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794941845103 exec=[/data/app/~~bX6kfrRJqhO-7uN-rDExbw==/com.cinemana.pro-f9pNNXgJvj8SomhAzWy55A==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E82 [cnm-3533o18mr650urjk90c0].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E82 [cnm-3533o18mr650urjk90c0].srt] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو S01 E82] [-metadata:s:s:0] [language=ar] [-metadata] [title=ناروتو S01 E82] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو S01 E82 [cnm-3533o18mr650urjk90c0].mkv.cnm115-3983573e-6efe-4d2b-8ba5-c92c0141efc1.part]
+1794941855590 exit=0 output=
+1794941855597 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو S01 E82 [cnm-3533o18mr650urjk90c0].mkv size=35376674
+1794941856426 DB_PROMOTE=true
+1794941856528 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E82.mkv work=ناروتو season=01 episode=82 noSub=false
+1794941857025 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E82.mkv
+1794941857513 delete video=ناروتو S01 E82 [cnm-3533o18mr650urjk90c0].mp4 result=true
+1794941857528 delete subtitle=arabic subtitle for ناروتو S01 E82 [cnm-3533o18mr650urjk90c0].srt result=true
+1794941857547 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E82.mkv

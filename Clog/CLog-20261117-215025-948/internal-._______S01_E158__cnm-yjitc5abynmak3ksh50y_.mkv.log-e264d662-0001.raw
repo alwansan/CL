@@ -1,0 +1,12 @@
+1794942398123 SUBTITLE_POLICY=manifest-ready expected=1 completed=1 files=1 token=yjitc5abynmak3ksh50y
+1794942398473 ffmpeg=native:/data/app/~~bX6kfrRJqhO-7uN-rDExbw==/com.cinemana.pro-f9pNNXgJvj8SomhAzWy55A==/lib/arm64/libffmpeg.so
+1794942398507 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794942398507 exec=[/data/app/~~bX6kfrRJqhO-7uN-rDExbw==/com.cinemana.pro-f9pNNXgJvj8SomhAzWy55A==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E158 [cnm-yjitc5abynmak3ksh50y].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E158 [cnm-yjitc5abynmak3ksh50y].srt] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو S01 E158] [-metadata:s:s:0] [language=ar] [-metadata] [title=ناروتو S01 E158] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو S01 E158 [cnm-yjitc5abynmak3ksh50y].mkv.cnm115-a36c44aa-2e7b-47bb-926b-591a29bee325.part]
+1794942405999 exit=0 output=
+1794942406007 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو S01 E158 [cnm-yjitc5abynmak3ksh50y].mkv size=41222104
+1794942406391 DB_PROMOTE=true
+1794942406429 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E158.mkv work=ناروتو season=01 episode=158 noSub=false
+1794942406608 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E158.mkv
+1794942406931 delete video=ناروتو S01 E158 [cnm-yjitc5abynmak3ksh50y].mp4 result=true
+1794942406938 delete subtitle=arabic subtitle for ناروتو S01 E158 [cnm-yjitc5abynmak3ksh50y].srt result=true
+1794942406946 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E158.mkv

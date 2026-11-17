@@ -1,0 +1,16 @@
+1794939451681 SUBTITLE_POLICY=manifest-ready expected=1 completed=1 files=1 token=3y8v4f1s2jwg0rotimo8
+1794939453615 ffmpeg=native:/data/app/~~CmweASp4ky3DrxdhF2a5tQ==/com.cinemana.pro-OgiXZ_0kVj7LB8nR4qzUYg==/lib/arm64/libffmpeg.so
+1794939453856 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794939453880 exec=[/data/app/~~CmweASp4ky3DrxdhF2a5tQ==/com.cinemana.pro-OgiXZ_0kVj7LB8nR4qzUYg==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E26 [cnm-3y8v4f1s2jwg0rotimo8].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E26 [cnm-3y8v4f1s2jwg0rotimo8].srt] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو S01 E26] [-metadata:s:s:0] [language=ar] [-metadata] [title=ناروتو S01 E26] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو S01 E26 [cnm-3y8v4f1s2jwg0rotimo8].mkv.cnm115-98df0e25-4936-4fb3-97ca-3ace4e68b0c5.part]
+1794939466684 SUBTITLE_POLICY=manifest-ready expected=1 completed=1 files=1 token=3y8v4f1s2jwg0rotimo8
+1794939467263 ffmpeg=native:/data/app/~~CmweASp4ky3DrxdhF2a5tQ==/com.cinemana.pro-OgiXZ_0kVj7LB8nR4qzUYg==/lib/arm64/libffmpeg.so
+1794939467334 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794939467336 exec=[/data/app/~~CmweASp4ky3DrxdhF2a5tQ==/com.cinemana.pro-OgiXZ_0kVj7LB8nR4qzUYg==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E26 [cnm-3y8v4f1s2jwg0rotimo8].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E26 [cnm-3y8v4f1s2jwg0rotimo8].srt] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو S01 E26] [-metadata:s:s:0] [language=ar] [-metadata] [title=ناروتو S01 E26] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو S01 E26 [cnm-3y8v4f1s2jwg0rotimo8].mkv.cnm115-34b5cd22-6d4c-46a0-b2fd-580049183c12.part]
+1794939477529 exit=0 output=
+1794939477540 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو S01 E26 [cnm-3y8v4f1s2jwg0rotimo8].mkv size=42020099
+1794939491434 DB_PROMOTE=true
+1794939491536 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E26.mkv work=ناروتو season=01 episode=26 noSub=false
+1794939492011 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E26.mkv
+1794939492920 delete video=ناروتو S01 E26 [cnm-3y8v4f1s2jwg0rotimo8].mp4 result=true
+1794939492942 delete subtitle=arabic subtitle for ناروتو S01 E26 [cnm-3y8v4f1s2jwg0rotimo8].srt result=true
+1794939492970 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E26.mkv
