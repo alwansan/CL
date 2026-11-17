@@ -1,0 +1,11 @@
+java.lang.ArrayIndexOutOfBoundsException: length=223; index=223
+	at java.util.HashMap.valuesToArray(HashMap.java:981)
+	at java.util.HashMap$Values.toArray(HashMap.java:1059)
+	at java.util.ArrayList.<init>(ArrayList.java:189)
+	at com.shabakaty.downloader.SafeComposerMap.values(SafeComposerMap.java:6)
+	at com.shabakaty.downloader.ey0.l(DownloadManager.kt:3)
+	at com.shabakaty.downloader.ey0$k.t(DownloadManager.kt:24)
+	at com.shabakaty.downloader.bj.i(ContinuationImpl.kt:5)
+	at com.shabakaty.downloader.du0.run(DispatchedTask.kt:18)
+	at com.shabakaty.downloader.re0.j(CoroutineScheduler.kt:1)
+	at com.shabakaty.downloader.re0$a.run(CoroutineScheduler.kt:10)

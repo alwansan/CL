@@ -1,0 +1,146 @@
+{
+  "schema": 1,
+  "session": "20261117-165457-851",
+  "target_package": "com.alwansan.raft.androidtest",
+  "end_unix_ms": 1794923698640,
+  "stop_reason": "Cannot start privileged capture: android.content.pm.PackageManager$NameNotFoundException: com.alwansan.raft.androidtest",
+  "total_recorded_bytes": 0,
+  "raw_log_segments": 1,
+  "metric_segments": 1,
+  "raw_log_policy": "preserve all segments; never delete",
+  "writer_received_batches": 0,
+  "writer_written_batches": 0,
+  "writer_failed_batches": 0,
+  "user_markers_enqueued": 0,
+  "user_markers_written": 0,
+  "user_marker_delivery_note": "Accepted markers share the FIFO with Logcat batches; remote batches can arrive after a marker with older event timestamps",
+  "writer_pending_bytes_at_stop": 0,
+  "writer_peak_pending_bytes": 0,
+  "writer_max_queue_delay_ms": 0,
+  "writer_failure": null,
+  "session_startup_phase": "shizuku_binding_requested",
+  "session_remote_startup_duration_ms": null,
+  "startup_duration_scope": "elapsed from app foreground-service request to Shizuku remote.start reply; null if unconfirmed",
+  "backpressure_notice": "Logcat ring buffer losses cannot be detected perfectly; zero dropped local batches does not prove zero OS buffer loss",
+  "performance_statistics": {
+    "total_samples": 0,
+    "unreadable_samples": 0,
+    "game_running_samples": 0,
+    "game_absent_samples": 0,
+    "game_process_state_unknown_samples": 0,
+    "android_meminfo_pss_above_proc_rss_samples": 0,
+    "frame_telemetry_stale_samples": 0,
+    "render_error_flood_warning_samples": 0,
+    "last_fps_tracking_status": "not_sampled",
+    "last_fps_unavailable_duration_ms": 0,
+    "max_fps_unavailable_duration_ms": 0,
+    "first_sample_unix_ms": null,
+    "last_sample_unix_ms": null,
+    "first_readable_fps_unix_ms": null,
+    "last_readable_fps_unix_ms": null,
+    "shader_pass_errors_total_at_last_sample": 0,
+    "compute_kernel_errors_total_at_last_sample": 0,
+    "missing_asset_errors_total_at_last_sample": 0,
+    "metrics": {
+      "presented_fps_estimate": {
+        "readable_samples": 0,
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "presented_frame_p95_ms": {
+        "readable_samples": 0,
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "presented_frame_worst_ms": {
+        "readable_samples": 0,
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "process_cpu_percent_one_core": {
+        "readable_samples": 0,
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "process_cpu_percent_all_cores": {
+        "readable_samples": 0,
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "process_rss_kb": {
+        "readable_samples": 0,
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "process_pss_kb": {
+        "readable_samples": 0,
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "process_threads": {
+        "readable_samples": 0,
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "gpu_busy_percent": {
+        "readable_samples": 0,
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "gpu_clock_hz": {
+        "readable_samples": 0,
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "device_mem_available_kb": {
+        "readable_samples": 0,
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "battery_temp_c": {
+        "readable_samples": 0,
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "game_log_lines_per_second": {
+        "readable_samples": 0,
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "game_log_lines_session_average_per_second": {
+        "readable_samples": 0,
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "render_error_roots_per_second": {
+        "readable_samples": 0,
+        "min": null,
+        "max": null,
+        "mean": null
+      },
+      "last_present_progress_age_ms": {
+        "readable_samples": 0,
+        "min": null,
+        "max": null,
+        "mean": null
+      }
+    },
+    "error_category_breakdown": {},
+    "fps_caveat": "External SurfaceFlinger presented frames; not Unity engine FPS"
+  },
+  "game_process_exit_cause": "unknown unless explicitly supported by exit evidence"
+}
