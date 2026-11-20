@@ -1,0 +1,1390 @@
+[3.4K 2026-11-18 02:47:06]  /storage/emulated/0/Cinemana/
+├── [3.3M 2026-11-18 02:47:06]  log h66.zip
+├── [236K 2026-11-18 03:14:26]  work
+│   ├── [3.4K 2026-11-18 03:14:50]  data
+│   │   ├── [ 52K 2026-11-18 03:14:26]  cnm_recovery
+│   │   │   └── [ 882 2026-11-18 03:06:46]  66au1sw07t5sfrs0g9oe.json
+│   │   ├── [1.2M 2026-11-18 03:14:19]  episodes.v1.bin
+│   │   ├── [1.1M 2026-11-18 03:14:19]  episodes.v1.bin.previous
+│   │   ├── [620K 2026-11-18 03:14:50]  library.v1.bin
+│   │   ├── [620K 2026-11-18 03:14:50]  library.v1.bin.previous
+│   │   ├── [3.4K 2026-11-18 03:14:49]  local-account
+│   │   │   ├── [231K 2026-11-18 03:14:49]  account.bin
+│   │   │   └── [ 30K 2026-11-18 02:48:44]  avatar-8aec41f5b54420c0.jpg
+│   │   ├── [ 52K 2026-11-18 03:14:30]  mkv-proofs
+│   │   │   ├── [ 104 2026-11-18 01:36:54]  104zv0oq78v591etxzrk.path
+│   │   │   ├── [ 143 2026-11-18 02:22:54]  11c05v72mt2kiv64iwxs.path
+│   │   │   ├── [ 104 2026-11-18 01:34:51]  11mdmt5c622ga4jc7wb7.path
+│   │   │   ├── [ 142 2026-11-18 01:56:45]  11upn2dnr898easc1lmo.path
+│   │   │   ├── [ 143 2026-11-18 02:13:52]  125y0074s4fs6orxxpin.path
+│   │   │   ├── [ 142 2026-11-18 02:04:26]  1269n2jatnpnop4exq2e.path
+│   │   │   ├── [ 143 2026-11-18 02:24:04]  1316u6lf7tm8xtriul89.path
+│   │   │   ├── [ 103 2026-11-18 01:13:56]  143hat9uc5e9b2dkaq9c.path
+│   │   │   ├── [ 103 2026-11-18 01:12:41]  14l1qqyjy97c67bjzhe1.path
+│   │   │   ├── [ 143 2026-11-18 02:15:06]  150cgzl6rzmj7qzr47e9.path
+│   │   │   ├── [ 104 2026-11-18 01:45:01]  157onifhvq6f18bmlkr0.path
+│   │   │   ├── [ 142 2026-11-18 01:57:21]  15okwzjpmwbnemqxajhz.path
+│   │   │   ├── [ 143 2026-11-18 02:21:24]  164zit2a0e4ue7hdh153.path
+│   │   │   ├── [ 143 2026-11-18 02:12:48]  170z7y3kf3lt9vomj5tm.path
+│   │   │   ├── [ 143 2026-11-18 02:20:25]  17v54es3wwv92flv3o6o.path
+│   │   │   ├── [ 143 2026-11-18 02:16:07]  18nmkzc6k1ikg1spl1g8.path
+│   │   │   ├── [ 142 2026-11-18 01:54:11]  18p3bzexkvp2tmazh3cc.path
+│   │   │   ├── [ 143 2026-11-18 02:16:38]  18ufbmvldv7zameo08j4.path
+│   │   │   ├── [ 142 2026-11-18 02:05:54]  18vst681xsdghyj4rd9y.path
+│   │   │   ├── [ 103 2026-11-18 01:07:39]  19i7bzwdte3chbs5qin1.path
+│   │   │   ├── [ 142 2026-11-18 02:06:16]  1a04darezxfds1s5f757.path
+│   │   │   ├── [ 142 2026-11-18 02:04:20]  1adbn4es2pkq5a3vtqrp.path
+│   │   │   ├── [ 103 2026-11-18 01:14:10]  1azwgjegero634cbxl6a.path
+│   │   │   ├── [ 103 2026-11-18 01:18:46]  1b3vxmg701nyqguezdkk.path
+│   │   │   ├── [ 104 2026-11-18 01:30:45]  1brptia3sbs3vg8we85s.path
+│   │   │   ├── [ 142 2026-11-18 02:01:11]  1c829ax14vq71rrdd33a.path
+│   │   │   ├── [ 104 2026-11-18 01:51:43]  1dcstvutwl86aj9y4wu5.path
+│   │   │   ├── [ 104 2026-11-18 01:43:47]  1e1h3nm18t53sgtoc0sp.path
+│   │   │   ├── [ 104 2026-11-18 01:49:12]  1etdm2k7riykq87fxjcb.path
+│   │   │   ├── [ 104 2026-11-18 01:33:05]  1fak6c5gj8vfv6yg9fdy.path
+│   │   │   ├── [ 143 2026-11-18 02:14:17]  1gvhek006bv5q2sv54sf.path
+│   │   │   ├── [ 143 2026-11-18 02:11:14]  1i2lbxevsv2ic4o982ql.path
+│   │   │   ├── [ 142 2026-11-18 02:01:28]  1i3p6zxtbmb80rni49u0.path
+│   │   │   ├── [ 143 2026-11-18 02:24:09]  1ij0zhw44gzmhedw5ine.path
+│   │   │   ├── [ 103 2026-11-18 01:23:13]  1im1l81fhgkh34feh1mo.path
+│   │   │   ├── [ 103 2026-11-18 01:15:02]  1k0tq61u5fg3a5g4a7oo.path
+│   │   │   ├── [ 142 2026-11-18 02:08:45]  1k4w6mu8mscuizoxxo4s.path
+│   │   │   ├── [ 112 2026-11-18 03:05:23]  1kydo70c1tj0pdsn1j7y.path
+│   │   │   ├── [ 142 2026-11-18 02:06:25]  1l4eaocrc9dbqyg4i9y0.path
+│   │   │   ├── [ 104 2026-11-18 01:34:44]  1lcc71b0bt2swj7hgwyg.path
+│   │   │   ├── [ 104 2026-11-18 01:25:28]  1mqw6auw06mu1lfo7ank.path
+│   │   │   ├── [ 112 2026-11-18 03:14:18]  1mtmboxr72yrm5abkkoc.path
+│   │   │   ├── [ 104 2026-11-18 01:38:26]  1nal9oxqe15dvx6au1y4.path
+│   │   │   ├── [ 104 2026-11-18 01:28:58]  1niqtc8gw5w0yfrg6dm6.path
+│   │   │   ├── [ 104 2026-11-18 01:29:39]  1p0qq4a333numnqsh3q7.path
+│   │   │   ├── [ 143 2026-11-18 02:16:46]  1p5hm9j7ztmskk8c2fhq.path
+│   │   │   ├── [ 103 2026-11-18 01:21:43]  1pp39mds2srzbvj9c2mz.path
+│   │   │   ├── [ 103 2026-11-18 01:10:33]  1rokx42v4p1noa8qsq9j.path
+│   │   │   ├── [ 143 2026-11-18 02:10:45]  1rvogw8rfbc6dc34mhj2.path
+│   │   │   ├── [ 103 2026-11-18 01:23:19]  1snld38m0j4hc3bx6nsm.path
+│   │   │   ├── [ 142 2026-11-18 02:08:04]  1t5mrsq0j2qxog5ye7yq.path
+│   │   │   ├── [ 143 2026-11-18 02:12:34]  1ta6w6nc2xpz5r3e54ap.path
+│   │   │   ├── [ 143 2026-11-18 02:23:35]  1uauckrd8ga2gvlrteec.path
+│   │   │   ├── [ 104 2026-11-18 01:31:09]  1uj7kqr01ou6foulq3ot.path
+│   │   │   ├── [ 142 2026-11-18 01:58:13]  1uslsge8ke37cnafwxy2.path
+│   │   │   ├── [ 103 2026-11-18 01:11:54]  1uw8i69ycqmrbwcaloax.path
+│   │   │   ├── [ 112 2026-11-18 03:14:23]  1w17jz65iqxs1zf1cper.path
+│   │   │   ├── [ 104 2026-11-18 01:43:00]  1wl5emvdj68zfqjnr1x2.path
+│   │   │   ├── [ 142 2026-11-18 02:01:41]  1wqjp3z3exejlk0qc7ha.path
+│   │   │   ├── [ 104 2026-11-18 01:28:47]  1zuqnc8nd2khim22070i.path
+│   │   │   ├── [ 112 2026-11-18 03:13:59]  1zxyobfwdi5zjdq5xtfe.path
+│   │   │   ├── [ 143 2026-11-18 02:18:29]  20gcp50a5d3f670l6xu3.path
+│   │   │   ├── [ 103 2026-11-18 01:16:34]  20o6x6khycmoawui3n8u.path
+│   │   │   ├── [ 103 2026-11-18 01:06:54]  20tzn89ttrw0uyi2iute.path
+│   │   │   ├── [ 142 2026-11-18 02:03:05]  212w89ofmllc3qutfbx6.path
+│   │   │   ├── [ 104 2026-11-18 01:43:05]  21ap8kjarbf91yoj0gci.path
+│   │   │   ├── [ 104 2026-11-18 01:39:07]  21ki3ccxcdt3jeomsi36.path
+│   │   │   ├── [ 142 2026-11-18 02:04:58]  21rgaoe1c84u0lotg7po.path
+│   │   │   ├── [ 103 2026-11-18 01:21:50]  221l9rlulut7wi9ugc30.path
+│   │   │   ├── [ 103 2026-11-18 01:13:40]  22ede24fvynwus308wun.path
+│   │   │   ├── [ 104 2026-11-18 01:40:28]  22kysmd4zail682k5rje.path
+│   │   │   ├── [ 104 2026-11-18 01:41:43]  24qxm6wbr00p0zjo1f1i.path
+│   │   │   ├── [ 103 2026-11-18 01:11:14]  24xxsqvc7qtlj1l0snux.path
+│   │   │   ├── [ 103 2026-11-18 01:09:38]  255bi0t57ooygecpyyor.path
+│   │   │   ├── [ 103 2026-11-18 01:11:50]  25c45j5ymlnv9hka5m7y.path
+│   │   │   ├── [ 103 2026-11-18 01:07:00]  26zkr1ys99ogl998r2x4.path
+│   │   │   ├── [ 142 2026-11-18 02:04:49]  274rh63r87j42tf94zta.path
+│   │   │   ├── [ 142 2026-11-18 02:02:34]  27frwgj2prga6sduau3t.path
+│   │   │   ├── [ 143 2026-11-18 02:17:23]  27id8iw2klkvayg68s4r.path
+│   │   │   ├── [ 104 2026-11-18 01:30:00]  27t19f48ekim5hn74cbl.path
+│   │   │   ├── [ 103 2026-11-18 01:23:01]  289r7qlmo9e6nhixh5b4.path
+│   │   │   ├── [ 103 2026-11-18 01:15:58]  28ovimbq0vc1z99bv5r6.path
+│   │   │   ├── [ 142 2026-11-18 02:07:02]  28tzjk8psu4yv0objr68.path
+│   │   │   ├── [ 143 2026-11-18 02:21:31]  28wzrd9f4x5vq88pllib.path
+│   │   │   ├── [ 104 2026-11-18 01:34:20]  2958s5xlj6mv0c0f1yz3.path
+│   │   │   ├── [ 103 2026-11-18 01:18:36]  29afczrqhnm909684j7o.path
+│   │   │   ├── [ 104 2026-11-18 01:25:46]  29j2uih1k4rdwkny82a7.path
+│   │   │   ├── [ 103 2026-11-18 01:17:56]  29uw7u1t7t4rkq8jkumk.path
+│   │   │   ├── [ 103 2026-11-18 01:20:56]  2a06boh2l31jwpxplbmr.path
+│   │   │   ├── [ 103 2026-11-18 01:24:41]  2b6g0e0w5defde99s2tl.path
+│   │   │   ├── [ 143 2026-11-18 02:13:58]  2bagnvr0zx1wznx1fcyn.path
+│   │   │   ├── [ 103 2026-11-18 01:13:11]  2biq5d90b85u5kfxpzb5.path
+│   │   │   ├── [ 142 2026-11-18 01:56:09]  2bqidv70fyjkzz38y86c.path
+│   │   │   ├── [ 143 2026-11-18 02:12:41]  2cs4wazojdwwwg5ir9cg.path
+│   │   │   ├── [ 104 2026-11-18 01:40:13]  2d1gt4092gkx3y08aa2f.path
+│   │   │   ├── [ 143 2026-11-18 02:12:17]  2eo4pj9aipo99euuehss.path
+│   │   │   ├── [ 104 2026-11-18 01:42:44]  2ffmjt4d3hkbf88lxwaj.path
+│   │   │   ├── [ 142 2026-11-18 02:01:59]  2fu8k8rlrglytfoioer5.path
+│   │   │   ├── [ 112 2026-11-18 03:08:39]  2g3ahtv5d4o2lycty7ob.path
+│   │   │   ├── [ 143 2026-11-18 02:18:11]  2gdlwf2pqxgyiji40gca.path
+│   │   │   ├── [ 142 2026-11-18 01:58:32]  2goqprnltmdww4u4j1eu.path
+│   │   │   ├── [ 142 2026-11-18 02:05:42]  2gpxkqz71bj5p4rub4so.path
+│   │   │   ├── [ 103 2026-11-18 01:14:38]  2h8r3orgph1xxs4yxku0.path
+│   │   │   ├── [ 103 2026-11-18 01:16:20]  2hmxr1s2v5kqgeim5hpf.path
+│   │   │   ├── [ 104 2026-11-18 01:42:01]  2jhkhbuhp12c9u8t5b6b.path
+│   │   │   ├── [ 104 2026-11-18 01:35:09]  2k8dbzgto6a2m46mgkw3.path
+│   │   │   ├── [ 142 2026-11-18 02:07:16]  2kigj54gvp3r4x9zx8c1.path
+│   │   │   ├── [ 142 2026-11-18 02:09:49]  2l61x7627cud4r0lw565.path
+│   │   │   ├── [ 142 2026-11-18 02:04:42]  2l7nveqaaxinxiq0n0wb.path
+│   │   │   ├── [ 112 2026-11-18 03:06:27]  2m83v1wbcyjvf2hyj8ud.path
+│   │   │   ├── [ 104 2026-11-18 01:46:07]  2mi0qycoavvcnosgxgwk.path
+│   │   │   ├── [ 142 2026-11-18 01:59:36]  2ngtmg6k4dftdq1tdo5r.path
+│   │   │   ├── [ 142 2026-11-18 02:01:50]  2np952zk0tujh15uw85v.path
+│   │   │   ├── [ 103 2026-11-18 01:08:11]  2nv62q4696dzy644n05w.path
+│   │   │   ├── [ 143 2026-11-18 02:15:22]  2od2vzd4mm3vj209rkzw.path
+│   │   │   ├── [ 143 2026-11-18 02:16:01]  2oi2t4e9xhwrs0qllbhn.path
+│   │   │   ├── [ 104 2026-11-18 01:33:43]  2pkh70935d5qlmguqr7l.path
+│   │   │   ├── [ 104 2026-11-18 01:29:44]  2qw16wiyoxv7v5dvahpt.path
+│   │   │   ├── [ 104 2026-11-18 01:29:19]  2ra60du6x7o3wlc2lk7v.path
+│   │   │   ├── [ 103 2026-11-18 01:09:16]  2s2lm3r8j79nnnneacdh.path
+│   │   │   ├── [ 104 2026-11-18 01:32:53]  2snr9yu5si2imbe774a8.path
+│   │   │   ├── [ 103 2026-11-18 01:12:01]  2swe0zopz45ktjhtc4gt.path
+│   │   │   ├── [ 143 2026-11-18 02:16:27]  2t51snn5fvzuc8dzvap0.path
+│   │   │   ├── [ 103 2026-11-18 01:22:00]  2u6onbogwu99pi14hmou.path
+│   │   │   ├── [ 112 2026-11-18 03:09:42]  2ua1zzyhjn78mow39opz.path
+│   │   │   ├── [ 103 2026-11-18 01:12:46]  2umrmxubddrrgih7r9e6.path
+│   │   │   ├── [ 104 2026-11-18 01:32:47]  2v0d7psp854d6xj5qzq8.path
+│   │   │   ├── [ 112 2026-11-18 03:08:29]  2x202whbcup01c1wn3tm.path
+│   │   │   ├── [ 103 2026-11-18 01:13:16]  2xjnbx6ggtqpjhkvvgpd.path
+│   │   │   ├── [ 104 2026-11-18 01:40:46]  2xudkixqiac9tlkiwn2q.path
+│   │   │   ├── [ 143 2026-11-18 02:23:16]  2y0h3ccvfmqjjeuj19wr.path
+│   │   │   ├── [ 112 2026-11-18 03:10:35]  2yha8yvsboylwl7zg96n.path
+│   │   │   ├── [ 143 2026-11-18 02:22:22]  2yl53p9ym4b8shr43z6f.path
+│   │   │   ├── [ 104 2026-11-18 01:46:15]  2z35eso40aqws2twzxk0.path
+│   │   │   ├── [ 112 2026-11-18 03:07:32]  30n702ecx2ybkbnin6v0.path
+│   │   │   ├── [ 143 2026-11-18 02:18:52]  319f8k5ptq5qtqb8pf1k.path
+│   │   │   ├── [ 104 2026-11-18 01:27:08]  322d0fg2hdg07cjmzxo0.path
+│   │   │   ├── [ 104 2026-11-18 01:32:29]  32fin0r8nc891omdepas.path
+│   │   │   ├── [ 142 2026-11-18 02:07:24]  336vjiisau4rsn3g6xnj.path
+│   │   │   ├── [ 143 2026-11-18 02:13:42]  34pqr79gq1mcpd4jcnlj.path
+│   │   │   ├── [ 104 2026-11-18 01:32:42]  34rzf02jblruxmdl8fb2.path
+│   │   │   ├── [ 103 2026-11-18 01:21:28]  3533o18mr650urjk90c0.path
+│   │   │   ├── [ 104 2026-11-18 01:45:45]  35k2v1akgv29d6vw3yzz.path
+│   │   │   ├── [ 112 2026-11-18 03:06:18]  35l1zm5ytg2dthgfp7uf.path
+│   │   │   ├── [ 104 2026-11-18 01:27:54]  377ugy11x1zihy5sr219.path
+│   │   │   ├── [ 143 2026-11-18 02:23:50]  38h5slemwdfdzi2tcrtc.path
+│   │   │   ├── [ 103 2026-11-18 01:09:44]  38qn9vfkyffwdxhq47c5.path
+│   │   │   ├── [ 142 2026-11-18 02:06:36]  3aaeakgcxvl1mxhwwiom.path
+│   │   │   ├── [ 142 2026-11-18 02:04:10]  3alrzysoqftqahvd0km7.path
+│   │   │   ├── [ 104 2026-11-18 01:35:14]  3arp8wxdasxdgi8uppo3.path
+│   │   │   ├── [ 104 2026-11-18 01:31:23]  3avtkkm7o3hrfyge7yjc.path
+│   │   │   ├── [ 143 2026-11-18 02:17:30]  3beofenjd1a9f6v4aidy.path
+│   │   │   ├── [ 143 2026-11-18 02:19:02]  3bp4opqv5lvdwwe6ney8.path
+│   │   │   ├── [ 104 2026-11-18 01:26:34]  3carvns6ubnutw97alnq.path
+│   │   │   ├── [ 143 2026-11-18 02:13:12]  3cogc0acvxmnpks132vo.path
+│   │   │   ├── [ 104 2026-11-18 01:31:19]  3d36mikh3z7k1jeg0or7.path
+│   │   │   ├── [ 143 2026-11-18 02:20:54]  3dd66nz4fws1u9j2lik2.path
+│   │   │   ├── [ 143 2026-11-18 02:18:21]  3dss1nr5qqdx42hv08ha.path
+│   │   │   ├── [ 142 2026-11-18 02:07:59]  3e0exxpg11q7kwc2jvmf.path
+│   │   │   ├── [ 103 2026-11-18 01:22:42]  3ejzok8mls8qrxhvjb9e.path
+│   │   │   ├── [ 112 2026-11-18 03:11:07]  3es4rn8pxd2o0c4ck9m3.path
+│   │   │   ├── [ 104 2026-11-18 01:49:58]  3fcvlw28en0lbispu3ur.path
+│   │   │   ├── [ 142 2026-11-18 01:53:02]  3fyt3wutmyj65wpi7fs6.path
+│   │   │   ├── [ 104 2026-11-18 01:48:48]  3hfmfr2cii44mnmq862r.path
+│   │   │   ├── [ 143 2026-11-18 02:14:51]  3hirz3hjg8gon9d7lhv2.path
+│   │   │   ├── [ 103 2026-11-18 01:21:13]  3hofm4xa5mxlbq55cimy.path
+│   │   │   ├── [ 104 2026-11-18 01:38:53]  3hs3bghx817e8pvdl2sz.path
+│   │   │   ├── [ 104 2026-11-18 01:37:16]  3i6as4prz5xz6n833lj8.path
+│   │   │   ├── [ 143 2026-11-18 02:15:34]  3ic6f6yvjoze13agong4.path
+│   │   │   ├── [ 104 2026-11-18 01:45:06]  3ildrrimrjlk6x611v1a.path
+│   │   │   ├── [ 142 2026-11-18 01:57:37]  3j26q1hmqga7t8raqlxq.path
+│   │   │   ├── [ 143 2026-11-18 02:19:48]  3jdi5jm8rn8edol0c0k6.path
+│   │   │   ├── [ 103 2026-11-18 01:09:23]  3jtfupyemh8w6mi5t9nt.path
+│   │   │   ├── [ 143 2026-11-18 02:12:00]  3k9yqit20njahxcxcrd6.path
+│   │   │   ├── [ 103 2026-11-18 01:17:27]  3khxx1vtmu18ya3kles6.path
+│   │   │   ├── [ 143 2026-11-18 02:15:28]  3l4mdw064ot6u4g1l4i0.path
+│   │   │   ├── [ 112 2026-11-18 03:12:06]  3ldwkmlbp52guy96hrt4.path
+│   │   │   ├── [ 142 2026-11-18 02:07:42]  3ljubuwe9ocehhpbpuyg.path
+│   │   │   ├── [ 104 2026-11-18 01:28:43]  3lts2hxq6hty31d7sqon.path
+│   │   │   ├── [ 104 2026-11-18 01:42:40]  3lz8uuir8zmuzinr1krn.path
+│   │   │   ├── [ 142 2026-11-18 01:55:10]  3m844t2xla2i9bswk3oo.path
+│   │   │   ├── [ 143 2026-11-18 02:18:45]  3mh9pjxgn8297kwj44ij.path
+│   │   │   ├── [ 103 2026-11-18 01:18:18]  3n99vdyy008mhmes0ogn.path
+│   │   │   ├── [ 103 2026-11-18 01:22:16]  3oq03et2mq4ppqtwfzoo.path
+│   │   │   ├── [ 142 2026-11-18 02:07:09]  3p42b7ee1bdhly5jlhzx.path
+│   │   │   ├── [ 103 2026-11-18 01:14:44]  3pil2uzqvj6kd4jgorx1.path
+│   │   │   ├── [ 103 2026-11-18 01:11:03]  3qkzu8t5je9cqwvvd8kz.path
+│   │   │   ├── [ 142 2026-11-18 02:06:05]  3r5m84ulhqbfpa8o4p7n.path
+│   │   │   ├── [ 143 2026-11-18 02:19:14]  3rs62khsytvwxr7sff4k.path
+│   │   │   ├── [ 112 2026-11-18 03:06:58]  3rzwk992ojibjxri9wop.path
+│   │   │   ├── [ 112 2026-11-18 03:05:19]  3s4gc5zvj1psc86oomgu.path
+│   │   │   ├── [ 142 2026-11-18 02:10:57]  3sh17r5pgvvsatwvk91b.path
+│   │   │   ├── [ 143 2026-11-18 02:24:17]  3srtx7nxy3xeytnn70ax.path
+│   │   │   ├── [ 103 2026-11-18 01:16:52]  3tapddkgjj64o7aggpm3.path
+│   │   │   ├── [ 103 2026-11-18 01:15:22]  3ti717pjale5020ze7la.path
+│   │   │   ├── [ 143 2026-11-18 02:17:48]  3tom1yh5yncn4rcj5j4y.path
+│   │   │   ├── [ 143 2026-11-18 02:12:57]  3ujkn06iame97ah3460b.path
+│   │   │   ├── [ 142 2026-11-18 02:10:07]  3unqzgqihz01tbtdt1ss.path
+│   │   │   ├── [ 143 2026-11-18 02:12:25]  3uvn9oiz115v3sxdgbhw.path
+│   │   │   ├── [ 142 2026-11-18 02:07:30]  3uxhq2gomfas62qlucs7.path
+│   │   │   ├── [ 104 2026-11-18 01:32:01]  3vd1j2we2uh5dnlo7y80.path
+│   │   │   ├── [ 143 2026-11-18 02:19:35]  3w0ipfu3v1k6fupkz5ip.path
+│   │   │   ├── [ 103 2026-11-18 01:12:10]  3wbm8nkmpj8a7sbl245z.path
+│   │   │   ├── [ 142 2026-11-18 02:05:06]  3wgudgz8tvdwg5m1151f.path
+│   │   │   ├── [ 143 2026-11-18 02:22:50]  3wm8se1my5w7guiudbcw.path
+│   │   │   ├── [ 104 2026-11-18 01:40:52]  3x18toth7axhajnhahfi.path
+│   │   │   ├── [ 143 2026-11-18 02:14:59]  3x3agay2etazrkp8i9qk.path
+│   │   │   ├── [ 103 2026-11-18 01:11:38]  3y8v4f1s2jwg0rotimo8.path
+│   │   │   ├── [ 103 2026-11-18 01:19:31]  3z2opzpqg8uubfshmh2h.path
+│   │   │   ├── [ 103 2026-11-18 01:18:59]  3z6qygpiheatztx5hq3f.path
+│   │   │   ├── [ 142 2026-11-18 02:09:32]  3zqcgzbzippmograznec.path
+│   │   │   ├── [ 142 2026-11-18 01:53:19]  40oohooxwejd3m2twn9m.path
+│   │   │   ├── [ 142 2026-11-18 02:09:23]  418c5y56f2nf3nh28q9c.path
+│   │   │   ├── [ 143 2026-11-18 02:13:20]  41nxakdb839ltykp91bj.path
+│   │   │   ├── [ 142 2026-11-18 02:05:28]  427x3q6sz0v2afon0k1s.path
+│   │   │   ├── [ 143 2026-11-18 02:17:44]  42l5b09wda27nuyt5juw.path
+│   │   │   ├── [ 142 2026-11-18 02:08:51]  42o0qefle3ue517dkm0p.path
+│   │   │   ├── [ 142 2026-11-18 02:05:21]  42rseemhghocoyiuxhan.path
+│   │   │   ├── [ 104 2026-11-18 01:34:31]  434s3ghbmsqv55liqjst.path
+│   │   │   ├── [ 112 2026-11-18 03:10:36]  43nz2aezjif8tqp5ifor.path
+│   │   │   ├── [ 104 2026-11-18 01:35:33]  43qyzj578b40os0yyd1k.path
+│   │   │   ├── [ 142 2026-11-18 02:09:59]  44d9mz1n06ej3j2r1gwv.path
+│   │   │   ├── [ 142 2026-11-18 02:09:03]  44kktfee586oxa436hbv.path
+│   │   │   ├── [ 104 2026-11-18 01:26:55]  45i8gqoqr76qs8fdt4ak.path
+│   │   │   ├── [ 143 2026-11-18 02:14:39]  45otulfa565scfm59jil.path
+│   │   │   ├── [ 103 2026-11-18 01:19:18]  46a1d9jck1j94ll37lkz.path
+│   │   │   ├── [ 103 2026-11-18 01:19:57]  47bci6vb2q4rmo63risl.path
+│   │   │   ├── [ 142 2026-11-18 02:04:03]  48chi2znlhoxcqbl4d5b.path
+│   │   │   ├── [ 143 2026-11-18 02:22:31]  48xwkrobefkyq3jjmt7p.path
+│   │   │   ├── [ 142 2026-11-18 02:01:20]  4aehowp1wqxcfj7jwsv4.path
+│   │   │   ├── [ 142 2026-11-18 02:03:32]  4ara1cpvo597vla2dabw.path
+│   │   │   ├── [ 104 2026-11-18 01:31:36]  4at8t9cnlo9o1zlrfrhj.path
+│   │   │   ├── [ 104 2026-11-18 01:45:41]  4c11p4goj3188gm44exe.path
+│   │   │   ├── [ 143 2026-11-18 02:11:35]  4c3dz2pdvglfu8c447f7.path
+│   │   │   ├── [ 104 2026-11-18 01:48:14]  4cqj5l1rcy674uv9d3nb.path
+│   │   │   ├── [ 103 2026-11-18 01:15:07]  4czb0enzcoet3c57gct4.path
+│   │   │   ├── [ 142 2026-11-18 01:54:54]  4d2s5py0ys62e0dnw7k1.path
+│   │   │   ├── [ 103 2026-11-18 01:20:09]  4dhuancnuy2qrs0cw2fm.path
+│   │   │   ├── [ 112 2026-11-18 03:08:24]  4dpc554wemyacag2rfg2.path
+│   │   │   ├── [ 104 2026-11-18 01:32:24]  4f99j7awon3tlchlzn08.path
+│   │   │   ├── [ 143 2026-11-18 02:15:17]  4fipuw1ybpn35l6ynbya.path
+│   │   │   ├── [ 142 2026-11-18 01:55:47]  4fnzexdzcejechfpomfj.path
+│   │   │   ├── [ 112 2026-11-18 03:13:33]  4fsgedhxca0dr4cg5hg1.path
+│   │   │   ├── [ 104 2026-11-18 01:42:25]  4g3la4rp1gk882j9gznd.path
+│   │   │   ├── [ 103 2026-11-18 01:21:01]  4gr4xkgz1id1biy5oqp3.path
+│   │   │   ├── [ 143 2026-11-18 02:11:24]  4gsa7d61zjam38ji2aae.path
+│   │   │   ├── [ 112 2026-11-18 03:09:25]  4h5qg9or338ado052ati.path
+│   │   │   ├── [ 104 2026-11-18 01:44:17]  4ig3zdj71kiml2oz0se3.path
+│   │   │   ├── [ 142 2026-11-18 02:06:53]  4iw89sukc0u7j17bdi6r.path
+│   │   │   ├── [ 104 2026-11-18 01:35:39]  4js478jdnjzxwlnmnbw3.path
+│   │   │   ├── [ 104 2026-11-18 01:50:23]  4kt9cy8cxs1wwkduoep5.path
+│   │   │   ├── [ 143 2026-11-18 02:22:37]  4kukcbrtujkhfwuo1pk9.path
+│   │   │   ├── [ 112 2026-11-18 03:12:35]  4laxdlwz794d4jyy6y93.path
+│   │   │   ├── [ 103 2026-11-18 01:07:54]  4lz4z6zunxs2uc01iyho.path
+│   │   │   ├── [ 143 2026-11-18 02:16:22]  4m9em7vt0s8dr8lhu3kx.path
+│   │   │   ├── [ 104 2026-11-18 01:35:59]  4ms47tfpa3zurqlhyycw.path
+│   │   │   ├── [ 103 2026-11-18 01:11:30]  4myq1dqb3b47ca4v4kgj.path
+│   │   │   ├── [ 103 2026-11-18 01:09:55]  4n21lfuhfh1eop9ptgvv.path
+│   │   │   ├── [ 103 2026-11-18 01:16:04]  4n5e2mp2as8wfo835f1k.path
+│   │   │   ├── [ 142 2026-11-18 01:53:47]  4nayc3en98ybnoj7v801.path
+│   │   │   ├── [ 104 2026-11-18 01:37:39]  4nm1xicbtpbhrqpyp070.path
+│   │   │   ├── [ 143 2026-11-18 02:11:44]  4o08yrm01d43cjypsrij.path
+│   │   │   ├── [ 103 2026-11-18 01:09:30]  4oc3mycpr9bko8hqyywh.path
+│   │   │   ├── [ 104 2026-11-18 01:44:48]  4p25kv7n8goxfmfdzh84.path
+│   │   │   ├── [ 103 2026-11-18 01:07:19]  4pa3cu0sil1vsly4s318.path
+│   │   │   ├── [ 143 2026-11-18 02:17:04]  4pkxwnsixge27wcoomw4.path
+│   │   │   ├── [ 104 2026-11-18 01:25:59]  4plsav7lmd2q4fxou167.path
+│   │   │   ├── [ 143 2026-11-18 02:14:05]  4pwetmq8068w6gpjz0yy.path
+│   │   │   ├── [ 103 2026-11-18 01:22:56]  4qcz6xqz97kam7vf68rp.path
+│   │   │   ├── [ 103 2026-11-18 01:23:58]  4qmrgkebxlrtlulq5z6v.path
+│   │   │   ├── [ 143 2026-11-18 02:20:40]  4qtcbj77xb4j544ammqs.path
+│   │   │   ├── [ 142 2026-11-18 02:02:45]  4t4cio80zxnqxln0y4so.path
+│   │   │   ├── [ 104 2026-11-18 01:43:33]  4t7czvg8rl38gd1g87jm.path
+│   │   │   ├── [ 143 2026-11-18 02:14:45]  4tu2zjm5unvzc72rxvac.path
+│   │   │   ├── [ 112 2026-11-18 03:10:47]  4u6wvntwkoddzbblkrtv.path
+│   │   │   ├── [ 103 2026-11-18 01:20:28]  4ujqw9nezfffdhn95n8w.path
+│   │   │   ├── [ 142 2026-11-18 02:02:23]  4v5lt828stunr64fv0bf.path
+│   │   │   ├── [ 112 2026-11-18 03:09:12]  4vhej0a5smvqo8pjqh8h.path
+│   │   │   ├── [ 104 2026-11-18 01:36:49]  4voye5dwc3jxqe4vqmb5.path
+│   │   │   ├── [ 143 2026-11-18 02:23:52]  4wdeacnnz7z0iubxnaf2.path
+│   │   │   ├── [ 104 2026-11-18 01:41:55]  4wp9wsdrmze0v87v8g3j.path
+│   │   │   ├── [ 143 2026-11-18 02:20:56]  4wr881a2gy2ds8fdoy8t.path
+│   │   │   ├── [ 112 2026-11-18 03:14:30]  4xdg2kzfw5jhnr6k5k4e.path
+│   │   │   ├── [ 143 2026-11-18 02:23:40]  4xhk8kz4ey0mb8pmcq13.path
+│   │   │   ├── [ 142 2026-11-18 02:06:45]  4yanujisf9vrcp83auy1.path
+│   │   │   ├── [ 104 2026-11-18 01:42:19]  4yqarky14earor5nvp9q.path
+│   │   │   ├── [ 104 2026-11-18 01:33:38]  4z7pw934jkrqz0073wg0.path
+│   │   │   ├── [ 143 2026-11-18 02:13:35]  4zze6reg1059q98wcl1a.path
+│   │   │   ├── [ 143 2026-11-18 02:15:12]  50eqv6qdatra830mbs0s.path
+│   │   │   ├── [ 104 2026-11-18 01:43:25]  50jku2o5fgdz60i2p656.path
+│   │   │   ├── [ 143 2026-11-18 02:20:43]  512t7s4q1c8vn7u7lz70.path
+│   │   │   ├── [ 142 2026-11-18 02:08:25]  5273hqrvle5r9qvzjlck.path
+│   │   │   ├── [ 103 2026-11-18 01:23:29]  52otmh01hta09hfwwnow.path
+│   │   │   ├── [ 104 2026-11-18 01:28:02]  5376rk7vgexn8wu7kuxv.path
+│   │   │   ├── [ 103 2026-11-18 01:16:58]  53s89v7ncs5jog9bnx8z.path
+│   │   │   ├── [ 104 2026-11-18 01:35:49]  547fi8jj6jefbxrsf8pd.path
+│   │   │   ├── [ 103 2026-11-18 01:24:46]  54jg31k0chgvy96cumxr.path
+│   │   │   ├── [ 104 2026-11-18 01:45:27]  54t6sgz0vdcrxo28jhk0.path
+│   │   │   ├── [ 104 2026-11-18 01:24:59]  54v09te2804qk3v55v2u.path
+│   │   │   ├── [ 103 2026-11-18 01:10:54]  56csus3yw2ijsd7kswrp.path
+│   │   │   ├── [ 103 2026-11-18 01:22:36]  56hv59uxts0csyf8t6ks.path
+│   │   │   ├── [ 103 2026-11-18 01:17:10]  57jl7bqfdiyckiyardlz.path
+│   │   │   ├── [ 103 2026-11-18 01:19:06]  57ttawa9is7rz2bw677w.path
+│   │   │   ├── [ 112 2026-11-18 03:10:09]  57uhccp9qbpyn5aj8uwj.path
+│   │   │   ├── [ 143 2026-11-18 02:21:09]  57xjg4p0st9nnm144o2j.path
+│   │   │   ├── [ 142 2026-11-18 02:09:39]  582p0pph34h1rdabzubb.path
+│   │   │   ├── [ 104 2026-11-18 01:30:57]  583v0zb6cqulnrzvertj.path
+│   │   │   ├── [ 142 2026-11-18 02:10:26]  589r3dsvqgcmuwt0fccs.path
+│   │   │   ├── [ 103 2026-11-18 01:20:40]  58kfierqwf5lz7m331pu.path
+│   │   │   ├── [ 142 2026-11-18 01:57:00]  590wzx40u2rykj8vm3zu.path
+│   │   │   ├── [ 142 2026-11-18 02:03:49]  598eephb4pod66887ju5.path
+│   │   │   ├── [ 142 2026-11-18 02:03:16]  59ntqzizqlwoge6oy3qn.path
+│   │   │   ├── [ 143 2026-11-18 02:19:52]  5akgiyz5aeggsr1fkf4q.path
+│   │   │   ├── [ 142 2026-11-18 01:59:51]  5amxambzwyheg1d4yiit.path
+│   │   │   ├── [ 142 2026-11-18 02:03:39]  5c9yxp0w19n21xo9ep8s.path
+│   │   │   ├── [ 142 2026-11-18 01:55:31]  5dh30d5y6ngewb3owljz.path
+│   │   │   ├── [ 143 2026-11-18 02:11:06]  5dkpp9azcefo7ilmnvst.path
+│   │   │   ├── [ 142 2026-11-18 02:03:24]  5eqhxqpzn6akj3bi9ng3.path
+│   │   │   ├── [ 103 2026-11-18 01:17:34]  5f2jakti8sv0o11fkiyo.path
+│   │   │   ├── [ 104 2026-11-18 01:44:28]  5fvfc5fncojtowhggk50.path
+│   │   │   ├── [ 103 2026-11-18 01:07:33]  5gt0ljxjloj2t6istgvd.path
+│   │   │   ├── [ 103 2026-11-18 01:15:28]  5hdytbz5szo9gmteyqc7.path
+│   │   │   ├── [ 103 2026-11-18 01:08:38]  5hx3jeupgjo7i154vp97.path
+│   │   │   ├── [ 142 2026-11-18 02:07:53]  5iky4bkaspmq97p6zwvp.path
+│   │   │   ├── [ 103 2026-11-18 01:23:34]  5lhl8jb1hrx9v38p9gqa.path
+│   │   │   ├── [ 103 2026-11-18 01:11:23]  5lno9lx4cr8m5duchzot.path
+│   │   │   ├── [ 104 2026-11-18 01:40:06]  5lpvmdjdi4p1vac9me61.path
+│   │   │   ├── [ 104 2026-11-18 01:44:43]  5lu8y3vfrq3s4sureunn.path
+│   │   │   ├── [ 142 2026-11-18 02:05:35]  5mxv4t5wsfjeo0wcbrjg.path
+│   │   │   ├── [ 112 2026-11-18 03:09:01]  5n0gyxnfbmg06zms34zo.path
+│   │   │   ├── [ 103 2026-11-18 01:18:11]  5nie5cwhj1jag3n2leul.path
+│   │   │   ├── [ 142 2026-11-18 01:59:12]  5oq75va7z7h1yfevbrio.path
+│   │   │   ├── [ 143 2026-11-18 02:14:12]  5q1hndfje5py1v5iqj4a.path
+│   │   │   ├── [ 104 2026-11-18 01:45:51]  5q2f0zef64evciyiwyo7.path
+│   │   │   ├── [ 143 2026-11-18 02:22:12]  5ql52ptj9fqb9xvfzp84.path
+│   │   │   ├── [ 143 2026-11-18 02:11:53]  5qlgc9gemgg8tt79zaht.path
+│   │   │   ├── [ 142 2026-11-18 02:08:09]  5r1n6xbjwt0jypow115w.path
+│   │   │   ├── [ 103 2026-11-18 01:17:14]  5s2yimny6dxvblo0864z.path
+│   │   │   ├── [ 142 2026-11-18 02:00:04]  5s5tfzr6k2fjocc8jl70.path
+│   │   │   ├── [ 142 2026-11-18 02:08:40]  5slv4cggjqheb0f64gai.path
+│   │   │   ├── [ 143 2026-11-18 02:15:40]  5sz2pzlmrxh4byeve60v.path
+│   │   │   ├── [ 143 2026-11-18 02:21:49]  5t1g1mqw5jnz6cuprjht.path
+│   │   │   ├── [ 103 2026-11-18 01:21:34]  5u01thxc9nhde4d8g08e.path
+│   │   │   ├── [ 103 2026-11-18 01:14:20]  5u1azyzopfwp6l7t38v4.path
+│   │   │   ├── [ 104 2026-11-18 01:43:20]  5vte2hho86jjgpu66yzu.path
+│   │   │   ├── [ 104 2026-11-18 01:44:33]  5wk5zfkmwmpgefe6ioy1.path
+│   │   │   ├── [ 112 2026-11-18 03:09:53]  5wmvr1dyxcgyargpkhi0.path
+│   │   │   ├── [ 104 2026-11-18 01:37:25]  5xruy4d4lstlovjxix35.path
+│   │   │   ├── [ 104 2026-11-18 01:26:25]  5z2ihmsziz2wk7j46ajn.path
+│   │   │   ├── [ 143 2026-11-18 02:20:33]  5zwt93n6ketqot0jru3z.path
+│   │   │   ├── [ 104 2026-11-18 01:36:29]  6042lqn79m6x2lw5rh23.path
+│   │   │   ├── [ 104 2026-11-18 01:33:10]  60nacsy0svbejqkha5n7.path
+│   │   │   ├── [ 143 2026-11-18 02:18:03]  61n42tgzkvmik3hg9efh.path
+│   │   │   ├── [ 142 2026-11-18 02:00:24]  6285zwenha8qv3yofqgn.path
+│   │   │   ├── [ 112 2026-11-18 03:10:14]  635j5yjpqswnha3u10ot.path
+│   │   │   ├── [ 142 2026-11-18 01:58:52]  63a926erehds25e5cyf9.path
+│   │   │   ├── [ 142 2026-11-18 02:08:14]  63ah8fi2jqg3imvrmccv.path
+│   │   │   ├── [ 104 2026-11-18 01:29:13]  63ffo8aelik0yz5cmw0z.path
+│   │   │   ├── [ 104 2026-11-18 01:41:18]  63ni61xnmbqzzmeeesbs.path
+│   │   │   ├── [ 104 2026-11-18 01:38:39]  648ot54kxpkednf3arcx.path
+│   │   │   ├── [ 143 2026-11-18 02:13:27]  64i7rlekiwcm6c0qdlzp.path
+│   │   │   ├── [ 142 2026-11-18 02:08:19]  64uvxcval9elk0ycl7xv.path
+│   │   │   ├── [ 104 2026-11-18 01:27:34]  65a08x5x279ty9e68pky.path
+│   │   │   ├── [ 104 2026-11-18 01:34:04]  65neq4aaxvu6brpy5ro8.path
+│   │   │   ├── [ 103 2026-11-18 01:10:44]  65rp6gci1xkh8y4m8sku.path
+│   │   │   ├── [ 142 2026-11-18 02:03:56]  65tnx7eltrbbu6gbq198.path
+│   │   │   ├── [ 104 2026-11-18 01:44:05]  65u5vqxe2l1l2r7qbx3u.path
+│   │   │   ├── [ 142 2026-11-18 01:52:20]  65xg33mhw5liny3p7665.path
+│   │   │   ├── [ 104 2026-11-18 01:31:47]  6641pxo1c3y4o57ssok4.path
+│   │   │   ├── [ 103 2026-11-18 01:14:03]  66cuj1265fq8mg8jszdk.path
+│   │   │   ├── [ 103 2026-11-18 01:13:35]  66edngl46eppth9aai9h.path
+│   │   │   ├── [ 104 2026-11-18 01:26:06]  66o6whdktvabi8z72dqr.path
+│   │   │   ├── [ 103 2026-11-18 01:12:17]  66ovresyrjoqna2gf4ak.path
+│   │   │   ├── [ 104 2026-11-18 01:28:25]  680unu62q5914m78cfcf.path
+│   │   │   ├── [ 112 2026-11-18 03:05:39]  68ciw5gt1nacwfd6lsm0.path
+│   │   │   ├── [ 143 2026-11-18 02:18:00]  68lk1m49ljahra39q5pk.path
+│   │   │   ├── [ 143 2026-11-18 02:17:08]  68rad5falr1hnk9qawld.path
+│   │   │   ├── [ 103 2026-11-18 01:21:07]  696iz57j1bsvsnwm4xvi.path
+│   │   │   ├── [ 103 2026-11-18 01:16:15]  69me5bmcs1a0k2q1o48n.path
+│   │   │   ├── [ 142 2026-11-18 02:10:37]  6apn5cbe37u2dzmex0x2.path
+│   │   │   ├── [ 142 2026-11-18 01:56:24]  6bw38oxky506n8x938jh.path
+│   │   │   ├── [ 143 2026-11-18 02:20:20]  6bzqmzrdmyeh888umvkw.path
+│   │   │   ├── [ 103 2026-11-18 01:07:09]  6c99uno95wdddkvgb1t7.path
+│   │   │   ├── [ 142 2026-11-18 02:05:14]  6ceh8thec1rpcufzvxa7.path
+│   │   │   ├── [ 104 2026-11-18 01:40:36]  6cn4uotcmlitkbb6nwap.path
+│   │   │   ├── [ 142 2026-11-18 02:07:48]  6djb6f0b7kom6oc80z36.path
+│   │   │   ├── [ 104 2026-11-18 01:30:14]  6djdb5om2i66utj5xtvt.path
+│   │   │   ├── [ 143 2026-11-18 02:20:03]  6dl13lind5839bk7200m.path
+│   │   │   ├── [ 143 2026-11-18 02:24:43]  6l8363vyszp9bnbqkieh.path
+│   │   │   ├── [ 142 2026-11-18 02:00:40]  7dldejnu2rfag3kzpj5e.path
+│   │   │   ├── [ 142 2026-11-18 02:10:17]  7frahxe25pk8ndd2tens.path
+│   │   │   ├── [ 104 2026-11-18 01:28:16]  7jnk2i6f8cpa8tcq2vaj.path
+│   │   │   ├── [ 142 2026-11-18 01:54:30]  8fnj3d9pbh0tisiu7yog.path
+│   │   │   ├── [ 143 2026-11-18 02:22:01]  9arkic051rfgjb74x2ut.path
+│   │   │   ├── [ 143 2026-11-18 02:21:15]  bcthy2q8jkdc9nougrmb.path
+│   │   │   ├── [ 103 2026-11-18 01:16:40]  buym1hn4r86jc6ar3ztv.path
+│   │   │   ├── [ 112 2026-11-18 03:13:07]  cbg0mtd49dmdybiqnc8z.path
+│   │   │   ├── [ 103 2026-11-18 01:10:13]  cd5unnlsmjwlj3uuqapg.path
+│   │   │   ├── [ 143 2026-11-18 02:16:14]  ctin8eywo7qrs5gyybgn.path
+│   │   │   ├── [ 103 2026-11-18 01:08:02]  dat8g3c8b4djsvisoyrk.path
+│   │   │   ├── [ 143 2026-11-18 02:23:18]  dp4fnak7pbhz21ar3iis.path
+│   │   │   ├── [ 112 2026-11-18 03:08:52]  dq1po7kmorwe9ieypd09.path
+│   │   │   ├── [ 104 2026-11-18 01:43:55]  dvcfh79psr3o2vw3pumn.path
+│   │   │   ├── [ 104 2026-11-18 01:27:20]  fep3h7aj4vlzzelhdylw.path
+│   │   │   ├── [ 104 2026-11-18 01:38:19]  fjtlmvb1nnwdje51jme2.path
+│   │   │   ├── [ 112 2026-11-18 03:05:46]  fpbb6yd6ev20m41uke7a.path
+│   │   │   ├── [ 103 2026-11-18 01:22:21]  fui891js0ap9rp8pyy6p.path
+│   │   │   ├── [ 104 2026-11-18 01:36:18]  gbv9jcgfw4392hlbme8w.path
+│   │   │   ├── [ 103 2026-11-18 01:15:44]  hv53zx1vpaouv8sxaue3.path
+│   │   │   ├── [ 143 2026-11-18 02:15:50]  i9g464lp97v69t277dr2.path
+│   │   │   ├── [ 142 2026-11-18 02:04:33]  ic113zkeygeqrc47s5jb.path
+│   │   │   ├── [ 103 2026-11-18 01:17:51]  ienb97nlzt4oqtdny08u.path
+│   │   │   ├── [ 104 2026-11-18 01:32:07]  j9l0cm9ypmpoqkyzgaui.path
+│   │   │   ├── [ 142 2026-11-18 02:09:13]  kcm19eb0lras68a5qrnu.path
+│   │   │   ├── [ 142 2026-11-18 01:57:58]  kthz114jy9bthejs9huy.path
+│   │   │   ├── [ 142 2026-11-18 02:07:36]  kzya50xj9cm65v6bl9ti.path
+│   │   │   ├── [ 143 2026-11-18 02:13:05]  l0q08050a3gqzyn50sw9.path
+│   │   │   ├── [ 103 2026-11-18 01:19:44]  l84e2i31fibwpzk6rky2.path
+│   │   │   ├── [ 143 2026-11-18 02:21:48]  la00ahlu55rzk42em8tm.path
+│   │   │   ├── [ 142 2026-11-18 02:08:33]  lkai6jelzb8rl5ov37ha.path
+│   │   │   ├── [ 112 2026-11-18 03:11:37]  m3cj57qrl6sz3gsugrma.path
+│   │   │   ├── [ 142 2026-11-18 02:00:51]  m7yfmmwc2sf8lm7k13pl.path
+│   │   │   ├── [ 104 2026-11-18 01:25:37]  nl3jjkifmvzhpp4jvfto.path
+│   │   │   ├── [ 104 2026-11-18 01:25:08]  o1xuiu3iso9px7p6ibmx.path
+│   │   │   ├── [ 104 2026-11-18 01:37:51]  o38mwja1lwbaazn3jym5.path
+│   │   │   ├── [ 143 2026-11-18 02:24:21]  ocywwomohacfaimp6rqk.path
+│   │   │   ├── [ 104 2026-11-18 01:33:24]  od2n15qre9jajujr1miw.path
+│   │   │   ├── [ 104 2026-11-18 01:41:12]  ohzrg2fa6soybnvozeh2.path
+│   │   │   ├── [ 104 2026-11-18 01:39:26]  p1kv8lex67j2bf340tvc.path
+│   │   │   ├── [ 112 2026-11-18 03:07:28]  pxt97cnn3jlx8d4zbn7a.path
+│   │   │   ├── [ 142 2026-11-18 02:02:54]  q9i8k5zu4qhlxx3kzpav.path
+│   │   │   ├── [ 142 2026-11-18 02:01:00]  qcuvq75pdl0ubfmmkf6u.path
+│   │   │   ├── [ 103 2026-11-18 01:06:31]  qswl05curr9wm6bz9iev.path
+│   │   │   ├── [ 143 2026-11-18 02:12:10]  qufb3k7a28drvgd4j36n.path
+│   │   │   ├── [ 143 2026-11-18 02:14:28]  r0k3o4avniwza3up2as8.path
+│   │   │   ├── [ 142 2026-11-18 02:08:56]  r2dyvhsscogqlvs4ft2f.path
+│   │   │   ├── [ 143 2026-11-18 02:15:45]  tfiw6xiwi2rb4en1ah42.path
+│   │   │   ├── [ 104 2026-11-18 01:41:38]  tpvaj6de4eh5805gizoo.path
+│   │   │   ├── [ 143 2026-11-18 02:20:09]  v5cab1btmkqmz60pz7fz.path
+│   │   │   ├── [ 104 2026-11-18 01:33:55]  vubmzqtg4z4ngqeq9otj.path
+│   │   │   ├── [ 104 2026-11-18 01:37:12]  vuwzo44zl4yl3oxj5gqp.path
+│   │   │   ├── [ 104 2026-11-18 01:38:07]  wlnbjye8rack04vis8f2.path
+│   │   │   ├── [ 104 2026-11-18 01:45:20]  wx54hgdk8hf57o6osgz2.path
+│   │   │   ├── [ 104 2026-11-18 01:39:31]  x0gd1edn1w0jmllpce48.path
+│   │   │   ├── [ 103 2026-11-18 01:24:07]  xims7aj97pfx4q463t3h.path
+│   │   │   ├── [ 104 2026-11-18 01:41:05]  xtvtybytp0b5mn20ziw7.path
+│   │   │   ├── [ 112 2026-11-18 03:05:36]  xz1d41aljbto1p8hwhry.path
+│   │   │   ├── [ 104 2026-11-18 01:31:50]  ydw2o0a4zi1pr3bc883s.path
+│   │   │   ├── [ 104 2026-11-18 01:36:06]  yjitc5abynmak3ksh50y.path
+│   │   │   ├── [ 142 2026-11-18 02:02:09]  znfrquwbjgcmbqz38v6z.path
+│   │   │   └── [ 103 2026-11-18 01:11:44]  zo6htr40gntpwmt93ztf.path
+│   │   ├── [ 55K 2026-11-18 03:15:18]  mkv_repair_pending.properties
+│   │   ├── [ 85K 2026-11-18 03:14:48]  watch.v1.bin
+│   │   └── [ 85K 2026-11-18 03:14:48]  watch.v1.bin.previous
+│   └── [116K 2026-11-18 03:14:24]  log
+│       ├── [1.9M 2026-11-18 03:14:26]  .mkv_export.log
+│       ├── [2.5K 2026-11-18 03:14:20]  .mkv_player_resolver.log
+│       ├── [3.4K 2026-11-18 03:14:20]  .mkv_subtitle_catalog.log
+│       ├── [1.6K 2026-11-18 03:05:23]  .ناروتو S01 E01 [cnm-1kydo70c1tj0pdsn1j7y].mkv.log
+│       ├── [1.9K 2026-11-18 01:06:31]  .ناروتو S01 E01 [cnm-qswl05curr9wm6bz9iev].mkv.log
+│       ├── [2.0K 2026-11-18 01:06:54]  .ناروتو S01 E02 [cnm-20tzn89ttrw0uyi2iute].mkv.log
+│       ├── [1.6K 2026-11-18 03:05:17]  .ناروتو S01 E02 [cnm-3s4gc5zvj1psc86oomgu].mkv.log
+│       ├── [2.0K 2026-11-18 01:07:00]  .ناروتو S01 E03 [cnm-26zkr1ys99ogl998r2x4].mkv.log
+│       ├── [1.6K 2026-11-18 03:05:32]  .ناروتو S01 E03 [cnm-xz1d41aljbto1p8hwhry].mkv.log
+│       ├── [1.6K 2026-11-18 03:05:38]  .ناروتو S01 E04 [cnm-68ciw5gt1nacwfd6lsm0].mkv.log
+│       ├── [1.9K 2026-11-18 01:07:09]  .ناروتو S01 E04 [cnm-6c99uno95wdddkvgb1t7].mkv.log
+│       ├── [2.0K 2026-11-18 01:07:19]  .ناروتو S01 E05 [cnm-4pa3cu0sil1vsly4s318].mkv.log
+│       ├── [1.6K 2026-11-18 03:05:43]  .ناروتو S01 E05 [cnm-fpbb6yd6ev20m41uke7a].mkv.log
+│       ├── [2.4K 2026-11-18 03:06:14]  .ناروتو S01 E06 [cnm-35l1zm5ytg2dthgfp7uf].mkv.log
+│       ├── [2.0K 2026-11-18 01:07:33]  .ناروتو S01 E06 [cnm-5gt0ljxjloj2t6istgvd].mkv.log
+│       ├── [2.1K 2026-11-18 01:07:39]  .ناروتو S01 E07 [cnm-19i7bzwdte3chbs5qin1].mkv.log
+│       ├── [1.7K 2026-11-18 03:06:19]  .ناروتو S01 E07 [cnm-2m83v1wbcyjvf2hyj8ud].mkv.log
+│       ├── [1.6K 2026-11-18 03:06:54]  .ناروتو S01 E08 [cnm-3rzwk992ojibjxri9wop].mkv.log
+│       ├── [2.1K 2026-11-18 01:08:02]  .ناروتو S01 E08 [cnm-dat8g3c8b4djsvisoyrk].mkv.log
+│       ├── [2.0K 2026-11-18 01:07:54]  .ناروتو S01 E09 [cnm-4lz4z6zunxs2uc01iyho].mkv.log
+│       ├── [1.0K 2026-11-18 03:06:59]  .ناروتو S01 E09 [cnm-66au1sw07t5sfrs0g9oe].mkv.log
+│       ├── [1.6K 2026-11-18 03:07:29]  .ناروتو S01 E10 [cnm-30n702ecx2ybkbnin6v0].mkv.log
+│       ├── [2.4K 2026-11-18 01:08:38]  .ناروتو S01 E10 [cnm-5hx3jeupgjo7i154vp97].mkv.log
+│       ├── [1.9K 2026-11-18 01:25:08]  .ناروتو S01 E100 [cnm-o1xuiu3iso9px7p6ibmx].mkv.log
+│       ├── [1.9K 2026-11-18 01:24:59]  .ناروتو S01 E101 [cnm-54v09te2804qk3v55v2u].mkv.log
+│       ├── [1.9K 2026-11-18 01:25:28]  .ناروتو S01 E102 [cnm-1mqw6auw06mu1lfo7ank].mkv.log
+│       ├── [1.9K 2026-11-18 01:25:37]  .ناروتو S01 E103 [cnm-nl3jjkifmvzhpp4jvfto].mkv.log
+│       ├── [1.9K 2026-11-18 01:25:46]  .ناروتو S01 E104 [cnm-29j2uih1k4rdwkny82a7].mkv.log
+│       ├── [1.9K 2026-11-18 01:25:59]  .ناروتو S01 E105 [cnm-4plsav7lmd2q4fxou167].mkv.log
+│       ├── [1.9K 2026-11-18 01:26:06]  .ناروتو S01 E106 [cnm-66o6whdktvabi8z72dqr].mkv.log
+│       ├── [1.9K 2026-11-18 01:26:25]  .ناروتو S01 E107 [cnm-5z2ihmsziz2wk7j46ajn].mkv.log
+│       ├── [1.9K 2026-11-18 01:26:34]  .ناروتو S01 E108 [cnm-3carvns6ubnutw97alnq].mkv.log
+│       ├── [1.9K 2026-11-18 01:26:55]  .ناروتو S01 E109 [cnm-45i8gqoqr76qs8fdt4ak].mkv.log
+│       ├── [2.0K 2026-11-18 01:08:11]  .ناروتو S01 E11 [cnm-2nv62q4696dzy644n05w].mkv.log
+│       ├── [1.6K 2026-11-18 03:07:24]  .ناروتو S01 E11 [cnm-pxt97cnn3jlx8d4zbn7a].mkv.log
+│       ├── [1.9K 2026-11-18 01:27:08]  .ناروتو S01 E110 [cnm-322d0fg2hdg07cjmzxo0].mkv.log
+│       ├── [1.9K 2026-11-18 01:27:20]  .ناروتو S01 E111 [cnm-fep3h7aj4vlzzelhdylw].mkv.log
+│       ├── [1.9K 2026-11-18 01:27:34]  .ناروتو S01 E112 [cnm-65a08x5x279ty9e68pky].mkv.log
+│       ├── [1.9K 2026-11-18 01:27:54]  .ناروتو S01 E113 [cnm-377ugy11x1zihy5sr219].mkv.log
+│       ├── [1.9K 2026-11-18 01:28:02]  .ناروتو S01 E114 [cnm-5376rk7vgexn8wu7kuxv].mkv.log
+│       ├── [1.9K 2026-11-18 01:28:16]  .ناروتو S01 E115 [cnm-7jnk2i6f8cpa8tcq2vaj].mkv.log
+│       ├── [2.2K 2026-11-18 01:28:25]  .ناروتو S01 E116 [cnm-680unu62q5914m78cfcf].mkv.log
+│       ├── [1.9K 2026-11-18 01:28:43]  .ناروتو S01 E117 [cnm-3lts2hxq6hty31d7sqon].mkv.log
+│       ├── [1.9K 2026-11-18 01:28:47]  .ناروتو S01 E118 [cnm-1zuqnc8nd2khim22070i].mkv.log
+│       ├── [1.9K 2026-11-18 01:28:58]  .ناروتو S01 E119 [cnm-1niqtc8gw5w0yfrg6dm6].mkv.log
+│       ├── [1.9K 2026-11-18 01:09:23]  .ناروتو S01 E12 [cnm-3jtfupyemh8w6mi5t9nt].mkv.log
+│       ├── [1.6K 2026-11-18 03:10:30]  .ناروتو S01 E12 [cnm-43nz2aezjif8tqp5ifor].mkv.log
+│       ├── [1.9K 2026-11-18 01:29:13]  .ناروتو S01 E120 [cnm-63ffo8aelik0yz5cmw0z].mkv.log
+│       ├── [1.9K 2026-11-18 01:29:19]  .ناروتو S01 E121 [cnm-2ra60du6x7o3wlc2lk7v].mkv.log
+│       ├── [1.9K 2026-11-18 01:29:39]  .ناروتو S01 E122 [cnm-1p0qq4a333numnqsh3q7].mkv.log
+│       ├── [1.9K 2026-11-18 01:29:44]  .ناروتو S01 E123 [cnm-2qw16wiyoxv7v5dvahpt].mkv.log
+│       ├── [1.9K 2026-11-18 01:30:14]  .ناروتو S01 E124 [cnm-6djdb5om2i66utj5xtvt].mkv.log
+│       ├── [1.9K 2026-11-18 01:30:00]  .ناروتو S01 E125 [cnm-27t19f48ekim5hn74cbl].mkv.log
+│       ├── [1.9K 2026-11-18 01:30:45]  .ناروتو S01 E126 [cnm-1brptia3sbs3vg8we85s].mkv.log
+│       ├── [1.9K 2026-11-18 01:30:57]  .ناروتو S01 E127 [cnm-583v0zb6cqulnrzvertj].mkv.log
+│       ├── [1.9K 2026-11-18 01:31:09]  .ناروتو S01 E128 [cnm-1uj7kqr01ou6foulq3ot].mkv.log
+│       ├── [1.9K 2026-11-18 01:31:19]  .ناروتو S01 E129 [cnm-3d36mikh3z7k1jeg0or7].mkv.log
+│       ├── [1.9K 2026-11-18 01:09:16]  .ناروتو S01 E13 [cnm-2s2lm3r8j79nnnneacdh].mkv.log
+│       ├── [1.6K 2026-11-18 03:10:35]  .ناروتو S01 E13 [cnm-2yha8yvsboylwl7zg96n].mkv.log
+│       ├── [1.9K 2026-11-18 01:31:23]  .ناروتو S01 E130 [cnm-3avtkkm7o3hrfyge7yjc].mkv.log
+│       ├── [1.9K 2026-11-18 01:31:36]  .ناروتو S01 E131 [cnm-4at8t9cnlo9o1zlrfrhj].mkv.log
+│       ├── [1.9K 2026-11-18 01:31:47]  .ناروتو S01 E132 [cnm-6641pxo1c3y4o57ssok4].mkv.log
+│       ├── [1.9K 2026-11-18 01:31:50]  .ناروتو S01 E133 [cnm-ydw2o0a4zi1pr3bc883s].mkv.log
+│       ├── [1.9K 2026-11-18 01:32:07]  .ناروتو S01 E134 [cnm-j9l0cm9ypmpoqkyzgaui].mkv.log
+│       ├── [1.9K 2026-11-18 01:32:01]  .ناروتو S01 E135 [cnm-3vd1j2we2uh5dnlo7y80].mkv.log
+│       ├── [1.9K 2026-11-18 01:32:29]  .ناروتو S01 E136 [cnm-32fin0r8nc891omdepas].mkv.log
+│       ├── [1.9K 2026-11-18 01:32:24]  .ناروتو S01 E137 [cnm-4f99j7awon3tlchlzn08].mkv.log
+│       ├── [1.9K 2026-11-18 01:32:42]  .ناروتو S01 E138 [cnm-34rzf02jblruxmdl8fb2].mkv.log
+│       ├── [1.9K 2026-11-18 01:32:47]  .ناروتو S01 E139 [cnm-2v0d7psp854d6xj5qzq8].mkv.log
+│       ├── [1.6K 2026-11-18 03:08:19]  .ناروتو S01 E14 [cnm-4dpc554wemyacag2rfg2].mkv.log
+│       ├── [1.9K 2026-11-18 01:09:30]  .ناروتو S01 E14 [cnm-4oc3mycpr9bko8hqyywh].mkv.log
+│       ├── [1.9K 2026-11-18 01:32:53]  .ناروتو S01 E140 [cnm-2snr9yu5si2imbe774a8].mkv.log
+│       ├── [1.9K 2026-11-18 01:33:05]  .ناروتو S01 E141 [cnm-1fak6c5gj8vfv6yg9fdy].mkv.log
+│       ├── [2.2K 2026-11-18 01:33:10]  .ناروتو S01 E142 [cnm-60nacsy0svbejqkha5n7].mkv.log
+│       ├── [2.2K 2026-11-18 01:33:24]  .ناروتو S01 E143 [cnm-od2n15qre9jajujr1miw].mkv.log
+│       ├── [1.9K 2026-11-18 01:33:43]  .ناروتو S01 E144 [cnm-2pkh70935d5qlmguqr7l].mkv.log
+│       ├── [1.9K 2026-11-18 01:33:38]  .ناروتو S01 E145 [cnm-4z7pw934jkrqz0073wg0].mkv.log
+│       ├── [1.9K 2026-11-18 01:34:04]  .ناروتو S01 E146 [cnm-65neq4aaxvu6brpy5ro8].mkv.log
+│       ├── [2.2K 2026-11-18 01:33:55]  .ناروتو S01 E147 [cnm-vubmzqtg4z4ngqeq9otj].mkv.log
+│       ├── [1.9K 2026-11-18 01:34:20]  .ناروتو S01 E148 [cnm-2958s5xlj6mv0c0f1yz3].mkv.log
+│       ├── [1.9K 2026-11-18 01:34:31]  .ناروتو S01 E149 [cnm-434s3ghbmsqv55liqjst].mkv.log
+│       ├── [1.9K 2026-11-18 01:09:38]  .ناروتو S01 E15 [cnm-255bi0t57ooygecpyyor].mkv.log
+│       ├── [1.6K 2026-11-18 03:08:26]  .ناروتو S01 E15 [cnm-2x202whbcup01c1wn3tm].mkv.log
+│       ├── [1.9K 2026-11-18 01:34:44]  .ناروتو S01 E150 [cnm-1lcc71b0bt2swj7hgwyg].mkv.log
+│       ├── [1.9K 2026-11-18 01:34:51]  .ناروتو S01 E151 [cnm-11mdmt5c622ga4jc7wb7].mkv.log
+│       ├── [1.9K 2026-11-18 01:35:09]  .ناروتو S01 E152 [cnm-2k8dbzgto6a2m46mgkw3].mkv.log
+│       ├── [1.9K 2026-11-18 01:35:14]  .ناروتو S01 E153 [cnm-3arp8wxdasxdgi8uppo3].mkv.log
+│       ├── [1.9K 2026-11-18 01:35:33]  .ناروتو S01 E154 [cnm-43qyzj578b40os0yyd1k].mkv.log
+│       ├── [1.9K 2026-11-18 01:35:39]  .ناروتو S01 E155 [cnm-4js478jdnjzxwlnmnbw3].mkv.log
+│       ├── [1.9K 2026-11-18 01:35:49]  .ناروتو S01 E156 [cnm-547fi8jj6jefbxrsf8pd].mkv.log
+│       ├── [1.9K 2026-11-18 01:35:59]  .ناروتو S01 E157 [cnm-4ms47tfpa3zurqlhyycw].mkv.log
+│       ├── [1.9K 2026-11-18 01:36:06]  .ناروتو S01 E158 [cnm-yjitc5abynmak3ksh50y].mkv.log
+│       ├── [1.9K 2026-11-18 01:36:18]  .ناروتو S01 E159 [cnm-gbv9jcgfw4392hlbme8w].mkv.log
+│       ├── [1.6K 2026-11-18 03:08:35]  .ناروتو S01 E16 [cnm-2g3ahtv5d4o2lycty7ob].mkv.log
+│       ├── [1.9K 2026-11-18 01:09:55]  .ناروتو S01 E16 [cnm-4n21lfuhfh1eop9ptgvv].mkv.log
+│       ├── [1.9K 2026-11-18 01:36:29]  .ناروتو S01 E160 [cnm-6042lqn79m6x2lw5rh23].mkv.log
+│       ├── [1.9K 2026-11-18 01:36:49]  .ناروتو S01 E161 [cnm-4voye5dwc3jxqe4vqmb5].mkv.log
+│       ├── [1.9K 2026-11-18 01:36:54]  .ناروتو S01 E162 [cnm-104zv0oq78v591etxzrk].mkv.log
+│       ├── [1.9K 2026-11-18 01:37:12]  .ناروتو S01 E163 [cnm-vuwzo44zl4yl3oxj5gqp].mkv.log
+│       ├── [1.9K 2026-11-18 01:37:16]  .ناروتو S01 E164 [cnm-3i6as4prz5xz6n833lj8].mkv.log
+│       ├── [1.9K 2026-11-18 01:37:25]  .ناروتو S01 E165 [cnm-5xruy4d4lstlovjxix35].mkv.log
+│       ├── [1.9K 2026-11-18 01:37:39]  .ناروتو S01 E166 [cnm-4nm1xicbtpbhrqpyp070].mkv.log
+│       ├── [1.9K 2026-11-18 01:37:51]  .ناروتو S01 E167 [cnm-o38mwja1lwbaazn3jym5].mkv.log
+│       ├── [2.2K 2026-11-18 01:38:07]  .ناروتو S01 E168 [cnm-wlnbjye8rack04vis8f2].mkv.log
+│       ├── [1.9K 2026-11-18 01:38:19]  .ناروتو S01 E169 [cnm-fjtlmvb1nnwdje51jme2].mkv.log
+│       ├── [1.9K 2026-11-18 01:09:44]  .ناروتو S01 E17 [cnm-38qn9vfkyffwdxhq47c5].mkv.log
+│       ├── [1.6K 2026-11-18 03:08:49]  .ناروتو S01 E17 [cnm-dq1po7kmorwe9ieypd09].mkv.log
+│       ├── [1.9K 2026-11-18 01:38:26]  .ناروتو S01 E170 [cnm-1nal9oxqe15dvx6au1y4].mkv.log
+│       ├── [1.9K 2026-11-18 01:38:39]  .ناروتو S01 E171 [cnm-648ot54kxpkednf3arcx].mkv.log
+│       ├── [1.9K 2026-11-18 01:38:53]  .ناروتو S01 E172 [cnm-3hs3bghx817e8pvdl2sz].mkv.log
+│       ├── [1.9K 2026-11-18 01:39:07]  .ناروتو S01 E173 [cnm-21ki3ccxcdt3jeomsi36].mkv.log
+│       ├── [1.9K 2026-11-18 01:39:26]  .ناروتو S01 E174 [cnm-p1kv8lex67j2bf340tvc].mkv.log
+│       ├── [1.9K 2026-11-18 01:39:31]  .ناروتو S01 E175 [cnm-x0gd1edn1w0jmllpce48].mkv.log
+│       ├── [1.9K 2026-11-18 01:40:06]  .ناروتو S01 E176 [cnm-5lpvmdjdi4p1vac9me61].mkv.log
+│       ├── [1.9K 2026-11-18 01:40:13]  .ناروتو S01 E177 [cnm-2d1gt4092gkx3y08aa2f].mkv.log
+│       ├── [1.9K 2026-11-18 01:40:36]  .ناروتو S01 E178 [cnm-6cn4uotcmlitkbb6nwap].mkv.log
+│       ├── [1.9K 2026-11-18 01:40:28]  .ناروتو S01 E179 [cnm-22kysmd4zail682k5rje].mkv.log
+│       ├── [1.6K 2026-11-18 03:10:42]  .ناروتو S01 E18 [cnm-4u6wvntwkoddzbblkrtv].mkv.log
+│       ├── [1.9K 2026-11-18 01:10:13]  .ناروتو S01 E18 [cnm-cd5unnlsmjwlj3uuqapg].mkv.log
+│       ├── [1.9K 2026-11-18 01:40:52]  .ناروتو S01 E180 [cnm-3x18toth7axhajnhahfi].mkv.log
+│       ├── [1.9K 2026-11-18 01:40:46]  .ناروتو S01 E181 [cnm-2xudkixqiac9tlkiwn2q].mkv.log
+│       ├── [1.9K 2026-11-18 01:41:05]  .ناروتو S01 E182 [cnm-xtvtybytp0b5mn20ziw7].mkv.log
+│       ├── [1.9K 2026-11-18 01:41:12]  .ناروتو S01 E183 [cnm-ohzrg2fa6soybnvozeh2].mkv.log
+│       ├── [1.9K 2026-11-18 01:41:18]  .ناروتو S01 E184 [cnm-63ni61xnmbqzzmeeesbs].mkv.log
+│       ├── [1.9K 2026-11-18 01:41:38]  .ناروتو S01 E185 [cnm-tpvaj6de4eh5805gizoo].mkv.log
+│       ├── [1.9K 2026-11-18 01:41:43]  .ناروتو S01 E186 [cnm-24qxm6wbr00p0zjo1f1i].mkv.log
+│       ├── [1.9K 2026-11-18 01:41:55]  .ناروتو S01 E187 [cnm-4wp9wsdrmze0v87v8g3j].mkv.log
+│       ├── [1.9K 2026-11-18 01:42:01]  .ناروتو S01 E188 [cnm-2jhkhbuhp12c9u8t5b6b].mkv.log
+│       ├── [1.9K 2026-11-18 01:42:19]  .ناروتو S01 E189 [cnm-4yqarky14earor5nvp9q].mkv.log
+│       ├── [1.9K 2026-11-18 01:10:33]  .ناروتو S01 E19 [cnm-1rokx42v4p1noa8qsq9j].mkv.log
+│       ├── [1.6K 2026-11-18 03:08:57]  .ناروتو S01 E19 [cnm-5n0gyxnfbmg06zms34zo].mkv.log
+│       ├── [1.9K 2026-11-18 01:42:25]  .ناروتو S01 E190 [cnm-4g3la4rp1gk882j9gznd].mkv.log
+│       ├── [1.9K 2026-11-18 01:42:44]  .ناروتو S01 E191 [cnm-2ffmjt4d3hkbf88lxwaj].mkv.log
+│       ├── [1.9K 2026-11-18 01:42:40]  .ناروتو S01 E192 [cnm-3lz8uuir8zmuzinr1krn].mkv.log
+│       ├── [1.9K 2026-11-18 01:43:00]  .ناروتو S01 E193 [cnm-1wl5emvdj68zfqjnr1x2].mkv.log
+│       ├── [2.2K 2026-11-18 01:43:05]  .ناروتو S01 E194 [cnm-21ap8kjarbf91yoj0gci].mkv.log
+│       ├── [1.9K 2026-11-18 01:43:25]  .ناروتو S01 E195 [cnm-50jku2o5fgdz60i2p656].mkv.log
+│       ├── [1.9K 2026-11-18 01:43:20]  .ناروتو S01 E196 [cnm-5vte2hho86jjgpu66yzu].mkv.log
+│       ├── [1.9K 2026-11-18 01:43:33]  .ناروتو S01 E197 [cnm-4t7czvg8rl38gd1g87jm].mkv.log
+│       ├── [2.2K 2026-11-18 01:43:47]  .ناروتو S01 E198 [cnm-1e1h3nm18t53sgtoc0sp].mkv.log
+│       ├── [1.9K 2026-11-18 01:43:55]  .ناروتو S01 E199 [cnm-dvcfh79psr3o2vw3pumn].mkv.log
+│       ├── [1.9K 2026-11-18 01:10:54]  .ناروتو S01 E20 [cnm-56csus3yw2ijsd7kswrp].mkv.log
+│       ├── [1.6K 2026-11-18 03:10:10]  .ناروتو S01 E20 [cnm-635j5yjpqswnha3u10ot].mkv.log
+│       ├── [2.2K 2026-11-18 01:44:05]  .ناروتو S01 E200 [cnm-65u5vqxe2l1l2r7qbx3u].mkv.log
+│       ├── [1.9K 2026-11-18 01:44:17]  .ناروتو S01 E201 [cnm-4ig3zdj71kiml2oz0se3].mkv.log
+│       ├── [1.9K 2026-11-18 01:44:28]  .ناروتو S01 E202 [cnm-5fvfc5fncojtowhggk50].mkv.log
+│       ├── [1.9K 2026-11-18 01:44:33]  .ناروتو S01 E203 [cnm-5wk5zfkmwmpgefe6ioy1].mkv.log
+│       ├── [2.2K 2026-11-18 01:44:43]  .ناروتو S01 E204 [cnm-5lu8y3vfrq3s4sureunn].mkv.log
+│       ├── [1.9K 2026-11-18 01:44:48]  .ناروتو S01 E205 [cnm-4p25kv7n8goxfmfdzh84].mkv.log
+│       ├── [1.9K 2026-11-18 01:45:01]  .ناروتو S01 E206 [cnm-157onifhvq6f18bmlkr0].mkv.log
+│       ├── [1.9K 2026-11-18 01:45:06]  .ناروتو S01 E207 [cnm-3ildrrimrjlk6x611v1a].mkv.log
+│       ├── [1.9K 2026-11-18 01:45:27]  .ناروتو S01 E208 [cnm-54t6sgz0vdcrxo28jhk0].mkv.log
+│       ├── [2.2K 2026-11-18 01:45:20]  .ناروتو S01 E209 [cnm-wx54hgdk8hf57o6osgz2].mkv.log
+│       ├── [1.6K 2026-11-18 03:11:02]  .ناروتو S01 E21 [cnm-3es4rn8pxd2o0c4ck9m3].mkv.log
+│       ├── [1.9K 2026-11-18 01:10:44]  .ناروتو S01 E21 [cnm-65rp6gci1xkh8y4m8sku].mkv.log
+│       ├── [1.9K 2026-11-18 01:45:41]  .ناروتو S01 E210 [cnm-4c11p4goj3188gm44exe].mkv.log
+│       ├── [2.2K 2026-11-18 01:45:45]  .ناروتو S01 E211 [cnm-35k2v1akgv29d6vw3yzz].mkv.log
+│       ├── [1.9K 2026-11-18 01:45:51]  .ناروتو S01 E212 [cnm-5q2f0zef64evciyiwyo7].mkv.log
+│       ├── [1.9K 2026-11-18 01:46:07]  .ناروتو S01 E213 [cnm-2mi0qycoavvcnosgxgwk].mkv.log
+│       ├── [1.9K 2026-11-18 01:46:15]  .ناروتو S01 E214 [cnm-2z35eso40aqws2twzxk0].mkv.log
+│       ├── [2.1K 2026-11-18 01:48:14]  .ناروتو S01 E215 [cnm-4cqj5l1rcy674uv9d3nb].mkv.log
+│       ├── [2.1K 2026-11-18 01:48:48]  .ناروتو S01 E216 [cnm-3hfmfr2cii44mnmq862r].mkv.log
+│       ├── [2.0K 2026-11-18 01:49:58]  .ناروتو S01 E217 [cnm-3fcvlw28en0lbispu3ur].mkv.log
+│       ├── [1.9K 2026-11-18 01:49:12]  .ناروتو S01 E218 [cnm-1etdm2k7riykq87fxjcb].mkv.log
+│       ├── [1.9K 2026-11-18 01:50:23]  .ناروتو S01 E219 [cnm-4kt9cy8cxs1wwkduoep5].mkv.log
+│       ├── [1.9K 2026-11-18 01:11:03]  .ناروتو S01 E22 [cnm-3qkzu8t5je9cqwvvd8kz].mkv.log
+│       ├── [1.6K 2026-11-18 03:11:31]  .ناروتو S01 E22 [cnm-m3cj57qrl6sz3gsugrma].mkv.log
+│       ├── [2.0K 2026-11-18 01:51:43]  .ناروتو S01 E220 [cnm-1dcstvutwl86aj9y4wu5].mkv.log
+│       ├── [1.9K 2026-11-18 01:11:14]  .ناروتو S01 E23 [cnm-24xxsqvc7qtlj1l0snux].mkv.log
+│       ├── [1.6K 2026-11-18 03:12:00]  .ناروتو S01 E23 [cnm-3ldwkmlbp52guy96hrt4].mkv.log
+│       ├── [1.6K 2026-11-18 03:12:29]  .ناروتو S01 E24 [cnm-4laxdlwz794d4jyy6y93].mkv.log
+│       ├── [1.9K 2026-11-18 01:11:23]  .ناروتو S01 E24 [cnm-5lno9lx4cr8m5duchzot].mkv.log
+│       ├── [1.6K 2026-11-18 03:09:20]  .ناروتو S01 E25 [cnm-4h5qg9or338ado052ati].mkv.log
+│       ├── [1.9K 2026-11-18 01:11:30]  .ناروتو S01 E25 [cnm-4myq1dqb3b47ca4v4kgj].mkv.log
+│       ├── [1.9K 2026-11-18 01:11:38]  .ناروتو S01 E26 [cnm-3y8v4f1s2jwg0rotimo8].mkv.log
+│       ├── [1.6K 2026-11-18 03:09:09]  .ناروتو S01 E26 [cnm-4vhej0a5smvqo8pjqh8h].mkv.log
+│       ├── [1.6K 2026-11-18 03:09:37]  .ناروتو S01 E27 [cnm-2ua1zzyhjn78mow39opz].mkv.log
+│       ├── [2.2K 2026-11-18 01:11:44]  .ناروتو S01 E27 [cnm-zo6htr40gntpwmt93ztf].mkv.log
+│       ├── [1.9K 2026-11-18 01:11:50]  .ناروتو S01 E28 [cnm-25c45j5ymlnv9hka5m7y].mkv.log
+│       ├── [1.6K 2026-11-18 03:09:46]  .ناروتو S01 E28 [cnm-5wmvr1dyxcgyargpkhi0].mkv.log
+│       ├── [1.9K 2026-11-18 01:11:54]  .ناروتو S01 E29 [cnm-1uw8i69ycqmrbwcaloax].mkv.log
+│       ├── [1.6K 2026-11-18 03:13:00]  .ناروتو S01 E29 [cnm-cbg0mtd49dmdybiqnc8z].mkv.log
+│       ├── [1.9K 2026-11-18 01:12:01]  .ناروتو S01 E30 [cnm-2swe0zopz45ktjhtc4gt].mkv.log
+│       ├── [1.6K 2026-11-18 03:10:05]  .ناروتو S01 E30 [cnm-57uhccp9qbpyn5aj8uwj].mkv.log
+│       ├── [1.9K 2026-11-18 01:12:10]  .ناروتو S01 E31 [cnm-3wbm8nkmpj8a7sbl245z].mkv.log
+│       ├── [1.6K 2026-11-18 03:13:27]  .ناروتو S01 E31 [cnm-4fsgedhxca0dr4cg5hg1].mkv.log
+│       ├── [1.6K 2026-11-18 03:13:52]  .ناروتو S01 E32 [cnm-1zxyobfwdi5zjdq5xtfe].mkv.log
+│       ├── [1.9K 2026-11-18 01:12:17]  .ناروتو S01 E32 [cnm-66ovresyrjoqna2gf4ak].mkv.log
+│       ├── [1.9K 2026-11-18 01:12:41]  .ناروتو S01 E33 [cnm-14l1qqyjy97c67bjzhe1].mkv.log
+│       ├── [1.6K 2026-11-18 03:14:15]  .ناروتو S01 E33 [cnm-1mtmboxr72yrm5abkkoc].mkv.log
+│       ├── [1.6K 2026-11-18 03:14:19]  .ناروتو S01 E34 [cnm-1w17jz65iqxs1zf1cper].mkv.log
+│       ├── [1.9K 2026-11-18 01:12:46]  .ناروتو S01 E34 [cnm-2umrmxubddrrgih7r9e6].mkv.log
+│       ├── [1.9K 2026-11-18 01:13:11]  .ناروتو S01 E35 [cnm-2biq5d90b85u5kfxpzb5].mkv.log
+│       ├── [1.6K 2026-11-18 03:14:26]  .ناروتو S01 E35 [cnm-4xdg2kzfw5jhnr6k5k4e].mkv.log
+│       ├── [1.9K 2026-11-18 01:13:16]  .ناروتو S01 E36 [cnm-2xjnbx6ggtqpjhkvvgpd].mkv.log
+│       ├── [1.9K 2026-11-18 01:13:35]  .ناروتو S01 E37 [cnm-66edngl46eppth9aai9h].mkv.log
+│       ├── [1.9K 2026-11-18 01:13:40]  .ناروتو S01 E38 [cnm-22ede24fvynwus308wun].mkv.log
+│       ├── [1.9K 2026-11-18 01:13:56]  .ناروتو S01 E39 [cnm-143hat9uc5e9b2dkaq9c].mkv.log
+│       ├── [1.9K 2026-11-18 01:14:03]  .ناروتو S01 E40 [cnm-66cuj1265fq8mg8jszdk].mkv.log
+│       ├── [1.9K 2026-11-18 01:14:10]  .ناروتو S01 E41 [cnm-1azwgjegero634cbxl6a].mkv.log
+│       ├── [1.9K 2026-11-18 01:14:20]  .ناروتو S01 E42 [cnm-5u1azyzopfwp6l7t38v4].mkv.log
+│       ├── [1.9K 2026-11-18 01:14:38]  .ناروتو S01 E43 [cnm-2h8r3orgph1xxs4yxku0].mkv.log
+│       ├── [1.9K 2026-11-18 01:14:44]  .ناروتو S01 E44 [cnm-3pil2uzqvj6kd4jgorx1].mkv.log
+│       ├── [1.9K 2026-11-18 01:15:07]  .ناروتو S01 E45 [cnm-4czb0enzcoet3c57gct4].mkv.log
+│       ├── [1.9K 2026-11-18 01:15:02]  .ناروتو S01 E46 [cnm-1k0tq61u5fg3a5g4a7oo].mkv.log
+│       ├── [1.9K 2026-11-18 01:15:22]  .ناروتو S01 E47 [cnm-3ti717pjale5020ze7la].mkv.log
+│       ├── [1.9K 2026-11-18 01:15:28]  .ناروتو S01 E48 [cnm-5hdytbz5szo9gmteyqc7].mkv.log
+│       ├── [1.9K 2026-11-18 01:15:44]  .ناروتو S01 E49 [cnm-hv53zx1vpaouv8sxaue3].mkv.log
+│       ├── [1.9K 2026-11-18 01:15:58]  .ناروتو S01 E50 [cnm-28ovimbq0vc1z99bv5r6].mkv.log
+│       ├── [1.9K 2026-11-18 01:16:04]  .ناروتو S01 E51 [cnm-4n5e2mp2as8wfo835f1k].mkv.log
+│       ├── [1.9K 2026-11-18 01:16:15]  .ناروتو S01 E52 [cnm-69me5bmcs1a0k2q1o48n].mkv.log
+│       ├── [1.9K 2026-11-18 01:16:20]  .ناروتو S01 E53 [cnm-2hmxr1s2v5kqgeim5hpf].mkv.log
+│       ├── [1.9K 2026-11-18 01:16:34]  .ناروتو S01 E54 [cnm-20o6x6khycmoawui3n8u].mkv.log
+│       ├── [1.9K 2026-11-18 01:16:40]  .ناروتو S01 E55 [cnm-buym1hn4r86jc6ar3ztv].mkv.log
+│       ├── [1.9K 2026-11-18 01:16:52]  .ناروتو S01 E56 [cnm-3tapddkgjj64o7aggpm3].mkv.log
+│       ├── [1.9K 2026-11-18 01:16:58]  .ناروتو S01 E57 [cnm-53s89v7ncs5jog9bnx8z].mkv.log
+│       ├── [1.9K 2026-11-18 01:17:14]  .ناروتو S01 E58 [cnm-5s2yimny6dxvblo0864z].mkv.log
+│       ├── [1.9K 2026-11-18 01:17:10]  .ناروتو S01 E59 [cnm-57jl7bqfdiyckiyardlz].mkv.log
+│       ├── [1.9K 2026-11-18 01:17:34]  .ناروتو S01 E60 [cnm-5f2jakti8sv0o11fkiyo].mkv.log
+│       ├── [1.9K 2026-11-18 01:17:27]  .ناروتو S01 E61 [cnm-3khxx1vtmu18ya3kles6].mkv.log
+│       ├── [1.9K 2026-11-18 01:17:51]  .ناروتو S01 E62 [cnm-ienb97nlzt4oqtdny08u].mkv.log
+│       ├── [1.9K 2026-11-18 01:17:56]  .ناروتو S01 E63 [cnm-29uw7u1t7t4rkq8jkumk].mkv.log
+│       ├── [1.9K 2026-11-18 01:18:18]  .ناروتو S01 E64 [cnm-3n99vdyy008mhmes0ogn].mkv.log
+│       ├── [1.9K 2026-11-18 01:18:11]  .ناروتو S01 E65 [cnm-5nie5cwhj1jag3n2leul].mkv.log
+│       ├── [1.9K 2026-11-18 01:18:36]  .ناروتو S01 E66 [cnm-29afczrqhnm909684j7o].mkv.log
+│       ├── [1.9K 2026-11-18 01:18:46]  .ناروتو S01 E67 [cnm-1b3vxmg701nyqguezdkk].mkv.log
+│       ├── [1.9K 2026-11-18 01:18:59]  .ناروتو S01 E68 [cnm-3z6qygpiheatztx5hq3f].mkv.log
+│       ├── [1.9K 2026-11-18 01:19:06]  .ناروتو S01 E69 [cnm-57ttawa9is7rz2bw677w].mkv.log
+│       ├── [1.9K 2026-11-18 01:19:31]  .ناروتو S01 E70 [cnm-3z2opzpqg8uubfshmh2h].mkv.log
+│       ├── [1.9K 2026-11-18 01:19:18]  .ناروتو S01 E71 [cnm-46a1d9jck1j94ll37lkz].mkv.log
+│       ├── [1.9K 2026-11-18 01:19:44]  .ناروتو S01 E72 [cnm-l84e2i31fibwpzk6rky2].mkv.log
+│       ├── [1.9K 2026-11-18 01:19:57]  .ناروتو S01 E73 [cnm-47bci6vb2q4rmo63risl].mkv.log
+│       ├── [1.9K 2026-11-18 01:20:09]  .ناروتو S01 E74 [cnm-4dhuancnuy2qrs0cw2fm].mkv.log
+│       ├── [1.9K 2026-11-18 01:20:28]  .ناروتو S01 E75 [cnm-4ujqw9nezfffdhn95n8w].mkv.log
+│       ├── [1.9K 2026-11-18 01:20:40]  .ناروتو S01 E76 [cnm-58kfierqwf5lz7m331pu].mkv.log
+│       ├── [1.9K 2026-11-18 01:21:01]  .ناروتو S01 E77 [cnm-4gr4xkgz1id1biy5oqp3].mkv.log
+│       ├── [1.9K 2026-11-18 01:20:56]  .ناروتو S01 E78 [cnm-2a06boh2l31jwpxplbmr].mkv.log
+│       ├── [1.9K 2026-11-18 01:21:13]  .ناروتو S01 E79 [cnm-3hofm4xa5mxlbq55cimy].mkv.log
+│       ├── [1.9K 2026-11-18 01:21:07]  .ناروتو S01 E80 [cnm-696iz57j1bsvsnwm4xvi].mkv.log
+│       ├── [1.9K 2026-11-18 01:21:34]  .ناروتو S01 E81 [cnm-5u01thxc9nhde4d8g08e].mkv.log
+│       ├── [1.9K 2026-11-18 01:21:28]  .ناروتو S01 E82 [cnm-3533o18mr650urjk90c0].mkv.log
+│       ├── [1.9K 2026-11-18 01:21:50]  .ناروتو S01 E83 [cnm-221l9rlulut7wi9ugc30].mkv.log
+│       ├── [1.9K 2026-11-18 01:21:43]  .ناروتو S01 E84 [cnm-1pp39mds2srzbvj9c2mz].mkv.log
+│       ├── [1.9K 2026-11-18 01:22:00]  .ناروتو S01 E85 [cnm-2u6onbogwu99pi14hmou].mkv.log
+│       ├── [1.9K 2026-11-18 01:22:16]  .ناروتو S01 E86 [cnm-3oq03et2mq4ppqtwfzoo].mkv.log
+│       ├── [1.9K 2026-11-18 01:22:21]  .ناروتو S01 E87 [cnm-fui891js0ap9rp8pyy6p].mkv.log
+│       ├── [1.9K 2026-11-18 01:22:42]  .ناروتو S01 E88 [cnm-3ejzok8mls8qrxhvjb9e].mkv.log
+│       ├── [1.9K 2026-11-18 01:22:36]  .ناروتو S01 E89 [cnm-56hv59uxts0csyf8t6ks].mkv.log
+│       ├── [1.9K 2026-11-18 01:22:56]  .ناروتو S01 E90 [cnm-4qcz6xqz97kam7vf68rp].mkv.log
+│       ├── [1.9K 2026-11-18 01:23:01]  .ناروتو S01 E91 [cnm-289r7qlmo9e6nhixh5b4].mkv.log
+│       ├── [1.9K 2026-11-18 01:23:13]  .ناروتو S01 E92 [cnm-1im1l81fhgkh34feh1mo].mkv.log
+│       ├── [1.9K 2026-11-18 01:23:19]  .ناروتو S01 E93 [cnm-1snld38m0j4hc3bx6nsm].mkv.log
+│       ├── [1.9K 2026-11-18 01:23:29]  .ناروتو S01 E94 [cnm-52otmh01hta09hfwwnow].mkv.log
+│       ├── [1.9K 2026-11-18 01:23:34]  .ناروتو S01 E95 [cnm-5lhl8jb1hrx9v38p9gqa].mkv.log
+│       ├── [1.9K 2026-11-18 01:23:58]  .ناروتو S01 E96 [cnm-4qmrgkebxlrtlulq5z6v].mkv.log
+│       ├── [1.9K 2026-11-18 01:24:07]  .ناروتو S01 E97 [cnm-xims7aj97pfx4q463t3h].mkv.log
+│       ├── [1.9K 2026-11-18 01:24:41]  .ناروتو S01 E98 [cnm-2b6g0e0w5defde99s2tl].mkv.log
+│       ├── [1.9K 2026-11-18 01:24:46]  .ناروتو S01 E99 [cnm-54jg31k0chgvy96cumxr].mkv.log
+│       ├── [2.5K 2026-11-18 01:52:20]  .ناروتو شيبودن S01 E01 [cnm-65xg33mhw5liny3p7665].mkv.log
+│       ├── [2.5K 2026-11-18 01:53:02]  .ناروتو شيبودن S01 E02 [cnm-3fyt3wutmyj65wpi7fs6].mkv.log
+│       ├── [2.5K 2026-11-18 01:53:47]  .ناروتو شيبودن S01 E03 [cnm-4nayc3en98ybnoj7v801].mkv.log
+│       ├── [2.5K 2026-11-18 01:53:18]  .ناروتو شيبودن S01 E04 [cnm-40oohooxwejd3m2twn9m].mkv.log
+│       ├── [2.5K 2026-11-18 01:54:11]  .ناروتو شيبودن S01 E05 [cnm-18p3bzexkvp2tmazh3cc].mkv.log
+│       ├── [2.5K 2026-11-18 01:54:30]  .ناروتو شيبودن S01 E06 [cnm-8fnj3d9pbh0tisiu7yog].mkv.log
+│       ├── [2.5K 2026-11-18 01:54:54]  .ناروتو شيبودن S01 E07 [cnm-4d2s5py0ys62e0dnw7k1].mkv.log
+│       ├── [2.5K 2026-11-18 01:55:10]  .ناروتو شيبودن S01 E08 [cnm-3m844t2xla2i9bswk3oo].mkv.log
+│       ├── [2.5K 2026-11-18 01:56:09]  .ناروتو شيبودن S01 E09 [cnm-2bqidv70fyjkzz38y86c].mkv.log
+│       ├── [2.5K 2026-11-18 01:55:31]  .ناروتو شيبودن S01 E10 [cnm-5dh30d5y6ngewb3owljz].mkv.log
+│       ├── [2.5K 2026-11-18 02:10:45]  .ناروتو شيبودن S01 E100 [cnm-1rvogw8rfbc6dc34mhj2].mkv.log
+│       ├── [2.5K 2026-11-18 02:11:06]  .ناروتو شيبودن S01 E101 [cnm-5dkpp9azcefo7ilmnvst].mkv.log
+│       ├── [2.5K 2026-11-18 02:11:14]  .ناروتو شيبودن S01 E102 [cnm-1i2lbxevsv2ic4o982ql].mkv.log
+│       ├── [2.5K 2026-11-18 02:11:24]  .ناروتو شيبودن S01 E103 [cnm-4gsa7d61zjam38ji2aae].mkv.log
+│       ├── [2.5K 2026-11-18 02:11:44]  .ناروتو شيبودن S01 E104 [cnm-4o08yrm01d43cjypsrij].mkv.log
+│       ├── [2.5K 2026-11-18 02:11:35]  .ناروتو شيبودن S01 E105 [cnm-4c3dz2pdvglfu8c447f7].mkv.log
+│       ├── [2.5K 2026-11-18 02:11:53]  .ناروتو شيبودن S01 E106 [cnm-5qlgc9gemgg8tt79zaht].mkv.log
+│       ├── [2.5K 2026-11-18 02:12:00]  .ناروتو شيبودن S01 E107 [cnm-3k9yqit20njahxcxcrd6].mkv.log
+│       ├── [2.5K 2026-11-18 02:12:17]  .ناروتو شيبودن S01 E108 [cnm-2eo4pj9aipo99euuehss].mkv.log
+│       ├── [2.5K 2026-11-18 02:12:10]  .ناروتو شيبودن S01 E109 [cnm-qufb3k7a28drvgd4j36n].mkv.log
+│       ├── [2.5K 2026-11-18 01:55:47]  .ناروتو شيبودن S01 E11 [cnm-4fnzexdzcejechfpomfj].mkv.log
+│       ├── [2.5K 2026-11-18 02:12:25]  .ناروتو شيبودن S01 E110 [cnm-3uvn9oiz115v3sxdgbhw].mkv.log
+│       ├── [2.5K 2026-11-18 02:12:34]  .ناروتو شيبودن S01 E111 [cnm-1ta6w6nc2xpz5r3e54ap].mkv.log
+│       ├── [2.5K 2026-11-18 02:12:41]  .ناروتو شيبودن S01 E112 [cnm-2cs4wazojdwwwg5ir9cg].mkv.log
+│       ├── [2.5K 2026-11-18 02:12:48]  .ناروتو شيبودن S01 E113 [cnm-170z7y3kf3lt9vomj5tm].mkv.log
+│       ├── [2.5K 2026-11-18 02:12:57]  .ناروتو شيبودن S01 E114 [cnm-3ujkn06iame97ah3460b].mkv.log
+│       ├── [2.5K 2026-11-18 02:13:12]  .ناروتو شيبودن S01 E115 [cnm-3cogc0acvxmnpks132vo].mkv.log
+│       ├── [2.5K 2026-11-18 02:13:27]  .ناروتو شيبودن S01 E116 [cnm-64i7rlekiwcm6c0qdlzp].mkv.log
+│       ├── [2.5K 2026-11-18 02:13:05]  .ناروتو شيبودن S01 E117 [cnm-l0q08050a3gqzyn50sw9].mkv.log
+│       ├── [2.5K 2026-11-18 02:13:20]  .ناروتو شيبودن S01 E118 [cnm-41nxakdb839ltykp91bj].mkv.log
+│       ├── [2.5K 2026-11-18 02:13:52]  .ناروتو شيبودن S01 E119 [cnm-125y0074s4fs6orxxpin].mkv.log
+│       ├── [2.5K 2026-11-18 01:56:24]  .ناروتو شيبودن S01 E12 [cnm-6bw38oxky506n8x938jh].mkv.log
+│       ├── [2.5K 2026-11-18 02:13:35]  .ناروتو شيبودن S01 E121 [cnm-4zze6reg1059q98wcl1a].mkv.log
+│       ├── [2.5K 2026-11-18 02:13:42]  .ناروتو شيبودن S01 E122 [cnm-34pqr79gq1mcpd4jcnlj].mkv.log
+│       ├── [2.5K 2026-11-18 02:13:58]  .ناروتو شيبودن S01 E123 [cnm-2bagnvr0zx1wznx1fcyn].mkv.log
+│       ├── [2.5K 2026-11-18 02:14:05]  .ناروتو شيبودن S01 E124 [cnm-4pwetmq8068w6gpjz0yy].mkv.log
+│       ├── [2.5K 2026-11-18 02:14:12]  .ناروتو شيبودن S01 E125 [cnm-5q1hndfje5py1v5iqj4a].mkv.log
+│       ├── [2.5K 2026-11-18 02:14:17]  .ناروتو شيبودن S01 E126 [cnm-1gvhek006bv5q2sv54sf].mkv.log
+│       ├── [2.5K 2026-11-18 02:14:39]  .ناروتو شيبودن S01 E127 [cnm-45otulfa565scfm59jil].mkv.log
+│       ├── [2.5K 2026-11-18 02:14:28]  .ناروتو شيبودن S01 E129 [cnm-r0k3o4avniwza3up2as8].mkv.log
+│       ├── [2.5K 2026-11-18 01:56:45]  .ناروتو شيبودن S01 E13 [cnm-11upn2dnr898easc1lmo].mkv.log
+│       ├── [2.5K 2026-11-18 02:14:45]  .ناروتو شيبودن S01 E131 [cnm-4tu2zjm5unvzc72rxvac].mkv.log
+│       ├── [2.5K 2026-11-18 02:14:51]  .ناروتو شيبودن S01 E132 [cnm-3hirz3hjg8gon9d7lhv2].mkv.log
+│       ├── [2.5K 2026-11-18 02:14:59]  .ناروتو شيبودن S01 E133 [cnm-3x3agay2etazrkp8i9qk].mkv.log
+│       ├── [2.5K 2026-11-18 02:15:06]  .ناروتو شيبودن S01 E134 [cnm-150cgzl6rzmj7qzr47e9].mkv.log
+│       ├── [2.5K 2026-11-18 02:15:12]  .ناروتو شيبودن S01 E135 [cnm-50eqv6qdatra830mbs0s].mkv.log
+│       ├── [2.5K 2026-11-18 02:15:22]  .ناروتو شيبودن S01 E136 [cnm-2od2vzd4mm3vj209rkzw].mkv.log
+│       ├── [2.5K 2026-11-18 02:15:17]  .ناروتو شيبودن S01 E137 [cnm-4fipuw1ybpn35l6ynbya].mkv.log
+│       ├── [2.5K 2026-11-18 02:15:28]  .ناروتو شيبودن S01 E138 [cnm-3l4mdw064ot6u4g1l4i0].mkv.log
+│       ├── [2.5K 2026-11-18 02:15:34]  .ناروتو شيبودن S01 E139 [cnm-3ic6f6yvjoze13agong4].mkv.log
+│       ├── [2.5K 2026-11-18 01:57:00]  .ناروتو شيبودن S01 E14 [cnm-590wzx40u2rykj8vm3zu].mkv.log
+│       ├── [2.5K 2026-11-18 02:15:40]  .ناروتو شيبودن S01 E140 [cnm-5sz2pzlmrxh4byeve60v].mkv.log
+│       ├── [2.5K 2026-11-18 02:15:45]  .ناروتو شيبودن S01 E141 [cnm-tfiw6xiwi2rb4en1ah42].mkv.log
+│       ├── [2.5K 2026-11-18 02:15:50]  .ناروتو شيبودن S01 E142 [cnm-i9g464lp97v69t277dr2].mkv.log
+│       ├── [2.5K 2026-11-18 02:16:01]  .ناروتو شيبودن S01 E143 [cnm-2oi2t4e9xhwrs0qllbhn].mkv.log
+│       ├── [2.5K 2026-11-18 02:16:07]  .ناروتو شيبودن S01 E144 [cnm-18nmkzc6k1ikg1spl1g8].mkv.log
+│       ├── [2.5K 2026-11-18 02:16:22]  .ناروتو شيبودن S01 E145 [cnm-4m9em7vt0s8dr8lhu3kx].mkv.log
+│       ├── [2.5K 2026-11-18 02:16:14]  .ناروتو شيبودن S01 E146 [cnm-ctin8eywo7qrs5gyybgn].mkv.log
+│       ├── [2.5K 2026-11-18 02:16:38]  .ناروتو شيبودن S01 E147 [cnm-18ufbmvldv7zameo08j4].mkv.log
+│       ├── [2.5K 2026-11-18 02:16:27]  .ناروتو شيبودن S01 E148 [cnm-2t51snn5fvzuc8dzvap0].mkv.log
+│       ├── [2.5K 2026-11-18 02:16:46]  .ناروتو شيبودن S01 E149 [cnm-1p5hm9j7ztmskk8c2fhq].mkv.log
+│       ├── [2.5K 2026-11-18 01:57:21]  .ناروتو شيبودن S01 E15 [cnm-15okwzjpmwbnemqxajhz].mkv.log
+│       ├── [2.5K 2026-11-18 02:17:04]  .ناروتو شيبودن S01 E150 [cnm-4pkxwnsixge27wcoomw4].mkv.log
+│       ├── [2.5K 2026-11-18 02:17:08]  .ناروتو شيبودن S01 E151 [cnm-68rad5falr1hnk9qawld].mkv.log
+│       ├── [2.1K 2026-11-18 02:17:23]  .ناروتو شيبودن S01 E152 [cnm-27id8iw2klkvayg68s4r].mkv.log
+│       ├── [2.1K 2026-11-18 02:17:30]  .ناروتو شيبودن S01 E153 [cnm-3beofenjd1a9f6v4aidy].mkv.log
+│       ├── [2.1K 2026-11-18 02:17:44]  .ناروتو شيبودن S01 E154 [cnm-42l5b09wda27nuyt5juw].mkv.log
+│       ├── [2.1K 2026-11-18 02:17:48]  .ناروتو شيبودن S01 E155 [cnm-3tom1yh5yncn4rcj5j4y].mkv.log
+│       ├── [2.5K 2026-11-18 02:18:00]  .ناروتو شيبودن S01 E156 [cnm-68lk1m49ljahra39q5pk].mkv.log
+│       ├── [2.5K 2026-11-18 02:18:03]  .ناروتو شيبودن S01 E157 [cnm-61n42tgzkvmik3hg9efh].mkv.log
+│       ├── [2.1K 2026-11-18 02:18:11]  .ناروتو شيبودن S01 E158 [cnm-2gdlwf2pqxgyiji40gca].mkv.log
+│       ├── [2.1K 2026-11-18 02:18:29]  .ناروتو شيبودن S01 E159 [cnm-20gcp50a5d3f670l6xu3].mkv.log
+│       ├── [2.5K 2026-11-18 01:57:37]  .ناروتو شيبودن S01 E16 [cnm-3j26q1hmqga7t8raqlxq].mkv.log
+│       ├── [2.1K 2026-11-18 02:18:21]  .ناروتو شيبودن S01 E160 [cnm-3dss1nr5qqdx42hv08ha].mkv.log
+│       ├── [2.1K 2026-11-18 02:18:45]  .ناروتو شيبودن S01 E161 [cnm-3mh9pjxgn8297kwj44ij].mkv.log
+│       ├── [2.1K 2026-11-18 02:18:52]  .ناروتو شيبودن S01 E162 [cnm-319f8k5ptq5qtqb8pf1k].mkv.log
+│       ├── [2.1K 2026-11-18 02:19:14]  .ناروتو شيبودن S01 E163 [cnm-3rs62khsytvwxr7sff4k].mkv.log
+│       ├── [2.1K 2026-11-18 02:19:02]  .ناروتو شيبودن S01 E164 [cnm-3bp4opqv5lvdwwe6ney8].mkv.log
+│       ├── [2.1K 2026-11-18 02:19:35]  .ناروتو شيبودن S01 E165 [cnm-3w0ipfu3v1k6fupkz5ip].mkv.log
+│       ├── [2.1K 2026-11-18 02:19:52]  .ناروتو شيبودن S01 E166 [cnm-5akgiyz5aeggsr1fkf4q].mkv.log
+│       ├── [2.1K 2026-11-18 02:19:48]  .ناروتو شيبودن S01 E167 [cnm-3jdi5jm8rn8edol0c0k6].mkv.log
+│       ├── [2.1K 2026-11-18 02:20:03]  .ناروتو شيبودن S01 E168 [cnm-6dl13lind5839bk7200m].mkv.log
+│       ├── [2.5K 2026-11-18 02:20:25]  .ناروتو شيبودن S01 E169 [cnm-17v54es3wwv92flv3o6o].mkv.log
+│       ├── [2.5K 2026-11-18 01:57:58]  .ناروتو شيبودن S01 E17 [cnm-kthz114jy9bthejs9huy].mkv.log
+│       ├── [2.5K 2026-11-18 02:20:09]  .ناروتو شيبودن S01 E170 [cnm-v5cab1btmkqmz60pz7fz].mkv.log
+│       ├── [2.5K 2026-11-18 02:20:33]  .ناروتو شيبودن S01 E171 [cnm-5zwt93n6ketqot0jru3z].mkv.log
+│       ├── [2.1K 2026-11-18 02:20:20]  .ناروتو شيبودن S01 E172 [cnm-6bzqmzrdmyeh888umvkw].mkv.log
+│       ├── [2.1K 2026-11-18 02:20:43]  .ناروتو شيبودن S01 E173 [cnm-512t7s4q1c8vn7u7lz70].mkv.log
+│       ├── [2.1K 2026-11-18 02:20:40]  .ناروتو شيبودن S01 E174 [cnm-4qtcbj77xb4j544ammqs].mkv.log
+│       ├── [2.1K 2026-11-18 02:20:54]  .ناروتو شيبودن S01 E175 [cnm-3dd66nz4fws1u9j2lik2].mkv.log
+│       ├── [2.1K 2026-11-18 02:20:56]  .ناروتو شيبودن S01 E176 [cnm-4wr881a2gy2ds8fdoy8t].mkv.log
+│       ├── [2.5K 2026-11-18 02:21:15]  .ناروتو شيبودن S01 E177 [cnm-bcthy2q8jkdc9nougrmb].mkv.log
+│       ├── [2.5K 2026-11-18 02:21:09]  .ناروتو شيبودن S01 E178 [cnm-57xjg4p0st9nnm144o2j].mkv.log
+│       ├── [2.1K 2026-11-18 02:21:24]  .ناروتو شيبودن S01 E179 [cnm-164zit2a0e4ue7hdh153].mkv.log
+│       ├── [2.5K 2026-11-18 01:58:13]  .ناروتو شيبودن S01 E18 [cnm-1uslsge8ke37cnafwxy2].mkv.log
+│       ├── [2.1K 2026-11-18 02:21:31]  .ناروتو شيبودن S01 E180 [cnm-28wzrd9f4x5vq88pllib].mkv.log
+│       ├── [2.5K 2026-11-18 02:21:48]  .ناروتو شيبودن S01 E181 [cnm-la00ahlu55rzk42em8tm].mkv.log
+│       ├── [2.1K 2026-11-18 02:22:01]  .ناروتو شيبودن S01 E182 [cnm-9arkic051rfgjb74x2ut].mkv.log
+│       ├── [2.1K 2026-11-18 02:21:49]  .ناروتو شيبودن S01 E183 [cnm-5t1g1mqw5jnz6cuprjht].mkv.log
+│       ├── [2.5K 2026-11-18 02:22:12]  .ناروتو شيبودن S01 E184 [cnm-5ql52ptj9fqb9xvfzp84].mkv.log
+│       ├── [2.1K 2026-11-18 02:22:22]  .ناروتو شيبودن S01 E185 [cnm-2yl53p9ym4b8shr43z6f].mkv.log
+│       ├── [2.1K 2026-11-18 02:22:37]  .ناروتو شيبودن S01 E186 [cnm-4kukcbrtujkhfwuo1pk9].mkv.log
+│       ├── [2.1K 2026-11-18 02:22:54]  .ناروتو شيبودن S01 E187 [cnm-11c05v72mt2kiv64iwxs].mkv.log
+│       ├── [2.1K 2026-11-18 02:22:31]  .ناروتو شيبودن S01 E188 [cnm-48xwkrobefkyq3jjmt7p].mkv.log
+│       ├── [2.1K 2026-11-18 02:23:18]  .ناروتو شيبودن S01 E189 [cnm-dp4fnak7pbhz21ar3iis].mkv.log
+│       ├── [2.5K 2026-11-18 01:58:32]  .ناروتو شيبودن S01 E19 [cnm-2goqprnltmdww4u4j1eu].mkv.log
+│       ├── [2.1K 2026-11-18 02:22:50]  .ناروتو شيبودن S01 E190 [cnm-3wm8se1my5w7guiudbcw].mkv.log
+│       ├── [2.1K 2026-11-18 02:23:16]  .ناروتو شيبودن S01 E191 [cnm-2y0h3ccvfmqjjeuj19wr].mkv.log
+│       ├── [2.5K 2026-11-18 02:23:40]  .ناروتو شيبودن S01 E192 [cnm-4xhk8kz4ey0mb8pmcq13].mkv.log
+│       ├── [2.1K 2026-11-18 02:23:52]  .ناروتو شيبودن S01 E193 [cnm-4wdeacnnz7z0iubxnaf2].mkv.log
+│       ├── [2.5K 2026-11-18 02:23:35]  .ناروتو شيبودن S01 E194 [cnm-1uauckrd8ga2gvlrteec].mkv.log
+│       ├── [2.5K 2026-11-18 02:23:50]  .ناروتو شيبودن S01 E195 [cnm-38h5slemwdfdzi2tcrtc].mkv.log
+│       ├── [2.5K 2026-11-18 02:24:04]  .ناروتو شيبودن S01 E196 [cnm-1316u6lf7tm8xtriul89].mkv.log
+│       ├── [2.5K 2026-11-18 02:24:17]  .ناروتو شيبودن S01 E197 [cnm-3srtx7nxy3xeytnn70ax].mkv.log
+│       ├── [2.5K 2026-11-18 02:24:09]  .ناروتو شيبودن S01 E198 [cnm-1ij0zhw44gzmhedw5ine].mkv.log
+│       ├── [2.5K 2026-11-18 02:24:43]  .ناروتو شيبودن S01 E199 [cnm-6l8363vyszp9bnbqkieh].mkv.log
+│       ├── [2.5K 2026-11-18 01:58:52]  .ناروتو شيبودن S01 E20 [cnm-63a926erehds25e5cyf9].mkv.log
+│       ├── [2.5K 2026-11-18 02:24:21]  .ناروتو شيبودن S01 E200 [cnm-ocywwomohacfaimp6rqk].mkv.log
+│       ├── [2.5K 2026-11-18 01:59:36]  .ناروتو شيبودن S01 E21 [cnm-2ngtmg6k4dftdq1tdo5r].mkv.log
+│       ├── [2.5K 2026-11-18 01:59:12]  .ناروتو شيبودن S01 E22 [cnm-5oq75va7z7h1yfevbrio].mkv.log
+│       ├── [2.5K 2026-11-18 01:59:51]  .ناروتو شيبودن S01 E23 [cnm-5amxambzwyheg1d4yiit].mkv.log
+│       ├── [2.5K 2026-11-18 02:00:04]  .ناروتو شيبودن S01 E24 [cnm-5s5tfzr6k2fjocc8jl70].mkv.log
+│       ├── [2.5K 2026-11-18 02:00:24]  .ناروتو شيبودن S01 E25 [cnm-6285zwenha8qv3yofqgn].mkv.log
+│       ├── [2.5K 2026-11-18 02:00:40]  .ناروتو شيبودن S01 E26 [cnm-7dldejnu2rfag3kzpj5e].mkv.log
+│       ├── [2.5K 2026-11-18 02:00:51]  .ناروتو شيبودن S01 E27 [cnm-m7yfmmwc2sf8lm7k13pl].mkv.log
+│       ├── [2.5K 2026-11-18 02:01:00]  .ناروتو شيبودن S01 E28 [cnm-qcuvq75pdl0ubfmmkf6u].mkv.log
+│       ├── [2.5K 2026-11-18 02:01:11]  .ناروتو شيبودن S01 E29 [cnm-1c829ax14vq71rrdd33a].mkv.log
+│       ├── [2.5K 2026-11-18 02:01:20]  .ناروتو شيبودن S01 E30 [cnm-4aehowp1wqxcfj7jwsv4].mkv.log
+│       ├── [2.5K 2026-11-18 02:01:28]  .ناروتو شيبودن S01 E31 [cnm-1i3p6zxtbmb80rni49u0].mkv.log
+│       ├── [2.5K 2026-11-18 02:01:50]  .ناروتو شيبودن S01 E32 [cnm-2np952zk0tujh15uw85v].mkv.log
+│       ├── [2.5K 2026-11-18 02:01:41]  .ناروتو شيبودن S01 E33 [cnm-1wqjp3z3exejlk0qc7ha].mkv.log
+│       ├── [2.5K 2026-11-18 02:01:59]  .ناروتو شيبودن S01 E34 [cnm-2fu8k8rlrglytfoioer5].mkv.log
+│       ├── [2.5K 2026-11-18 02:02:09]  .ناروتو شيبودن S01 E35 [cnm-znfrquwbjgcmbqz38v6z].mkv.log
+│       ├── [2.5K 2026-11-18 02:02:34]  .ناروتو شيبودن S01 E36 [cnm-27frwgj2prga6sduau3t].mkv.log
+│       ├── [2.5K 2026-11-18 02:02:23]  .ناروتو شيبودن S01 E37 [cnm-4v5lt828stunr64fv0bf].mkv.log
+│       ├── [2.5K 2026-11-18 02:02:54]  .ناروتو شيبودن S01 E38 [cnm-q9i8k5zu4qhlxx3kzpav].mkv.log
+│       ├── [2.5K 2026-11-18 02:02:45]  .ناروتو شيبودن S01 E39 [cnm-4t4cio80zxnqxln0y4so].mkv.log
+│       ├── [2.5K 2026-11-18 02:03:05]  .ناروتو شيبودن S01 E40 [cnm-212w89ofmllc3qutfbx6].mkv.log
+│       ├── [2.5K 2026-11-18 02:03:16]  .ناروتو شيبودن S01 E41 [cnm-59ntqzizqlwoge6oy3qn].mkv.log
+│       ├── [2.5K 2026-11-18 02:03:32]  .ناروتو شيبودن S01 E42 [cnm-4ara1cpvo597vla2dabw].mkv.log
+│       ├── [2.5K 2026-11-18 02:03:24]  .ناروتو شيبودن S01 E43 [cnm-5eqhxqpzn6akj3bi9ng3].mkv.log
+│       ├── [2.5K 2026-11-18 02:03:39]  .ناروتو شيبودن S01 E44 [cnm-5c9yxp0w19n21xo9ep8s].mkv.log
+│       ├── [2.5K 2026-11-18 02:03:49]  .ناروتو شيبودن S01 E45 [cnm-598eephb4pod66887ju5].mkv.log
+│       ├── [2.5K 2026-11-18 02:03:56]  .ناروتو شيبودن S01 E46 [cnm-65tnx7eltrbbu6gbq198].mkv.log
+│       ├── [2.5K 2026-11-18 02:04:03]  .ناروتو شيبودن S01 E47 [cnm-48chi2znlhoxcqbl4d5b].mkv.log
+│       ├── [2.5K 2026-11-18 02:04:10]  .ناروتو شيبودن S01 E48 [cnm-3alrzysoqftqahvd0km7].mkv.log
+│       ├── [2.5K 2026-11-18 02:04:20]  .ناروتو شيبودن S01 E49 [cnm-1adbn4es2pkq5a3vtqrp].mkv.log
+│       ├── [2.5K 2026-11-18 02:04:26]  .ناروتو شيبودن S01 E50 [cnm-1269n2jatnpnop4exq2e].mkv.log
+│       ├── [2.5K 2026-11-18 02:04:33]  .ناروتو شيبودن S01 E51 [cnm-ic113zkeygeqrc47s5jb].mkv.log
+│       ├── [2.5K 2026-11-18 02:04:42]  .ناروتو شيبودن S01 E52 [cnm-2l7nveqaaxinxiq0n0wb].mkv.log
+│       ├── [2.5K 2026-11-18 02:04:58]  .ناروتو شيبودن S01 E53 [cnm-21rgaoe1c84u0lotg7po].mkv.log
+│       ├── [2.5K 2026-11-18 02:04:49]  .ناروتو شيبودن S01 E54 [cnm-274rh63r87j42tf94zta].mkv.log
+│       ├── [2.5K 2026-11-18 02:05:06]  .ناروتو شيبودن S01 E55 [cnm-3wgudgz8tvdwg5m1151f].mkv.log
+│       ├── [2.5K 2026-11-18 02:05:14]  .ناروتو شيبودن S01 E56 [cnm-6ceh8thec1rpcufzvxa7].mkv.log
+│       ├── [2.5K 2026-11-18 02:05:21]  .ناروتو شيبودن S01 E57 [cnm-42rseemhghocoyiuxhan].mkv.log
+│       ├── [2.5K 2026-11-18 02:05:28]  .ناروتو شيبودن S01 E58 [cnm-427x3q6sz0v2afon0k1s].mkv.log
+│       ├── [2.5K 2026-11-18 02:05:35]  .ناروتو شيبودن S01 E59 [cnm-5mxv4t5wsfjeo0wcbrjg].mkv.log
+│       ├── [2.5K 2026-11-18 02:05:42]  .ناروتو شيبودن S01 E60 [cnm-2gpxkqz71bj5p4rub4so].mkv.log
+│       ├── [2.5K 2026-11-18 02:05:54]  .ناروتو شيبودن S01 E61 [cnm-18vst681xsdghyj4rd9y].mkv.log
+│       ├── [2.5K 2026-11-18 02:06:16]  .ناروتو شيبودن S01 E62 [cnm-1a04darezxfds1s5f757].mkv.log
+│       ├── [2.5K 2026-11-18 02:06:05]  .ناروتو شيبودن S01 E63 [cnm-3r5m84ulhqbfpa8o4p7n].mkv.log
+│       ├── [2.5K 2026-11-18 02:06:25]  .ناروتو شيبودن S01 E64 [cnm-1l4eaocrc9dbqyg4i9y0].mkv.log
+│       ├── [2.5K 2026-11-18 02:06:36]  .ناروتو شيبودن S01 E65 [cnm-3aaeakgcxvl1mxhwwiom].mkv.log
+│       ├── [2.5K 2026-11-18 02:06:45]  .ناروتو شيبودن S01 E66 [cnm-4yanujisf9vrcp83auy1].mkv.log
+│       ├── [2.5K 2026-11-18 02:06:53]  .ناروتو شيبودن S01 E67 [cnm-4iw89sukc0u7j17bdi6r].mkv.log
+│       ├── [2.5K 2026-11-18 02:07:02]  .ناروتو شيبودن S01 E68 [cnm-28tzjk8psu4yv0objr68].mkv.log
+│       ├── [2.5K 2026-11-18 02:07:09]  .ناروتو شيبودن S01 E69 [cnm-3p42b7ee1bdhly5jlhzx].mkv.log
+│       ├── [2.5K 2026-11-18 02:07:16]  .ناروتو شيبودن S01 E70 [cnm-2kigj54gvp3r4x9zx8c1].mkv.log
+│       ├── [2.5K 2026-11-18 02:07:24]  .ناروتو شيبودن S01 E71 [cnm-336vjiisau4rsn3g6xnj].mkv.log
+│       ├── [2.5K 2026-11-18 02:07:30]  .ناروتو شيبودن S01 E72 [cnm-3uxhq2gomfas62qlucs7].mkv.log
+│       ├── [2.5K 2026-11-18 02:07:36]  .ناروتو شيبودن S01 E73 [cnm-kzya50xj9cm65v6bl9ti].mkv.log
+│       ├── [2.5K 2026-11-18 02:07:42]  .ناروتو شيبودن S01 E74 [cnm-3ljubuwe9ocehhpbpuyg].mkv.log
+│       ├── [2.5K 2026-11-18 02:07:48]  .ناروتو شيبودن S01 E75 [cnm-6djb6f0b7kom6oc80z36].mkv.log
+│       ├── [2.5K 2026-11-18 02:07:53]  .ناروتو شيبودن S01 E76 [cnm-5iky4bkaspmq97p6zwvp].mkv.log
+│       ├── [2.5K 2026-11-18 02:07:59]  .ناروتو شيبودن S01 E77 [cnm-3e0exxpg11q7kwc2jvmf].mkv.log
+│       ├── [2.5K 2026-11-18 02:08:04]  .ناروتو شيبودن S01 E78 [cnm-1t5mrsq0j2qxog5ye7yq].mkv.log
+│       ├── [2.5K 2026-11-18 02:08:09]  .ناروتو شيبودن S01 E79 [cnm-5r1n6xbjwt0jypow115w].mkv.log
+│       ├── [2.5K 2026-11-18 02:08:14]  .ناروتو شيبودن S01 E80 [cnm-63ah8fi2jqg3imvrmccv].mkv.log
+│       ├── [2.5K 2026-11-18 02:08:25]  .ناروتو شيبودن S01 E81 [cnm-5273hqrvle5r9qvzjlck].mkv.log
+│       ├── [2.5K 2026-11-18 02:08:19]  .ناروتو شيبودن S01 E82 [cnm-64uvxcval9elk0ycl7xv].mkv.log
+│       ├── [2.5K 2026-11-18 02:08:33]  .ناروتو شيبودن S01 E83 [cnm-lkai6jelzb8rl5ov37ha].mkv.log
+│       ├── [2.5K 2026-11-18 02:08:40]  .ناروتو شيبودن S01 E84 [cnm-5slv4cggjqheb0f64gai].mkv.log
+│       ├── [2.5K 2026-11-18 02:08:45]  .ناروتو شيبودن S01 E85 [cnm-1k4w6mu8mscuizoxxo4s].mkv.log
+│       ├── [2.5K 2026-11-18 02:08:56]  .ناروتو شيبودن S01 E86 [cnm-r2dyvhsscogqlvs4ft2f].mkv.log
+│       ├── [2.5K 2026-11-18 02:08:51]  .ناروتو شيبودن S01 E87 [cnm-42o0qefle3ue517dkm0p].mkv.log
+│       ├── [2.5K 2026-11-18 02:09:13]  .ناروتو شيبودن S01 E88 [cnm-kcm19eb0lras68a5qrnu].mkv.log
+│       ├── [2.5K 2026-11-18 02:09:03]  .ناروتو شيبودن S01 E89 [cnm-44kktfee586oxa436hbv].mkv.log
+│       ├── [2.5K 2026-11-18 02:09:23]  .ناروتو شيبودن S01 E90 [cnm-418c5y56f2nf3nh28q9c].mkv.log
+│       ├── [2.5K 2026-11-18 02:09:39]  .ناروتو شيبودن S01 E91 [cnm-582p0pph34h1rdabzubb].mkv.log
+│       ├── [2.5K 2026-11-18 02:09:32]  .ناروتو شيبودن S01 E92 [cnm-3zqcgzbzippmograznec].mkv.log
+│       ├── [2.5K 2026-11-18 02:09:49]  .ناروتو شيبودن S01 E93 [cnm-2l61x7627cud4r0lw565].mkv.log
+│       ├── [2.5K 2026-11-18 02:10:07]  .ناروتو شيبودن S01 E94 [cnm-3unqzgqihz01tbtdt1ss].mkv.log
+│       ├── [2.5K 2026-11-18 02:09:59]  .ناروتو شيبودن S01 E95 [cnm-44d9mz1n06ej3j2r1gwv].mkv.log
+│       ├── [2.5K 2026-11-18 02:10:17]  .ناروتو شيبودن S01 E96 [cnm-7frahxe25pk8ndd2tens].mkv.log
+│       ├── [2.5K 2026-11-18 02:10:26]  .ناروتو شيبودن S01 E97 [cnm-589r3dsvqgcmuwt0fccs].mkv.log
+│       ├── [2.5K 2026-11-18 02:10:37]  .ناروتو شيبودن S01 E98 [cnm-6apn5cbe37u2dzmex0x2].mkv.log
+│       ├── [2.5K 2026-11-18 02:10:57]  .ناروتو شيبودن S01 E99 [cnm-3sh17r5pgvvsatwvk91b].mkv.log
+│       ├── [1.4M 2026-11-18 03:14:20]  ca1_batch.jsonl
+│       ├── [ 14M 2026-11-18 03:14:53]  diagnostics.log
+│       ├── [9.3M 2026-11-18 03:14:53]  downloads.log
+│       ├── [183K 2026-11-18 03:14:26]  mkv_identity.map
+│       ├── [314K 2026-11-18 03:14:50]  player_diagnostics.log
+│       ├── [ 633 2026-11-18 03:07:15]  restart108.log
+│       ├── [   0 2026-11-18 03:15:22]  tree.txt
+│       └── [767K 2026-11-18 03:14:56]  ui95.log
+├── [3.4K 2026-11-18 01:06:31]  ناروتو
+│   └── [ 24K 2026-11-18 03:14:26]  Season 1 ناروتو
+│       ├── [ 30M 2026-11-18 03:05:22]  (No Sub) ناروتو S01 E01.mkv
+│       ├── [ 30M 2026-11-18 03:05:15]  (No Sub) ناروتو S01 E02.mkv
+│       ├── [ 30M 2026-11-18 03:05:31]  (No Sub) ناروتو S01 E03.mkv
+│       ├── [ 30M 2026-11-18 03:05:36]  (No Sub) ناروتو S01 E04.mkv
+│       ├── [ 32M 2026-11-18 03:05:41]  (No Sub) ناروتو S01 E05.mkv
+│       ├── [ 31M 2026-11-18 03:06:14]  (No Sub) ناروتو S01 E06.mkv
+│       ├── [ 28M 2026-11-18 03:06:18]  (No Sub) ناروتو S01 E07.mkv
+│       ├── [ 31M 2026-11-18 03:06:51]  (No Sub) ناروتو S01 E08.mkv
+│       ├── [ 31M 2026-11-18 03:06:59]  (No Sub) ناروتو S01 E09.mkv
+│       ├── [ 27M 2026-11-18 03:07:28]  (No Sub) ناروتو S01 E10.mkv
+│       ├── [ 31M 2026-11-18 03:07:24]  (No Sub) ناروتو S01 E11.mkv
+│       ├── [ 29M 2026-11-18 03:10:15]  (No Sub) ناروتو S01 E12.mkv
+│       ├── [ 27M 2026-11-18 03:10:32]  (No Sub) ناروتو S01 E13.mkv
+│       ├── [ 30M 2026-11-18 03:08:12]  (No Sub) ناروتو S01 E14.mkv
+│       ├── [ 29M 2026-11-18 03:08:25]  (No Sub) ناروتو S01 E15.mkv
+│       ├── [ 30M 2026-11-18 03:08:33]  (No Sub) ناروتو S01 E16.mkv
+│       ├── [ 29M 2026-11-18 03:08:45]  (No Sub) ناروتو S01 E17.mkv
+│       ├── [ 26M 2026-11-18 03:10:41]  (No Sub) ناروتو S01 E18.mkv
+│       ├── [ 27M 2026-11-18 03:08:56]  (No Sub) ناروتو S01 E19.mkv
+│       ├── [ 32M 2026-11-18 03:10:10]  (No Sub) ناروتو S01 E20.mkv
+│       ├── [ 26M 2026-11-18 03:10:57]  (No Sub) ناروتو S01 E21.mkv
+│       ├── [ 29M 2026-11-18 03:11:30]  (No Sub) ناروتو S01 E22.mkv
+│       ├── [ 28M 2026-11-18 03:11:59]  (No Sub) ناروتو S01 E23.mkv
+│       ├── [ 30M 2026-11-18 03:12:28]  (No Sub) ناروتو S01 E24.mkv
+│       ├── [ 29M 2026-11-18 03:09:19]  (No Sub) ناروتو S01 E25.mkv
+│       ├── [ 34M 2026-11-18 03:09:08]  (No Sub) ناروتو S01 E26.mkv
+│       ├── [ 32M 2026-11-18 03:09:29]  (No Sub) ناروتو S01 E27.mkv
+│       ├── [ 32M 2026-11-18 03:09:43]  (No Sub) ناروتو S01 E28.mkv
+│       ├── [ 31M 2026-11-18 03:12:56]  (No Sub) ناروتو S01 E29.mkv
+│       ├── [ 28M 2026-11-18 03:10:05]  (No Sub) ناروتو S01 E30.mkv
+│       ├── [ 29M 2026-11-18 03:13:25]  (No Sub) ناروتو S01 E31.mkv
+│       ├── [ 34M 2026-11-18 03:13:51]  (No Sub) ناروتو S01 E32.mkv
+│       ├── [ 36M 2026-11-18 03:14:15]  (No Sub) ناروتو S01 E33.mkv
+│       ├── [ 33M 2026-11-18 03:14:19]  (No Sub) ناروتو S01 E34.mkv
+│       ├── [ 35M 2026-11-18 03:14:26]  (No Sub) ناروتو S01 E35.mkv
+│       ├── [ 35M 2026-11-18 01:06:30]  ناروتو S01 E01.mkv
+│       ├── [ 34M 2026-11-18 01:06:53]  ناروتو S01 E02.mkv
+│       ├── [ 34M 2026-11-18 01:06:59]  ناروتو S01 E03.mkv
+│       ├── [ 35M 2026-11-18 01:07:08]  ناروتو S01 E04.mkv
+│       ├── [ 36M 2026-11-18 01:07:18]  ناروتو S01 E05.mkv
+│       ├── [ 36M 2026-11-18 01:07:31]  ناروتو S01 E06.mkv
+│       ├── [ 31M 2026-11-18 01:07:38]  ناروتو S01 E07.mkv
+│       ├── [ 35M 2026-11-18 01:07:59]  ناروتو S01 E08.mkv
+│       ├── [ 37M 2026-11-18 01:07:52]  ناروتو S01 E09.mkv
+│       ├── [ 28M 2026-11-18 01:08:31]  ناروتو S01 E10.mkv
+│       ├── [ 31M 2026-11-18 01:25:06]  ناروتو S01 E100.mkv
+│       ├── [ 33M 2026-11-18 01:24:56]  ناروتو S01 E101.mkv
+│       ├── [ 35M 2026-11-18 01:25:25]  ناروتو S01 E102.mkv
+│       ├── [ 41M 2026-11-18 01:25:35]  ناروتو S01 E103.mkv
+│       ├── [ 38M 2026-11-18 01:25:43]  ناروتو S01 E104.mkv
+│       ├── [ 37M 2026-11-18 01:25:55]  ناروتو S01 E105.mkv
+│       ├── [ 43M 2026-11-18 01:26:03]  ناروتو S01 E106.mkv
+│       ├── [ 41M 2026-11-18 01:26:23]  ناروتو S01 E107.mkv
+│       ├── [ 33M 2026-11-18 01:26:31]  ناروتو S01 E108.mkv
+│       ├── [ 35M 2026-11-18 01:26:51]  ناروتو S01 E109.mkv
+│       ├── [ 35M 2026-11-18 01:08:09]  ناروتو S01 E11.mkv
+│       ├── [ 34M 2026-11-18 01:27:04]  ناروتو S01 E110.mkv
+│       ├── [ 39M 2026-11-18 01:27:17]  ناروتو S01 E111.mkv
+│       ├── [ 34M 2026-11-18 01:27:31]  ناروتو S01 E112.mkv
+│       ├── [ 46M 2026-11-18 01:27:51]  ناروتو S01 E113.mkv
+│       ├── [ 43M 2026-11-18 01:27:58]  ناروتو S01 E114.mkv
+│       ├── [ 39M 2026-11-18 01:28:13]  ناروتو S01 E115.mkv
+│       ├── [ 40M 2026-11-18 01:28:22]  ناروتو S01 E116.mkv
+│       ├── [ 44M 2026-11-18 01:28:40]  ناروتو S01 E117.mkv
+│       ├── [ 39M 2026-11-18 01:28:45]  ناروتو S01 E118.mkv
+│       ├── [ 35M 2026-11-18 01:28:56]  ناروتو S01 E119.mkv
+│       ├── [ 36M 2026-11-18 01:09:18]  ناروتو S01 E12.mkv
+│       ├── [ 46M 2026-11-18 01:29:10]  ناروتو S01 E120.mkv
+│       ├── [ 41M 2026-11-18 01:29:16]  ناروتو S01 E121.mkv
+│       ├── [ 43M 2026-11-18 01:29:36]  ناروتو S01 E122.mkv
+│       ├── [ 40M 2026-11-18 01:29:41]  ناروتو S01 E123.mkv
+│       ├── [ 49M 2026-11-18 01:30:11]  ناروتو S01 E124.mkv
+│       ├── [ 44M 2026-11-18 01:29:58]  ناروتو S01 E125.mkv
+│       ├── [ 44M 2026-11-18 01:30:42]  ناروتو S01 E126.mkv
+│       ├── [ 41M 2026-11-18 01:30:54]  ناروتو S01 E127.mkv
+│       ├── [ 37M 2026-11-18 01:31:06]  ناروتو S01 E128.mkv
+│       ├── [ 25M 2026-11-18 01:31:16]  ناروتو S01 E129.mkv
+│       ├── [ 31M 2026-11-18 01:09:11]  ناروتو S01 E13.mkv
+│       ├── [ 31M 2026-11-18 01:31:21]  ناروتو S01 E130.mkv
+│       ├── [ 28M 2026-11-18 01:31:33]  ناروتو S01 E131.mkv
+│       ├── [ 44M 2026-11-18 01:31:44]  ناروتو S01 E132.mkv
+│       ├── [ 36M 2026-11-18 01:31:48]  ناروتو S01 E133.mkv
+│       ├── [ 37M 2026-11-18 01:32:05]  ناروتو S01 E134.mkv
+│       ├── [ 30M 2026-11-18 01:31:59]  ناروتو S01 E135.mkv
+│       ├── [ 35M 2026-11-18 01:32:27]  ناروتو S01 E136.mkv
+│       ├── [ 36M 2026-11-18 01:32:21]  ناروتو S01 E137.mkv
+│       ├── [ 36M 2026-11-18 01:32:40]  ناروتو S01 E138.mkv
+│       ├── [ 29M 2026-11-18 01:32:44]  ناروتو S01 E139.mkv
+│       ├── [ 35M 2026-11-18 01:09:25]  ناروتو S01 E14.mkv
+│       ├── [ 33M 2026-11-18 01:32:50]  ناروتو S01 E140.mkv
+│       ├── [ 39M 2026-11-18 01:33:03]  ناروتو S01 E141.mkv
+│       ├── [ 28M 2026-11-18 01:33:07]  ناروتو S01 E142.mkv
+│       ├── [ 36M 2026-11-18 01:33:21]  ناروتو S01 E143.mkv
+│       ├── [ 42M 2026-11-18 01:33:41]  ناروتو S01 E144.mkv
+│       ├── [ 39M 2026-11-18 01:33:35]  ناروتو S01 E145.mkv
+│       ├── [ 34M 2026-11-18 01:34:01]  ناروتو S01 E146.mkv
+│       ├── [ 34M 2026-11-18 01:33:52]  ناروتو S01 E147.mkv
+│       ├── [ 37M 2026-11-18 01:34:17]  ناروتو S01 E148.mkv
+│       ├── [ 41M 2026-11-18 01:34:29]  ناروتو S01 E149.mkv
+│       ├── [ 33M 2026-11-18 01:09:32]  ناروتو S01 E15.mkv
+│       ├── [ 41M 2026-11-18 01:34:42]  ناروتو S01 E150.mkv
+│       ├── [ 39M 2026-11-18 01:34:49]  ناروتو S01 E151.mkv
+│       ├── [ 39M 2026-11-18 01:35:07]  ناروتو S01 E152.mkv
+│       ├── [ 33M 2026-11-18 01:35:11]  ناروتو S01 E153.mkv
+│       ├── [ 37M 2026-11-18 01:35:31]  ناروتو S01 E154.mkv
+│       ├── [ 38M 2026-11-18 01:35:36]  ناروتو S01 E155.mkv
+│       ├── [ 37M 2026-11-18 01:35:46]  ناروتو S01 E156.mkv
+│       ├── [ 40M 2026-11-18 01:35:56]  ناروتو S01 E157.mkv
+│       ├── [ 39M 2026-11-18 01:36:03]  ناروتو S01 E158.mkv
+│       ├── [ 35M 2026-11-18 01:36:15]  ناروتو S01 E159.mkv
+│       ├── [ 33M 2026-11-18 01:09:45]  ناروتو S01 E16.mkv
+│       ├── [ 41M 2026-11-18 01:36:26]  ناروتو S01 E160.mkv
+│       ├── [ 40M 2026-11-18 01:36:46]  ناروتو S01 E161.mkv
+│       ├── [ 34M 2026-11-18 01:36:51]  ناروتو S01 E162.mkv
+│       ├── [ 36M 2026-11-18 01:37:10]  ناروتو S01 E163.mkv
+│       ├── [ 35M 2026-11-18 01:37:14]  ناروتو S01 E164.mkv
+│       ├── [ 32M 2026-11-18 01:37:23]  ناروتو S01 E165.mkv
+│       ├── [ 39M 2026-11-18 01:37:37]  ناروتو S01 E166.mkv
+│       ├── [ 40M 2026-11-18 01:37:48]  ناروتو S01 E167.mkv
+│       ├── [ 38M 2026-11-18 01:38:04]  ناروتو S01 E168.mkv
+│       ├── [ 41M 2026-11-18 01:38:16]  ناروتو S01 E169.mkv
+│       ├── [ 38M 2026-11-18 01:09:40]  ناروتو S01 E17.mkv
+│       ├── [ 34M 2026-11-18 01:38:23]  ناروتو S01 E170.mkv
+│       ├── [ 33M 2026-11-18 01:38:37]  ناروتو S01 E171.mkv
+│       ├── [ 44M 2026-11-18 01:38:51]  ناروتو S01 E172.mkv
+│       ├── [ 42M 2026-11-18 01:39:04]  ناروتو S01 E173.mkv
+│       ├── [ 44M 2026-11-18 01:39:23]  ناروتو S01 E174.mkv
+│       ├── [ 34M 2026-11-18 01:39:28]  ناروتو S01 E175.mkv
+│       ├── [ 45M 2026-11-18 01:40:04]  ناروتو S01 E176.mkv
+│       ├── [ 45M 2026-11-18 01:40:11]  ناروتو S01 E177.mkv
+│       ├── [ 43M 2026-11-18 01:40:33]  ناروتو S01 E178.mkv
+│       ├── [ 33M 2026-11-18 01:40:25]  ناروتو S01 E179.mkv
+│       ├── [ 30M 2026-11-18 01:10:05]  ناروتو S01 E18.mkv
+│       ├── [ 39M 2026-11-18 01:40:49]  ناروتو S01 E180.mkv
+│       ├── [ 35M 2026-11-18 01:40:43]  ناروتو S01 E181.mkv
+│       ├── [ 38M 2026-11-18 01:41:02]  ناروتو S01 E182.mkv
+│       ├── [ 39M 2026-11-18 01:41:10]  ناروتو S01 E183.mkv
+│       ├── [ 40M 2026-11-18 01:41:15]  ناروتو S01 E184.mkv
+│       ├── [ 40M 2026-11-18 01:41:35]  ناروتو S01 E185.mkv
+│       ├── [ 37M 2026-11-18 01:41:41]  ناروتو S01 E186.mkv
+│       ├── [ 41M 2026-11-18 01:41:53]  ناروتو S01 E187.mkv
+│       ├── [ 33M 2026-11-18 01:41:59]  ناروتو S01 E188.mkv
+│       ├── [ 38M 2026-11-18 01:42:17]  ناروتو S01 E189.mkv
+│       ├── [ 31M 2026-11-18 01:10:26]  ناروتو S01 E19.mkv
+│       ├── [ 38M 2026-11-18 01:42:22]  ناروتو S01 E190.mkv
+│       ├── [ 38M 2026-11-18 01:42:42]  ناروتو S01 E191.mkv
+│       ├── [ 37M 2026-11-18 01:42:38]  ناروتو S01 E192.mkv
+│       ├── [ 39M 2026-11-18 01:42:57]  ناروتو S01 E193.mkv
+│       ├── [ 33M 2026-11-18 01:43:02]  ناروتو S01 E194.mkv
+│       ├── [ 46M 2026-11-18 01:43:23]  ناروتو S01 E195.mkv
+│       ├── [ 48M 2026-11-18 01:43:17]  ناروتو S01 E196.mkv
+│       ├── [ 35M 2026-11-18 01:43:30]  ناروتو S01 E197.mkv
+│       ├── [ 29M 2026-11-18 01:43:44]  ناروتو S01 E198.mkv
+│       ├── [ 38M 2026-11-18 01:43:53]  ناروتو S01 E199.mkv
+│       ├── [ 37M 2026-11-18 01:10:49]  ناروتو S01 E20.mkv
+│       ├── [ 27M 2026-11-18 01:44:03]  ناروتو S01 E200.mkv
+│       ├── [ 42M 2026-11-18 01:44:15]  ناروتو S01 E201.mkv
+│       ├── [ 53M 2026-11-18 01:44:25]  ناروتو S01 E202.mkv
+│       ├── [ 31M 2026-11-18 01:44:30]  ناروتو S01 E203.mkv
+│       ├── [ 31M 2026-11-18 01:44:40]  ناروتو S01 E204.mkv
+│       ├── [ 40M 2026-11-18 01:44:47]  ناروتو S01 E205.mkv
+│       ├── [ 34M 2026-11-18 01:44:59]  ناروتو S01 E206.mkv
+│       ├── [ 36M 2026-11-18 01:45:03]  ناروتو S01 E207.mkv
+│       ├── [ 38M 2026-11-18 01:45:24]  ناروتو S01 E208.mkv
+│       ├── [ 31M 2026-11-18 01:45:18]  ناروتو S01 E209.mkv
+│       ├── [ 30M 2026-11-18 01:10:41]  ناروتو S01 E21.mkv
+│       ├── [ 36M 2026-11-18 01:45:39]  ناروتو S01 E210.mkv
+│       ├── [ 31M 2026-11-18 01:45:43]  ناروتو S01 E211.mkv
+│       ├── [ 39M 2026-11-18 01:45:49]  ناروتو S01 E212.mkv
+│       ├── [ 45M 2026-11-18 01:46:05]  ناروتو S01 E213.mkv
+│       ├── [ 41M 2026-11-18 01:46:13]  ناروتو S01 E214.mkv
+│       ├── [ 40M 2026-11-18 01:47:12]  ناروتو S01 E215.mkv
+│       ├── [ 33M 2026-11-18 01:48:41]  ناروتو S01 E216.mkv
+│       ├── [ 50M 2026-11-18 01:49:31]  ناروتو S01 E217.mkv
+│       ├── [ 42M 2026-11-18 01:49:06]  ناروتو S01 E218.mkv
+│       ├── [ 41M 2026-11-18 01:50:14]  ناروتو S01 E219.mkv
+│       ├── [ 34M 2026-11-18 01:10:59]  ناروتو S01 E22.mkv
+│       ├── [ 35M 2026-11-18 01:50:46]  ناروتو S01 E220.mkv
+│       ├── [ 32M 2026-11-18 01:11:10]  ناروتو S01 E23.mkv
+│       ├── [ 34M 2026-11-18 01:11:19]  ناروتو S01 E24.mkv
+│       ├── [ 34M 2026-11-18 01:11:28]  ناروتو S01 E25.mkv
+│       ├── [ 40M 2026-11-18 01:11:35]  ناروتو S01 E26.mkv
+│       ├── [ 37M 2026-11-18 01:11:42]  ناروتو S01 E27.mkv
+│       ├── [ 38M 2026-11-18 01:11:48]  ناروتو S01 E28.mkv
+│       ├── [ 35M 2026-11-18 01:11:52]  ناروتو S01 E29.mkv
+│       ├── [ 31M 2026-11-18 01:11:59]  ناروتو S01 E30.mkv
+│       ├── [ 33M 2026-11-18 01:12:08]  ناروتو S01 E31.mkv
+│       ├── [ 41M 2026-11-18 01:12:16]  ناروتو S01 E32.mkv
+│       ├── [ 45M 2026-11-18 01:12:39]  ناروتو S01 E33.mkv
+│       ├── [ 39M 2026-11-18 01:12:44]  ناروتو S01 E34.mkv
+│       ├── [ 43M 2026-11-18 01:13:08]  ناروتو S01 E35.mkv
+│       ├── [ 36M 2026-11-18 01:13:14]  ناروتو S01 E36.mkv
+│       ├── [ 32M 2026-11-18 01:13:33]  ناروتو S01 E37.mkv
+│       ├── [ 33M 2026-11-18 01:13:38]  ناروتو S01 E38.mkv
+│       ├── [ 37M 2026-11-18 01:13:53]  ناروتو S01 E39.mkv
+│       ├── [ 36M 2026-11-18 01:14:00]  ناروتو S01 E40.mkv
+│       ├── [ 34M 2026-11-18 01:14:07]  ناروتو S01 E41.mkv
+│       ├── [ 38M 2026-11-18 01:14:17]  ناروتو S01 E42.mkv
+│       ├── [ 36M 2026-11-18 01:14:35]  ناروتو S01 E43.mkv
+│       ├── [ 38M 2026-11-18 01:14:41]  ناروتو S01 E44.mkv
+│       ├── [ 37M 2026-11-18 01:15:04]  ناروتو S01 E45.mkv
+│       ├── [ 36M 2026-11-18 01:14:59]  ناروتو S01 E46.mkv
+│       ├── [ 38M 2026-11-18 01:15:19]  ناروتو S01 E47.mkv
+│       ├── [ 39M 2026-11-18 01:15:25]  ناروتو S01 E48.mkv
+│       ├── [ 40M 2026-11-18 01:15:41]  ناروتو S01 E49.mkv
+│       ├── [ 43M 2026-11-18 01:15:56]  ناروتو S01 E50.mkv
+│       ├── [ 33M 2026-11-18 01:16:01]  ناروتو S01 E51.mkv
+│       ├── [ 35M 2026-11-18 01:16:13]  ناروتو S01 E52.mkv
+│       ├── [ 33M 2026-11-18 01:16:18]  ناروتو S01 E53.mkv
+│       ├── [ 35M 2026-11-18 01:16:31]  ناروتو S01 E54.mkv
+│       ├── [ 36M 2026-11-18 01:16:37]  ناروتو S01 E55.mkv
+│       ├── [ 37M 2026-11-18 01:16:49]  ناروتو S01 E56.mkv
+│       ├── [ 35M 2026-11-18 01:16:55]  ناروتو S01 E57.mkv
+│       ├── [ 33M 2026-11-18 01:17:12]  ناروتو S01 E58.mkv
+│       ├── [ 41M 2026-11-18 01:17:07]  ناروتو S01 E59.mkv
+│       ├── [ 40M 2026-11-18 01:17:32]  ناروتو S01 E60.mkv
+│       ├── [ 35M 2026-11-18 01:17:24]  ناروتو S01 E61.mkv
+│       ├── [ 43M 2026-11-18 01:17:48]  ناروتو S01 E62.mkv
+│       ├── [ 30M 2026-11-18 01:17:53]  ناروتو S01 E63.mkv
+│       ├── [ 38M 2026-11-18 01:18:15]  ناروتو S01 E64.mkv
+│       ├── [ 32M 2026-11-18 01:18:08]  ناروتو S01 E65.mkv
+│       ├── [ 37M 2026-11-18 01:18:33]  ناروتو S01 E66.mkv
+│       ├── [ 45M 2026-11-18 01:18:43]  ناروتو S01 E67.mkv
+│       ├── [ 33M 2026-11-18 01:18:56]  ناروتو S01 E68.mkv
+│       ├── [ 38M 2026-11-18 01:19:03]  ناروتو S01 E69.mkv
+│       ├── [ 49M 2026-11-18 01:19:28]  ناروتو S01 E70.mkv
+│       ├── [ 36M 2026-11-18 01:19:15]  ناروتو S01 E71.mkv
+│       ├── [ 35M 2026-11-18 01:19:41]  ناروتو S01 E72.mkv
+│       ├── [ 40M 2026-11-18 01:19:54]  ناروتو S01 E73.mkv
+│       ├── [ 43M 2026-11-18 01:20:06]  ناروتو S01 E74.mkv
+│       ├── [ 42M 2026-11-18 01:20:24]  ناروتو S01 E75.mkv
+│       ├── [ 34M 2026-11-18 01:20:38]  ناروتو S01 E76.mkv
+│       ├── [ 37M 2026-11-18 01:20:58]  ناروتو S01 E77.mkv
+│       ├── [ 43M 2026-11-18 01:20:53]  ناروتو S01 E78.mkv
+│       ├── [ 39M 2026-11-18 01:21:10]  ناروتو S01 E79.mkv
+│       ├── [ 31M 2026-11-18 01:21:05]  ناروتو S01 E80.mkv
+│       ├── [ 34M 2026-11-18 01:21:31]  ناروتو S01 E81.mkv
+│       ├── [ 34M 2026-11-18 01:21:25]  ناروتو S01 E82.mkv
+│       ├── [ 35M 2026-11-18 01:21:47]  ناروتو S01 E83.mkv
+│       ├── [ 31M 2026-11-18 01:21:40]  ناروتو S01 E84.mkv
+│       ├── [ 36M 2026-11-18 01:21:57]  ناروتو S01 E85.mkv
+│       ├── [ 43M 2026-11-18 01:22:14]  ناروتو S01 E86.mkv
+│       ├── [ 34M 2026-11-18 01:22:18]  ناروتو S01 E87.mkv
+│       ├── [ 32M 2026-11-18 01:22:39]  ناروتو S01 E88.mkv
+│       ├── [ 36M 2026-11-18 01:22:32]  ناروتو S01 E89.mkv
+│       ├── [ 30M 2026-11-18 01:22:53]  ناروتو S01 E90.mkv
+│       ├── [ 28M 2026-11-18 01:22:58]  ناروتو S01 E91.mkv
+│       ├── [ 31M 2026-11-18 01:23:09]  ناروتو S01 E92.mkv
+│       ├── [ 42M 2026-11-18 01:23:17]  ناروتو S01 E93.mkv
+│       ├── [ 35M 2026-11-18 01:23:26]  ناروتو S01 E94.mkv
+│       ├── [ 36M 2026-11-18 01:23:31]  ناروتو S01 E95.mkv
+│       ├── [ 43M 2026-11-18 01:23:54]  ناروتو S01 E96.mkv
+│       ├── [ 38M 2026-11-18 01:24:04]  ناروتو S01 E97.mkv
+│       ├── [ 34M 2026-11-18 01:24:38]  ناروتو S01 E98.mkv
+│       └── [ 33M 2026-11-18 01:24:43]  ناروتو S01 E99.mkv
+└── [3.4K 2026-11-18 01:52:14]  ناروتو شيبودن
+    └── [ 24K 2026-11-18 02:24:43]  Season 1 ناروتو شيبودن
+        ├── [ 36M 2026-11-18 01:52:10]  ناروتو شيبودن S01 E01.mkv
+        ├── [ 33M 2026-11-18 01:52:40]  ناروتو شيبودن S01 E02.mkv
+        ├── [ 42M 2026-11-18 01:53:38]  ناروتو شيبودن S01 E03.mkv
+        ├── [ 36M 2026-11-18 01:53:12]  ناروتو شيبودن S01 E04.mkv
+        ├── [ 37M 2026-11-18 01:54:06]  ناروتو شيبودن S01 E05.mkv
+        ├── [ 32M 2026-11-18 01:54:25]  ناروتو شيبودن S01 E06.mkv
+        ├── [ 34M 2026-11-18 01:54:43]  ناروتو شيبودن S01 E07.mkv
+        ├── [ 35M 2026-11-18 01:55:05]  ناروتو شيبودن S01 E08.mkv
+        ├── [ 42M 2026-11-18 01:56:05]  ناروتو شيبودن S01 E09.mkv
+        ├── [ 30M 2026-11-18 01:55:25]  ناروتو شيبودن S01 E10.mkv
+        ├── [ 31M 2026-11-18 02:10:43]  ناروتو شيبودن S01 E100.mkv
+        ├── [ 34M 2026-11-18 02:11:03]  ناروتو شيبودن S01 E101.mkv
+        ├── [ 29M 2026-11-18 02:11:13]  ناروتو شيبودن S01 E102.mkv
+        ├── [ 45M 2026-11-18 02:11:22]  ناروتو شيبودن S01 E103.mkv
+        ├── [ 43M 2026-11-18 02:11:42]  ناروتو شيبودن S01 E104.mkv
+        ├── [ 42M 2026-11-18 02:11:33]  ناروتو شيبودن S01 E105.mkv
+        ├── [ 37M 2026-11-18 02:11:51]  ناروتو شيبودن S01 E106.mkv
+        ├── [ 32M 2026-11-18 02:11:58]  ناروتو شيبودن S01 E107.mkv
+        ├── [ 30M 2026-11-18 02:12:15]  ناروتو شيبودن S01 E108.mkv
+        ├── [ 34M 2026-11-18 02:12:08]  ناروتو شيبودن S01 E109.mkv
+        ├── [ 34M 2026-11-18 01:55:43]  ناروتو شيبودن S01 E11.mkv
+        ├── [ 34M 2026-11-18 02:12:24]  ناروتو شيبودن S01 E110.mkv
+        ├── [ 42M 2026-11-18 02:12:32]  ناروتو شيبودن S01 E111.mkv
+        ├── [ 30M 2026-11-18 02:12:39]  ناروتو شيبودن S01 E112.mkv
+        ├── [ 32M 2026-11-18 02:12:47]  ناروتو شيبودن S01 E113.mkv
+        ├── [ 31M 2026-11-18 02:12:56]  ناروتو شيبودن S01 E114.mkv
+        ├── [ 33M 2026-11-18 02:13:11]  ناروتو شيبودن S01 E115.mkv
+        ├── [ 27M 2026-11-18 02:13:26]  ناروتو شيبودن S01 E116.mkv
+        ├── [ 30M 2026-11-18 02:13:02]  ناروتو شيبودن S01 E117.mkv
+        ├── [ 30M 2026-11-18 02:13:18]  ناروتو شيبودن S01 E118.mkv
+        ├── [ 59M 2026-11-18 02:13:51]  ناروتو شيبودن S01 E119.mkv
+        ├── [ 37M 2026-11-18 01:56:20]  ناروتو شيبودن S01 E12.mkv
+        ├── [ 28M 2026-11-18 02:13:33]  ناروتو شيبودن S01 E121.mkv
+        ├── [ 32M 2026-11-18 02:13:39]  ناروتو شيبودن S01 E122.mkv
+        ├── [ 34M 2026-11-18 02:13:56]  ناروتو شيبودن S01 E123.mkv
+        ├── [ 35M 2026-11-18 02:14:03]  ناروتو شيبودن S01 E124.mkv
+        ├── [ 29M 2026-11-18 02:14:10]  ناروتو شيبودن S01 E125.mkv
+        ├── [ 30M 2026-11-18 02:14:15]  ناروتو شيبودن S01 E126.mkv
+        ├── [ 61M 2026-11-18 02:14:37]  ناروتو شيبودن S01 E127.mkv
+        ├── [ 60M 2026-11-18 02:14:27]  ناروتو شيبودن S01 E129.mkv
+        ├── [ 42M 2026-11-18 01:56:40]  ناروتو شيبودن S01 E13.mkv
+        ├── [ 38M 2026-11-18 02:14:43]  ناروتو شيبودن S01 E131.mkv
+        ├── [ 36M 2026-11-18 02:14:49]  ناروتو شيبودن S01 E132.mkv
+        ├── [ 36M 2026-11-18 02:14:57]  ناروتو شيبودن S01 E133.mkv
+        ├── [ 41M 2026-11-18 02:15:05]  ناروتو شيبودن S01 E134.mkv
+        ├── [ 29M 2026-11-18 02:15:10]  ناروتو شيبودن S01 E135.mkv
+        ├── [ 33M 2026-11-18 02:15:21]  ناروتو شيبودن S01 E136.mkv
+        ├── [ 36M 2026-11-18 02:15:16]  ناروتو شيبودن S01 E137.mkv
+        ├── [ 50M 2026-11-18 02:15:26]  ناروتو شيبودن S01 E138.mkv
+        ├── [ 34M 2026-11-18 02:15:33]  ناروتو شيبودن S01 E139.mkv
+        ├── [ 43M 2026-11-18 01:56:57]  ناروتو شيبودن S01 E14.mkv
+        ├── [ 28M 2026-11-18 02:15:38]  ناروتو شيبودن S01 E140.mkv
+        ├── [ 32M 2026-11-18 02:15:44]  ناروتو شيبودن S01 E141.mkv
+        ├── [ 38M 2026-11-18 02:15:49]  ناروتو شيبودن S01 E142.mkv
+        ├── [ 52M 2026-11-18 02:16:00]  ناروتو شيبودن S01 E143.mkv
+        ├── [ 30M 2026-11-18 02:16:04]  ناروتو شيبودن S01 E144.mkv
+        ├── [ 37M 2026-11-18 02:16:21]  ناروتو شيبودن S01 E145.mkv
+        ├── [ 32M 2026-11-18 02:16:14]  ناروتو شيبودن S01 E146.mkv
+        ├── [ 33M 2026-11-18 02:16:36]  ناروتو شيبودن S01 E147.mkv
+        ├── [ 29M 2026-11-18 02:16:26]  ناروتو شيبودن S01 E148.mkv
+        ├── [ 37M 2026-11-18 02:16:45]  ناروتو شيبودن S01 E149.mkv
+        ├── [ 37M 2026-11-18 01:57:09]  ناروتو شيبودن S01 E15.mkv
+        ├── [ 33M 2026-11-18 02:17:03]  ناروتو شيبودن S01 E150.mkv
+        ├── [ 35M 2026-11-18 02:17:07]  ناروتو شيبودن S01 E151.mkv
+        ├── [ 29M 2026-11-18 02:17:23]  ناروتو شيبودن S01 E152.mkv
+        ├── [ 30M 2026-11-18 02:17:28]  ناروتو شيبودن S01 E153.mkv
+        ├── [ 32M 2026-11-18 02:17:43]  ناروتو شيبودن S01 E154.mkv
+        ├── [ 36M 2026-11-18 02:17:47]  ناروتو شيبودن S01 E155.mkv
+        ├── [ 37M 2026-11-18 02:17:59]  ناروتو شيبودن S01 E156.mkv
+        ├── [ 38M 2026-11-18 02:18:03]  ناروتو شيبودن S01 E157.mkv
+        ├── [ 35M 2026-11-18 02:18:11]  ناروتو شيبودن S01 E158.mkv
+        ├── [ 53M 2026-11-18 02:18:28]  ناروتو شيبودن S01 E159.mkv
+        ├── [ 32M 2026-11-18 01:57:34]  ناروتو شيبودن S01 E16.mkv
+        ├── [ 42M 2026-11-18 02:18:20]  ناروتو شيبودن S01 E160.mkv
+        ├── [ 41M 2026-11-18 02:18:44]  ناروتو شيبودن S01 E161.mkv
+        ├── [ 38M 2026-11-18 02:18:52]  ناروتو شيبودن S01 E162.mkv
+        ├── [ 46M 2026-11-18 02:19:13]  ناروتو شيبودن S01 E163.mkv
+        ├── [ 49M 2026-11-18 02:19:02]  ناروتو شيبودن S01 E164.mkv
+        ├── [ 35M 2026-11-18 02:19:35]  ناروتو شيبودن S01 E165.mkv
+        ├── [ 31M 2026-11-18 02:19:52]  ناروتو شيبودن S01 E166.mkv
+        ├── [ 43M 2026-11-18 02:19:47]  ناروتو شيبودن S01 E167.mkv
+        ├── [ 41M 2026-11-18 02:20:03]  ناروتو شيبودن S01 E168.mkv
+        ├── [ 34M 2026-11-18 02:20:24]  ناروتو شيبودن S01 E169.mkv
+        ├── [ 40M 2026-11-18 01:57:53]  ناروتو شيبودن S01 E17.mkv
+        ├── [ 37M 2026-11-18 02:20:08]  ناروتو شيبودن S01 E170.mkv
+        ├── [ 39M 2026-11-18 02:20:32]  ناروتو شيبودن S01 E171.mkv
+        ├── [ 37M 2026-11-18 02:20:20]  ناروتو شيبودن S01 E172.mkv
+        ├── [ 40M 2026-11-18 02:20:42]  ناروتو شيبودن S01 E173.mkv
+        ├── [ 33M 2026-11-18 02:20:39]  ناروتو شيبودن S01 E174.mkv
+        ├── [ 40M 2026-11-18 02:20:54]  ناروتو شيبودن S01 E175.mkv
+        ├── [ 32M 2026-11-18 02:20:56]  ناروتو شيبودن S01 E176.mkv
+        ├── [ 33M 2026-11-18 02:21:15]  ناروتو شيبودن S01 E177.mkv
+        ├── [ 36M 2026-11-18 02:21:08]  ناروتو شيبودن S01 E178.mkv
+        ├── [ 32M 2026-11-18 02:21:23]  ناروتو شيبودن S01 E179.mkv
+        ├── [ 33M 2026-11-18 01:58:08]  ناروتو شيبودن S01 E18.mkv
+        ├── [ 37M 2026-11-18 02:21:30]  ناروتو شيبودن S01 E180.mkv
+        ├── [ 40M 2026-11-18 02:21:47]  ناروتو شيبودن S01 E181.mkv
+        ├── [ 37M 2026-11-18 02:22:00]  ناروتو شيبودن S01 E182.mkv
+        ├── [ 39M 2026-11-18 02:21:49]  ناروتو شيبودن S01 E183.mkv
+        ├── [ 41M 2026-11-18 02:22:11]  ناروتو شيبودن S01 E184.mkv
+        ├── [ 49M 2026-11-18 02:22:21]  ناروتو شيبودن S01 E185.mkv
+        ├── [ 36M 2026-11-18 02:22:36]  ناروتو شيبودن S01 E186.mkv
+        ├── [ 38M 2026-11-18 02:22:54]  ناروتو شيبودن S01 E187.mkv
+        ├── [ 37M 2026-11-18 02:22:30]  ناروتو شيبودن S01 E188.mkv
+        ├── [ 38M 2026-11-18 02:23:18]  ناروتو شيبودن S01 E189.mkv
+        ├── [ 35M 2026-11-18 01:58:27]  ناروتو شيبودن S01 E19.mkv
+        ├── [ 41M 2026-11-18 02:22:50]  ناروتو شيبودن S01 E190.mkv
+        ├── [ 35M 2026-11-18 02:23:16]  ناروتو شيبودن S01 E191.mkv
+        ├── [ 41M 2026-11-18 02:23:39]  ناروتو شيبودن S01 E192.mkv
+        ├── [ 36M 2026-11-18 02:23:51]  ناروتو شيبودن S01 E193.mkv
+        ├── [ 43M 2026-11-18 02:23:35]  ناروتو شيبودن S01 E194.mkv
+        ├── [ 32M 2026-11-18 02:23:49]  ناروتو شيبودن S01 E195.mkv
+        ├── [ 34M 2026-11-18 02:24:04]  ناروتو شيبودن S01 E196.mkv
+        ├── [ 34M 2026-11-18 02:24:17]  ناروتو شيبودن S01 E197.mkv
+        ├── [ 33M 2026-11-18 02:24:09]  ناروتو شيبودن S01 E198.mkv
+        ├── [ 39M 2026-11-18 02:24:42]  ناروتو شيبودن S01 E199.mkv
+        ├── [ 34M 2026-11-18 01:58:44]  ناروتو شيبودن S01 E20.mkv
+        ├── [ 30M 2026-11-18 02:24:21]  ناروتو شيبودن S01 E200.mkv
+        ├── [ 38M 2026-11-18 01:59:31]  ناروتو شيبودن S01 E21.mkv
+        ├── [ 38M 2026-11-18 01:59:04]  ناروتو شيبودن S01 E22.mkv
+        ├── [ 31M 2026-11-18 01:59:47]  ناروتو شيبودن S01 E23.mkv
+        ├── [ 40M 2026-11-18 02:00:00]  ناروتو شيبودن S01 E24.mkv
+        ├── [ 42M 2026-11-18 02:00:21]  ناروتو شيبودن S01 E25.mkv
+        ├── [ 43M 2026-11-18 02:00:35]  ناروتو شيبودن S01 E26.mkv
+        ├── [ 31M 2026-11-18 02:00:48]  ناروتو شيبودن S01 E27.mkv
+        ├── [ 41M 2026-11-18 02:00:57]  ناروتو شيبودن S01 E28.mkv
+        ├── [ 46M 2026-11-18 02:01:09]  ناروتو شيبودن S01 E29.mkv
+        ├── [ 38M 2026-11-18 02:01:17]  ناروتو شيبودن S01 E30.mkv
+        ├── [ 36M 2026-11-18 02:01:25]  ناروتو شيبودن S01 E31.mkv
+        ├── [ 34M 2026-11-18 02:01:47]  ناروتو شيبودن S01 E32.mkv
+        ├── [ 40M 2026-11-18 02:01:38]  ناروتو شيبودن S01 E33.mkv
+        ├── [ 31M 2026-11-18 02:01:56]  ناروتو شيبودن S01 E34.mkv
+        ├── [ 32M 2026-11-18 02:02:06]  ناروتو شيبودن S01 E35.mkv
+        ├── [ 33M 2026-11-18 02:02:31]  ناروتو شيبودن S01 E36.mkv
+        ├── [ 38M 2026-11-18 02:02:20]  ناروتو شيبودن S01 E37.mkv
+        ├── [ 32M 2026-11-18 02:02:51]  ناروتو شيبودن S01 E38.mkv
+        ├── [ 40M 2026-11-18 02:02:42]  ناروتو شيبودن S01 E39.mkv
+        ├── [ 42M 2026-11-18 02:03:02]  ناروتو شيبودن S01 E40.mkv
+        ├── [ 45M 2026-11-18 02:03:14]  ناروتو شيبودن S01 E41.mkv
+        ├── [ 44M 2026-11-18 02:03:29]  ناروتو شيبودن S01 E42.mkv
+        ├── [ 41M 2026-11-18 02:03:21]  ناروتو شيبودن S01 E43.mkv
+        ├── [ 35M 2026-11-18 02:03:37]  ناروتو شيبودن S01 E44.mkv
+        ├── [ 43M 2026-11-18 02:03:47]  ناروتو شيبودن S01 E45.mkv
+        ├── [ 35M 2026-11-18 02:03:54]  ناروتو شيبودن S01 E46.mkv
+        ├── [ 33M 2026-11-18 02:04:00]  ناروتو شيبودن S01 E47.mkv
+        ├── [ 29M 2026-11-18 02:04:08]  ناروتو شيبودن S01 E48.mkv
+        ├── [ 40M 2026-11-18 02:04:17]  ناروتو شيبودن S01 E49.mkv
+        ├── [ 34M 2026-11-18 02:04:24]  ناروتو شيبودن S01 E50.mkv
+        ├── [ 45M 2026-11-18 02:04:31]  ناروتو شيبودن S01 E51.mkv
+        ├── [ 51M 2026-11-18 02:04:39]  ناروتو شيبودن S01 E52.mkv
+        ├── [ 46M 2026-11-18 02:04:57]  ناروتو شيبودن S01 E53.mkv
+        ├── [ 33M 2026-11-18 02:04:48]  ناروتو شيبودن S01 E54.mkv
+        ├── [ 31M 2026-11-18 02:05:04]  ناروتو شيبودن S01 E55.mkv
+        ├── [ 32M 2026-11-18 02:05:12]  ناروتو شيبودن S01 E56.mkv
+        ├── [ 37M 2026-11-18 02:05:20]  ناروتو شيبودن S01 E57.mkv
+        ├── [ 32M 2026-11-18 02:05:26]  ناروتو شيبودن S01 E58.mkv
+        ├── [ 35M 2026-11-18 02:05:32]  ناروتو شيبودن S01 E59.mkv
+        ├── [ 33M 2026-11-18 02:05:40]  ناروتو شيبودن S01 E60.mkv
+        ├── [ 40M 2026-11-18 02:05:51]  ناروتو شيبودن S01 E61.mkv
+        ├── [ 36M 2026-11-18 02:06:13]  ناروتو شيبودن S01 E62.mkv
+        ├── [ 34M 2026-11-18 02:06:03]  ناروتو شيبودن S01 E63.mkv
+        ├── [ 35M 2026-11-18 02:06:22]  ناروتو شيبودن S01 E64.mkv
+        ├── [ 36M 2026-11-18 02:06:33]  ناروتو شيبودن S01 E65.mkv
+        ├── [ 33M 2026-11-18 02:06:43]  ناروتو شيبودن S01 E66.mkv
+        ├── [ 32M 2026-11-18 02:06:51]  ناروتو شيبودن S01 E67.mkv
+        ├── [ 32M 2026-11-18 02:06:59]  ناروتو شيبودن S01 E68.mkv
+        ├── [ 36M 2026-11-18 02:07:07]  ناروتو شيبودن S01 E69.mkv
+        ├── [ 49M 2026-11-18 02:07:15]  ناروتو شيبودن S01 E70.mkv
+        ├── [ 44M 2026-11-18 02:07:22]  ناروتو شيبودن S01 E71.mkv
+        ├── [ 33M 2026-11-18 02:07:29]  ناروتو شيبودن S01 E72.mkv
+        ├── [ 39M 2026-11-18 02:07:35]  ناروتو شيبودن S01 E73.mkv
+        ├── [ 35M 2026-11-18 02:07:40]  ناروتو شيبودن S01 E74.mkv
+        ├── [ 33M 2026-11-18 02:07:46]  ناروتو شيبودن S01 E75.mkv
+        ├── [ 38M 2026-11-18 02:07:52]  ناروتو شيبودن S01 E76.mkv
+        ├── [ 36M 2026-11-18 02:07:57]  ناروتو شيبودن S01 E77.mkv
+        ├── [ 32M 2026-11-18 02:08:03]  ناروتو شيبودن S01 E78.mkv
+        ├── [ 38M 2026-11-18 02:08:08]  ناروتو شيبودن S01 E79.mkv
+        ├── [ 35M 2026-11-18 02:08:12]  ناروتو شيبودن S01 E80.mkv
+        ├── [ 41M 2026-11-18 02:08:23]  ناروتو شيبودن S01 E81.mkv
+        ├── [ 25M 2026-11-18 02:08:18]  ناروتو شيبودن S01 E82.mkv
+        ├── [ 39M 2026-11-18 02:08:30]  ناروتو شيبودن S01 E83.mkv
+        ├── [ 51M 2026-11-18 02:08:37]  ناروتو شيبودن S01 E84.mkv
+        ├── [ 46M 2026-11-18 02:08:43]  ناروتو شيبودن S01 E85.mkv
+        ├── [ 44M 2026-11-18 02:08:54]  ناروتو شيبودن S01 E86.mkv
+        ├── [ 42M 2026-11-18 02:08:49]  ناروتو شيبودن S01 E87.mkv
+        ├── [ 51M 2026-11-18 02:09:11]  ناروتو شيبودن S01 E88.mkv
+        ├── [ 29M 2026-11-18 02:09:01]  ناروتو شيبودن S01 E89.mkv
+        ├── [ 29M 2026-11-18 02:09:21]  ناروتو شيبودن S01 E90.mkv
+        ├── [ 39M 2026-11-18 02:09:37]  ناروتو شيبودن S01 E91.mkv
+        ├── [ 31M 2026-11-18 02:09:29]  ناروتو شيبودن S01 E92.mkv
+        ├── [ 34M 2026-11-18 02:09:47]  ناروتو شيبودن S01 E93.mkv
+        ├── [ 33M 2026-11-18 02:10:05]  ناروتو شيبودن S01 E94.mkv
+        ├── [ 36M 2026-11-18 02:09:57]  ناروتو شيبودن S01 E95.mkv
+        ├── [ 37M 2026-11-18 02:10:15]  ناروتو شيبودن S01 E96.mkv
+        ├── [ 42M 2026-11-18 02:10:24]  ناروتو شيبودن S01 E97.mkv
+        ├── [ 38M 2026-11-18 02:10:34]  ناروتو شيبودن S01 E98.mkv
+        └── [ 42M 2026-11-18 02:10:54]  ناروتو شيبودن S01 E99.mkv
+
+11 directories, 1377 files

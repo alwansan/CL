@@ -1,0 +1,13 @@
+1794956722977 SUBTITLE_POLICY=manifest-ready expected=2 completed=2 files=2 token=5mxv4t5wsfjeo0wcbrjg
+1794956724170 ffmpeg=native:/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so
+1794956724220 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794956724233 exec=[/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E59 [cnm-5mxv4t5wsfjeo0wcbrjg].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو شيبودن S01 E59 [cnm-5mxv4t5wsfjeo0wcbrjg].srt] [-i] [/storage/emulated/0/Cinemana/work/special subtitle for ناروتو شيبودن S01 E59 [cnm-5mxv4t5wsfjeo0wcbrjg].ass] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-map] [2:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو شيبودن S01 E59] [-metadata:s:s:0] [language=ar] [-metadata:s:s:1] [title=special subtitle for ناروتو شيبودن S01 E59] [-metadata:s:s:1] [language=sp] [-metadata] [title=ناروتو شيبودن S01 E59] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E59 [cnm-5mxv4t5wsfjeo0wcbrjg].mkv.cnm115-78a1c08e-c9ba-4e4d-b6bf-1e5f9b3e7e5c.part]
+1794956732811 exit=0 output=
+1794956732824 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E59 [cnm-5mxv4t5wsfjeo0wcbrjg].mkv size=36515306
+1794956733976 DB_PROMOTE=true
+1794956734061 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E59.mkv work=ناروتو شيبودن season=01 episode=59 noSub=false
+1794956734518 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E59.mkv
+1794956735051 delete video=ناروتو شيبودن S01 E59 [cnm-5mxv4t5wsfjeo0wcbrjg].mp4 result=true
+1794956735055 delete subtitle=arabic subtitle for ناروتو شيبودن S01 E59 [cnm-5mxv4t5wsfjeo0wcbrjg].srt result=true
+1794956735072 delete subtitle=special subtitle for ناروتو شيبودن S01 E59 [cnm-5mxv4t5wsfjeo0wcbrjg].ass result=true
+1794956735145 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E59.mkv

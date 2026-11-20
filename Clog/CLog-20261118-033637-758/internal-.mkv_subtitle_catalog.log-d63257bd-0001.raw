@@ -1,0 +1,42 @@
+1794953205318 PROBE128 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E01.mkv ebml=[0:ar/S_TEXT/UTF8@ebml] media=[] ffmpeg=[] chosen=[0:ar/S_TEXT/UTF8@ebml]
+1794953205321 CATALOG128 source=verified path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E01.mkv tracks=[0:ar/S_TEXT/UTF8@ebml] exposed=1
+1794953205448 CATALOG128 source=verified path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E01.mkv tracks=[0:ar/S_TEXT/UTF8@ebml] exposed=1
+1794953232566 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1794953232567 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1794953232666 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1794953232667 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1794959014445 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1794959014447 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1794959014732 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1794959014735 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1794959101082 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1794959101083 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1794959101407 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1794959101409 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1794959409635 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1794959409636 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1794959409923 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1794959409924 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1794959413418 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1794959413419 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1794959413742 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1794959413744 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1794959419749 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player,1:sp/text/x-ssa@player]
+1794959419751 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player,1:sp/text/x-ssa@player] exposed=2
+1794959420042 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player,1:sp/text/x-ssa@player]
+1794959420044 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player,1:sp/text/x-ssa@player] exposed=2
+1794960859654 PROBE128 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/(No Sub) ناروتو S01 E32.mkv ebml=[] media=[] ffmpeg=[] chosen=[]
+1794960859657 CATALOG128 empty path=file:/storage/emulated/0/Cinemana/ناروتو/Season%201%20ناروتو/(No%20Sub)%20ناروتو%20S01%20E32.mkv
+1794960859947 CATALOG128 empty path=file:/storage/emulated/0/Cinemana/ناروتو/Season%201%20ناروتو/(No%20Sub)%20ناروتو%20S01%20E32.mkv
+1794960860476 CATALOG128 empty path=file:/storage/emulated/0/Cinemana/ناروتو/Season%201%20ناروتو/(No%20Sub)%20ناروتو%20S01%20E32.mkv
+1794962127483 PROBE128 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/(No Sub) ناروتو S01 E09.mkv ebml=[] media=[] ffmpeg=[] chosen=[]
+1794962127484 CATALOG128 empty path=file:/storage/emulated/0/Cinemana/ناروتو/Season%201%20ناروتو/(No%20Sub)%20ناروتو%20S01%20E09.mkv
+1794962127717 CATALOG128 empty path=file:/storage/emulated/0/Cinemana/ناروتو/Season%201%20ناروتو/(No%20Sub)%20ناروتو%20S01%20E09.mkv
+1794962128162 CATALOG128 empty path=file:/storage/emulated/0/Cinemana/ناروتو/Season%201%20ناروتو/(No%20Sub)%20ناروتو%20S01%20E09.mkv
+1794962139627 PROBE128 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E09.mkv ebml=[0:ar/S_TEXT/UTF8@ebml] media=[] ffmpeg=[] chosen=[0:ar/S_TEXT/UTF8@ebml]
+1794962139630 CATALOG128 source=verified path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E09.mkv tracks=[0:ar/S_TEXT/UTF8@ebml] exposed=1
+1794962140143 CATALOG128 source=verified path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E09.mkv tracks=[0:ar/S_TEXT/UTF8@ebml] exposed=1
+1794962155803 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1794962155805 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1
+1794962156101 PROBE128 chosen=player tracks=[0:ar/application/x-subrip@player]
+1794962156102 CATALOG128 source=verified path=player tracks=[0:ar/application/x-subrip@player] exposed=1

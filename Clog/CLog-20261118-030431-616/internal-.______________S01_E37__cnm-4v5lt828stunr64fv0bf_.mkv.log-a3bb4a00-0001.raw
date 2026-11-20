@@ -1,0 +1,13 @@
+1794956520703 SUBTITLE_POLICY=manifest-ready expected=2 completed=4 files=2 token=4v5lt828stunr64fv0bf
+1794956522063 ffmpeg=native:/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so
+1794956522159 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794956522161 exec=[/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E37 [cnm-4v5lt828stunr64fv0bf].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو شيبودن S01 E37 [cnm-4v5lt828stunr64fv0bf].srt] [-i] [/storage/emulated/0/Cinemana/work/special subtitle for ناروتو شيبودن S01 E37 [cnm-4v5lt828stunr64fv0bf].ass] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-map] [2:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو شيبودن S01 E37] [-metadata:s:s:0] [language=ar] [-metadata:s:s:1] [title=special subtitle for ناروتو شيبودن S01 E37] [-metadata:s:s:1] [language=sp] [-metadata] [title=ناروتو شيبودن S01 E37] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E37 [cnm-4v5lt828stunr64fv0bf].mkv.cnm115-cca6d11a-f470-44f0-aaa1-84721a1b5560.part]
+1794956540590 exit=0 output=
+1794956540594 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E37 [cnm-4v5lt828stunr64fv0bf].mkv size=39730008
+1794956541266 DB_PROMOTE=true
+1794956541318 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E37.mkv work=ناروتو شيبودن season=01 episode=37 noSub=false
+1794956541817 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E37.mkv
+1794956543184 delete video=ناروتو شيبودن S01 E37 [cnm-4v5lt828stunr64fv0bf].mp4 result=true
+1794956543196 delete subtitle=arabic subtitle for ناروتو شيبودن S01 E37 [cnm-4v5lt828stunr64fv0bf].srt result=true
+1794956543213 delete subtitle=special subtitle for ناروتو شيبودن S01 E37 [cnm-4v5lt828stunr64fv0bf].ass result=true
+1794956543231 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E37.mkv

@@ -1,0 +1,13 @@
+1794956556263 SUBTITLE_POLICY=manifest-ready expected=2 completed=4 files=2 token=q9i8k5zu4qhlxx3kzpav
+1794956557803 ffmpeg=native:/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so
+1794956557910 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794956557912 exec=[/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E38 [cnm-q9i8k5zu4qhlxx3kzpav].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو شيبودن S01 E38 [cnm-q9i8k5zu4qhlxx3kzpav].srt] [-i] [/storage/emulated/0/Cinemana/work/special subtitle for ناروتو شيبودن S01 E38 [cnm-q9i8k5zu4qhlxx3kzpav].ass] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-map] [2:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو شيبودن S01 E38] [-metadata:s:s:0] [language=ar] [-metadata:s:s:1] [title=special subtitle for ناروتو شيبودن S01 E38] [-metadata:s:s:1] [language=sp] [-metadata] [title=ناروتو شيبودن S01 E38] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E38 [cnm-q9i8k5zu4qhlxx3kzpav].mkv.cnm115-2b2c60f9-63b2-441e-accc-e8a69b593fe8.part]
+1794956571467 exit=0 output=
+1794956571493 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E38 [cnm-q9i8k5zu4qhlxx3kzpav].mkv size=33553772
+1794956572897 DB_PROMOTE=true
+1794956572924 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E38.mkv work=ناروتو شيبودن season=01 episode=38 noSub=false
+1794956573436 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E38.mkv
+1794956574149 delete video=ناروتو شيبودن S01 E38 [cnm-q9i8k5zu4qhlxx3kzpav].mp4 result=true
+1794956574155 delete subtitle=arabic subtitle for ناروتو شيبودن S01 E38 [cnm-q9i8k5zu4qhlxx3kzpav].srt result=true
+1794956574174 delete subtitle=special subtitle for ناروتو شيبودن S01 E38 [cnm-q9i8k5zu4qhlxx3kzpav].ass result=true
+1794956574188 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E38.mkv

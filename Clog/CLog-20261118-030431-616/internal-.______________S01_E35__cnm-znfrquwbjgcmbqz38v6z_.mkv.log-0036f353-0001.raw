@@ -1,0 +1,13 @@
+1794956511552 SUBTITLE_POLICY=manifest-ready expected=2 completed=4 files=2 token=znfrquwbjgcmbqz38v6z
+1794956512760 ffmpeg=native:/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so
+1794956512835 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794956512837 exec=[/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E35 [cnm-znfrquwbjgcmbqz38v6z].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو شيبودن S01 E35 [cnm-znfrquwbjgcmbqz38v6z].srt] [-i] [/storage/emulated/0/Cinemana/work/special subtitle for ناروتو شيبودن S01 E35 [cnm-znfrquwbjgcmbqz38v6z].ass] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-map] [2:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو شيبودن S01 E35] [-metadata:s:s:0] [language=ar] [-metadata:s:s:1] [title=special subtitle for ناروتو شيبودن S01 E35] [-metadata:s:s:1] [language=sp] [-metadata] [title=ناروتو شيبودن S01 E35] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E35 [cnm-znfrquwbjgcmbqz38v6z].mkv.cnm115-13fca35f-1cef-4a8d-98f0-62193769b17e.part]
+1794956526506 exit=0 output=
+1794956526512 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E35 [cnm-znfrquwbjgcmbqz38v6z].mkv size=33520061
+1794956527329 DB_PROMOTE=true
+1794956527377 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E35.mkv work=ناروتو شيبودن season=01 episode=35 noSub=false
+1794956528028 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E35.mkv
+1794956529536 delete video=ناروتو شيبودن S01 E35 [cnm-znfrquwbjgcmbqz38v6z].mp4 result=true
+1794956529551 delete subtitle=arabic subtitle for ناروتو شيبودن S01 E35 [cnm-znfrquwbjgcmbqz38v6z].srt result=true
+1794956529572 delete subtitle=special subtitle for ناروتو شيبودن S01 E35 [cnm-znfrquwbjgcmbqz38v6z].ass result=true
+1794956529585 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E35.mkv

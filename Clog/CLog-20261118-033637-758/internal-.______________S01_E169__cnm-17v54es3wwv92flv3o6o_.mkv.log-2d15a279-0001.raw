@@ -1,0 +1,13 @@
+1794957619055 SUBTITLE_POLICY=manifest-ready expected=2 completed=2 files=2 token=17v54es3wwv92flv3o6o
+1794957620391 ffmpeg=native:/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so
+1794957620416 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794957620417 exec=[/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E169 [cnm-17v54es3wwv92flv3o6o].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو شيبودن S01 E169 [cnm-17v54es3wwv92flv3o6o].srt] [-i] [/storage/emulated/0/Cinemana/work/special subtitle for ناروتو شيبودن S01 E169 [cnm-17v54es3wwv92flv3o6o].ass] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-map] [2:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو شيبودن S01 E169] [-metadata:s:s:0] [language=ar] [-metadata:s:s:1] [title=special subtitle for ناروتو شيبودن S01 E169] [-metadata:s:s:1] [language=sp] [-metadata] [title=ناروتو شيبودن S01 E169] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E169 [cnm-17v54es3wwv92flv3o6o].mkv.cnm115-c559a4f9-ad56-4f66-8e5e-1f74c0346276.part]
+1794957624744 exit=0 output=
+1794957624748 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E169 [cnm-17v54es3wwv92flv3o6o].mkv size=35964344
+1794957624994 DB_PROMOTE=true
+1794957625014 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E169.mkv work=ناروتو شيبودن season=01 episode=169 noSub=false
+1794957625186 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E169.mkv
+1794957625360 delete video=ناروتو شيبودن S01 E169 [cnm-17v54es3wwv92flv3o6o].mp4 result=true
+1794957625366 delete subtitle=arabic subtitle for ناروتو شيبودن S01 E169 [cnm-17v54es3wwv92flv3o6o].srt result=true
+1794957625370 delete subtitle=special subtitle for ناروتو شيبودن S01 E169 [cnm-17v54es3wwv92flv3o6o].ass result=true
+1794957625377 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E169.mkv

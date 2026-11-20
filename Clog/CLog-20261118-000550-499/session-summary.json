@@ -1,0 +1,494 @@
+{
+  "schema": 1,
+  "session": "20261118-000550-499",
+  "target_package": "com.cinemana.pro",
+  "end_unix_ms": 1794950396179,
+  "stop_reason": "Stopped by user",
+  "total_recorded_bytes": 18995775,
+  "raw_log_segments": 1,
+  "metric_segments": 1,
+  "raw_log_policy": "preserve all segments; never delete",
+  "internal_work_log_capture_enabled": true,
+  "last_work_filesystem_audit": {
+    "timestamp_unix_ms": 1794950382210,
+    "elapsed_ms": 1248750850,
+    "scope": "Cinemana\/work recursive metadata, excludes log",
+    "scan_capped": false,
+    "scan_duration_ms": 429,
+    "entries_scanned": 990,
+    "directories": 5,
+    "empty_directories": 0,
+    "mp4_files": 15,
+    "mp4_bytes": 586988219,
+    "mkv_files": 0,
+    "mkv_bytes": 0,
+    "part_files": 1,
+    "part_bytes": 33816576,
+    "temp_files": 2,
+    "temp_bytes": 92342378,
+    "subtitle_files": 541,
+    "oldest_mp4_age_ms": 141769,
+    "source": "metadata only; extension is not completion proof"
+  },
+  "internal_source_access": "automatic fixed path or user-selected read-only SAF; source files never edited",
+  "game_process_exit_cause": "unknown unless explicitly supported by exit evidence",
+  "last_sample": {
+    "schema": 1,
+    "source": "clog_shell",
+    "timestamp_unix_ms": 1794950393755,
+    "elapsed_ms": 1248762824,
+    "sample": 253,
+    "package": "com.cinemana.pro",
+    "pid": 972,
+    "cpu_cores_online": 8,
+    "sample_interval_ms": 3124,
+    "app_process_type": "main",
+    "filedownloader_pid": 1833,
+    "filedownloader": {
+      "pid": 1833,
+      "status": "running",
+      "rss_kb": 147232,
+      "rss_peak_kb": 162908,
+      "threads": 55,
+      "open_fds": null,
+      "swap_kb": 39172,
+      "io_read_bytes": null,
+      "io_write_bytes": null,
+      "cpu_percent_one_core": 40.97,
+      "read_bytes_per_second": null,
+      "write_bytes_per_second": null
+    },
+    "state": "app_running",
+    "process_cpu_percent_one_core": 186.3,
+    "process_cpu_percent_all_cores": 23.29,
+    "process_cpu_source": "\/proc\/pid\/stat utime+stime \/ elapsed wall time",
+    "process_rss_kb": 415844,
+    "process_rss_peak_kb": 624532,
+    "process_threads": 146,
+    "process_fd_count": null,
+    "process_vm_swap_kb": 23192,
+    "process_voluntary_context_switches": 12641,
+    "process_involuntary_context_switches": 6156,
+    "process_pss_kb": 178384,
+    "pss_validated_against_rss": true,
+    "pss_sample_age_ms": 7752,
+    "memory_sources": "\/proc\/pid\/status; dumpsys meminfo pid when available",
+    "process_io_read_bytes": null,
+    "process_io_write_bytes": null,
+    "device_storage_free_bytes": 62720438272,
+    "device_mem_available_kb": 4075740,
+    "device_mem_total_kb": 11427800,
+    "system_load_1min": 21.94,
+    "android_ui_gfxinfo": {
+      "total_frames_rendered_": 1128,
+      "janky_frames_": 134,
+      "50th_percentile_": 9,
+      "90th_percentile_": 17,
+      "95th_percentile_": 21,
+      "99th_percentile_": 150,
+      "number_missed_vsync_": 35,
+      "number_slow_ui_thread_": 53,
+      "status": "available"
+    },
+    "gfxinfo_source": "dumpsys gfxinfo package; may be blocked on Android 15",
+    "cpu_frequency_khz_by_core": [
+      1804800,
+      1804800,
+      1804800,
+      1804800,
+      1996800,
+      1996800,
+      1996800,
+      2131200
+    ],
+    "gpu_busy_percent": 24.03,
+    "gpu_clock_hz": null,
+    "gpu_utilization_source": "KGSL system-wide busy\/total, if shell-readable",
+    "gpu_model": "Adreno730v3",
+    "battery_level_percent": 61,
+    "battery_temp_c": 40.6,
+    "battery_status_code": 3,
+    "thermal_status_code": 0,
+    "presented_fps_estimate": null,
+    "presented_frame_p95_ms": null,
+    "presented_frame_worst_ms": null,
+    "presented_frame_window_count": 0,
+    "last_present_progress_age_ms": null,
+    "suspected_present_stall": false,
+    "available_ram_under_1gib_watch": false,
+    "fps_method": "SurfaceFlinger --latency app SurfaceView; video playback presentation, NOT UI responsiveness",
+    "fps_surface": null,
+    "process_read_bytes_per_second": null,
+    "process_write_bytes_per_second": null,
+    "device_storage_total_bytes": 496008933376,
+    "device_storage_used_bytes": 433288495104,
+    "top_thread_cpu": {
+      "main": {
+        "threads_total": 150,
+        "capped": false,
+        "top": [
+          {
+            "tid": 14069,
+            "category": "other",
+            "cpu_percent_one_core": 32.22
+          },
+          {
+            "tid": 15802,
+            "category": "other",
+            "cpu_percent_one_core": 29.57
+          },
+          {
+            "tid": 16899,
+            "category": "other",
+            "cpu_percent_one_core": 28.66
+          },
+          {
+            "tid": 13961,
+            "category": "runtime",
+            "cpu_percent_one_core": 28.6
+          },
+          {
+            "tid": 14068,
+            "category": "other",
+            "cpu_percent_one_core": 17.82
+          },
+          {
+            "tid": 15396,
+            "category": "other",
+            "cpu_percent_one_core": 14.63
+          }
+        ]
+      },
+      "filedownloader": {
+        "threads_total": 56,
+        "capped": false,
+        "top": [
+          {
+            "tid": 1909,
+            "category": "worker",
+            "cpu_percent_one_core": 25.23
+          },
+          {
+            "tid": 3581,
+            "category": "worker",
+            "cpu_percent_one_core": 8.97
+          },
+          {
+            "tid": 3588,
+            "category": "worker",
+            "cpu_percent_one_core": 6.74
+          },
+          {
+            "tid": 1842,
+            "category": "runtime",
+            "cpu_percent_one_core": 2.29
+          },
+          {
+            "tid": 1970,
+            "category": "other",
+            "cpu_percent_one_core": 0.78
+          },
+          {
+            "tid": 3580,
+            "category": "worker",
+            "cpu_percent_one_core": 0.12
+          }
+        ]
+      }
+    },
+    "top_thread_sample_age_ms": 10851,
+    "device_diskstats": {
+      "status": "unavailable:FileNotFoundException"
+    },
+    "diskstats_sample_age_ms": 10851,
+    "gateway_ping": {
+      "scope": "local IPv4 gateway only; not Cinemana server RTT",
+      "rtt_ms": null,
+      "status": "gateway_unavailable"
+    },
+    "gateway_ping_sample_age_ms": 43484,
+    "clog_shell_cpu_percent_one_core": 1.63,
+    "clog_shell_java_heap_used_bytes": 10375168,
+    "sample_duration_ms": 116,
+    "game_log_lines_per_second": 3.84,
+    "error_flood_warning": false,
+    "system_context_lines_per_second": 0.96,
+    "game_log_lines": 95166,
+    "system_context_lines": 8353,
+    "logcat_reconnects": 0,
+    "shader_pass_errors_total": 0,
+    "invalid_compute_kernel_total": 0,
+    "missing_asset_path_errors_total": 0,
+    "java_fatal_markers_total": 0,
+    "native_fatal_markers_total": 0,
+    "game_process_death_events_total": 1,
+    "process_exit_reason": "unknown; process death alone is not a crash",
+    "cinemana_event_counts": {
+      "startup_markers": 19,
+      "main_looper_blocked": 0,
+      "choreographer_frame_skips": 165,
+      "ui_frame_trace": 0,
+      "filedownloader_events": 596,
+      "download_repair_events": 0,
+      "download_errors": 0,
+      "mkv_queue_enqueued": 0,
+      "mkv_queue_started": 2115,
+      "mkv_ffmpeg_acquired": 0,
+      "mkv_ffmpeg_released": 0,
+      "mkv_watchdog_stalls": 0,
+      "mkv_orphan_removed": 0,
+      "mkv_rebuild_started": 0,
+      "mkv_worker_errors": 0,
+      "subtitle_failures": 0,
+      "room_database_errors": 2,
+      "player_decoder_events": 514,
+      "player_buffering_events": 12,
+      "notification_episode_events": 0,
+      "java_fatal_exceptions": 0,
+      "art_verify_errors": 0,
+      "missing_java_classes": 10,
+      "java_class_casts": 0,
+      "oom_exceptions": 0,
+      "native_fatal_signals": 0,
+      "android_anrs": 2,
+      "android_process_deaths": 1,
+      "android_low_memory_kills": 0,
+      "android_kill_markers": 1,
+      "android_force_stop_markers": 0,
+      "android_startup_timeout_markers": 0,
+      "sqlite_connection_leak_warnings": 2,
+      "native_service_disconnected_markers": 0,
+      "native_cap_disconnected_markers": 3,
+      "queue_scan_markers": 0,
+      "recovery_slow_markers": 0,
+      "http_403_markers": 0,
+      "http_429_markers": 0,
+      "native_terminal_markers": 872,
+      "batch_admission_markers": 416,
+      "db_commit_markers": 0,
+      "gc_markers": 2611,
+      "lock_contention_markers": 4028
+    },
+    "main_pid": 972,
+    "logcat_unobserved_losses": "unknown"
+  },
+  "last_game_exit_evidence": {
+    "schema": 1,
+    "source": "clog_shell",
+    "timestamp_unix_ms": 1794950149090,
+    "elapsed_ms": 1248518158,
+    "sample": 178,
+    "package": "com.cinemana.pro",
+    "pid": null,
+    "cpu_cores_online": 8,
+    "sample_interval_ms": 3120,
+    "app_process_type": "main",
+    "filedownloader_pid": 1833,
+    "filedownloader": {
+      "pid": 1833,
+      "status": "running",
+      "rss_kb": 143744,
+      "rss_peak_kb": 161820,
+      "threads": 55,
+      "open_fds": null,
+      "swap_kb": 37824,
+      "io_read_bytes": null,
+      "io_write_bytes": null,
+      "cpu_percent_one_core": 34.62,
+      "read_bytes_per_second": null,
+      "write_bytes_per_second": null
+    },
+    "process_transition": "game_exited",
+    "previous_pid": 29042,
+    "exit_history_for_pid": 29042,
+    "exit_history_snapshot": "ACTIVITY MANAGER PROCESS EXIT INFO (dumpsys activity exit-info)\nLast Timestamp of Persistence Into Persistent Storage: ٢٠٢٦-١١-١٨ ٠٠:٠٣:٥٤.٣٢٧\n  package: com.cinemana.pro\n    Historical Process Exit for uid=13138\n        ApplicationExitInfo #0:\n          timestamp=٢٠٢٦-١١-١٨ ٠٠:١٥:٤٨.٨١١ pid=29042 realUid=13138 packageUid=13138 definingUid=13138 user=0\n          process=com.cinemana.pro reason=6 (ANR) subreason=0 (UNKNOWN) status=0\n          importance=100 pss=٦٤٣MB rss=٧٠١MB description=user request after error: Input dispatching timed out (5644fec com.cinemana.pro\/com.shabakaty.cinemana.ui.home_activity.HomeActivity (server) is not responding. Waited 5000ms for FocusEvent(hasFocus=false)). state=empty trace=\/data\/system\/procexitstore\/anr_٢٠٢٦-١١-١٨-٠٠-١٣-٣٤-٤٣٥.gz\n",
+    "exit_history_status": "captured; match PID and timestamp before interpreting cause",
+    "state": "app_not_running",
+    "device_storage_free_bytes": 63578476544,
+    "device_mem_available_kb": 4732944,
+    "device_mem_total_kb": 11427800,
+    "system_load_1min": 25.07,
+    "android_ui_gfxinfo": null,
+    "gfxinfo_source": "dumpsys gfxinfo package; may be blocked on Android 15",
+    "cpu_frequency_khz_by_core": [
+      1804800,
+      1804800,
+      1804800,
+      1804800,
+      1440000,
+      1440000,
+      1440000,
+      1401600
+    ],
+    "gpu_busy_percent": 10.24,
+    "gpu_clock_hz": null,
+    "gpu_utilization_source": "KGSL system-wide busy\/total, if shell-readable",
+    "gpu_model": "Adreno730v3",
+    "battery_level_percent": 63,
+    "battery_temp_c": 40.5,
+    "battery_status_code": 3,
+    "thermal_status_code": 0,
+    "presented_fps_estimate": null,
+    "presented_frame_p95_ms": null,
+    "presented_frame_worst_ms": null,
+    "presented_frame_window_count": 0,
+    "last_present_progress_age_ms": null,
+    "suspected_present_stall": false,
+    "available_ram_under_1gib_watch": false,
+    "fps_method": "SurfaceFlinger --latency app SurfaceView; video playback presentation, NOT UI responsiveness",
+    "fps_surface": null,
+    "process_read_bytes_per_second": null,
+    "process_write_bytes_per_second": null,
+    "device_storage_total_bytes": 496008933376,
+    "device_storage_used_bytes": 432430456832,
+    "top_thread_cpu": {
+      "main": {
+        "threads_total": 266,
+        "capped": true,
+        "top": [
+          {
+            "tid": 31795,
+            "category": "runtime",
+            "cpu_percent_one_core": 44.74
+          },
+          {
+            "tid": 31925,
+            "category": "other",
+            "cpu_percent_one_core": 35.19
+          },
+          {
+            "tid": 31973,
+            "category": "worker",
+            "cpu_percent_one_core": 34.09
+          },
+          {
+            "tid": 31923,
+            "category": "other",
+            "cpu_percent_one_core": 34.03
+          },
+          {
+            "tid": 31935,
+            "category": "other",
+            "cpu_percent_one_core": 17.77
+          },
+          {
+            "tid": 31934,
+            "category": "worker",
+            "cpu_percent_one_core": 15.97
+          }
+        ]
+      },
+      "filedownloader": {
+        "threads_total": 56,
+        "capped": false,
+        "top": [
+          {
+            "tid": 1909,
+            "category": "worker",
+            "cpu_percent_one_core": 29.06
+          },
+          {
+            "tid": 3588,
+            "category": "worker",
+            "cpu_percent_one_core": 6.6
+          },
+          {
+            "tid": 3581,
+            "category": "worker",
+            "cpu_percent_one_core": 6.37
+          },
+          {
+            "tid": 1842,
+            "category": "runtime",
+            "cpu_percent_one_core": 2.66
+          },
+          {
+            "tid": 1970,
+            "category": "other",
+            "cpu_percent_one_core": 0.52
+          },
+          {
+            "tid": 1902,
+            "category": "other",
+            "cpu_percent_one_core": 0.06
+          }
+        ]
+      }
+    },
+    "top_thread_sample_age_ms": 8306,
+    "device_diskstats": {
+      "status": "unavailable:FileNotFoundException"
+    },
+    "diskstats_sample_age_ms": 8306,
+    "gateway_ping": {
+      "scope": "local IPv4 gateway only; not Cinemana server RTT",
+      "rtt_ms": null,
+      "status": "gateway_unavailable"
+    },
+    "gateway_ping_sample_age_ms": 46321,
+    "clog_shell_cpu_percent_one_core": 1.88,
+    "clog_shell_java_heap_used_bytes": 11243520,
+    "sample_duration_ms": 127,
+    "game_log_lines_per_second": 11.18,
+    "error_flood_warning": false,
+    "system_context_lines_per_second": 15.97,
+    "game_log_lines": 88755,
+    "system_context_lines": 7779,
+    "logcat_reconnects": 0,
+    "shader_pass_errors_total": 0,
+    "invalid_compute_kernel_total": 0,
+    "missing_asset_path_errors_total": 0,
+    "java_fatal_markers_total": 0,
+    "native_fatal_markers_total": 0,
+    "game_process_death_events_total": 0,
+    "process_exit_reason": "unknown; process death alone is not a crash",
+    "cinemana_event_counts": {
+      "startup_markers": 12,
+      "main_looper_blocked": 0,
+      "choreographer_frame_skips": 159,
+      "ui_frame_trace": 0,
+      "filedownloader_events": 144,
+      "download_repair_events": 0,
+      "download_errors": 0,
+      "mkv_queue_enqueued": 0,
+      "mkv_queue_started": 1731,
+      "mkv_ffmpeg_acquired": 0,
+      "mkv_ffmpeg_released": 0,
+      "mkv_watchdog_stalls": 0,
+      "mkv_orphan_removed": 0,
+      "mkv_rebuild_started": 0,
+      "mkv_worker_errors": 0,
+      "subtitle_failures": 0,
+      "room_database_errors": 0,
+      "player_decoder_events": 514,
+      "player_buffering_events": 12,
+      "notification_episode_events": 0,
+      "java_fatal_exceptions": 0,
+      "art_verify_errors": 0,
+      "missing_java_classes": 8,
+      "java_class_casts": 0,
+      "oom_exceptions": 0,
+      "native_fatal_signals": 0,
+      "android_anrs": 2,
+      "android_process_deaths": 0,
+      "android_low_memory_kills": 0,
+      "android_kill_markers": 1,
+      "android_force_stop_markers": 0,
+      "android_startup_timeout_markers": 0,
+      "sqlite_connection_leak_warnings": 0,
+      "native_service_disconnected_markers": 0,
+      "native_cap_disconnected_markers": 2,
+      "queue_scan_markers": 0,
+      "recovery_slow_markers": 0,
+      "http_403_markers": 0,
+      "http_429_markers": 0,
+      "native_terminal_markers": 836,
+      "batch_admission_markers": 416,
+      "db_commit_markers": 0,
+      "gc_markers": 1947,
+      "lock_contention_markers": 3998
+    },
+    "main_pid": null,
+    "logcat_unobserved_losses": "unknown"
+  }
+}

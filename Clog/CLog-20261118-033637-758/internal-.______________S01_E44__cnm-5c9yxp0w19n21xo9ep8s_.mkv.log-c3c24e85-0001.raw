@@ -1,0 +1,13 @@
+1794956606044 SUBTITLE_POLICY=manifest-ready expected=2 completed=4 files=2 token=5c9yxp0w19n21xo9ep8s
+1794956607207 ffmpeg=native:/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so
+1794956607270 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794956607271 exec=[/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E44 [cnm-5c9yxp0w19n21xo9ep8s].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو شيبودن S01 E44 [cnm-5c9yxp0w19n21xo9ep8s].srt] [-i] [/storage/emulated/0/Cinemana/work/special subtitle for ناروتو شيبودن S01 E44 [cnm-5c9yxp0w19n21xo9ep8s].ass] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-map] [2:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو شيبودن S01 E44] [-metadata:s:s:0] [language=ar] [-metadata:s:s:1] [title=special subtitle for ناروتو شيبودن S01 E44] [-metadata:s:s:1] [language=sp] [-metadata] [title=ناروتو شيبودن S01 E44] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E44 [cnm-5c9yxp0w19n21xo9ep8s].mkv.cnm115-94e5580c-e3f8-43ba-a9ca-b77cfbdd2a08.part]
+1794956617504 exit=0 output=
+1794956617510 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E44 [cnm-5c9yxp0w19n21xo9ep8s].mkv size=36849605
+1794956618077 DB_PROMOTE=true
+1794956618132 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E44.mkv work=ناروتو شيبودن season=01 episode=44 noSub=false
+1794956618608 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E44.mkv
+1794956619716 delete video=ناروتو شيبودن S01 E44 [cnm-5c9yxp0w19n21xo9ep8s].mp4 result=true
+1794956619727 delete subtitle=arabic subtitle for ناروتو شيبودن S01 E44 [cnm-5c9yxp0w19n21xo9ep8s].srt result=true
+1794956619730 delete subtitle=special subtitle for ناروتو شيبودن S01 E44 [cnm-5c9yxp0w19n21xo9ep8s].ass result=true
+1794956619739 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E44.mkv

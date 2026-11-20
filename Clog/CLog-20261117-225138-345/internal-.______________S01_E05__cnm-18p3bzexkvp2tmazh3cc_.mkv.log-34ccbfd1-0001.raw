@@ -1,0 +1,23 @@
+1794944675014 SUBTITLE_POLICY=manifest-ready expected=2 completed=2 files=2 token=18p3bzexkvp2tmazh3cc
+1794944675684 ffmpeg=native:/data/app/~~bX6kfrRJqhO-7uN-rDExbw==/com.cinemana.pro-f9pNNXgJvj8SomhAzWy55A==/lib/arm64/libffmpeg.so
+1794944675736 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794944675738 exec=[/data/app/~~bX6kfrRJqhO-7uN-rDExbw==/com.cinemana.pro-f9pNNXgJvj8SomhAzWy55A==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E05 [cnm-18p3bzexkvp2tmazh3cc].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو شيبودن S01 E05 [cnm-18p3bzexkvp2tmazh3cc].srt] [-i] [/storage/emulated/0/Cinemana/work/special subtitle for ناروتو شيبودن S01 E05 [cnm-18p3bzexkvp2tmazh3cc].ass] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-map] [2:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو شيبودن S01 E05] [-metadata:s:s:0] [language=ar] [-metadata:s:s:1] [title=special subtitle for ناروتو شيبودن S01 E05] [-metadata:s:s:1] [language=sp] [-metadata] [title=ناروتو شيبودن S01 E05] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E05 [cnm-18p3bzexkvp2tmazh3cc].mkv.cnm115-29a68c44-07e6-4cb1-9ab5-367c2e7c543b.part]
+1794944680943 exit=0 output=
+1794944680950 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E05 [cnm-18p3bzexkvp2tmazh3cc].mkv size=39003319
+1794944681751 DB_PROMOTE=true
+1794944681780 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E05.mkv work=ناروتو شيبودن season=01 episode=05 noSub=false
+1794945018880 SUBTITLE_POLICY=manifest-ready expected=2 completed=2 files=2 token=18p3bzexkvp2tmazh3cc
+1794945019303 ffmpeg=native:/data/app/~~bX6kfrRJqhO-7uN-rDExbw==/com.cinemana.pro-f9pNNXgJvj8SomhAzWy55A==/lib/arm64/libffmpeg.so
+1794945019357 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794945019358 exec=[/data/app/~~bX6kfrRJqhO-7uN-rDExbw==/com.cinemana.pro-f9pNNXgJvj8SomhAzWy55A==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E05 [cnm-18p3bzexkvp2tmazh3cc].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو شيبودن S01 E05 [cnm-18p3bzexkvp2tmazh3cc].srt] [-i] [/storage/emulated/0/Cinemana/work/special subtitle for ناروتو شيبودن S01 E05 [cnm-18p3bzexkvp2tmazh3cc].ass] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-map] [2:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو شيبودن S01 E05] [-metadata:s:s:0] [language=ar] [-metadata:s:s:1] [title=special subtitle for ناروتو شيبودن S01 E05] [-metadata:s:s:1] [language=sp] [-metadata] [title=ناروتو شيبودن S01 E05] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E05 [cnm-18p3bzexkvp2tmazh3cc].mkv.cnm115-dba08e56-9c3a-456a-a7f9-8494616da261.part]
+1794945020375 exit=0 output=
+1794945020385 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E05 [cnm-18p3bzexkvp2tmazh3cc].mkv size=39003319
+1794945020924 DB_PROMOTE=true
+1794945020929 SORT_OLD_STAGED=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E05.mkv.bak
+1794945020940 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E05.mkv work=ناروتو شيبودن season=01 episode=05 noSub=false
+1794945021359 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E05.mkv
+1794945021365 OLD_SORTED_MKV_DELETE=true
+1794945021879 delete video=ناروتو شيبودن S01 E05 [cnm-18p3bzexkvp2tmazh3cc].mp4 result=true
+1794945021883 delete subtitle=arabic subtitle for ناروتو شيبودن S01 E05 [cnm-18p3bzexkvp2tmazh3cc].srt result=true
+1794945021887 delete subtitle=special subtitle for ناروتو شيبودن S01 E05 [cnm-18p3bzexkvp2tmazh3cc].ass result=true
+1794945021892 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E05.mkv

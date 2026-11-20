@@ -1,0 +1,14 @@
+1795029409125 SUBTITLE_POLICY=manifest-ready expected=2 completed=2 files=2 token=15cu8l83sgy4nk9c6t7r
+1795029409140 ffmpeg=native:/data/app/~~YGJxg8Nx2MtQxIjzNjZcaQ==/com.cinemana.pro-QX-n96bnPih3HKd3_1rQAA==/lib/arm64/libffmpeg.so
+1795029409153 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1795029409154 exec=[/data/app/~~YGJxg8Nx2MtQxIjzNjZcaQ==/com.cinemana.pro-QX-n96bnPih3HKd3_1rQAA==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/Boruto_ Naruto Next Generations S01 E03 [cnm-15cu8l83sgy4nk9c6t7r].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for Boruto_ Naruto Next Generations S01 E03 [cnm-15cu8l83sgy4nk9c6t7r].srt] [-i] [/storage/emulated/0/Cinemana/work/special subtitle for Boruto_ Naruto Next Generations S01 E03 [cnm-15cu8l83sgy4nk9c6t7r].ass] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-map] [2:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for Boruto_ Naruto Next Generations S01 E03] [-metadata:s:s:0] [language=ar] [-metadata:s:s:1] [title=special subtitle for Boruto_ Naruto Next Generations S01 E03] [-metadata:s:s:1] [language=sp] [-metadata] [title=Boruto_ Naruto Next Generations S01 E03] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/Boruto_ Naruto Next Generations S01 E03 [cnm-15cu8l83sgy4nk9c6t7r].mkv.cnm115-8f8db9f4-c8e3-4333-82e4-7e8399571d48.part]
+1795029409167 FFMPEG_PROCESS_STARTED
+1795029410534 exit=0 output=
+1795029410537 SUCCESS=/storage/emulated/0/Cinemana/work/Boruto_ Naruto Next Generations S01 E03 [cnm-15cu8l83sgy4nk9c6t7r].mkv size=33104015
+1795029410632 DB_PROMOTE=true
+1795029410652 SORTED_MKV=/storage/emulated/0/Cinemana/Boruto_ Naruto Next Generations/Season 1 Boruto_ Naruto Next Generations/Boruto_ Naruto Next Generations S01 E03.mkv work=Boruto_ Naruto Next Generations season=1 episode=3 noSub=false
+1795029410689 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/Boruto_ Naruto Next Generations/Season 1 Boruto_ Naruto Next Generations/Boruto_ Naruto Next Generations S01 E03.mkv
+1795029410749 delete video=Boruto_ Naruto Next Generations S01 E03 [cnm-15cu8l83sgy4nk9c6t7r].mp4 result=true
+1795029410752 delete subtitle=arabic subtitle for Boruto_ Naruto Next Generations S01 E03 [cnm-15cu8l83sgy4nk9c6t7r].srt result=true
+1795029410753 delete subtitle=special subtitle for Boruto_ Naruto Next Generations S01 E03 [cnm-15cu8l83sgy4nk9c6t7r].ass result=true
+1795029410756 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/Boruto_ Naruto Next Generations/Season 1 Boruto_ Naruto Next Generations/Boruto_ Naruto Next Generations S01 E03.mkv

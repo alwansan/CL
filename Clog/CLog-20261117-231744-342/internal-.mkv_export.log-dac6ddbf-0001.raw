@@ -1,0 +1,36 @@
+1794946734928 MKV_FFMPEG_SLOT_ACQUIRED target=ناروتو S01 E01 [cnm-qswl05curr9wm6bz9iev].mkv
+1794946735648 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1794946735650 DB_PROMOTE_DOWNLOADS_MATCH task_id=1413335492 external_id=5661 score=6280 exactPath=true originalPath=/storage/emulated/0/Cinemana/work/ناروتو S01 E01 [cnm-qswl05curr9wm6bz9iev].mp4 title=ناروتو season=1 episode=1
+1794946735652 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1794946735654 DB_PROMOTE_DOWNLOADS_VERIFIED path=ناروتو S01 E01 [cnm-qswl05curr9wm6bz9iev].mkv size=36759111
+1794946735656 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1794946735658 DB_PROMOTE_SUBTITLE_RESULT=kotlin.Unit
+1794946735661 DB_PROMOTE_SUCCESS path=ناروتو S01 E01 [cnm-qswl05curr9wm6bz9iev].mkv task_id=1413335492 external_id=5661 item_id=5661
+1794946735662 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:1413335492;externalId:5661;itemId:5661;path:ناروتو S01 E01 [cnm-qswl05curr9wm6bz9iev].mkv
+1794946735675 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1794946735678 DB_PROMOTE_DOWNLOADS_MATCH task_id=1413335492 external_id=5661 score=6280 exactPath=true originalPath=ناروتو S01 E01 [cnm-qswl05curr9wm6bz9iev].mkv title=ناروتو season=1 episode=1
+1794946735681 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1794946735683 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E01.mkv size=36759111
+1794946735686 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1794946735690 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E01.mkv task_id=1413335492 external_id=5661 item_id=5661
+1794946735692 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:1413335492;externalId:5661;itemId:5661;path:/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E01.mkv
+1794946735696 MKV_INTERNAL_IDENTITY=5661@1794946735693 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E01.mkv noSub=false
+1794946735713 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1794946735716 DB_PROMOTE_DOWNLOADS_MATCH task_id=1413335492 external_id=5661 score=6280 exactPath=true originalPath=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E01.mkv title=ناروتو season=1 episode=1
+1794946735718 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1794946735719 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E01.mkv size=36759111
+1794946735722 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1794946735724 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E01.mkv task_id=1413335492 external_id=5661 item_id=5661
+1794946735726 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:1413335492;externalId:5661;itemId:5661;path:/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E01.mkv
+1794946735747 MKV_FFMPEG_SLOT_RELEASED target=ناروتو S01 E01 [cnm-qswl05curr9wm6bz9iev].mkv
+1794946736116 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1794946736118 DB_PROMOTE_DOWNLOADS_MATCH task_id=1413335492 external_id=5661 score=6280 exactPath=true originalPath=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E01.mkv title=ناروتو season=1 episode=1
+1794946736120 DB_PROMOTE_DOWNLOADS_RESULT=kotlin.Unit
+1794946736123 DB_PROMOTE_DOWNLOADS_VERIFIED path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E01.mkv size=36759111
+1794946736125 DB_PROMOTE_ITEM_RESULT=kotlin.Unit
+1794946736128 DB_PROMOTE_SUCCESS path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E01.mkv task_id=1413335492 external_id=5661 item_id=5661
+1794946736130 PRIMARY_IDENTITY_VERIFIED=downloadTaskId:1413335492;externalId:5661;itemId:5661;path:/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E01.mkv
+1794946736135 MKV_INTERNAL_IDENTITY=5661@1794946736131 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E01.mkv noSub=false
+1794946750887 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1794946750894 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1794946750910 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0

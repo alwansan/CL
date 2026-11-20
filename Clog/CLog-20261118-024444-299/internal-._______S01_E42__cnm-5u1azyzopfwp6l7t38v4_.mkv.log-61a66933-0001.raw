@@ -1,0 +1,12 @@
+1794953653796 SUBTITLE_POLICY=manifest-ready expected=1 completed=2 files=1 token=5u1azyzopfwp6l7t38v4
+1794953654511 ffmpeg=native:/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so
+1794953654584 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794953654585 exec=[/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E42 [cnm-5u1azyzopfwp6l7t38v4].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E42 [cnm-5u1azyzopfwp6l7t38v4].srt] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو S01 E42] [-metadata:s:s:0] [language=ar] [-metadata] [title=ناروتو S01 E42] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو S01 E42 [cnm-5u1azyzopfwp6l7t38v4].mkv.cnm115-47415417-7da1-42db-bd60-5746d44bdb94.part]
+1794953657380 exit=0 output=
+1794953657391 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو S01 E42 [cnm-5u1azyzopfwp6l7t38v4].mkv size=40186640
+1794953658113 DB_PROMOTE=true
+1794953658145 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E42.mkv work=ناروتو season=01 episode=42 noSub=false
+1794953659103 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E42.mkv
+1794953660255 delete video=ناروتو S01 E42 [cnm-5u1azyzopfwp6l7t38v4].mp4 result=true
+1794953660275 delete subtitle=arabic subtitle for ناروتو S01 E42 [cnm-5u1azyzopfwp6l7t38v4].srt result=true
+1794953660301 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E42.mkv

@@ -1,0 +1,15 @@
+1794960348610 SUBTITLE_POLICY=manifest-ready expected=0 completed=0 files=0 token=35l1zm5ytg2dthgfp7uf
+1794960350041 ffmpeg=native:/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so
+1794960350110 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794960350113 exec=[/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E06 [cnm-35l1zm5ytg2dthgfp7uf].mp4] [-map] [0:v:0] [-map] [0:a?] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata] [title=ناروتو S01 E06] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/(No Sub) ناروتو S01 E06 [cnm-35l1zm5ytg2dthgfp7uf].mkv.cnm115-9e3d95df-9ad7-4199-b959-9ee5bc7da680.part]
+1794960369948 SUBTITLE_POLICY=manifest-ready expected=0 completed=0 files=0 token=35l1zm5ytg2dthgfp7uf
+1794960370350 ffmpeg=native:/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so
+1794960370379 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794960370381 exec=[/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E06 [cnm-35l1zm5ytg2dthgfp7uf].mp4] [-map] [0:v:0] [-map] [0:a?] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata] [title=ناروتو S01 E06] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/(No Sub) ناروتو S01 E06 [cnm-35l1zm5ytg2dthgfp7uf].mkv.cnm115-357ebe04-c7be-443e-a273-c0b776351f99.part]
+1794960374160 exit=0 output=
+1794960374169 SUCCESS=/storage/emulated/0/Cinemana/work/(No Sub) ناروتو S01 E06 [cnm-35l1zm5ytg2dthgfp7uf].mkv size=32207789
+1794960374448 DB_PROMOTE=true
+1794960374483 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/(No Sub) ناروتو S01 E06.mkv work=ناروتو season=01 episode=06 noSub=true
+1794960374646 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/(No Sub) ناروتو S01 E06.mkv
+1794960374948 delete video=ناروتو S01 E06 [cnm-35l1zm5ytg2dthgfp7uf].mp4 result=true
+1794960374952 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/(No Sub) ناروتو S01 E06.mkv

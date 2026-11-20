@@ -1,0 +1,12 @@
+1794954169139 SUBTITLE_POLICY=manifest-ready expected=1 completed=1 files=1 token=4qcz6xqz97kam7vf68rp
+1794954169946 ffmpeg=native:/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so
+1794954170063 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794954170065 exec=[/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E90 [cnm-4qcz6xqz97kam7vf68rp].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E90 [cnm-4qcz6xqz97kam7vf68rp].srt] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو S01 E90] [-metadata:s:s:0] [language=ar] [-metadata] [title=ناروتو S01 E90] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو S01 E90 [cnm-4qcz6xqz97kam7vf68rp].mkv.cnm115-0f223c8a-4b72-4982-bf2f-c12be8ca5d8c.part]
+1794954173991 exit=0 output=
+1794954174009 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو S01 E90 [cnm-4qcz6xqz97kam7vf68rp].mkv size=31730914
+1794954174891 DB_PROMOTE=true
+1794954174929 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E90.mkv work=ناروتو season=01 episode=90 noSub=false
+1794954175576 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E90.mkv
+1794954176850 delete video=ناروتو S01 E90 [cnm-4qcz6xqz97kam7vf68rp].mp4 result=true
+1794954176855 delete subtitle=arabic subtitle for ناروتو S01 E90 [cnm-4qcz6xqz97kam7vf68rp].srt result=true
+1794954176864 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E90.mkv

@@ -1,0 +1,13 @@
+1794956965599 SUBTITLE_POLICY=manifest-ready expected=2 completed=2 files=2 token=582p0pph34h1rdabzubb
+1794956966734 ffmpeg=native:/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so
+1794956966811 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794956966812 exec=[/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E91 [cnm-582p0pph34h1rdabzubb].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو شيبودن S01 E91 [cnm-582p0pph34h1rdabzubb].srt] [-i] [/storage/emulated/0/Cinemana/work/special subtitle for ناروتو شيبودن S01 E91 [cnm-582p0pph34h1rdabzubb].ass] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-map] [2:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو شيبودن S01 E91] [-metadata:s:s:0] [language=ar] [-metadata:s:s:1] [title=special subtitle for ناروتو شيبودن S01 E91] [-metadata:s:s:1] [language=sp] [-metadata] [title=ناروتو شيبودن S01 E91] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E91 [cnm-582p0pph34h1rdabzubb].mkv.cnm115-0811b721-67d5-42ef-a3de-d4da47c4f71a.part]
+1794956977557 exit=0 output=
+1794956977569 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E91 [cnm-582p0pph34h1rdabzubb].mkv size=41232932
+1794956978253 DB_PROMOTE=true
+1794956978284 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E91.mkv work=ناروتو شيبودن season=01 episode=91 noSub=false
+1794956978549 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E91.mkv
+1794956979893 delete video=ناروتو شيبودن S01 E91 [cnm-582p0pph34h1rdabzubb].mp4 result=true
+1794956979905 delete subtitle=arabic subtitle for ناروتو شيبودن S01 E91 [cnm-582p0pph34h1rdabzubb].srt result=true
+1794956979920 delete subtitle=special subtitle for ناروتو شيبودن S01 E91 [cnm-582p0pph34h1rdabzubb].ass result=true
+1794956979969 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E91.mkv

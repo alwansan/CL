@@ -1,0 +1,6 @@
+1794960406140 SUBTITLE_POLICY=manifest-ready expected=0 completed=0 files=0 token=66au1sw07t5sfrs0g9oe
+1794960406698 ffmpeg=native:/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so
+1794960406707 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794960406708 exec=[/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E09 [cnm-66au1sw07t5sfrs0g9oe].mp4] [-map] [0:v:0] [-map] [0:a?] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata] [title=ناروتو S01 E09] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/(No Sub) ناروتو S01 E09 [cnm-66au1sw07t5sfrs0g9oe].mkv.cnm115-3fdd7613-e051-4ea9-8224-3ec55947306d.part]
+1794960419283 exit=0 output=
+1794960419287 SUCCESS=/storage/emulated/0/Cinemana/work/(No Sub) ناروتو S01 E09 [cnm-66au1sw07t5sfrs0g9oe].mkv size=32875015

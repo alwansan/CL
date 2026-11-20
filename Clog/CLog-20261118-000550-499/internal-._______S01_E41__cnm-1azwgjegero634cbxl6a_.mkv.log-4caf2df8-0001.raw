@@ -1,0 +1,6 @@
+1794950136317 SUBTITLE_POLICY=manifest-ready expected=1 completed=1 files=1 token=1azwgjegero634cbxl6a
+1794950137505 ffmpeg=native:/data/app/~~iLWXxMsaxuCzMeiCQZpbRg==/com.cinemana.pro-Kdk-2d-wmiO55E1L2_N1yw==/lib/arm64/libffmpeg.so
+1794950137652 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794950137655 exec=[/data/app/~~iLWXxMsaxuCzMeiCQZpbRg==/com.cinemana.pro-Kdk-2d-wmiO55E1L2_N1yw==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E41 [cnm-1azwgjegero634cbxl6a].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E41 [cnm-1azwgjegero634cbxl6a].srt] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو S01 E41] [-metadata:s:s:0] [language=ar] [-metadata] [title=ناروتو S01 E41] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو S01 E41 [cnm-1azwgjegero634cbxl6a].mkv.cnm115-9955e0cf-d195-4332-862e-53a4232e1a3c.part]
+1794950147508 exit=0 output=
+1794950147515 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو S01 E41 [cnm-1azwgjegero634cbxl6a].mkv size=35897183

@@ -1,0 +1,13 @@
+1794956586933 SUBTITLE_POLICY=manifest-ready expected=2 completed=4 files=2 token=5eqhxqpzn6akj3bi9ng3
+1794956588406 ffmpeg=native:/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so
+1794956588530 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794956588544 exec=[/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E43 [cnm-5eqhxqpzn6akj3bi9ng3].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو شيبودن S01 E43 [cnm-5eqhxqpzn6akj3bi9ng3].srt] [-i] [/storage/emulated/0/Cinemana/work/special subtitle for ناروتو شيبودن S01 E43 [cnm-5eqhxqpzn6akj3bi9ng3].ass] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-map] [2:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو شيبودن S01 E43] [-metadata:s:s:0] [language=ar] [-metadata:s:s:1] [title=special subtitle for ناروتو شيبودن S01 E43] [-metadata:s:s:1] [language=sp] [-metadata] [title=ناروتو شيبودن S01 E43] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E43 [cnm-5eqhxqpzn6akj3bi9ng3].mkv.cnm115-5c39b766-ff97-492a-8f51-2816c93fd94c.part]
+1794956601999 exit=0 output=
+1794956602014 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو شيبودن S01 E43 [cnm-5eqhxqpzn6akj3bi9ng3].mkv size=42722493
+1794956602755 DB_PROMOTE=true
+1794956602781 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E43.mkv work=ناروتو شيبودن season=01 episode=43 noSub=false
+1794956603689 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E43.mkv
+1794956604661 delete video=ناروتو شيبودن S01 E43 [cnm-5eqhxqpzn6akj3bi9ng3].mp4 result=true
+1794956604670 delete subtitle=arabic subtitle for ناروتو شيبودن S01 E43 [cnm-5eqhxqpzn6akj3bi9ng3].srt result=true
+1794956604678 delete subtitle=special subtitle for ناروتو شيبودن S01 E43 [cnm-5eqhxqpzn6akj3bi9ng3].ass result=true
+1794956604687 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو شيبودن/Season 1 ناروتو شيبودن/ناروتو شيبودن S01 E43.mkv

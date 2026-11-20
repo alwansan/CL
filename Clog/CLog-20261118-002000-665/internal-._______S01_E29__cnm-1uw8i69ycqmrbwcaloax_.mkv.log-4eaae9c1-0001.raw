@@ -1,0 +1,12 @@
+1794950034405 SUBTITLE_POLICY=manifest-ready expected=1 completed=1 files=1 token=1uw8i69ycqmrbwcaloax
+1794950035625 ffmpeg=native:/data/app/~~iLWXxMsaxuCzMeiCQZpbRg==/com.cinemana.pro-Kdk-2d-wmiO55E1L2_N1yw==/lib/arm64/libffmpeg.so
+1794950035803 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794950035805 exec=[/data/app/~~iLWXxMsaxuCzMeiCQZpbRg==/com.cinemana.pro-Kdk-2d-wmiO55E1L2_N1yw==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E29 [cnm-1uw8i69ycqmrbwcaloax].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E29 [cnm-1uw8i69ycqmrbwcaloax].srt] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو S01 E29] [-metadata:s:s:0] [language=ar] [-metadata] [title=ناروتو S01 E29] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو S01 E29 [cnm-1uw8i69ycqmrbwcaloax].mkv.cnm115-8218802d-9703-4718-8398-0372b52290bd.part]
+1794950044942 exit=0 output=
+1794950044961 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو S01 E29 [cnm-1uw8i69ycqmrbwcaloax].mkv size=36524340
+1794950047128 DB_PROMOTE=true
+1794950047164 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E29.mkv work=ناروتو season=01 episode=29 noSub=false
+1794950048640 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E29.mkv
+1794950049897 delete video=ناروتو S01 E29 [cnm-1uw8i69ycqmrbwcaloax].mp4 result=true
+1794950049913 delete subtitle=arabic subtitle for ناروتو S01 E29 [cnm-1uw8i69ycqmrbwcaloax].srt result=true
+1794950049922 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E29.mkv

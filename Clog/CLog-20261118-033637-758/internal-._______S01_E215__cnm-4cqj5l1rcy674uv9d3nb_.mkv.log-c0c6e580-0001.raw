@@ -1,0 +1,14 @@
+1794955598278 SUBTITLE_POLICY=manifest-ready expected=1 completed=1 files=1 token=4cqj5l1rcy674uv9d3nb
+1794955601654 ffmpeg=native:/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so
+1794955602002 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794955602010 exec=[/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E215 [cnm-4cqj5l1rcy674uv9d3nb].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E215 [cnm-4cqj5l1rcy674uv9d3nb].srt] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو S01 E215] [-metadata:s:s:0] [language=ar] [-metadata] [title=ناروتو S01 E215] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو S01 E215 [cnm-4cqj5l1rcy674uv9d3nb].mkv.cnm115-d8c37394-1447-44ac-b245-502e1b110d2e.part]
+1794955632752 exit=0 output=
+1794955632897 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو S01 E215 [cnm-4cqj5l1rcy674uv9d3nb].mkv size=41506250
+1794955639499 DB_PROMOTE=true
+1794955639640 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E215.mkv work=ناروتو season=01 episode=215 noSub=false
+1794955674006 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E215.mkv
+1794955680822 SORT_DB_PROMOTE_RETRY attempt=1 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E215.mkv
+1794955688592 SORT_DB_PROMOTE_RETRY attempt=2 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E215.mkv
+1794955693822 delete video=ناروتو S01 E215 [cnm-4cqj5l1rcy674uv9d3nb].mp4 result=true
+1794955693942 delete subtitle=arabic subtitle for ناروتو S01 E215 [cnm-4cqj5l1rcy674uv9d3nb].srt result=true
+1794955694098 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E215.mkv

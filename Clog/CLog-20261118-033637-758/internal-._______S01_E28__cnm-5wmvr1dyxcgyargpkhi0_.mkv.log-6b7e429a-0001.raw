@@ -1,0 +1,11 @@
+1794960581351 SUBTITLE_POLICY=manifest-ready expected=0 completed=0 files=0 token=5wmvr1dyxcgyargpkhi0
+1794960581731 ffmpeg=native:/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so
+1794960581760 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1794960581761 exec=[/data/app/~~tWZrKrdldT-Br7JqPt58qQ==/com.cinemana.pro-0aKXOeF4YK_5YcPqIo7-zA==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E28 [cnm-5wmvr1dyxcgyargpkhi0].mp4] [-map] [0:v:0] [-map] [0:a?] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata] [title=ناروتو S01 E28] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/(No Sub) ناروتو S01 E28 [cnm-5wmvr1dyxcgyargpkhi0].mkv.cnm115-034e0d90-cd9e-4f00-8383-3288097555d8.part]
+1794960583134 exit=0 output=
+1794960583140 SUCCESS=/storage/emulated/0/Cinemana/work/(No Sub) ناروتو S01 E28 [cnm-5wmvr1dyxcgyargpkhi0].mkv size=33719476
+1794960584639 DB_PROMOTE=true
+1794960584806 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/(No Sub) ناروتو S01 E28.mkv work=ناروتو season=01 episode=28 noSub=true
+1794960585667 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/(No Sub) ناروتو S01 E28.mkv
+1794960586728 delete video=ناروتو S01 E28 [cnm-5wmvr1dyxcgyargpkhi0].mp4 result=true
+1794960586740 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/(No Sub) ناروتو S01 E28.mkv
