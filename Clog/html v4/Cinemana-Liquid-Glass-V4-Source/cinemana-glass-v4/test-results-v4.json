@@ -1,0 +1,9 @@
+{
+  "status": "pass",
+  "queue_total": 483,
+  "visible_limit": 24,
+  "delta_pixels_gt8": 24942,
+  "dock_pixels": 111744,
+  "desktop_demo_click_assert_ms": 70,
+  "errors": []
+}

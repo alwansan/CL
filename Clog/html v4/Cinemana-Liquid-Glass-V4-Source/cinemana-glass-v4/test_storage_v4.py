@@ -1,0 +1,6 @@
+from pathlib import Path
+from playwright.sync_api import sync_playwright
+p=Path(__file__).resolve().parent
+html=(p.parent/'Cinemana-Liquid-Glass-V4.html').read_text()
+with sync_playwright() as pw:
+ b=pw.chromium.launch(executable_path='/usr/bin/chromium',args=['--no-sandbox']);ctx=b.new_context(viewport={'width':412,'height':915},offline=True);ctx.route('https://cp-demo.test/**',lambda route:route.fulfill(status=200,content_type='text/html; charset=utf-8',body=html));pg=ctx.new_page();pg.goto('https://cp-demo.test/');pg.locator('[data-action=glass-lab]').click();pg.locator('[data-glass-mode=prism]').click();pg.locator('[data-action=close]').click();pg.locator('.dock [data-page=downloads]').click();pg.locator('[data-action=queue-lab]').click();pg.locator('[data-action=stress-add]').click();assert pg.evaluate('CinemanaDemo.state().queue.length')==483;pg.reload();assert pg.evaluate('CinemanaDemo.state().queue.length')==483;assert pg.locator('body').get_attribute('data-glass-mode')=='prism';pg.locator('.dock [data-page=downloads]').click();assert pg.locator('.download-row').count()==24;print('PASS real browser localStorage at intercepted test origin, offline route, reload preserves 483 rows and Prism (not Android file:// test).');b.close()

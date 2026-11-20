@@ -26,7 +26,7 @@
 │   │   │   └── [ 151 2026-11-18 22:11:42]  rdj49zrwkltr3lf5xr9q.path
 │   │   ├── [ 74K 2026-11-18 22:01:27]  watch.v1.bin
 │   │   └── [ 74K 2026-11-20 17:38:53]  watch.v1.bin.previous
-│   └── [3.4K 2026-11-18 22:16:49]  log
+│   └── [3.4K 2026-11-20 19:45:59]  log
 │       ├── [2.6K 2026-11-18 22:11:24]  .Boruto_ Naruto Next Generations S01 E01 [cnm-67vqjqg26u38xpm8d4ua].mkv.log
 │       ├── [2.6K 2026-11-18 22:16:47]  .Boruto_ Naruto Next Generations S01 E02 [cnm-2ub3tvbo5rtat15fit3y].mkv.log
 │       ├── [2.6K 2026-11-18 22:16:50]  .Boruto_ Naruto Next Generations S01 E03 [cnm-15cu8l83sgy4nk9c6t7r].mkv.log
@@ -40,12 +40,12 @@
 │       ├── [1.8K 2026-11-18 22:11:40]  .ناروتو شيبودن S01 E01 [cnm-rdj49zrwkltr3lf5xr9q].mkv.log
 │       ├── [2.6K 2026-11-18 22:11:05]  .ناروتو شيبودن S01 E02 [cnm-3fyt3wutmyj65wpi7fs6].mkv.log
 │       ├── [126K 2026-11-18 22:17:29]  ca1_batch.jsonl
-│       ├── [1.1M 2026-11-20 19:45:24]  diagnostics.log
-│       ├── [603K 2026-11-20 19:45:24]  downloads.log
+│       ├── [1.1M 2026-11-20 19:46:44]  diagnostics.log
+│       ├── [603K 2026-11-20 19:46:44]  downloads.log
 │       ├── [1.6K 2026-11-18 22:16:44]  logo_sources.log
 │       ├── [4.0K 2026-11-18 22:16:52]  mkv_identity.map
 │       ├── [ 41K 2026-11-18 22:02:14]  player_diagnostics.log
-│       ├── [   0 2026-11-20 19:45:59]  tree.txt
+│       ├── [   0 2026-11-20 19:47:59]  tree.txt
 │       └── [284K 2026-11-20 19:44:05]  ui95.log
 ├── [3.4K 2026-11-18 22:10:45]  ناروتو
 │   └── [3.4K 2026-11-18 22:11:22]  Season 1 ناروتو
