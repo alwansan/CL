@@ -3505,3 +3505,12 @@
 1795241236343 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
 1795241236346 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
 1795241236353 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1795243160851 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1795243160870 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1795243160879 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1795244232768 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1795244232775 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1795244232783 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
+1795265212617 DB_PROMOTE_DOWNLOADS_DB_NAME=shabakaty.pro.downloads.database
+1795265212644 DB_PROMOTE_DOWNLOADS_DB_CLASS=com.shabakaty.downloader.data.db.DownloadsDatabase_Impl
+1795265212650 DB_PROMOTE_DOWNLOADS_DAO=com.shabakaty.downloader.lz0
