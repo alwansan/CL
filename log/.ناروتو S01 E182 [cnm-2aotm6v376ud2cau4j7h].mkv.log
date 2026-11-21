@@ -1,0 +1,16 @@
+1795198752710 SUBTITLE_POLICY=manifest-ready expected=1 completed=1 files=1 token=2aotm6v376ud2cau4j7h
+1795198753554 ffmpeg=native:/data/app/~~YGJxg8Nx2MtQxIjzNjZcaQ==/com.cinemana.pro-QX-n96bnPih3HKd3_1rQAA==/lib/arm64/libffmpeg.so
+1795198753566 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1795198753568 exec=[/data/app/~~YGJxg8Nx2MtQxIjzNjZcaQ==/com.cinemana.pro-QX-n96bnPih3HKd3_1rQAA==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E182 [cnm-2aotm6v376ud2cau4j7h].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E182 [cnm-2aotm6v376ud2cau4j7h].srt] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو S01 E182] [-metadata:s:s:0] [language=ar] [-metadata] [title=ناروتو S01 E182] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو S01 E182 [cnm-2aotm6v376ud2cau4j7h].mkv.cnm115-ec13f0e1-c3d0-4639-b032-3aee00acc648.part]
+1795198753620 FFMPEG_PROCESS_STARTED
+1795198757150 SUBTITLE_POLICY=manifest-ready expected=1 completed=1 files=1 token=2aotm6v376ud2cau4j7h
+1795198762207 SUBTITLE_POLICY=manifest-ready expected=1 completed=1 files=1 token=2aotm6v376ud2cau4j7h
+1795198767984 SUBTITLE_POLICY=manifest-ready expected=1 completed=1 files=1 token=2aotm6v376ud2cau4j7h
+1795198770098 exit=0 output=
+1795198770103 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو S01 E182 [cnm-2aotm6v376ud2cau4j7h].mkv size=195426646
+1795198770861 DB_PROMOTE=true
+1795198770871 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E182.mkv work=ناروتو season=01 episode=182 noSub=false
+1795198770913 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E182.mkv
+1795198771053 delete video=ناروتو S01 E182 [cnm-2aotm6v376ud2cau4j7h].mp4 result=true
+1795198771056 delete subtitle=arabic subtitle for ناروتو S01 E182 [cnm-2aotm6v376ud2cau4j7h].srt result=true
+1795198771060 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E182.mkv

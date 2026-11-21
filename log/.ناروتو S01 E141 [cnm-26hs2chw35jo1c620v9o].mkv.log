@@ -1,0 +1,15 @@
+1795196646681 SUBTITLE_POLICY=manifest-ready expected=1 completed=2 files=1 token=26hs2chw35jo1c620v9o
+1795196646914 ffmpeg=native:/data/app/~~YGJxg8Nx2MtQxIjzNjZcaQ==/com.cinemana.pro-QX-n96bnPih3HKd3_1rQAA==/lib/arm64/libffmpeg.so
+1795196646948 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1795196646950 exec=[/data/app/~~YGJxg8Nx2MtQxIjzNjZcaQ==/com.cinemana.pro-QX-n96bnPih3HKd3_1rQAA==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E141 [cnm-26hs2chw35jo1c620v9o].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E141 [cnm-26hs2chw35jo1c620v9o].srt] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو S01 E141] [-metadata:s:s:0] [language=ar] [-metadata] [title=ناروتو S01 E141] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو S01 E141 [cnm-26hs2chw35jo1c620v9o].mkv.cnm115-6ec745c3-92a8-4bb6-a034-f6325274a363.part]
+1795196646976 FFMPEG_PROCESS_STARTED
+1795196648510 SUBTITLE_POLICY=manifest-ready expected=1 completed=1 files=1 token=26hs2chw35jo1c620v9o
+1795196653301 exit=0 output=
+1795196653311 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو S01 E141 [cnm-26hs2chw35jo1c620v9o].mkv size=236368339
+1795196653469 SUBTITLE_POLICY=manifest-ready expected=1 completed=1 files=1 token=26hs2chw35jo1c620v9o
+1795196653832 DB_PROMOTE=true
+1795196653857 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E141.mkv work=ناروتو season=01 episode=141 noSub=false
+1795196654012 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E141.mkv
+1795196654230 delete video=ناروتو S01 E141 [cnm-26hs2chw35jo1c620v9o].mp4 result=true
+1795196654238 delete subtitle=arabic subtitle for ناروتو S01 E141 [cnm-26hs2chw35jo1c620v9o].srt result=true
+1795196654252 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E141.mkv

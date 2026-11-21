@@ -1,2 +1,3 @@
-1795028523825 CATALOG128 empty path=
-1795028523880 CATALOG128 empty path=
+1795195532826 PROBE128 path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E122.mkv ebml=[0:ar/S_TEXT/UTF8@ebml] media=[] ffmpeg=[] chosen=[0:ar/S_TEXT/UTF8@ebml]
+1795195532827 CATALOG128 source=verified path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E122.mkv tracks=[0:ar/S_TEXT/UTF8@ebml] exposed=1
+1795195532884 CATALOG128 source=verified path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E122.mkv tracks=[0:ar/S_TEXT/UTF8@ebml] exposed=1

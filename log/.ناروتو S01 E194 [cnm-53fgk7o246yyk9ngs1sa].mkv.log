@@ -1,0 +1,15 @@
+1795199265404 SUBTITLE_POLICY=manifest-ready expected=2 completed=2 files=2 token=53fgk7o246yyk9ngs1sa
+1795199265751 ffmpeg=native:/data/app/~~YGJxg8Nx2MtQxIjzNjZcaQ==/com.cinemana.pro-QX-n96bnPih3HKd3_1rQAA==/lib/arm64/libffmpeg.so
+1795199265781 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1795199265783 exec=[/data/app/~~YGJxg8Nx2MtQxIjzNjZcaQ==/com.cinemana.pro-QX-n96bnPih3HKd3_1rQAA==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E194 [cnm-53fgk7o246yyk9ngs1sa].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E194 [cnm-53fgk7o246yyk9ngs1sa].srt] [-i] [/storage/emulated/0/Cinemana/work/special subtitle for ناروتو S01 E194 [cnm-53fgk7o246yyk9ngs1sa].ass] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-map] [2:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو S01 E194] [-metadata:s:s:0] [language=ar] [-metadata:s:s:1] [title=special subtitle for ناروتو S01 E194] [-metadata:s:s:1] [language=sp] [-metadata] [title=ناروتو S01 E194] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو S01 E194 [cnm-53fgk7o246yyk9ngs1sa].mkv.cnm115-5f5ec5cf-1d22-441c-b46b-a98d4b648dce.part]
+1795199265833 FFMPEG_PROCESS_STARTED
+1795199271376 SUBTITLE_POLICY=manifest-ready expected=2 completed=2 files=2 token=53fgk7o246yyk9ngs1sa
+1795199275153 exit=0 output=
+1795199275162 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو S01 E194 [cnm-53fgk7o246yyk9ngs1sa].mkv size=221918616
+1795199275911 DB_PROMOTE=true
+1795199275933 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E194.mkv work=ناروتو season=01 episode=194 noSub=false
+1795199275974 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E194.mkv
+1795199276181 delete video=ناروتو S01 E194 [cnm-53fgk7o246yyk9ngs1sa].mp4 result=true
+1795199276193 delete subtitle=arabic subtitle for ناروتو S01 E194 [cnm-53fgk7o246yyk9ngs1sa].srt result=true
+1795199276211 delete subtitle=special subtitle for ناروتو S01 E194 [cnm-53fgk7o246yyk9ngs1sa].ass result=true
+1795199276234 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E194.mkv
