@@ -1,0 +1,51 @@
+[    0.824] Black (default.xbe), 2026-11-21 21:14:30, build f3754d6
+[    0.824] Path: /storage/emulated/0/Android/data/org.bocoop.black.roomnet/files
+[    0.824] Device: Xiaomi 22081283G, Android 14 (API 34)
+[    0.824] CPU: MT8781V/NA (8 threads)
+[    0.826] RAM: 5.7 GB
+[    0.826] Display: 2000x1200, 90 Hz
+[    0.826] Settings:
+[    0.826]   anisotropic_filtering = 0
+[    0.826]   audio_output = 0
+[    0.826]   defaults = 2
+[    0.826]   display_mode = 'borderless'
+[    0.827]   draw_distance = 1
+[    0.827]   fmv_scale = 0
+[    0.827]   fov = 70
+[    0.827]   fps_cap = 0
+[    0.827]   fps_counter = false
+[    0.827]   game_speed = 100
+[    0.827]   god_mode = false
+[    0.827]   height = 0
+[    0.827]   hold_aim = true
+[    0.827]   infinite_ammo = false
+[    0.827]   infinite_grenades = false
+[    0.827]   invert_mouse = false
+[    0.827]   join_ip = ''
+[    0.827]   language = 'int'
+[    0.827]   left_stick_deadzone = 0
+[    0.827]   left_stick_sensitivity = 1.0
+[    0.827]   mouse_sensitivity = 1.0
+[    0.827]   no_recoil = false
+[    0.827]   one_hit_kill = false
+[    0.827]   rapid_fire = 1
+[    0.827]   reload_blur = true
+[    0.827]   render_percent = 67
+[    0.827]   right_stick_deadzone = 0
+[    0.827]   right_stick_sensitivity = 1.0
+[    0.827]   screen_filter = 0
+[    0.827]   skip_intros = false
+[    0.827]   touch_sensitivity = 1.0
+[    0.827]   unlock_black_ops = false
+[    0.827]   unlock_levels = false
+[    0.827]   viewmodel_fov = 70
+[    0.827]   vsync = false
+[    0.827]   walk_speed = 50
+[    0.827]   width = 0
+[    0.827]   [keys]
+[    1.355] error: game: no game files in /storage/emulated/0/Black or /storage/emulated/0/Android/data/org.bocoop.black.roomnet/files/assets, waiting for them
+[   18.528] Game: image 1793179648 bytes, 574 files up to byte 1793179648
+[   18.552] Game: default.xbe in /storage/emulated/0/Android/data/org.bocoop.black.roomnet/files/assets/game.iso, sha1 c5bfed25449c8212d7a976f15246e87ead57713f
+[   18.645] GPU: Mali-G57 MC2, Vulkan 1.1.177, driver 08001000
+[   18.647] vulkan: no dynamic rendering, using render passes
+[   18.647] vulkan: Vulkan 1.1, using fences for timeline semaphores
