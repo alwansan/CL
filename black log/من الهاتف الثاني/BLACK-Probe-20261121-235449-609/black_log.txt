@@ -1,0 +1,50 @@
+[    0.352] Black (default.xbe), 2026-11-21 23:54:46, build f3754d6
+[    0.353] Path: /storage/emulated/0/Android/data/org.bocoop.black.defaultplayer/files
+[    0.353] Device: HUAWEI JSN-L22, Android 10 (API 29)
+[    0.353] CPU:  (8 threads)
+[    0.353] RAM: 3.6 GB
+[    0.353] Display: 2340x1080, 60 Hz
+[    0.353] Settings:
+[    0.353]   anisotropic_filtering = 0
+[    0.353]   audio_output = 0
+[    0.353]   defaults = 2
+[    0.353]   display_mode = 'borderless'
+[    0.354]   draw_distance = 1
+[    0.354]   fmv_scale = 0
+[    0.354]   fov = 70
+[    0.354]   fps_cap = 0
+[    0.354]   fps_counter = false
+[    0.354]   game_speed = 100
+[    0.354]   god_mode = false
+[    0.354]   height = 0
+[    0.354]   hold_aim = true
+[    0.354]   infinite_ammo = false
+[    0.354]   infinite_grenades = false
+[    0.354]   invert_mouse = false
+[    0.354]   join_ip = ''
+[    0.354]   language = 'int'
+[    0.354]   left_stick_deadzone = 0
+[    0.354]   left_stick_sensitivity = 1.0
+[    0.354]   mouse_sensitivity = 1.0
+[    0.354]   no_recoil = false
+[    0.354]   one_hit_kill = false
+[    0.354]   rapid_fire = 1
+[    0.354]   reload_blur = true
+[    0.354]   render_percent = 67
+[    0.354]   right_stick_deadzone = 0
+[    0.354]   right_stick_sensitivity = 1.0
+[    0.354]   screen_filter = 0
+[    0.354]   skip_intros = false
+[    0.354]   touch_sensitivity = 1.0
+[    0.354]   unlock_black_ops = false
+[    0.354]   unlock_levels = false
+[    0.354]   viewmodel_fov = 70
+[    0.354]   vsync = false
+[    0.354]   walk_speed = 50
+[    0.354]   width = 0
+[    0.354]   [keys]
+[    0.484] Game: image 1793179648 bytes, 574 files up to byte 1793179648
+[    0.527] Game: default.xbe in /storage/emulated/0/Android/data/org.bocoop.black.defaultplayer/files/assets/game.iso, sha1 c5bfed25449c8212d7a976f15246e87ead57713f
+[    0.692] GPU: Mali-G51, Vulkan 1.1.97, driver 04800000
+[    0.698] vulkan: no dynamic rendering, using render passes
+[    0.698] vulkan: Vulkan 1.1, using fences for timeline semaphores
