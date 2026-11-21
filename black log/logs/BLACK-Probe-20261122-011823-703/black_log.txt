@@ -1,0 +1,53 @@
+[    0.444] Black (default.xbe), 2026-11-22 01:18:13, build f3754d6
+[    0.444] Path: /storage/emulated/0/Android/data/org.bocoop.black.roomnet/files
+[    0.444] Device: Xiaomi 23013PC75G, Android 15 (API 35)
+[    0.445] CPU: SM8475 (8 threads)
+[    0.445] RAM: 10.9 GB
+[    0.445] Display: 2400x1080, 120 Hz
+[    0.445] Settings:
+[    0.445]   anisotropic_filtering = 0
+[    0.445]   audio_output = 0
+[    0.445]   defaults = 2
+[    0.445]   display_mode = 'borderless'
+[    0.445]   draw_distance = 1
+[    0.445]   fmv_scale = 0
+[    0.445]   fov = 70
+[    0.445]   fps_cap = 0
+[    0.445]   fps_counter = false
+[    0.445]   game_speed = 100
+[    0.445]   god_mode = false
+[    0.445]   height = 0
+[    0.445]   hold_aim = true
+[    0.445]   infinite_ammo = false
+[    0.445]   infinite_grenades = false
+[    0.445]   invert_mouse = false
+[    0.445]   join_ip = ''
+[    0.445]   language = 'int'
+[    0.445]   left_stick_deadzone = 0
+[    0.445]   left_stick_sensitivity = 1.0
+[    0.445]   mouse_sensitivity = 1.0
+[    0.445]   no_recoil = false
+[    0.445]   one_hit_kill = false
+[    0.445]   rapid_fire = 1
+[    0.445]   reload_blur = true
+[    0.445]   render_percent = 67
+[    0.445]   right_stick_deadzone = 0
+[    0.445]   right_stick_sensitivity = 1.0
+[    0.445]   screen_filter = 0
+[    0.445]   skip_intros = false
+[    0.445]   touch_sensitivity = 1.0
+[    0.445]   unlock_black_ops = false
+[    0.445]   unlock_levels = false
+[    0.445]   viewmodel_fov = 70
+[    0.445]   vsync = false
+[    0.445]   walk_speed = 50
+[    0.445]   width = 0
+[    0.445]   [keys]
+[    1.038] error: game: no game files in /storage/emulated/0/Black or /storage/emulated/0/Android/data/org.bocoop.black.roomnet/files/assets, waiting for them
+[    9.006] Game: image 1793179648 bytes, 574 files up to byte 1793179648
+[    9.027] Game: default.xbe in /storage/emulated/0/Android/data/org.bocoop.black.roomnet/files/assets/game.iso, sha1 c5bfed25449c8212d7a976f15246e87ead57713f
+[    9.090] GPU: Adreno (TM) 730, Vulkan 1.1.128, driver 8026705F
+[    9.091] vulkan: no dynamic rendering, using render passes
+[    9.091] vulkan: Vulkan 1.1, using fences for timeline semaphores
+[   30.258] HOOK001: optional read-only capture started; local logs/coop_probe.jsonl
+[  159.511] error: quit: ConfirmWarning, FEAudio failed
