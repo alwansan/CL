@@ -1,0 +1,54 @@
+[    0.922] Black (default.xbe), 2026-11-22 23:11:33, build f3754d6
+[    0.923] Path: /storage/emulated/0/Android/data/org.bocoop.black.roomnet/files
+[    0.923] Device: Xiaomi 22081283G, Android 14 (API 34)
+[    0.923] CPU: MT8781V/NA (8 threads)
+[    0.923] RAM: 5.7 GB
+[    0.923] Display: 2000x1200, 90 Hz
+[    0.924] Settings:
+[    0.924]   anisotropic_filtering = 0
+[    0.924]   audio_output = 0
+[    0.924]   defaults = 2
+[    0.924]   display_mode = 'borderless'
+[    0.924]   draw_distance = 1
+[    0.924]   fmv_scale = 0
+[    0.924]   fov = 70
+[    0.924]   fps_cap = 0
+[    0.924]   fps_counter = false
+[    0.924]   game_speed = 100
+[    0.924]   god_mode = false
+[    0.924]   height = 0
+[    0.924]   hold_aim = true
+[    0.924]   infinite_ammo = false
+[    0.924]   infinite_grenades = false
+[    0.924]   invert_mouse = false
+[    0.924]   join_ip = ''
+[    0.924]   language = 'int'
+[    0.924]   left_stick_deadzone = 0
+[    0.924]   left_stick_sensitivity = 1.0
+[    0.924]   mouse_sensitivity = 1.0
+[    0.924]   no_recoil = false
+[    0.924]   one_hit_kill = false
+[    0.924]   rapid_fire = 1
+[    0.924]   reload_blur = true
+[    0.924]   render_percent = 67
+[    0.924]   right_stick_deadzone = 0
+[    0.924]   right_stick_sensitivity = 1.0
+[    0.924]   screen_filter = 0
+[    0.924]   skip_intros = false
+[    0.924]   touch_sensitivity = 1.0
+[    0.924]   unlock_black_ops = false
+[    0.924]   unlock_levels = false
+[    0.924]   viewmodel_fov = 70
+[    0.924]   vsync = false
+[    0.924]   walk_speed = 50
+[    0.924]   width = 0
+[    0.924]   [keys]
+[    1.441] error: game: no game files in /storage/emulated/0/Black or /storage/emulated/0/Android/data/org.bocoop.black.roomnet/files/assets, waiting for them
+[   23.276] Game: image 1793179648 bytes, 574 files up to byte 1793179648
+[   23.296] Game: default.xbe in /storage/emulated/0/Android/data/org.bocoop.black.roomnet/files/assets/game.iso, sha1 c5bfed25449c8212d7a976f15246e87ead57713f
+[   23.352] GPU: Mali-G57 MC2, Vulkan 1.1.177, driver 08001000
+[   23.353] vulkan: no dynamic rendering, using render passes
+[   23.353] vulkan: Vulkan 1.1, using fences for timeline semaphores
+[  203.093] BO_STAGE_RESOURCE_OPEN_LEVEL_00_TYPE_0_NOT_SCENE
+[  205.161] BO_STAGE_RESOURCE_OPEN_LEVEL_00_TYPE_1_NOT_SCENE
+[  206.123] HOOK001: optional read-only capture started; local logs/coop_probe.jsonl

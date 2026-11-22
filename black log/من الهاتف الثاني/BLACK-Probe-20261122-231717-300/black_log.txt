@@ -1,0 +1,50 @@
+[    0.436] Black (default.xbe), 2026-11-22 23:17:15, build f3754d6
+[    0.436] Path: /storage/emulated/0/Android/data/org.bocoop.black.roomnet/files
+[    0.436] Device: Xiaomi 22081283G, Android 14 (API 34)
+[    0.436] CPU: MT8781V/NA (8 threads)
+[    0.436] RAM: 5.7 GB
+[    0.436] Display: 2000x1200, 90 Hz
+[    0.436] Settings:
+[    0.436]   anisotropic_filtering = 0
+[    0.436]   audio_output = 0
+[    0.436]   defaults = 2
+[    0.436]   display_mode = 'borderless'
+[    0.436]   draw_distance = 1
+[    0.436]   fmv_scale = 0
+[    0.436]   fov = 70
+[    0.436]   fps_cap = 0
+[    0.436]   fps_counter = false
+[    0.436]   game_speed = 100
+[    0.436]   god_mode = false
+[    0.436]   height = 0
+[    0.436]   hold_aim = true
+[    0.436]   infinite_ammo = false
+[    0.436]   infinite_grenades = false
+[    0.436]   invert_mouse = false
+[    0.436]   join_ip = ''
+[    0.436]   language = 'int'
+[    0.436]   left_stick_deadzone = 0
+[    0.436]   left_stick_sensitivity = 1.0
+[    0.436]   mouse_sensitivity = 1.0
+[    0.436]   no_recoil = false
+[    0.436]   one_hit_kill = false
+[    0.436]   rapid_fire = 1
+[    0.436]   reload_blur = true
+[    0.436]   render_percent = 67
+[    0.436]   right_stick_deadzone = 0
+[    0.436]   right_stick_sensitivity = 1.0
+[    0.436]   screen_filter = 0
+[    0.436]   skip_intros = false
+[    0.436]   touch_sensitivity = 1.0
+[    0.436]   unlock_black_ops = false
+[    0.436]   unlock_levels = false
+[    0.436]   viewmodel_fov = 70
+[    0.436]   vsync = false
+[    0.436]   walk_speed = 50
+[    0.436]   width = 0
+[    0.436]   [keys]
+[    0.968] Game: image 1793179648 bytes, 574 files up to byte 1793179648
+[    1.005] Game: default.xbe in /storage/emulated/0/Android/data/org.bocoop.black.roomnet/files/assets/game.iso, sha1 c5bfed25449c8212d7a976f15246e87ead57713f
+[    1.069] GPU: Mali-G57 MC2, Vulkan 1.1.177, driver 08001000
+[    1.070] vulkan: no dynamic rendering, using render passes
+[    1.070] vulkan: Vulkan 1.1, using fences for timeline semaphores

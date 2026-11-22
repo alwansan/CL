@@ -1,0 +1,53 @@
+[    0.602] Black (default.xbe), 2026-11-22 23:17:20, build f3754d6
+[    0.602] Path: /storage/emulated/0/Android/data/org.bocoop.black.roomnet/files
+[    0.602] Device: Xiaomi 23013PC75G, Android 15 (API 35)
+[    0.602] CPU: SM8475 (8 threads)
+[    0.602] RAM: 10.9 GB
+[    0.602] Display: 2400x1080, 120 Hz
+[    0.604] Settings:
+[    0.604]   anisotropic_filtering = 0
+[    0.604]   audio_output = 0
+[    0.604]   defaults = 2
+[    0.604]   display_mode = 'borderless'
+[    0.604]   draw_distance = 1
+[    0.604]   fmv_scale = 0
+[    0.604]   fov = 70
+[    0.604]   fps_cap = 0
+[    0.604]   fps_counter = false
+[    0.604]   game_speed = 100
+[    0.604]   god_mode = false
+[    0.604]   height = 0
+[    0.604]   hold_aim = true
+[    0.604]   infinite_ammo = false
+[    0.604]   infinite_grenades = false
+[    0.604]   invert_mouse = false
+[    0.604]   join_ip = ''
+[    0.604]   language = 'int'
+[    0.604]   left_stick_deadzone = 0
+[    0.604]   left_stick_sensitivity = 1.0
+[    0.604]   mouse_sensitivity = 1.0
+[    0.604]   no_recoil = false
+[    0.604]   one_hit_kill = false
+[    0.604]   rapid_fire = 1
+[    0.604]   reload_blur = true
+[    0.604]   render_percent = 67
+[    0.604]   right_stick_deadzone = 0
+[    0.604]   right_stick_sensitivity = 1.0
+[    0.604]   screen_filter = 0
+[    0.604]   skip_intros = false
+[    0.604]   touch_sensitivity = 1.0
+[    0.604]   unlock_black_ops = false
+[    0.604]   unlock_levels = false
+[    0.604]   viewmodel_fov = 70
+[    0.604]   vsync = false
+[    0.604]   walk_speed = 50
+[    0.604]   width = 0
+[    0.604]   [keys]
+[    1.220] Game: image 1793179648 bytes, 574 files up to byte 1793179648
+[    1.235] Game: default.xbe in /storage/emulated/0/Android/data/org.bocoop.black.roomnet/files/assets/game.iso, sha1 c5bfed25449c8212d7a976f15246e87ead57713f
+[    1.286] GPU: Adreno (TM) 730, Vulkan 1.1.128, driver 8026705F
+[    1.286] vulkan: no dynamic rendering, using render passes
+[    1.286] vulkan: Vulkan 1.1, using fences for timeline semaphores
+[  150.942] BO_STAGE_RESOURCE_OPEN_LEVEL_00_TYPE_0_NOT_SCENE
+[  152.425] BO_STAGE_RESOURCE_OPEN_LEVEL_00_TYPE_1_NOT_SCENE
+[  153.280] HOOK001: optional read-only capture started; local logs/coop_probe.jsonl
