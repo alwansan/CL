@@ -2,10 +2,10 @@
 ├── [ 52K 2026-11-21 02:15:42]  work
 │   ├── [3.4K 2026-11-22 13:56:18]  data
 │   │   ├── [ 20K 2026-11-20 21:50:49]  cnm_recovery
-│   │   ├── [2.8K 2026-11-22 13:56:17]  episodes.v1.bin
-│   │   ├── [2.8K 2026-11-22 13:56:16]  episodes.v1.bin.previous
-│   │   ├── [133K 2026-11-22 13:56:18]  library.v1.bin
-│   │   ├── [133K 2026-11-22 13:56:18]  library.v1.bin.previous
+│   │   ├── [2.8K 2026-11-20 20:22:05]  episodes.v1.bin
+│   │   ├── [2.8K 2026-11-22 07:17:11]  episodes.v1.bin.previous
+│   │   ├── [133K 2026-11-20 20:22:06]  library.v1.bin
+│   │   ├── [133K 2026-11-22 07:17:52]  library.v1.bin.previous
 │   │   ├── [3.4K 2026-11-20 20:25:36]  local-account
 │   │   │   └── [3.4K 2026-11-20 20:25:36]  account.bin
 │   │   ├── [8.0K 2026-11-20 21:50:49]  mkv-proofs
@@ -115,8 +115,8 @@
 │   │   │   ├── [ 104 2026-11-20 21:02:55]  xyylhndzrbmic1fomtmq.path
 │   │   │   └── [ 104 2026-11-20 21:32:17]  y46lflkq1amhwsqui5sv.path
 │   │   ├── [4.0K 2026-11-21 02:08:50]  mkv_repair_pending.properties
-│   │   ├── [2.8K 2026-11-22 13:56:16]  watch.v1.bin
-│   │   └── [2.8K 2026-11-22 13:56:15]  watch.v1.bin.previous
+│   │   ├── [2.8K 2026-11-20 20:22:05]  watch.v1.bin
+│   │   └── [2.8K 2026-11-22 07:17:11]  watch.v1.bin.previous
 │   └── [ 20K 2026-11-21 06:07:17]  log
 │       ├── [440K 2026-11-22 13:56:15]  .mkv_export.log
 │       ├── [ 567 2026-11-20 20:25:32]  .mkv_player_resolver.log
@@ -227,12 +227,12 @@
 │       ├── [1.9K 2026-11-20 21:49:07]  .ناروتو S01 E219 [cnm-14sl62kvk37lo54zg153].mkv.log
 │       ├── [2.0K 2026-11-20 21:50:49]  .ناروتو S01 E220 [cnm-x7b2zcqaz2cn55g6xtp0].mkv.log
 │       ├── [1.3M 2026-11-21 02:08:09]  ca1_batch.jsonl
-│       ├── [9.5M 2026-11-22 16:28:32]  diagnostics.log
-│       ├── [6.0M 2026-11-22 16:28:32]  downloads.log
+│       ├── [9.5M 2026-11-22 16:32:34]  diagnostics.log
+│       ├── [6.0M 2026-11-22 16:32:34]  downloads.log
 │       ├── [ 40K 2026-11-20 21:50:50]  mkv_identity.map
 │       ├── [ 33K 2026-11-20 20:25:37]  player_diagnostics.log
 │       ├── [ 18K 2026-11-21 02:15:42]  storage_maintenance.log
-│       ├── [8.0K 2026-11-22 16:29:25]  tree.txt
+│       ├── [8.0K 2026-11-22 16:33:24]  tree.txt
 │       └── [111K 2026-11-22 13:56:15]  ui95.log
 └── [3.4K 2026-11-20 20:25:31]  ناروتو
     └── [8.0K 2026-11-20 21:50:48]  Season 1 ناروتو
