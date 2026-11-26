@@ -1,0 +1,54 @@
+[    0.361] Black (default.xbe), 2026-11-26 18:39:33, build f3754d6
+[    0.361] Path: /storage/emulated/0/Android/data/org.bocoop.black.roomnet/files
+[    0.361] Device: HUAWEI JSN-L22, Android 10 (API 29)
+[    0.361] CPU:  (8 threads)
+[    0.361] RAM: 3.6 GB
+[    0.361] Display: 2340x1080, 60 Hz
+[    0.362] Settings:
+[    0.362]   anisotropic_filtering = 0
+[    0.362]   audio_output = 0
+[    0.362]   defaults = 2
+[    0.362]   display_mode = 'borderless'
+[    0.362]   draw_distance = 1
+[    0.362]   fmv_scale = 0
+[    0.362]   fov = 70
+[    0.362]   fps_cap = 0
+[    0.362]   fps_counter = false
+[    0.362]   game_speed = 100
+[    0.362]   god_mode = false
+[    0.362]   height = 0
+[    0.362]   hold_aim = true
+[    0.362]   infinite_ammo = false
+[    0.362]   infinite_grenades = false
+[    0.362]   invert_mouse = false
+[    0.362]   join_ip = ''
+[    0.362]   language = 'int'
+[    0.362]   left_stick_deadzone = 0
+[    0.362]   left_stick_sensitivity = 1.0
+[    0.362]   mouse_sensitivity = 1.0
+[    0.362]   no_recoil = false
+[    0.362]   one_hit_kill = false
+[    0.362]   rapid_fire = 1
+[    0.362]   reload_blur = true
+[    0.362]   render_percent = 67
+[    0.362]   right_stick_deadzone = 0
+[    0.362]   right_stick_sensitivity = 1.0
+[    0.362]   screen_filter = 0
+[    0.362]   skip_intros = false
+[    0.362]   touch_sensitivity = 1.0
+[    0.362]   unlock_black_ops = false
+[    0.362]   unlock_levels = false
+[    0.362]   viewmodel_fov = 70
+[    0.362]   vsync = false
+[    0.362]   walk_speed = 50
+[    0.362]   width = 0
+[    0.362]   [keys]
+[    0.515] Game: image 1793179648 bytes, 574 files up to byte 1793179648
+[    0.553] Game: default.xbe in /storage/emulated/0/Android/data/org.bocoop.black.roomnet/files/assets/game.iso, sha1 c5bfed25449c8212d7a976f15246e87ead57713f
+[    0.645] GPU: Mali-G51, Vulkan 1.1.97, driver 04800000
+[    0.647] vulkan: no dynamic rendering, using render passes
+[    0.647] vulkan: Vulkan 1.1, using fences for timeline semaphores
+[  137.849] BO_STAGE_RESOURCE_OPEN_LEVEL_00_TYPE_0_NOT_SCENE
+[  140.467] BO_STAGE_RESOURCE_OPEN_LEVEL_00_TYPE_1_NOT_SCENE
+[  141.759] HOOK001: optional read-only capture started; local logs/coop_probe.jsonl
+[  221.119] BO_STAGE_RESOURCE_OPEN_LEVEL_00_TYPE_1_NOT_SCENE

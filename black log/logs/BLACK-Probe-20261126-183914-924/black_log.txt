@@ -1,0 +1,55 @@
+[    0.726] Black (default.xbe), 2026-11-26 18:38:58, build f3754d6
+[    0.726] Path: /storage/emulated/0/Android/data/org.bocoop.black.roomnet/files
+[    0.726] Device: Xiaomi 23013PC75G, Android 15 (API 35)
+[    0.726] CPU: SM8475 (8 threads)
+[    0.726] RAM: 10.9 GB
+[    0.726] Display: 2400x1080, 120 Hz
+[    0.726] Settings:
+[    0.726]   anisotropic_filtering = 0
+[    0.726]   audio_output = 0
+[    0.726]   defaults = 2
+[    0.726]   display_mode = 'borderless'
+[    0.726]   draw_distance = 1
+[    0.726]   fmv_scale = 0
+[    0.726]   fov = 70
+[    0.726]   fps_cap = 0
+[    0.726]   fps_counter = false
+[    0.726]   game_speed = 100
+[    0.726]   god_mode = false
+[    0.726]   height = 0
+[    0.726]   hold_aim = true
+[    0.726]   infinite_ammo = false
+[    0.726]   infinite_grenades = false
+[    0.726]   invert_mouse = false
+[    0.726]   join_ip = ''
+[    0.726]   language = 'int'
+[    0.726]   left_stick_deadzone = 0
+[    0.726]   left_stick_sensitivity = 1.0
+[    0.726]   mouse_sensitivity = 1.0
+[    0.726]   no_recoil = false
+[    0.726]   one_hit_kill = false
+[    0.726]   rapid_fire = 1
+[    0.726]   reload_blur = true
+[    0.726]   render_percent = 67
+[    0.726]   right_stick_deadzone = 0
+[    0.726]   right_stick_sensitivity = 1.0
+[    0.726]   screen_filter = 0
+[    0.726]   skip_intros = false
+[    0.726]   touch_sensitivity = 1.0
+[    0.726]   unlock_black_ops = false
+[    0.726]   unlock_levels = false
+[    0.726]   viewmodel_fov = 70
+[    0.726]   vsync = false
+[    0.726]   walk_speed = 50
+[    0.726]   width = 0
+[    0.726]   [keys]
+[    1.408] error: game: no game files in /storage/emulated/0/Black or /storage/emulated/0/Android/data/org.bocoop.black.roomnet/files/assets, waiting for them
+[   14.206] Game: image 1793179648 bytes, 574 files up to byte 1793179648
+[   14.223] Game: default.xbe in /storage/emulated/0/Android/data/org.bocoop.black.roomnet/files/assets/game.iso, sha1 c5bfed25449c8212d7a976f15246e87ead57713f
+[   14.344] GPU: Adreno (TM) 730, Vulkan 1.1.128, driver 8026705F
+[   14.345] vulkan: no dynamic rendering, using render passes
+[   14.345] vulkan: Vulkan 1.1, using fences for timeline semaphores
+[  174.340] BO_STAGE_RESOURCE_OPEN_LEVEL_00_TYPE_0_NOT_SCENE
+[  175.890] BO_STAGE_RESOURCE_OPEN_LEVEL_00_TYPE_1_NOT_SCENE
+[  176.745] HOOK001: optional read-only capture started; local logs/coop_probe.jsonl
+[  255.108] BO_STAGE_RESOURCE_OPEN_LEVEL_00_TYPE_1_NOT_SCENE

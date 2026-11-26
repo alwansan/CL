@@ -1,15 +1,14 @@
-1795195618979 SUBTITLE_POLICY=manifest-ready expected=2 completed=2 files=2 token=48s73p6q4b3mdcb7fbmx
-1795195619144 ffmpeg=native:/data/app/~~YGJxg8Nx2MtQxIjzNjZcaQ==/com.cinemana.pro-QX-n96bnPih3HKd3_1rQAA==/lib/arm64/libffmpeg.so
-1795195619162 subtitle_track_types=derived_from_real_input_languages (PATCH127)
-1795195619163 exec=[/data/app/~~YGJxg8Nx2MtQxIjzNjZcaQ==/com.cinemana.pro-QX-n96bnPih3HKd3_1rQAA==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E116 [cnm-48s73p6q4b3mdcb7fbmx].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E116 [cnm-48s73p6q4b3mdcb7fbmx].srt] [-i] [/storage/emulated/0/Cinemana/work/special subtitle for ناروتو S01 E116 [cnm-48s73p6q4b3mdcb7fbmx].ass] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-map] [2:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو S01 E116] [-metadata:s:s:0] [language=ar] [-metadata:s:s:1] [title=special subtitle for ناروتو S01 E116] [-metadata:s:s:1] [language=sp] [-metadata] [title=ناروتو S01 E116] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو S01 E116 [cnm-48s73p6q4b3mdcb7fbmx].mkv.cnm115-85752bb3-0978-4a4c-974d-3d8eab35e99f.part]
-1795195619190 FFMPEG_PROCESS_STARTED
-1795195623739 exit=0 output=
-1795195623750 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو S01 E116 [cnm-48s73p6q4b3mdcb7fbmx].mkv size=283978749
-1795195623926 SUBTITLE_POLICY=manifest-ready expected=2 completed=2 files=2 token=48s73p6q4b3mdcb7fbmx
-1795195624537 DB_PROMOTE=true
-1795195624579 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E116.mkv work=ناروتو season=01 episode=116 noSub=false
-1795195624782 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E116.mkv
-1795195625011 delete video=ناروتو S01 E116 [cnm-48s73p6q4b3mdcb7fbmx].mp4 result=true
-1795195625020 delete subtitle=arabic subtitle for ناروتو S01 E116 [cnm-48s73p6q4b3mdcb7fbmx].srt result=true
-1795195625026 delete subtitle=special subtitle for ناروتو S01 E116 [cnm-48s73p6q4b3mdcb7fbmx].ass result=true
-1795195625052 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E116.mkv
+1795491566275 SUBTITLE_POLICY=manifest-ready expected=2 completed=2 files=2 token=48s73p6q4b3mdcb7fbmx
+1795491566306 ffmpeg=native:/data/app/~~YGJxg8Nx2MtQxIjzNjZcaQ==/com.cinemana.pro-QX-n96bnPih3HKd3_1rQAA==/lib/arm64/libffmpeg.so
+1795491566313 subtitle_track_types=derived_from_real_input_languages (PATCH127)
+1795491566313 exec=[/data/app/~~YGJxg8Nx2MtQxIjzNjZcaQ==/com.cinemana.pro-QX-n96bnPih3HKd3_1rQAA==/lib/arm64/libffmpeg.so] [-nostdin] [-hide_banner] [-loglevel] [error] [-y] [-i] [/storage/emulated/0/Cinemana/work/ناروتو S01 E116 [cnm-48s73p6q4b3mdcb7fbmx].mp4] [-i] [/storage/emulated/0/Cinemana/work/arabic subtitle for ناروتو S01 E116 [cnm-48s73p6q4b3mdcb7fbmx].srt] [-i] [/storage/emulated/0/Cinemana/work/special subtitle for ناروتو S01 E116 [cnm-48s73p6q4b3mdcb7fbmx].ass] [-map] [0:v:0] [-map] [0:a?] [-map] [1:0] [-map] [2:0] [-c:v] [copy] [-c:a] [copy] [-c:s] [copy] [-metadata:s:s:0] [title=arabic subtitle for ناروتو S01 E116] [-metadata:s:s:0] [language=ar] [-metadata:s:s:1] [title=special subtitle for ناروتو S01 E116] [-metadata:s:s:1] [language=sp] [-metadata] [title=ناروتو S01 E116] [-map_chapters] [0] [-f] [matroska] [/storage/emulated/0/Cinemana/work/ناروتو S01 E116 [cnm-48s73p6q4b3mdcb7fbmx].mkv.cnm115-2b38f3e8-a3bb-430b-b0c2-6a16afb33505.part]
+1795491566318 FFMPEG_PROCESS_STARTED
+1795491567255 exit=0 output=
+1795491567258 SUCCESS=/storage/emulated/0/Cinemana/work/ناروتو S01 E116 [cnm-48s73p6q4b3mdcb7fbmx].mkv size=283978749
+1795491567556 DB_PROMOTE=true
+1795491567564 SORTED_MKV=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E116.mkv work=ناروتو season=01 episode=116 noSub=false
+1795491567588 SORT_DB_PROMOTE=true path=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E116.mkv
+1795491567683 delete video=ناروتو S01 E116 [cnm-48s73p6q4b3mdcb7fbmx].mp4 result=true
+1795491567695 delete subtitle=arabic subtitle for ناروتو S01 E116 [cnm-48s73p6q4b3mdcb7fbmx].srt result=true
+1795491567697 delete subtitle=special subtitle for ناروتو S01 E116 [cnm-48s73p6q4b3mdcb7fbmx].ass result=true
+1795491567701 MKV_PROMOTED_AS_PRIMARY=/storage/emulated/0/Cinemana/ناروتو/Season 1 ناروتو/ناروتو S01 E116.mkv

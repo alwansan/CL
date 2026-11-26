@@ -1,0 +1,51 @@
+[    0.343] Black (default.xbe), 2026-11-23 06:18:56, build f3754d6
+[    0.343] Path: /storage/emulated/0/Android/data/org.bocoop.black.roomnet/files
+[    0.343] Device: HUAWEI JSN-L22, Android 10 (API 29)
+[    0.343] CPU:  (8 threads)
+[    0.343] RAM: 3.6 GB
+[    0.343] Display: 2340x1080, 60 Hz
+[    0.343] Settings:
+[    0.343]   anisotropic_filtering = 0
+[    0.343]   audio_output = 0
+[    0.343]   defaults = 2
+[    0.343]   display_mode = 'borderless'
+[    0.343]   draw_distance = 1
+[    0.343]   fmv_scale = 0
+[    0.343]   fov = 70
+[    0.343]   fps_cap = 0
+[    0.343]   fps_counter = false
+[    0.343]   game_speed = 100
+[    0.343]   god_mode = false
+[    0.343]   height = 0
+[    0.343]   hold_aim = true
+[    0.344]   infinite_ammo = false
+[    0.344]   infinite_grenades = false
+[    0.344]   invert_mouse = false
+[    0.344]   join_ip = ''
+[    0.344]   language = 'int'
+[    0.344]   left_stick_deadzone = 0
+[    0.344]   left_stick_sensitivity = 1.0
+[    0.344]   mouse_sensitivity = 1.0
+[    0.344]   no_recoil = false
+[    0.344]   one_hit_kill = false
+[    0.344]   rapid_fire = 1
+[    0.344]   reload_blur = true
+[    0.344]   render_percent = 67
+[    0.344]   right_stick_deadzone = 0
+[    0.344]   right_stick_sensitivity = 1.0
+[    0.344]   screen_filter = 0
+[    0.344]   skip_intros = false
+[    0.344]   touch_sensitivity = 1.0
+[    0.344]   unlock_black_ops = false
+[    0.344]   unlock_levels = false
+[    0.344]   viewmodel_fov = 70
+[    0.344]   vsync = false
+[    0.344]   walk_speed = 50
+[    0.344]   width = 0
+[    0.344]   [keys]
+[    0.491] Game: image 1793179648 bytes, 574 files up to byte 1793179648
+[    0.530] Game: default.xbe in /storage/emulated/0/Android/data/org.bocoop.black.roomnet/files/assets/game.iso, sha1 c5bfed25449c8212d7a976f15246e87ead57713f
+[    0.611] GPU: Mali-G51, Vulkan 1.1.97, driver 04800000
+[    0.613] vulkan: no dynamic rendering, using render passes
+[    0.613] vulkan: Vulkan 1.1, using fences for timeline semaphores
+[  122.646] HOOK001: optional read-only capture started; local logs/coop_probe.jsonl
