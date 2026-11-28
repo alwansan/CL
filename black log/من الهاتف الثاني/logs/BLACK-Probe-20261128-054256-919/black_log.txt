@@ -1,0 +1,54 @@
+[    0.381] Black (default.xbe), 2026-11-28 05:42:54, build f3754d6
+[    0.382] Path: /storage/emulated/0/Android/data/org.bocoop.black.roomnet/files
+[    0.382] Device: HUAWEI JSN-L22, Android 10 (API 29)
+[    0.382] CPU:  (8 threads)
+[    0.382] RAM: 3.6 GB
+[    0.382] Display: 2340x1080, 60 Hz
+[    0.382] Settings:
+[    0.382]   anisotropic_filtering = 0
+[    0.382]   audio_output = 0
+[    0.383]   defaults = 2
+[    0.383]   display_mode = 'borderless'
+[    0.383]   draw_distance = 1
+[    0.383]   fmv_scale = 0
+[    0.383]   fov = 70
+[    0.383]   fps_cap = 0
+[    0.383]   fps_counter = false
+[    0.383]   game_speed = 100
+[    0.383]   god_mode = false
+[    0.383]   height = 0
+[    0.383]   hold_aim = true
+[    0.383]   infinite_ammo = false
+[    0.383]   infinite_grenades = false
+[    0.383]   invert_mouse = false
+[    0.383]   join_ip = ''
+[    0.383]   language = 'int'
+[    0.383]   left_stick_deadzone = 0
+[    0.383]   left_stick_sensitivity = 1.0
+[    0.383]   mouse_sensitivity = 1.0
+[    0.383]   no_recoil = false
+[    0.383]   one_hit_kill = false
+[    0.383]   rapid_fire = 1
+[    0.383]   reload_blur = true
+[    0.383]   render_percent = 67
+[    0.383]   right_stick_deadzone = 0
+[    0.383]   right_stick_sensitivity = 1.0
+[    0.383]   screen_filter = 0
+[    0.383]   skip_intros = false
+[    0.383]   touch_sensitivity = 1.0
+[    0.383]   unlock_black_ops = false
+[    0.383]   unlock_levels = false
+[    0.383]   viewmodel_fov = 70
+[    0.383]   vsync = false
+[    0.383]   walk_speed = 50
+[    0.383]   width = 0
+[    0.383]   [keys]
+[    0.534] Game: image 1793179648 bytes, 574 files up to byte 1793179648
+[    0.574] Game: default.xbe in /storage/emulated/0/Android/data/org.bocoop.black.roomnet/files/assets/game.iso, sha1 c5bfed25449c8212d7a976f15246e87ead57713f
+[    0.675] GPU: Mali-G51, Vulkan 1.1.97, driver 04800000
+[    0.677] vulkan: no dynamic rendering, using render passes
+[    0.678] vulkan: Vulkan 1.1, using fences for timeline semaphores
+[   64.287] BO_STAGE_RESOURCE_OPEN_LEVEL_00_TYPE_0_NOT_SCENE
+[   66.804] BO_STAGE_RESOURCE_OPEN_LEVEL_00_TYPE_1_NOT_SCENE
+[   68.028] HOOK001: optional read-only capture started; local logs/coop_probe.jsonl
+[  288.703] error: vulkan: swap chain 2255x1080 failed (-1000000001)
